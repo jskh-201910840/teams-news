@@ -67,6 +67,11 @@ class HuggingFaceCollector(BaseCollector):
                 if is_valid_https_image_url(candidate):
                     image_url = candidate
 
+            upvotes = int(paper.get("upvotes") or 0)
+            comments = int(entry.get("numComments") or 0)
+            github_stars = int(paper.get("githubStars") or 0)
+            popularity = upvotes * 2 + comments * 5 + github_stars
+
             items.append(
                 NewsItem(
                     title=title,
@@ -74,6 +79,8 @@ class HuggingFaceCollector(BaseCollector):
                     url=url,
                     source=self.source_name,
                     published_at=published_at,
+                    popularity=popularity,
+                    upvotes=upvotes,
                     image_url=image_url,
                 )
             )

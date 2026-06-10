@@ -25,7 +25,10 @@ class NewsItem:
     url: str
     source: str
     published_at: datetime
-    score: int = 0
+    score: float = 0.0
+    popularity: int = 0
+    upvotes: int = 0
+    importance_score: float = 0.0
     matched_keywords: list[str] = field(default_factory=list)
     image_url: str | None = None
     title_ko: str | None = None

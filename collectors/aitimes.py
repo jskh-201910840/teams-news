@@ -31,7 +31,7 @@ class AITimesCollector(BaseCollector):
         items: list[NewsItem] = []
         cutoff = now_kst() - timedelta(hours=24)
 
-        for entry in feed.entries:
+        for index, entry in enumerate(feed.entries):
             published_at = parse_datetime(
                 getattr(entry, "published", None) or getattr(entry, "updated", None)
             )
@@ -58,6 +58,9 @@ class AITimesCollector(BaseCollector):
             )
             summary = summarize_text(raw_summary) or title
 
+            # RSS order reflects homepage prominence; earlier entries rank higher.
+            feed_rank = max(0, 100 - index)
+
             items.append(
                 NewsItem(
                     title=title,
@@ -65,6 +68,7 @@ class AITimesCollector(BaseCollector):
                     url=link,
                     source=self.source_name,
                     published_at=published_at,
+                    popularity=feed_rank,
                     image_url=extract_image_from_feed_entry(entry),
                 )
             )

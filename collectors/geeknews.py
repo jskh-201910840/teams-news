@@ -1,5 +1,9 @@
 from __future__ import annotations
 
+import logging
+import os
+import re
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import timedelta
 
 import feedparser
@@ -10,10 +14,68 @@ from utils.filters import summarize_text
 from utils.media import extract_image_from_feed_entry
 from utils.timezone import KST, now_kst
 
+logger = logging.getLogger(__name__)
+
+ENABLE_GEEKNEWS_ENGAGEMENT = os.getenv(
+    "ENABLE_GEEKNEWS_ENGAGEMENT", "true"
+).lower() in {"1", "true", "yes"}
+
 GEEKNEWS_RSS_URLS = (
     "https://news.hada.io/rss/news",
     "https://news.hada.io/rss",
 )
+
+
+def _topic_id_from_url(url: str) -> str | None:
+    match = re.search(r"[?&]id=(\d+)", url)
+    return match.group(1) if match else None
+
+
+def _fetch_topic_engagement(topic_id: str) -> tuple[int, int]:
+    """Return GeekNews topic points and comment count."""
+    try:
+        response = requests.get(
+            f"https://news.hada.io/topic?id={topic_id}",
+            headers=DEFAULT_HEADERS,
+            timeout=10,
+        )
+        response.raise_for_status()
+        text = response.text
+        points_match = re.search(rf"<span id='tp{topic_id}'>(\d+)</span>P", text)
+        comments_match = re.search(r'"commentCount":\s*(\d+)', text)
+        points = int(points_match.group(1)) if points_match else 0
+        comments = int(comments_match.group(1)) if comments_match else 0
+        return points, comments
+    except Exception:
+        logger.debug("GeekNews engagement fetch failed for topic %s", topic_id)
+        return 0, 0
+
+
+def _attach_geeknews_engagement(items: list[NewsItem]) -> None:
+    if not ENABLE_GEEKNEWS_ENGAGEMENT or not items:
+        return
+
+    topic_ids = [_topic_id_from_url(item.url) for item in items]
+    engagement: dict[str, tuple[int, int]] = {}
+
+    with ThreadPoolExecutor(max_workers=5) as executor:
+        futures = {
+            executor.submit(_fetch_topic_engagement, topic_id): topic_id
+            for topic_id in topic_ids
+            if topic_id
+        }
+        for future in as_completed(futures):
+            topic_id = futures[future]
+            try:
+                engagement[topic_id] = future.result()
+            except Exception:
+                engagement[topic_id] = (0, 0)
+
+    for item, topic_id in zip(items, topic_ids):
+        if not topic_id:
+            continue
+        points, comments = engagement.get(topic_id, (0, 0))
+        item.popularity = points * 5 + comments * 3
 
 
 class GeekNewsCollector(BaseCollector):
@@ -84,4 +146,5 @@ class GeekNewsCollector(BaseCollector):
                 )
             )
 
+        _attach_geeknews_engagement(items)
         return items

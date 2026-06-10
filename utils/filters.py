@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+import logging
+import math
 import os
 import re
 from html import unescape
@@ -7,6 +9,9 @@ from html import unescape
 from bs4 import BeautifulSoup
 
 from collectors.base import NewsItem
+from utils.timezone import now_kst
+
+logger = logging.getLogger(__name__)
 
 KEYWORDS: tuple[str, ...] = (
     "ai",
@@ -59,6 +64,10 @@ MIN_ITEMS = int(os.getenv("MIN_ITEMS", "5"))
 MAX_ITEMS = int(os.getenv("MAX_ITEMS", "7"))
 MIN_PER_SOURCE = int(os.getenv("MIN_PER_SOURCE", "1"))
 MAX_PER_SOURCE = int(os.getenv("MAX_PER_SOURCE", "3"))
+IMPORTANCE_WEIGHT = float(os.getenv("IMPORTANCE_WEIGHT", "1.0"))
+RECENCY_WEIGHT = float(os.getenv("RECENCY_WEIGHT", "0.5"))
+RECENCY_WINDOW_HOURS = float(os.getenv("RECENCY_WINDOW_HOURS", "24"))
+MIN_UPVOTES = int(os.getenv("MIN_UPVOTES", "0"))
 
 
 def strip_html(text: str) -> str:
@@ -112,19 +121,57 @@ def _keyword_hits(text: str) -> list[str]:
     return hits
 
 
+def _keyword_score(item: NewsItem, hits: list[str]) -> float:
+    if item.source == HF_SOURCE:
+        return 4.0 + len(hits) * 2.0
+
+    score = len(hits) * 3.0
+    if hits:
+        score += 2.0
+    return score
+
+
+def _popularity_score(item: NewsItem) -> float:
+    popularity = max(item.popularity, 0)
+    if popularity == 0:
+        return 0.0
+
+    if item.source == HF_SOURCE:
+        return min(math.log1p(popularity), 6.0) * 3.0
+    if item.source == GEEKNEWS_SOURCE:
+        return min(math.log1p(popularity), 5.0) * 4.0
+    if item.source == AITIMES_SOURCE:
+        return popularity / 10.0
+    return min(math.log1p(popularity), 5.0)
+
+
+def _recency_score(item: NewsItem, now) -> float:
+    age_hours = (now - item.published_at).total_seconds() / 3600.0
+    if age_hours < 0:
+        age_hours = 0.0
+    if age_hours >= RECENCY_WINDOW_HOURS:
+        return 0.0
+    return (RECENCY_WINDOW_HOURS - age_hours) / RECENCY_WINDOW_HOURS * 10.0
+
+
 def score_item(item: NewsItem) -> NewsItem:
     searchable = f"{item.title} {item.summary}"
     hits = _keyword_hits(searchable)
 
     if item.source == HF_SOURCE:
         item.matched_keywords = hits or ["AI research"]
-        item.score = 4 + len(hits) * 2
-        return item
+    else:
+        item.matched_keywords = hits
 
-    item.matched_keywords = hits
-    item.score = len(hits) * 3
-    if hits:
-        item.score += 2
+    keyword = _keyword_score(item, hits)
+    popularity = _popularity_score(item)
+    recency = _recency_score(item, now_kst())
+
+    if item.source == HF_SOURCE and MIN_UPVOTES > 0 and item.upvotes < MIN_UPVOTES:
+        popularity *= 0.5
+
+    item.importance_score = popularity + recency
+    item.score = keyword + IMPORTANCE_WEIGHT * popularity + RECENCY_WEIGHT * recency
     return item
 
 
@@ -195,8 +242,19 @@ def _select_balanced(ranked: list[NewsItem], max_items: int) -> list[NewsItem]:
             break
         try_add(item)
 
-    selected.sort(key=lambda item: (item.score, item.published_at), reverse=True)
+    selected.sort(
+        key=lambda item: (item.score, item.importance_score, item.published_at),
+        reverse=True,
+    )
     return selected[:max_items]
+
+
+def format_item_score(item: NewsItem) -> str:
+    return (
+        f"score={item.score:.1f} "
+        f"(kw={_keyword_score(item, item.matched_keywords):.1f}, "
+        f"pop={item.popularity}, imp={item.importance_score:.1f})"
+    )
 
 
 def select_top_items(items: list[NewsItem]) -> list[NewsItem]:
@@ -206,13 +264,29 @@ def select_top_items(items: list[NewsItem]) -> list[NewsItem]:
 
     ranked = sorted(
         filtered,
-        key=lambda item: (item.score, item.published_at),
+        key=lambda item: (item.score, item.importance_score, item.published_at),
         reverse=True,
     )
 
     if ranked:
+        for index, item in enumerate(ranked[:10], start=1):
+            logger.debug(
+                "Rank %d [%s] %s — %s",
+                index,
+                item.source,
+                item.title[:60],
+                format_item_score(item),
+            )
+
         balanced = _select_balanced(ranked, MAX_ITEMS)
         if len(balanced) >= MIN_ITEMS:
+            for item in balanced:
+                logger.info(
+                    "Selected [%s] %s — %s",
+                    item.source,
+                    item.title[:80],
+                    format_item_score(item),
+                )
             return balanced
 
     fallback = deduplicate_items(scored)

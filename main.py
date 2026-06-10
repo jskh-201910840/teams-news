@@ -93,9 +93,17 @@ def main() -> int:
 
     enriched = enrich_item_images(selected)
     localized = localize_items(enriched)
+    from utils.filters import format_item_score
+
     for item in localized:
         image_hint = " [img]" if item.image_url else ""
-        logger.info("  [%s]%s %s", item.source, image_hint, item.title[:80])
+        logger.info(
+            "  [%s]%s %s — %s",
+            item.source,
+            image_hint,
+            item.title[:80],
+            format_item_score(item),
+        )
 
     payload = build_teams_payload(localized)
 

@@ -37,7 +37,17 @@ teams_news/
 
 - **시간**: 최근 24시간 이내 게시물 (HF Papers는 Daily API 특성상 48시간 완화)
 - **키워드**: AI, LLM, Agent, RAG, Deep Learning, Transformer, 오픈소스 등
-- **선별**: 키워드 점수 + **소스별 최소 1건** 보장 후 상위 **5~7건** (기본 7건, 소스당 최대 3건)
+- **선별**: 키워드 점수 + **인기도/중요도** + **최신성** 가중 합산 후, **소스별 최소 1건** 보장하여 상위 **5~7건** (기본 7건, 소스당 최대 3건)
+
+### 인기도 신호 (소스별)
+
+| 소스 | 신호 | 비고 |
+|------|------|------|
+| GeekNews | 토픽 **추천(P)** + **댓글 수** | RSS에 없어 토픽 페이지에서 수집 (`ENABLE_GEEKNEWS_ENGAGEMENT`) |
+| AI Times | RSS **노출 순서** | 앞쪽 기사일수록 높은 점수 (조회수 필드 없음) |
+| Hugging Face | **upvotes**, **댓글**, **GitHub stars** | Daily Papers API 필드 활용 |
+
+최종 점수 = 키워드 관련도 + `IMPORTANCE_WEIGHT` × 인기도 + `RECENCY_WEIGHT` × 최신성(24h 이내). 소스 균형 선별 시 각 소스에서 **가장 높은 점수** 항목을 우선 선택합니다.
 
 ## 스케줄 (GitHub Actions)
 
@@ -96,6 +106,11 @@ on:
 | `MIN_ITEMS` | | `5` | 키워드 필터 후 목표 최소 기사 수 |
 | `MIN_PER_SOURCE` | | `1` | 소스별 최소 포함 건수 (GeekNews·AI Times·HF 각각) |
 | `MAX_PER_SOURCE` | | `3` | 소스별 최대 포함 건수 (HF 독점 방지) |
+| `IMPORTANCE_WEIGHT` | | `1.0` | 인기도/참여 지표 가중치 |
+| `RECENCY_WEIGHT` | | `0.5` | 24시간 이내 최신성 가중치 |
+| `RECENCY_WINDOW_HOURS` | | `24` | 최신성 부스트 적용 시간 창 |
+| `MIN_UPVOTES` | | `0` | HF 논문 upvote 하한 (미만 시 인기도 50% 감소) |
+| `ENABLE_GEEKNEWS_ENGAGEMENT` | | `true` | GeekNews 토픽 페이지에서 P/댓글 수집 |
 | `TRANSLATE_TO_KO` | | `true` | 영문 제목·요약을 한국어로 번역 |
 | `KOREAN_SUMMARY_MAX_CHARS` | | `180` | 한국어 요약 최대 글자 수 (2~3문장) |
 | `ENABLE_IMAGE_FETCH` | | `true` | 기사 URL에서 og:image 스크래핑 |
