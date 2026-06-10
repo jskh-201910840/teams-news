@@ -1,3 +1,4 @@
+# AI/tech news digest — posts to Teams via TEAMS_WEBHOOK_URL secret
 name: Daily AI Tech News Bot
 
 on:
