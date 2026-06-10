@@ -1,11 +1,10 @@
-# Python
+﻿# Python
 __pycache__/
 *.py[cod]
 *.egg-info/
 .venv/
 venv/
 .env
-.env.local
 !.env.example
 
 # IDE / OS
@@ -16,3 +15,5 @@ Thumbs.db
 
 # Local probes
 _probe_*.py
+_fix_*.py
+_w.py
