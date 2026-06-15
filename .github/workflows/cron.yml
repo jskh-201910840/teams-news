@@ -3,8 +3,10 @@ name: Daily AI Tech News Bot
 
 on:
   schedule:
-    # 9:00 KST = 00:00 UTC (daily morning digest)
-    - cron: "0 0 * * *"
+    # Target delivery ~10:00 KST. GitHub schedule often runs ~4–5h late vs cron,
+    # so we trigger at 20:17 UTC (= next day ~10:00 KST with observed delay).
+    - cron: "17 20 * * *"
+    # Naive 10:00 KST would be "0 1 * * *" UTC but often arrives ~14:45 KST instead.
     # Optional evening digest — uncomment for 18:00 KST (= 09:00 UTC):
     # - cron: "0 9 * * *"
   workflow_dispatch:

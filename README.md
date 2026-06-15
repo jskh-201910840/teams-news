@@ -11,7 +11,7 @@ teams_news/
 ├── card_builder.py              # Adaptive Card JSON 생성
 ├── requirements.txt
 ├── .env.example
-├── .github/workflows/cron.yml   # GitHub Actions 스케줄 (매일 9:00 KST)
+├── .github/workflows/cron.yml   # GitHub Actions 스케줄 (매일 ~10:00 KST)
 ├── collectors/
 │   ├── base.py                  # NewsItem, BaseCollector
 │   ├── geeknews.py              # GeekNews RSS
@@ -58,9 +58,12 @@ teams_news/
 
 | 항목 | 값 |
 |------|-----|
-| 기본 실행 시각 | **매일 9:00 KST** (UTC `0 0 * * *`) |
+| 기본 도착 시각 | **매일 ~10:00 KST** (UTC `17 20 * * *`, GitHub 지연 보정) |
 | 워크플로 파일 | `.github/workflows/cron.yml` |
 | 수동 실행 | Actions 탭 → **Daily AI Tech News Bot** → **Run workflow** |
+
+> **GitHub Actions 지연**: cron은 UTC 기준이며, 실제 실행은 **수 시간 늦게** 시작되는 경우가 많습니다.  
+> 예) `0 0 * * *`(9:00 KST 의도) → 실제 실행 ~13:30–14:00 KST. 현재 cron은 이 지연을 감안해 **10시경 도착**하도록 조정되어 있습니다.
 
 ### 스케줄 커스터마이즈
 
@@ -69,15 +72,15 @@ teams_news/
 ```yaml
 on:
   schedule:
-    # 9:00 KST = 00:00 UTC
-    - cron: "0 0 * * *"
+    # ~10:00 KST 도착 목표 (GitHub 지연 보정)
+    - cron: "17 20 * * *"
     # 18:00 KST = 09:00 UTC — 저녁 digest 추가 시 주석 해제
     # - cron: "0 9 * * *"
 ```
 
 **KST → UTC 변환**: KST = UTC + 9시간. 예) 18:00 KST → 09:00 UTC → `0 9 * * *`
 
-> **참고**: GitHub Actions 스케줄은 몇 분 지연될 수 있습니다. 정확한 시각이 중요하면 자체 서버 cron + `python main.py`를 사용하세요.
+> **참고**: GitHub Actions 스케줄은 **수 분~수 시간** 지연될 수 있습니다. 정확한 시각이 중요하면 Actions → **Run workflow**를 외부 cron(cron-job.org 등)으로 호출하거나, 자체 서버 cron + `python main.py`를 사용하세요.
 
 ## Microsoft Teams 웹훅 설정
 
