@@ -3,6 +3,7 @@ from __future__ import annotations
 from datetime import datetime
 
 from collectors.base import NewsItem
+from utils.sections import SOURCE_SECTIONS
 from utils.timezone import KST
 
 SOURCE_COLORS: dict[str, str] = {
@@ -26,16 +27,6 @@ SOURCE_ICONS: dict[str, str] = {
     "NAVER D2": "📰",
     "ZDNet Korea": "📰",
 }
-
-SOURCE_SECTIONS: tuple[tuple[str, tuple[str, ...]], ...] = (
-    ("📄 Papers", ("Hugging Face Papers",)),
-    (
-        "📰 News",
-        ("GeekNews", "AI Times", "전자신문 IT", "NAVER D2", "ZDNet Korea"),
-    ),
-    ("🔥 Trending", ("GitHub Trending",)),
-    ("💬 Community", ("PyTorch Korea",)),
-)
 
 
 def _display_title(item: NewsItem) -> str:

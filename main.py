@@ -25,7 +25,7 @@ from collectors import (
     ZDNetKoreaCollector,
 )
 from collectors.base import BaseCollector
-from utils.filters import select_top_items
+from utils.filters import format_section_distribution, select_top_items
 from utils.translate import localize_items
 
 load_dotenv(Path(__file__).resolve().parent / ".env", encoding="utf-8-sig")
@@ -99,6 +99,8 @@ def main() -> int:
 
     selected = select_top_items(raw_items)
     logger.info("Selected %d items for delivery", len(selected))
+    if selected:
+        logger.info("Section breakdown: %s", format_section_distribution(selected))
 
     if not selected:
         logger.warning("No items passed filtering.")

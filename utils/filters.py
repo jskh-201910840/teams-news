@@ -9,6 +9,7 @@ from html import unescape
 from bs4 import BeautifulSoup
 
 from collectors.base import NewsItem
+from utils.sections import SOURCE_SECTIONS
 from utils.timezone import now_kst
 
 logger = logging.getLogger(__name__)
@@ -78,6 +79,7 @@ MIN_ITEMS = int(os.getenv("MIN_ITEMS", "5"))
 MAX_ITEMS = int(os.getenv("MAX_ITEMS", "7"))
 MIN_PER_SOURCE = int(os.getenv("MIN_PER_SOURCE", "1"))
 MAX_PER_SOURCE = int(os.getenv("MAX_PER_SOURCE", "3"))
+MAX_PER_SECTION = int(os.getenv("MAX_PER_SECTION", "0"))
 IMPORTANCE_WEIGHT = float(os.getenv("IMPORTANCE_WEIGHT", "1.0"))
 RECENCY_WEIGHT = float(os.getenv("RECENCY_WEIGHT", "0.5"))
 RECENCY_WINDOW_HOURS = float(os.getenv("RECENCY_WINDOW_HOURS", "24"))
@@ -220,47 +222,128 @@ def deduplicate_items(items: list[NewsItem]) -> list[NewsItem]:
     return unique
 
 
-def _group_by_source(ranked: list[NewsItem]) -> dict[str, list[NewsItem]]:
-    grouped: dict[str, list[NewsItem]] = {source: [] for source in ALL_SOURCES}
+def _source_to_section() -> dict[str, str]:
+    mapping: dict[str, str] = {}
+    for section_title, sources in SOURCE_SECTIONS:
+        for source in sources:
+            mapping[source] = section_title
+    return mapping
+
+
+def _section_labels() -> list[str]:
+    return [title for title, _ in SOURCE_SECTIONS]
+
+
+def _parse_section_targets(max_items: int) -> dict[str, int]:
+    section_titles = _section_labels()
+    raw = os.getenv("SECTION_TARGETS", "").strip()
+    if raw:
+        parts = [int(part.strip()) for part in raw.split(",")]
+        if len(parts) != len(section_titles):
+            raise ValueError(
+                f"SECTION_TARGETS must have {len(section_titles)} values "
+                f"for {section_titles}, got {len(parts)}"
+            )
+        total = sum(parts)
+        if total != max_items:
+            logger.warning(
+                "SECTION_TARGETS sum (%d) != MAX_ITEMS (%d); using targets as-is",
+                total,
+                max_items,
+            )
+        return dict(zip(section_titles, parts))
+
+    base, remainder = divmod(max_items, len(section_titles))
+    return {
+        title: base + (1 if index < remainder else 0)
+        for index, title in enumerate(section_titles)
+    }
+
+
+def _group_by_section(ranked: list[NewsItem]) -> dict[str, list[NewsItem]]:
+    source_to_section = _source_to_section()
+    grouped: dict[str, list[NewsItem]] = {title: [] for title, _ in SOURCE_SECTIONS}
     for item in ranked:
-        grouped.setdefault(item.source, []).append(item)
+        section = source_to_section.get(item.source)
+        if section:
+            grouped[section].append(item)
     return grouped
 
 
-def _select_balanced(ranked: list[NewsItem], max_items: int) -> list[NewsItem]:
-    """Ensure each source contributes when available, then fill by score."""
-    by_source = _group_by_source(ranked)
+def section_distribution(items: list[NewsItem]) -> dict[str, int]:
+    source_to_section = _source_to_section()
+    counts: dict[str, int] = {title: 0 for title, _ in SOURCE_SECTIONS}
+    for item in items:
+        section = source_to_section.get(item.source)
+        if section:
+            counts[section] += 1
+    return counts
+
+
+def format_section_distribution(items: list[NewsItem]) -> str:
+    counts = section_distribution(items)
+    parts = [f"{title} {counts[title]}" for title in counts]
+    return ", ".join(parts)
+
+
+def _select_section_balanced(ranked: list[NewsItem], max_items: int) -> list[NewsItem]:
+    """Pick roughly equal items per card section, then fill leftover slots by score."""
+    source_to_section = _source_to_section()
+    section_targets = _parse_section_targets(max_items)
+    max_per_section = MAX_PER_SECTION or max(section_targets.values())
+
+    by_section = _group_by_section(ranked)
     selected: list[NewsItem] = []
     seen_urls: set[str] = set()
     source_counts: dict[str, int] = {source: 0 for source in ALL_SOURCES}
+    section_counts: dict[str, int] = {title: 0 for title, _ in SOURCE_SECTIONS}
 
-    def try_add(item: NewsItem) -> bool:
+    def can_add(item: NewsItem, *, enforce_section_target: bool) -> bool:
         if item.url in seen_urls:
             return False
         if source_counts.get(item.source, 0) >= MAX_PER_SOURCE:
             return False
+        section = source_to_section.get(item.source)
+        if not section:
+            return False
+        if section_counts.get(section, 0) >= max_per_section:
+            return False
+        if (
+            enforce_section_target
+            and section_counts.get(section, 0) >= section_targets.get(section, 0)
+        ):
+            return False
+        return True
+
+    def try_add(item: NewsItem, *, enforce_section_target: bool) -> bool:
+        if not can_add(item, enforce_section_target=enforce_section_target):
+            return False
         seen_urls.add(item.url)
         selected.append(item)
         source_counts[item.source] = source_counts.get(item.source, 0) + 1
+        section = source_to_section[item.source]
+        section_counts[section] = section_counts.get(section, 0) + 1
         return True
 
-    # Phase 1: at least MIN_PER_SOURCE from each source (when available).
-    for _ in range(MIN_PER_SOURCE):
-        if len(selected) >= max_items:
-            break
-        for source in ALL_SOURCES:
-            if len(selected) >= max_items:
+    # Phase 1: fill each section toward its target with highest-scored items.
+    for section_title, _ in SOURCE_SECTIONS:
+        target = section_targets[section_title]
+        for item in by_section[section_title]:
+            if section_counts[section_title] >= target:
                 break
-            pool = by_source.get(source, [])
-            index = source_counts.get(source, 0)
-            if index < len(pool):
-                try_add(pool[index])
+            try_add(item, enforce_section_target=True)
 
-    # Phase 2: fill remaining slots by global rank, respecting per-source cap.
+    # Phase 2: redistribute unfilled slots to sections still below target.
     for item in ranked:
         if len(selected) >= max_items:
             break
-        try_add(item)
+        try_add(item, enforce_section_target=True)
+
+    # Phase 3: if some sections had no content, fill remaining slots by score.
+    for item in ranked:
+        if len(selected) >= max_items:
+            break
+        try_add(item, enforce_section_target=False)
 
     selected.sort(
         key=lambda item: (item.score, item.importance_score, item.published_at),
@@ -298,8 +381,12 @@ def select_top_items(items: list[NewsItem]) -> list[NewsItem]:
                 format_item_score(item),
             )
 
-        balanced = _select_balanced(ranked, MAX_ITEMS)
+        balanced = _select_section_balanced(ranked, MAX_ITEMS)
         if len(balanced) >= MIN_ITEMS:
+            logger.info(
+                "Section distribution: %s",
+                format_section_distribution(balanced),
+            )
             for item in balanced:
                 logger.info(
                     "Selected [%s] %s — %s",
