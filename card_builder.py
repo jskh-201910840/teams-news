@@ -119,7 +119,8 @@ def _build_paired_rows(indexed_items: list[tuple[int, NewsItem]]) -> list[dict]:
             rows.append(
                 {
                     "type": "ColumnSet",
-                    "spacing": "Medium",
+                    "spacing": "Small",
+                    "bleed": True,
                     "columns": [
                         _build_item_column(idx1, item1),
                         _build_item_column(idx2, item2),
@@ -131,7 +132,8 @@ def _build_paired_rows(indexed_items: list[tuple[int, NewsItem]]) -> list[dict]:
             rows.append(
                 {
                     "type": "ColumnSet",
-                    "spacing": "Medium",
+                    "spacing": "Small",
+                    "bleed": True,
                     "columns": [_build_item_column(idx1, item1)],
                 }
             )
@@ -168,51 +170,43 @@ def _group_by_section(items: list[NewsItem]) -> list[tuple[str, list[NewsItem]]]
 def build_adaptive_card(items: list[NewsItem]) -> dict:
     today = datetime.now(tz=KST).strftime("%Y-%m-%d")
     global_index = 0
-    body: list[dict] = [
-        {
-            "type": "Container",
-            "style": "emphasis",
-            "bleed": True,
-            "items": [
-                {
-                    "type": "TextBlock",
-                    "text": "🤖 오늘의 AI/테크 연구 트렌드",
-                    "weight": "Bolder",
-                    "size": "Large",
-                    "wrap": True,
-                },
-                {
-                    "type": "TextBlock",
-                    "text": f"📅 {today} · 상위 {len(items)}건",
-                    "isSubtle": True,
-                    "spacing": "None",
-                    "wrap": True,
-                },
-            ],
-        },
-    ]
+    header: dict = {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": True,
+        "items": [
+            {
+                "type": "TextBlock",
+                "text": "🤖 오늘의 AI/테크 연구 트렌드",
+                "weight": "Bolder",
+                "size": "Large",
+                "wrap": True,
+            },
+            {
+                "type": "TextBlock",
+                "text": f"📅 {today} · 상위 {len(items)}건",
+                "isSubtle": True,
+                "spacing": "None",
+                "wrap": True,
+            },
+        ],
+    }
 
+    content_items: list[dict] = []
     sections = _group_by_section(items)
     for section_index, (section_title, section_items) in enumerate(sections):
         if section_index > 0:
-            body.append({"type": "TextBlock", "text": " ", "separator": True})
+            content_items.append({"type": "TextBlock", "text": " ", "separator": True})
 
-        body.append(
+        section_blocks: list[dict] = [
             {
-                "type": "Container",
-                "style": "emphasis",
-                "spacing": "Medium",
-                "items": [
-                    {
-                        "type": "TextBlock",
-                        "text": section_title,
-                        "weight": "Bolder",
-                        "size": "Medium",
-                        "wrap": True,
-                    }
-                ],
+                "type": "TextBlock",
+                "text": section_title,
+                "weight": "Bolder",
+                "size": "Medium",
+                "wrap": True,
             }
-        )
+        ]
 
         indexed_section: list[tuple[int, NewsItem]] = []
         for item in section_items:
@@ -221,9 +215,29 @@ def build_adaptive_card(items: list[NewsItem]) -> dict:
 
         paired_rows = _build_paired_rows(indexed_section)
         for row_index, row in enumerate(paired_rows):
-            body.append(row)
+            section_blocks.append(row)
             if row_index < len(paired_rows) - 1:
-                body.append({"type": "TextBlock", "text": " ", "separator": True})
+                section_blocks.append({"type": "TextBlock", "text": " ", "separator": True})
+
+        content_items.append(
+            {
+                "type": "Container",
+                "style": "emphasis",
+                "bleed": True,
+                "spacing": "Small",
+                "items": section_blocks,
+            }
+        )
+
+    body: list[dict] = [
+        header,
+        {
+            "type": "Container",
+            "bleed": True,
+            "spacing": "Small",
+            "items": content_items,
+        },
+    ]
 
     card = {
         "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
