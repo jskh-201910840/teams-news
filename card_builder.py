@@ -4,6 +4,7 @@ from datetime import datetime
 
 from collectors.base import NewsItem
 from utils.media import is_valid_https_image_url
+from utils.thumbnail import get_piai_thumbnail_url
 from utils.timezone import KST
 
 SOURCE_COLORS: dict[str, str] = {
@@ -42,7 +43,7 @@ def _source_badge(source: str) -> dict:
     }
 
 
-def _build_item_body(index: int, item: NewsItem) -> list[dict]:
+def _build_item_body(index: int, item: NewsItem, thumbnail_url: str | None) -> list[dict]:
     title_line = f"**{index}. {_display_title(item)}**"
     text_blocks: list[dict] = [
         {
@@ -85,7 +86,7 @@ def _build_item_body(index: int, item: NewsItem) -> list[dict]:
         },
     ]
 
-    if is_valid_https_image_url(item.image_url):
+    if is_valid_https_image_url(thumbnail_url):
         return [
             {
                 "type": "ColumnSet",
@@ -97,10 +98,10 @@ def _build_item_body(index: int, item: NewsItem) -> list[dict]:
                         "items": [
                             {
                                 "type": "Image",
-                                "url": item.image_url,
+                                "url": thumbnail_url,
                                 "size": "Medium",
                                 "style": "Default",
-                                "altText": _display_title(item)[:80],
+                                "altText": "포항공대 인공지능연구원 (PIAI)",
                             }
                         ],
                         "verticalContentAlignment": "Top",
@@ -125,6 +126,7 @@ def _build_item_body(index: int, item: NewsItem) -> list[dict]:
 
 def build_adaptive_card(items: list[NewsItem]) -> dict:
     today = datetime.now(tz=KST).strftime("%Y-%m-%d")
+    thumbnail_url = get_piai_thumbnail_url()
     body: list[dict] = [
         {
             "type": "Container",
@@ -150,7 +152,7 @@ def build_adaptive_card(items: list[NewsItem]) -> dict:
     ]
 
     for index, item in enumerate(items, start=1):
-        body.extend(_build_item_body(index, item))
+        body.extend(_build_item_body(index, item, thumbnail_url))
         if index < len(items):
             body.append({"type": "TextBlock", "text": " ", "separator": True})
 

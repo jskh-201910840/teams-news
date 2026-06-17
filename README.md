@@ -7,8 +7,9 @@ GeekNews, AI Times, Hugging Face Daily Papers, PyTorch Korea 읽을거리&정보
 
 ```
 teams_news/
-├── main.py                      # 진입점: 수집 → 필터 → 이미지·번역 → Teams 전송
-├── card_builder.py              # Adaptive Card JSON 생성
+├── main.py                      # 진입점: 수집 → 필터 → 번역 → Teams 전송
+├── card_builder.py              # Adaptive Card JSON 생성 (PIAI 썸네일)
+├── assets/piai-logo.png         # PIAI 로고 (카드 썸네일 기본값)
 ├── requirements.txt
 ├── .env.example
 ├── .github/workflows/cron.yml   # GitHub Actions 스케줄 (매일 ~10:00 KST)
@@ -21,8 +22,9 @@ teams_news/
 └── utils/
     ├── filters.py               # 24h·키워드 필터, 소스 균형 선별
     ├── translate.py             # 영문 → 한국어 요약 (deep-translator)
-    ├── image_fetch.py           # og:image 스크래핑, HF 썸네일
-    ├── media.py                 # RSS/HTML 이미지 추출
+    ├── thumbnail.py             # PIAI 카드 썸네일 URL
+    ├── image_fetch.py           # (비활성) og:image 스크래핑 — ENABLE_IMAGE_FETCH=false
+    ├── media.py                 # HTTPS 이미지 URL 검증
     └── timezone.py              # KST 타임존
 ```
 
@@ -33,7 +35,20 @@ teams_news/
 | GeekNews | `https://news.hada.io/rss/news` | RSS (403 시 `/rss` 폴백) |
 | AI Times | `https://cdn.aitimes.com/rss/gn_rss_allArticle.xml` | RSS |
 | Hugging Face Papers | `https://huggingface.co/api/daily_papers` | JSON API |
-| PyTorch Korea | `https://discuss.pytorch.kr/c/news/14` (읽을거리&정보공유) | Discourse RSS (`/c/news/14.rss`) |
+| PyTorch Korea | `https://discuss.pytorch.kr/c/news/14` (읽을거리&정보공유) | Discourse `/latest.rss` + 카테고리 필터 (robots.txt 준수) |
+
+### robots.txt 준수
+
+각 소스의 `robots.txt`를 확인하고, 허용된 경로·방식만 사용합니다.
+
+| 소스 | robots.txt | 허용 경로 (봇이 사용) | 비허용·조정 |
+|------|------------|----------------------|-------------|
+| **GeekNews** (`news.hada.io`) | `User-agent: *` → `Allow: /` | `/rss/news`, `/rss` (RSS), `/topic?id=` (인기도) | `/api/`, `/auth/`, `/login` 등 — 미사용 |
+| **AI Times** (`aitimes.com`, `cdn.aitimes.com`) | `Disallow: /admin/` only | `cdn.aitimes.com/rss/*.xml` (RSS) | 기사 HTML·og:image 스크래핑 — **비활성** |
+| **Hugging Face** (`huggingface.co`) | `Allow: /` | `/api/daily_papers` (JSON API) | 논문 썸네일 CDN — **카드에 미사용** |
+| **PyTorch Korea** (`discuss.pytorch.kr`) | `Disallow: /c/*.rss`, `/t/*/*.rss` | `/latest.rss` (사이트 전체 최신 RSS) | `/c/news/14.rss` — **robots.txt 위반** → `/latest.rss`에서 `읽을거리&정보공유` 카테고리만 필터 |
+
+> **og:image / RSS `<img>` / HF 썸네일**: 기사별 썸네일 수집·표시를 중단했습니다. Adaptive Card 썸네일은 **PIAI 로고**만 사용합니다 (`ENABLE_IMAGE_FETCH=false` 기본).
 
 ### 수집·필터 기준
 
@@ -119,8 +134,9 @@ on:
 | `ENABLE_GEEKNEWS_ENGAGEMENT` | | `true` | GeekNews 토픽 페이지에서 P/댓글 수집 |
 | `TRANSLATE_TO_KO` | | `true` | 영문 제목·요약을 한국어로 번역 |
 | `KOREAN_SUMMARY_MAX_CHARS` | | `180` | 한국어 요약 최대 글자 수 (2~3문장) |
-| `ENABLE_IMAGE_FETCH` | | `true` | 기사 URL에서 og:image 스크래핑 |
-| `IMAGE_FETCH_TIMEOUT` | | `5` | 이미지 fetch 타임아웃(초) |
+| `PIAI_THUMBNAIL_URL` | | GitHub raw `assets/piai-logo.png` | 카드 80px 썸네일 HTTPS URL (Teams 렌더링용) |
+| `ENABLE_IMAGE_FETCH` | | `false` | `true`면 기사 URL og:image 스크래핑 (기본 비활성) |
+| `IMAGE_FETCH_TIMEOUT` | | `5` | og:image fetch 타임아웃(초, ENABLE_IMAGE_FETCH=true 시) |
 
 ## 로컬 실행
 
@@ -150,7 +166,7 @@ python main.py --dry-run
 ## Adaptive Card 형식
 
 - 헤더: `🤖 오늘의 AI/테크 연구 트렌드` (강조 컨테이너)
-- 각 항목: **썸네일(있을 때)** + **제목**, 2~3줄 **요약**, 소스별 **아이콘·색상 배지**
+- 각 항목: **PIAI 로고 썸네일(80px)** + **제목**, 2~3줄 **요약**, 소스별 **아이콘·색상 배지**
 - 영문 기사(HF Papers 등): `TRANSLATE_TO_KO=true` 시 한국어 제목·요약 표시
 - 하단: 항목별 **원문 보기** 링크
 - Adaptive Card **v1.4** (Teams Workflows 호환)
@@ -162,12 +178,13 @@ python main.py --dry-run
 - 동일 텍스트는 실행당 **메모리 캐시**로 중복 호출 방지
 - 번역 실패 시 **원문(영문) 그대로** 표시
 
-### 이미지 동작
+### 썸네일 (PIAI) 정책
 
-- RSS feed에 썸네일이 있으면 우선 사용
-- 없으면 기사 URL에서 `og:image` 스크래핑 (타임아웃·실패 시 건너뜀)
-- HF Papers: API 썸네일 또는 `cdn-thumbnails.huggingface.co` CDN URL
-- 이미지 없으면 텍스트만 표시 (카드 레이아웃 유지)
+- 모든 카드 항목에 **포항공대 인공지능연구원(PIAI) 로고**를 80px 썸네일로 표시합니다.
+- 기본 URL: `https://raw.githubusercontent.com/jskh-201910840/teams-news/master/assets/piai-logo.png`
+- 공식 로고 출처: `https://piai.postech.ac.kr/webroot/images/korean/layout/logo-v3.png` (저장소 `assets/piai-logo.png`와 동일)
+- `PIAI_THUMBNAIL_URL`로 HTTPS URL을 재정의할 수 있습니다. URL이 없거나 유효하지 않으면 텍스트-only 레이아웃으로 폴백합니다.
+- **비활성화된 기능**: RSS `<img>`/media 태그, HF paper 썸네일, 기사 og:image 스크래핑 (`ENABLE_IMAGE_FETCH=false` 기본)
 
 ## 장애 격리
 
@@ -178,9 +195,8 @@ python main.py --dry-run
 - **GeekNews**: 루트 `/rss`는 403을 반환할 수 있어 `/rss/news`를 우선 사용합니다.
 - **AI Times**: RSS 본문 인코딩이 깨져 보일 수 있으나 제목·링크·날짜는 정상 수집됩니다.
 - **Hugging Face**: Daily Papers API는 당일 큐레이션 목록을 반환하며, arXiv 논문은 AI 연구 관련으로 자동 포함됩니다.
-- **PyTorch Korea**: 읽을거리&정보공유 게시판은 Discourse 카테고리 `news`(id 14)이며, `/c/readings`가 아닌 `/c/news/14.rss`를 사용합니다.
+- **PyTorch Korea**: `/c/news/14.rss`는 robots.txt에서 `Disallow: /c/*.rss` — `/latest.rss` + 카테고리 필터로 대체.
 - **번역**: Google Translate 비공식 API — 간헐적 rate limit 가능. 실패 시 영문 폴백.
-- **이미지**: 일부 사이트는 og:image 미제공 또는 hotlink 차단.
 
 ## 라이선스
 

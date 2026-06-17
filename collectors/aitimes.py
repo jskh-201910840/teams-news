@@ -5,7 +5,6 @@ import requests
 
 from collectors.base import DEFAULT_HEADERS, BaseCollector, NewsItem, parse_datetime
 from utils.filters import summarize_text
-from utils.media import extract_image_from_feed_entry
 from datetime import timedelta
 
 from utils.timezone import now_kst
@@ -69,7 +68,6 @@ class AITimesCollector(BaseCollector):
                     source=self.source_name,
                     published_at=published_at,
                     popularity=feed_rank,
-                    image_url=extract_image_from_feed_entry(entry),
                 )
             )
 

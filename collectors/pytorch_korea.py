@@ -5,14 +5,15 @@ import requests
 
 from collectors.base import DEFAULT_HEADERS, BaseCollector, NewsItem, parse_datetime
 from utils.filters import summarize_text
-from utils.media import extract_image_from_feed_entry
 from datetime import timedelta
 
 from utils.timezone import KST, now_kst
 
 # 읽을거리&정보공유 board (Discourse category slug: news, id: 14)
+# Category RSS (/c/news/14.rss) is disallowed in robots.txt; use /latest.rss and filter.
 PYTORCH_KOREA_BOARD_URL = "https://discuss.pytorch.kr/c/news/14"
-PYTORCH_KOREA_RSS_URL = "https://discuss.pytorch.kr/c/news/14.rss"
+PYTORCH_KOREA_RSS_URL = "https://discuss.pytorch.kr/latest.rss"
+PYTORCH_KOREA_CATEGORY = "읽을거리&정보공유"
 
 
 class PyTorchKoreaCollector(BaseCollector):
@@ -32,8 +33,16 @@ class PyTorchKoreaCollector(BaseCollector):
 
         items: list[NewsItem] = []
         cutoff = now_kst() - timedelta(hours=24)
+        category_rank = 0
 
-        for index, entry in enumerate(feed.entries):
+        for entry in feed.entries:
+            categories = [
+                (tag.get("term") or "").strip()
+                for tag in getattr(entry, "tags", None) or []
+            ]
+            if PYTORCH_KOREA_CATEGORY not in categories:
+                continue
+
             published_at = parse_datetime(
                 getattr(entry, "published", None) or getattr(entry, "updated", None)
             )
@@ -58,8 +67,8 @@ class PyTorchKoreaCollector(BaseCollector):
             )
             summary = summarize_text(raw_summary) or title
 
-            # RSS order reflects category prominence; earlier entries rank higher.
-            feed_rank = max(0, 100 - index)
+            feed_rank = max(0, 100 - category_rank)
+            category_rank += 1
 
             items.append(
                 NewsItem(
@@ -69,7 +78,6 @@ class PyTorchKoreaCollector(BaseCollector):
                     source=self.source_name,
                     published_at=published_at,
                     popularity=feed_rank,
-                    image_url=extract_image_from_feed_entry(entry),
                 )
             )
 
