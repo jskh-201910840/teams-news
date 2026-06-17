@@ -63,41 +63,80 @@ def _item_facts(item: NewsItem) -> list[dict]:
     return facts
 
 
-def _build_item_body(index: int, item: NewsItem) -> list[dict]:
-    return [
-        {
-            "type": "Container",
-            "spacing": "Medium",
-            "items": [
+def _build_item_container(index: int, item: NewsItem) -> dict:
+    return {
+        "type": "Container",
+        "spacing": "Small",
+        "items": [
+            {
+                "type": "TextBlock",
+                "text": f"**{index}. {_display_title(item)}**",
+                "wrap": True,
+                "spacing": "None",
+                "weight": "Bolder",
+                "maxLines": 2,
+            },
+            {
+                "type": "TextBlock",
+                "text": _display_summary(item),
+                "wrap": True,
+                "spacing": "Small",
+                "isSubtle": True,
+                "size": "Small",
+                "maxLines": 2,
+            },
+            {
+                "type": "FactSet",
+                "spacing": "Small",
+                "facts": _item_facts(item),
+            },
+            {
+                "type": "TextBlock",
+                "text": f"[원문 보기]({item.url})",
+                "spacing": "Small",
+                "size": "Small",
+                "wrap": True,
+            },
+        ],
+    }
+
+
+def _build_item_column(index: int, item: NewsItem) -> dict:
+    return {
+        "type": "Column",
+        "width": "stretch",
+        "items": [_build_item_container(index, item)],
+    }
+
+
+def _build_paired_rows(indexed_items: list[tuple[int, NewsItem]]) -> list[dict]:
+    rows: list[dict] = []
+    i = 0
+    while i < len(indexed_items):
+        idx1, item1 = indexed_items[i]
+        if i + 1 < len(indexed_items):
+            idx2, item2 = indexed_items[i + 1]
+            rows.append(
                 {
-                    "type": "TextBlock",
-                    "text": f"**{index}. {_display_title(item)}**",
-                    "wrap": True,
-                    "spacing": "None",
-                    "weight": "Bolder",
-                },
+                    "type": "ColumnSet",
+                    "spacing": "Medium",
+                    "columns": [
+                        _build_item_column(idx1, item1),
+                        _build_item_column(idx2, item2),
+                    ],
+                }
+            )
+            i += 2
+        else:
+            rows.append(
                 {
-                    "type": "TextBlock",
-                    "text": _display_summary(item),
-                    "wrap": True,
-                    "spacing": "Small",
-                    "isSubtle": True,
-                    "maxLines": 3,
-                },
-                {
-                    "type": "FactSet",
-                    "spacing": "Small",
-                    "facts": _item_facts(item),
-                },
-                {
-                    "type": "TextBlock",
-                    "text": f"[원문 보기]({item.url})",
-                    "spacing": "Small",
-                    "wrap": True,
-                },
-            ],
-        }
-    ]
+                    "type": "ColumnSet",
+                    "spacing": "Medium",
+                    "columns": [_build_item_column(idx1, item1)],
+                }
+            )
+            i += 1
+    return rows
 
 
 def _group_by_section(items: list[NewsItem]) -> list[tuple[str, list[NewsItem]]]:
@@ -175,10 +214,15 @@ def build_adaptive_card(items: list[NewsItem]) -> dict:
             }
         )
 
-        for item_index, item in enumerate(section_items):
+        indexed_section: list[tuple[int, NewsItem]] = []
+        for item in section_items:
             global_index += 1
-            body.extend(_build_item_body(global_index, item))
-            if item_index < len(section_items) - 1:
+            indexed_section.append((global_index, item))
+
+        paired_rows = _build_paired_rows(indexed_section)
+        for row_index, row in enumerate(paired_rows):
+            body.append(row)
+            if row_index < len(paired_rows) - 1:
                 body.append({"type": "TextBlock", "text": " ", "separator": True})
 
     card = {
