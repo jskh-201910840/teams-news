@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 21 Jun 2026 00:04:23 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 02:28:36 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>퇴직연금 500조 시대…AI가 고객자산 굴린다</title>
+      <link>https://www.etnews.com/20260619000119</link>
+      <description>퇴직연금 적립금이 500조원을 돌파하며 연금을 인공지능(AI)으로 관리·운용하는 수요도 늘어나고 있다. AI가 종목을 추천해 주는 것을 넘어 직접 자동으로 운용하는 연금투자 방식까지 도입되며 퇴직연금에서 AI 활용 범위가 커졌다. AI를 활용한 퇴직연금 운용은 고객 대신 AI가 운용을 지시하는 '일임형' 유형이 늘어나는 추세다.</description>
+      <pubDate>Sun, 21 Jun 2026 02:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260619000119">전자신문 IT</source>
+      <guid isPermaLink="false">f09aa5519472483f4d4d2c706cdcc7df</guid>
+    </item>
     <item>
       <title>“파도로 전기 만든다”…바다 위 AI 데이터센터 등장</title>
       <link>https://www.etnews.com/20260619000282</link>

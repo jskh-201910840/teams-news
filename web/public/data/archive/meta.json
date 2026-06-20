@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-21T00:04:23.589920+09:00",
-  "total": 64,
+  "generated_at": "2026-06-21T02:28:36.102178+09:00",
+  "total": 68,
   "sources": [
     {
       "slug": "huggingface",
@@ -11,7 +11,7 @@
     {
       "slug": "github-trending",
       "name": "GitHub Trending",
-      "count": 14
+      "count": 17
     },
     {
       "slug": "pytorch-korea",
@@ -26,7 +26,7 @@
     {
       "slug": "etnews",
       "name": "전자신문 IT",
-      "count": 2
+      "count": 3
     },
     {
       "slug": "zdnet-korea",
@@ -53,12 +53,12 @@
     {
       "id": "trending",
       "title": "🔥 Trending",
-      "count": 14
+      "count": 17
     },
     {
       "id": "news",
       "title": "📰 News",
-      "count": 9
+      "count": 10
     },
     {
       "id": "community",
@@ -67,8 +67,9 @@
     }
   ],
   "date_counts": {
-    "2026-06-20": 13,
-    "2026-06-19": 39,
+    "2026-06-21": 1,
+    "2026-06-20": 14,
+    "2026-06-19": 41,
     "2026-06-18": 3,
     "2026-06-17": 2,
     "2026-06-16": 2,

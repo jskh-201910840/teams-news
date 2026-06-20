@@ -5,9 +5,36 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/trending.xml</link>
     <description>🔥 Trending — GitHub ML/AI repositories</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 21 Jun 2026 00:04:23 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 02:28:36 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>sumitgautam0101/Windows-Copilot-API — Windows Copilot을 OpenAI 호환 API로 리버스 엔지니어링했습니다. 다음을 통해 GPT-4 및 GPT-5 모델에 액세스하세요.</title>
+      <link>https://github.com/sumitgautam0101/Windows-Copilot-API</link>
+      <description>Windows Copilot을 OpenAI 호환 API로 리버스 엔지니어링했습니다. API 키나 청구 없이 간단한 REST 인터페이스를 통해 GPT-4 및 GPT-5 모델에 액세스하세요.</description>
+      <pubDate>Sat, 20 Jun 2026 21:18:12 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/sumitgautam0101/Windows-Copilot-API">GitHub Trending</source>
+      <guid isPermaLink="false">20c5ffab2db71bb505865129f3c59e0b</guid>
+    </item>
+    <item>
+      <title>Karovia/fullstack-ai-agent-roadmap — 🎯 처음부터 AI 에이전트 풀 스택 엔지니어 · 110개의 상세한 튜토리얼 · 580,000 단어 · 400개 이상의 GitHub 프로젝트 선택 · 흑요석 친화적 · 중국어</title>
+      <link>https://github.com/Karovia/fullstack-ai-agent-roadmap</link>
+      <description>🎯 처음부터 AI 에이전트 풀 스택 엔지니어 · 110개의 상세한 튜토리얼 · 580,000 단어 · 400개 이상의 GitHub 프로젝트 선택 · 흑요석 친화적 · 중국어</description>
+      <pubDate>Fri, 19 Jun 2026 15:47:49 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/Karovia/fullstack-ai-agent-roadmap">GitHub Trending</source>
+      <guid isPermaLink="false">933ae1c9feca38e3d15de6ee15b4ce01</guid>
+    </item>
+    <item>
+      <title>wqq64842-commits/holojarvis — 🤖 "Jarvis"라고 외치고 입만으로 작업을 완료하세요. - Mac 중국어 음성 집사: 로컬 인식 + 모든 대형 모델(환승 스테이션/DeepSeek/GPT) + 도구 호출 + 복제 사운드 + Iron Man 홀로그램 데스크톱 애완동물</title>
+      <link>https://github.com/wqq64842-commits/holojarvis</link>
+      <description>🤖 "Jarvis"라고 외치고 몇 번의 클릭만으로 작업을 완료하세요. - Mac 중국어 음성 관리자: 로컬 인식 + 모든 대형 모델(환승 스테이션/DeepSeek/GPT) + 도구 호출 + 복제 사운드 + 아이언맨 홀로그램 책상 애완동물</description>
+      <pubDate>Fri, 19 Jun 2026 22:58:16 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/wqq64842-commits/holojarvis">GitHub Trending</source>
+      <guid isPermaLink="false">4b4607b9905f92fbf5d8f736f5e16108</guid>
+    </item>
     <item>
       <title>agiwhitelist/tokdiet — Local streaming reverse proxy between AI coding agents (Claude Code, Cursor, Codex) and model APIs (</title>
       <link>https://github.com/agiwhitelist/tokdiet</link>

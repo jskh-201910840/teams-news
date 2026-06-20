@@ -5,9 +5,45 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 21 Jun 2026 00:04:23 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 02:28:36 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>sumitgautam0101/Windows-Copilot-API — Windows Copilot을 OpenAI 호환 API로 리버스 엔지니어링했습니다. 다음을 통해 GPT-4 및 GPT-5 모델에 액세스하세요.</title>
+      <link>https://github.com/sumitgautam0101/Windows-Copilot-API</link>
+      <description>Windows Copilot을 OpenAI 호환 API로 리버스 엔지니어링했습니다. API 키나 청구 없이 간단한 REST 인터페이스를 통해 GPT-4 및 GPT-5 모델에 액세스하세요.</description>
+      <pubDate>Sat, 20 Jun 2026 21:18:12 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/sumitgautam0101/Windows-Copilot-API">GitHub Trending</source>
+      <guid isPermaLink="false">20c5ffab2db71bb505865129f3c59e0b</guid>
+    </item>
+    <item>
+      <title>퇴직연금 500조 시대…AI가 고객자산 굴린다</title>
+      <link>https://www.etnews.com/20260619000119</link>
+      <description>퇴직연금 적립금이 500조원을 돌파하며 연금을 인공지능(AI)으로 관리·운용하는 수요도 늘어나고 있다. AI가 종목을 추천해 주는 것을 넘어 직접 자동으로 운용하는 연금투자 방식까지 도입되며 퇴직연금에서 AI 활용 범위가 커졌다. AI를 활용한 퇴직연금 운용은 고객 대신 AI가 운용을 지시하는 '일임형' 유형이 늘어나는 추세다.</description>
+      <pubDate>Sun, 21 Jun 2026 02:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260619000119">전자신문 IT</source>
+      <guid isPermaLink="false">f09aa5519472483f4d4d2c706cdcc7df</guid>
+    </item>
+    <item>
+      <title>Karovia/fullstack-ai-agent-roadmap — 🎯 처음부터 AI 에이전트 풀 스택 엔지니어 · 110개의 상세한 튜토리얼 · 580,000 단어 · 400개 이상의 GitHub 프로젝트 선택 · 흑요석 친화적 · 중국어</title>
+      <link>https://github.com/Karovia/fullstack-ai-agent-roadmap</link>
+      <description>🎯 처음부터 AI 에이전트 풀 스택 엔지니어 · 110개의 상세한 튜토리얼 · 580,000 단어 · 400개 이상의 GitHub 프로젝트 선택 · 흑요석 친화적 · 중국어</description>
+      <pubDate>Fri, 19 Jun 2026 15:47:49 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/Karovia/fullstack-ai-agent-roadmap">GitHub Trending</source>
+      <guid isPermaLink="false">933ae1c9feca38e3d15de6ee15b4ce01</guid>
+    </item>
+    <item>
+      <title>wqq64842-commits/holojarvis — 🤖 "Jarvis"라고 외치고 입만으로 작업을 완료하세요. - Mac 중국어 음성 집사: 로컬 인식 + 모든 대형 모델(환승 스테이션/DeepSeek/GPT) + 도구 호출 + 복제 사운드 + Iron Man 홀로그램 데스크톱 애완동물</title>
+      <link>https://github.com/wqq64842-commits/holojarvis</link>
+      <description>🤖 "Jarvis"라고 외치고 몇 번의 클릭만으로 작업을 완료하세요. - Mac 중국어 음성 관리자: 로컬 인식 + 모든 대형 모델(환승 스테이션/DeepSeek/GPT) + 도구 호출 + 복제 사운드 + 아이언맨 홀로그램 책상 애완동물</description>
+      <pubDate>Fri, 19 Jun 2026 22:58:16 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/wqq64842-commits/holojarvis">GitHub Trending</source>
+      <guid isPermaLink="false">4b4607b9905f92fbf5d8f736f5e16108</guid>
+    </item>
     <item>
       <title>“파도로 전기 만든다”…바다 위 AI 데이터센터 등장</title>
       <link>https://www.etnews.com/20260619000282</link>
@@ -421,42 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.20506">Hugging Face Papers</source>
       <guid isPermaLink="false">d5dbfb780fe38d95abe2bb04d3de798d</guid>
-    </item>
-    <item>
-      <title>Duration Aware Scheduling for ASR Serving Under Workload Drift</title>
-      <link>https://huggingface.co/papers/2603.11273</link>
-      <description>Duration-aware scheduling policies improve ASR serving latency by leveraging audio length as a predictor for processing time, with SJF and HRRN algorithms showing significant median latency reductions while maintaining…</description>
-      <pubDate>Fri, 19 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2603.11273">Hugging Face Papers</source>
-      <guid isPermaLink="false">be84215cc5ee6c4015424959dd1c6346</guid>
-    </item>
-    <item>
-      <title>OM1: 로봇을 위한 모듈형 멀티모달 AI 런타임</title>
-      <link>https://discuss.pytorch.kr/t/om1-ai/10786</link>
-      <description>OM1 소개 OM1은 멀티모달 AI 에이전트를 디지털 환경과 물리 로봇 양쪽에서 만들고 배포하기 위한 모듈형 AI 런타임입니다. OpenMind가 개발했으며, 휴머노이드와 사족보행 로봇은 물론 폰 앱, TurtleBot 4 같은 교육용 로봇, 그리고 Gazebo와 Isaac Sim 같은 시뮬레이터까지 하나의 런타임으로 다룹니다.</description>
-      <pubDate>Fri, 19 Jun 2026 18:30:15 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/om1-ai/10786">PyTorch Korea</source>
-      <guid isPermaLink="false">3212e3451aae02b8b1382e9f191ef6f7</guid>
-    </item>
-    <item>
-      <title>스펙만 바꾸면 프롬프트가 따라옵니다 - 답변 생성 모델 자동화 파이프라인</title>
-      <link>https://d2.naver.com/helloworld/2852215</link>
-      <description>네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 입력 스펙이 자주 바뀌는 쇼핑 에이전트 답변 모델 개발에서, 변경된 스펙만 입력하면 결함 탐지/프롬프트 최적화/SFT 학습 데이터 생성을 에이전트가 폐쇄 루프로 돌리는 자동화 파이프라인을 설계하며 얻은 구조와 적용 경험을 공유합니다.</description>
-      <pubDate>Thu, 18 Jun 2026 19:17:54 +0900</pubDate>
-      <category>news</category>
-      <source url="https://d2.naver.com/helloworld/2852215">NAVER D2</source>
-      <guid isPermaLink="false">037151ef501fe071e079ba83b98174fc</guid>
-    </item>
-    <item>
-      <title>Current World Models Lack a Persistent State Core</title>
-      <link>https://huggingface.co/papers/2606.20545</link>
-      <description>Current world models fail to maintain consistent world states when unobserved, indicating a need for design changes that prioritize physical state stability over appearance fidelity.</description>
-      <pubDate>Fri, 19 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.20545">Hugging Face Papers</source>
-      <guid isPermaLink="false">73a16db15fb7ec87c1aee9f4a7bc2d16</guid>
     </item>
   </channel>
 </rss>
