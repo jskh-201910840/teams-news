@@ -5,9 +5,27 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/community.xml</link>
     <description>💬 Community — PyTorch Korea discussions</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 21 Jun 2026 13:23:29 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 17:58:28 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>claude-peers: 여러 Claude Code 인스턴스가 서로 메시지를 주고받는 MCP 서버</title>
+      <link>https://discuss.pytorch.kr/t/claude-peers-claude-code-mcp/10755</link>
+      <description>claude-peers 소개 claude-peers는 같은 컴퓨터에서 실행 중인 여러 Claude Code 인스턴스가 서로를 발견하고 메시지를 주고받게 해 주는 MCP 서버입니다. 서로 다른 프로젝트에서 다섯 개의 세션을 띄워 작업할 때, 각 Claude가 다른 세션을 찾아 즉시 메시지를 보낼 수 있습니다.</description>
+      <pubDate>Sun, 21 Jun 2026 16:30:42 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/claude-peers-claude-code-mcp/10755">PyTorch Korea</source>
+      <guid isPermaLink="false">2ac38d66ac2bfe36edb93f42bd90d5a6</guid>
+    </item>
+    <item>
+      <title>Collaborator: AI 에이전트와 코드를 한 화면에 펼치는 무한 캔버스 개발 환경</title>
+      <link>https://discuss.pytorch.kr/t/collaborator-ai/10704</link>
+      <description>Collaborator 소개 AI 에이전트로 개발을 하다 보면 터미널, 컨텍스트로 넘겨줄 파일, 실행 중인 코드가 여러 창과 탭에 흩어집니다. 에이전트가 어느 터미널에서 무엇을 하고 있는지 따라가려면 창을 옮겨 다니며 맥락을 다시 맞춰야 합니다.</description>
+      <pubDate>Sun, 21 Jun 2026 13:30:51 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/collaborator-ai/10704">PyTorch Korea</source>
+      <guid isPermaLink="false">e68e6c5c21cbeb7144ce4f37dabbb04b</guid>
+    </item>
     <item>
       <title>LiteParse: 로컬에서 PDF와 문서를 빠르고 가볍게 파싱하는 오픈소스 도구</title>
       <link>https://discuss.pytorch.kr/t/liteparse-pdf/10524</link>
