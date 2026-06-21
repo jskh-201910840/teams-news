@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-21T08:11:28.165178+09:00",
-  "total": 70,
+  "generated_at": "2026-06-21T13:23:29.374016+09:00",
+  "total": 73,
   "sources": [
     {
       "slug": "huggingface",
@@ -14,14 +14,14 @@
       "count": 18
     },
     {
-      "slug": "pytorch-korea",
-      "name": "PyTorch Korea",
+      "slug": "etnews",
+      "name": "전자신문 IT",
       "count": 7
     },
     {
-      "slug": "etnews",
-      "name": "전자신문 IT",
-      "count": 4
+      "slug": "pytorch-korea",
+      "name": "PyTorch Korea",
+      "count": 7
     },
     {
       "slug": "naver-d2",
@@ -58,7 +58,7 @@
     {
       "id": "news",
       "title": "📰 News",
-      "count": 11
+      "count": 14
     },
     {
       "id": "community",
@@ -67,7 +67,7 @@
     }
   ],
   "date_counts": {
-    "2026-06-21": 2,
+    "2026-06-21": 5,
     "2026-06-20": 15,
     "2026-06-19": 41,
     "2026-06-18": 3,
