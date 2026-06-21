@@ -5,63 +5,35 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/full.xml</link>
     <description>Extended RSS with scores, sections, and engagement metrics for bot builders.</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 20 Jun 2026 15:56:59 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 09:03:13 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <item>
-      <title>에이전트 및 멀티모달 LLM을 위한 상황 인식 RL</title>
-      <link>https://huggingface.co/papers/2606.17053</link>
-      <description>ContextRL은 쿼리-답변 쌍을 지원하기 위한 컨텍스트 선택을 보상하는 강화 학습을 통해 장기 추론 및 다중 모드 성능을 향상하고 다이버에 대한 표준 방법보다 향상된 성능을 달성합니다.</description>
-      <pubDate>Fri, 19 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.17053">Hugging Face Papers</source>
-      <guid isPermaLink="false">85fc30b04d961b17c54843db7647eec5</guid>
-      <teams:source>Hugging Face Papers</teams:source>
-      <teams:section>papers</teams:section>
-      <teams:score>25.27</teams:score>
-      <teams:titleOriginal>Context-Aware RL for Agentic and Multimodal LLMs</teams:titleOriginal>
-      <teams:engagement label="Upvotes">5</teams:engagement>
-    </item>
-    <item>
-      <title>Moebius: 10B 수준의 성능을 갖춘 0.2B 경량 이미지 인페인팅 프레임워크</title>
-      <link>https://huggingface.co/papers/2606.19195</link>
-      <description>경량 이미지 인페인팅 프레임워크는 새로운 로컬-글로벌 상호 작용 블록 및 적응형 증류 전략을 통해 매개변수와 추론 시간을 크게 줄임으로써 충실도 높은 결과를 달성합니다.</description>
-      <pubDate>Fri, 19 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.19195">Hugging Face Papers</source>
-      <guid isPermaLink="false">2f5f8fec4770858efeb6c907829f8435</guid>
-      <teams:source>Hugging Face Papers</teams:source>
-      <teams:section>papers</teams:section>
-      <teams:score>24.87</teams:score>
-      <teams:titleOriginal>Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance</teams:titleOriginal>
-      <teams:engagement label="Upvotes">102</teams:engagement>
-    </item>
-    <item>
-      <title>퍼플렉시티, 밤마다 스스로 학습하는 AI 에이전트 메모리 '브레인' 출시</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=211932</link>
-      <description>퍼플렉시티가 기존 AI 메모리 개념을 뒤집는 새로운 기억 시스템 \'브레인(Brain)\'을 공개했다.</description>
-      <pubDate>Sat, 20 Jun 2026 13:39:19 +0900</pubDate>
+      <title>AI가 우리의 능력을 망치고 있는가? 초기 연구 결과는 부정적</title>
+      <link>https://news.hada.io/topic?id=30674</link>
+      <description>업무 현장에서 AI 도구 의존이 커지면서, 의료·컴퓨터과학 등 숙련이 중요한 분야 에서 사람이 쌓은 역량이 약해질 수 있다 는 초기 근거가 나오고 있음 폴란드 내시경 전문의 대상 연구에서 AI 미사용 시 선종 발견율이 28.4%에서 22.4%로...</description>
+      <pubDate>Sun, 21 Jun 2026 08:35:10 +0900</pubDate>
       <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=211932">AI Times</source>
-      <guid isPermaLink="false">3d638b9661543a414fe58d91735a5b79</guid>
-      <teams:source>AI Times</teams:source>
+      <source url="https://news.hada.io/topic?id=30674">GeekNews</source>
+      <guid isPermaLink="false">570b83eb4494a9f610d58c7f0589c351</guid>
+      <teams:source>GeekNews</teams:source>
       <teams:section>news</teams:section>
-      <teams:score>19.52</teams:score>
-      <teams:titleOriginal>퍼플렉시티, 밤마다 스스로 학습하는 AI 에이전트 메모리 '브레인' 출시</teams:titleOriginal>
-      
+      <teams:score>23.46</teams:score>
+      <teams:titleOriginal>AI가 우리의 능력을 망치고 있는가? 초기 연구 결과는 부정적</teams:titleOriginal>
+      <teams:engagement label="Points">13</teams:engagement>
     </item>
     <item>
-      <title>메모리 시장, 올해 4배 성장 전망...AI 수요가 견인</title>
-      <link>https://zdnet.co.kr/view/?no=20260619204511</link>
-      <description>[지디넷코리아]전 세계 메모리 반도체 시장이 인공지능(AI) 인프라 수요에 힘입어 올해 폭발적 성장세를 보이고 있다. 서버용 메모리가 전체 메모리에서 차지하는 비중도 절반을 넘어설 것으로 예상된다.</description>
-      <pubDate>Sat, 20 Jun 2026 14:00:03 +0900</pubDate>
+      <title>“60초 만에 전신 스캔”…美 전신 초음파 스캐너 공개</title>
+      <link>https://www.etnews.com/20260619000252</link>
+      <description>미국 AI 이미지 생성 기업 미드저니(Midjourney)가 전신 초음파 스캐너 '미드저니 스캐너(Midjourney Scanner)'를 공개했습니다. 이 장치는 수중에 설치된 링 형태의 초음파 센서를 이용해 인체 내부를 여러 각도에서 스캔한 뒤, 초음파가 조직에 반사되는 신호를 분석해 3D 이미지로 재구성합니다.</description>
+      <pubDate>Sun, 21 Jun 2026 06:00:00 +0900</pubDate>
       <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260619204511">ZDNet Korea</source>
-      <guid isPermaLink="false">47c036a20247ab8e31f2ea03ca86a682</guid>
-      <teams:source>ZDNet Korea</teams:source>
+      <source url="https://www.etnews.com/20260619000252">전자신문 IT</source>
+      <guid isPermaLink="false">d9d5a4fd85b9f27f39d689e5fa436ad6</guid>
+      <teams:source>전자신문 IT</teams:source>
       <teams:section>news</teams:section>
-      <teams:score>19.59</teams:score>
-      <teams:titleOriginal>메모리 시장, 올해 4배 성장 전망...AI 수요가 견인</teams:titleOriginal>
+      <teams:score>19.36</teams:score>
+      <teams:titleOriginal>“60초 만에 전신 스캔”…美 전신 초음파 스캐너 공개</teams:titleOriginal>
       
     </item>
     <item>
@@ -71,7 +43,7 @@
       <pubDate>Thu, 18 Jun 2026 20:01:06 +0900</pubDate>
       <category>trending</category>
       <source url="https://github.com/agiwhitelist/tokdiet">GitHub Trending</source>
-      <guid isPermaLink="false">27688420164052b793732968e3c19af6</guid>
+      <guid isPermaLink="false">a87c1f17c4824eb74070375dd983f3b3</guid>
       <teams:source>GitHub Trending</teams:source>
       <teams:section>trending</teams:section>
       <teams:score>28.82</teams:score>
@@ -79,18 +51,32 @@
       <teams:engagement label="Stars">68</teams:engagement>
     </item>
     <item>
-      <title>haydenbleasel/batchwork — AI 제공자를 위한 통합 배치 API입니다. LLM 비용을 최대 50% 절약하세요.</title>
-      <link>https://github.com/haydenbleasel/batchwork</link>
-      <description>AI 제공업체를 위한 통합 배치 API입니다. LLM 비용을 최대 50% 절약하세요.</description>
-      <pubDate>Sat, 20 Jun 2026 11:28:30 +0900</pubDate>
+      <title>Wellwelwel/blue-spec — 🌊 Blue Spec은 AI 에이전트를 지원하는 방어 워크플로인 SDH(Security-Driven Hardening)를 위한 툴킷입니다.</title>
+      <link>https://github.com/wellwelwel/blue-spec</link>
+      <description>🌊 Blue Spec은 AI 에이전트가 시스템의 기능을 감지하고 중요한 방어를 강화하는 데 도움이 되는 방어 워크플로인 보안 중심 강화(SDH)용 툴킷입니다.</description>
+      <pubDate>Sun, 21 Jun 2026 07:26:54 +0900</pubDate>
       <category>trending</category>
-      <source url="https://github.com/haydenbleasel/batchwork">GitHub Trending</source>
-      <guid isPermaLink="false">eea8e7e30889f9db752b3fea3cfeb8ff</guid>
+      <source url="https://github.com/wellwelwel/blue-spec">GitHub Trending</source>
+      <guid isPermaLink="false">52547b3a30944876e20409ec69661749</guid>
       <teams:source>GitHub Trending</teams:source>
       <teams:section>trending</teams:section>
-      <teams:score>25.76</teams:score>
-      <teams:titleOriginal>haydenbleasel/batchwork — Unified batch API for AI providers. Save up to 50% on LLM costs.</teams:titleOriginal>
-      <teams:engagement label="Stars">49</teams:engagement>
+      <teams:score>26.82</teams:score>
+      <teams:titleOriginal>wellwelwel/blue-spec — 🌊 Blue Spec is a toolkit for Security-Driven Hardening (SDH), a defensive workflow to help AI agents</teams:titleOriginal>
+      <teams:engagement label="Stars">56</teams:engagement>
+    </item>
+    <item>
+      <title>LiteParse: 로컬에서 PDF와 문서를 빠르고 가볍게 파싱하는 오픈소스 도구</title>
+      <link>https://discuss.pytorch.kr/t/liteparse-pdf/10524</link>
+      <description>LiteParse 소개 문서를 LLM이나 RAG 파이프라인에 넣으려면, 먼저 PDF 같은 원본을 깨끗한 텍스트와 구조로 바꾸는 파싱 단계가 필요합니다. 이때 많은 파싱 도구가 클라우드 API나 별도의 LLM 기능에 의존하는데, LiteParse는 그런 의존성 없이 "fast and light" 만을 목표로 삼은 독립형 오픈소스 PDF 파싱 도구입니다.</description>
+      <pubDate>Sat, 20 Jun 2026 18:30:10 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/liteparse-pdf/10524">PyTorch Korea</source>
+      <guid isPermaLink="false">d647c2fb6c029c6a2b7976d36bea9c79</guid>
+      <teams:source>PyTorch Korea</teams:source>
+      <teams:section>community</teams:section>
+      <teams:score>19.97</teams:score>
+      <teams:titleOriginal>LiteParse: 로컬에서 PDF와 문서를 빠르고 가볍게 파싱하는 오픈소스 도구</teams:titleOriginal>
+      
     </item>
     <item>
       <title>Cua Driver: Windows와 Linux 데스크톱 백그라운드 컴퓨터 사용 프로젝트 (feat. Claude Code, MCP)</title>
@@ -99,10 +85,10 @@
       <pubDate>Sat, 20 Jun 2026 09:30:08 +0900</pubDate>
       <category>community</category>
       <source url="https://discuss.pytorch.kr/t/cua-driver-windows-linux-feat-claude-code-mcp/10807">PyTorch Korea</source>
-      <guid isPermaLink="false">5570883f447c082f98a5a5190d358d9b</guid>
+      <guid isPermaLink="false">8b999ba882e9cb418e3bdd443e0580e0</guid>
       <teams:source>PyTorch Korea</teams:source>
       <teams:section>community</teams:section>
-      <teams:score>21.56</teams:score>
+      <teams:score>17.89</teams:score>
       <teams:titleOriginal>Cua Driver: Windows와 Linux 데스크톱 백그라운드 컴퓨터 사용 프로젝트 (feat. Claude Code, MCP)</teams:titleOriginal>
       
     </item>
