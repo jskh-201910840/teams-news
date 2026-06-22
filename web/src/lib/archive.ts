@@ -209,3 +209,72 @@ export const SECTION_LABELS: Record<string, string> = {
   community: "💬 Community",
   other: "📌 기타",
 };
+
+export function itemDetailPath(id: string): string {
+  return `/item/${id}`;
+}
+
+export function findItemById(
+  items: SearchIndexItem[],
+  id: string,
+): SearchIndexItem | undefined {
+  return items.find((i) => i.id === id);
+}
+
+export async function getRelatedItems(
+  current: SearchIndexItem,
+  allItems: SearchIndexItem[],
+  limit = 6,
+): Promise<SearchIndexItem[]> {
+  const others = allItems.filter((i) => i.id !== current.id);
+  if (others.length === 0) return [];
+
+  const scores = new Map<string, number>();
+  const currentKeywords = new Set(current.matched_keywords ?? []);
+
+  for (const item of others) {
+    let score = 0;
+    if (item.sec === current.sec) score += 4;
+    if (item.src === current.src) score += 2;
+    for (const kw of item.matched_keywords ?? []) {
+      if (currentKeywords.has(kw)) score += 2;
+    }
+    if (score > 0) scores.set(item.id, score);
+  }
+
+  const Fuse = (await import("fuse.js")).default;
+  const fuse = new Fuse(others, {
+    keys: [
+      { name: "t", weight: 0.45 },
+      { name: "s", weight: 0.35 },
+      { name: "title", weight: 0.4 },
+      { name: "summary", weight: 0.25 },
+    ],
+    threshold: 0.55,
+    ignoreLocation: true,
+  });
+  const query = `${current.t} ${current.s}`.trim();
+  for (const result of fuse.search(query, { limit: 20 })) {
+    const { item, score: fuseScore = 1 } = result;
+    const similarity = Math.max(0, 1 - fuseScore);
+    const existing = scores.get(item.id) ?? 0;
+    scores.set(item.id, existing + similarity * 5);
+  }
+
+  return [...scores.entries()]
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, limit)
+    .map(([id]) => others.find((i) => i.id === id)!)
+    .filter(Boolean);
+}
+
+export function getMoreFromSource(
+  current: SearchIndexItem,
+  allItems: SearchIndexItem[],
+  limit = 5,
+): SearchIndexItem[] {
+  return allItems
+    .filter((i) => i.id !== current.id && i.src === current.src)
+    .sort((a, b) => b.pop - a.pop || b.score - a.score)
+    .slice(0, limit);
+}

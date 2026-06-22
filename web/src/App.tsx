@@ -9,6 +9,7 @@ import { SearchPage } from "./pages/SearchPage";
 import { SectionPage } from "./pages/SectionPage";
 import { SourcePage } from "./pages/SourcePage";
 import { SubscribePage } from "./pages/SubscribePage";
+import { ArticlePage } from "./pages/ArticlePage";
 
 export default function App() {
   return (
@@ -17,6 +18,7 @@ export default function App() {
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/feed" element={<FeedPage />} />
+          <Route path="/item/:id" element={<ArticlePage />} />
           <Route path="/search" element={<SearchPage />} />
           <Route path="/source/:slug" element={<SourcePage />} />
           <Route path="/section/:id" element={<SectionPage />} />

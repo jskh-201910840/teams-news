@@ -1,12 +1,58 @@
 # PIAI Teams News — Improvement Backlog
 
-Prioritized items for future UX/functionality rounds. Last updated: 2026-06-20.
+> **Constraint:** Never modify Teams cron, `cron.yml`, digest schedule, or Teams posting pipeline in loop iterations.
+
+Prioritized items for future UX/functionality rounds. Last updated: 2026-06-22.
+
+## Article Detail Page
+
+Research reference: [GeekNews](https://news.hada.io) topic pages (related posts, comments, metadata, share), Hacker News item pages (points, comments count, prev/next), Lobsters (tags, domain).
+
+| Priority | Feature | Status | Notes |
+|----------|---------|--------|-------|
+| **P0** | Route `/item/:id` — wide reading layout | ✅ Done | React Router + GitHub Pages 404.html SPA pattern |
+| **P0** | Title, source badge, date, section, engagement metrics | ✅ Done | Stars/Upvotes/Points on detail header |
+| **P0** | Korean summary + `[원문 보기]` link | ✅ Done | Full summary (no line-clamp), external link |
+| **P0** | Related news — "함께 보면 좋을 뉴스" | ✅ Done | Section + keywords + fuse.js title/summary similarity |
+| **P0** | Back navigation + breadcrumb | ✅ Done | 홈 → 피드 → 섹션 trail + 뒤로 button |
+| **P0** | Share URL (copy link / Web Share API) | ✅ Done | Per-article detail page URL |
+| **P0** | Mobile responsive wide card | ✅ Done | max-w-3xl article, stacked sidebar |
+| **P0** | Cards link to detail page (not external only) | ✅ Done | NewsCard title → `/item/:id`; 원문 → external |
+| **P1** | "More from this source" sidebar | ✅ Done | Top 5 same-source + link to `/source/:slug` |
+| **P1** | Same-day digest context badge | ✅ Done | "YYYY-MM-DD Top 7 #N" when URL/id matches digest |
+| **P1** | Tags/keywords chips (click → search) | ✅ Done | `matched_keywords` as filter links |
+| **P1** | GeekNews comments link | ✅ Done | When source is GeekNews, link to topic `#comments` |
+| **P1** | Per-article og:description + og:url | ✅ Done | `usePageMeta` with article type |
+| **P1** | Previous/next in archive | ⏳ Pending | Chronological nav within section or global feed |
+| **P1** | Reading time estimate | ⏳ Pending | ~200 wpm on summary length |
+| **P1** | Bookmark / save locally | ⏳ Pending | localStorage saved items list |
+| **P1** | Open in new tab vs in-app preference | ⏳ Pending | User setting for card click behavior |
+| **P2** | Comments / discussion embed | ⏳ Pending | GeekNews/HN comment counts; no backend for our own |
+| **P2** | Print-friendly view | ⏳ Pending | `@media print` stylesheet |
+| **P2** | JSON-LD structured data (Article) | ⏳ Pending | SEO for `/item/:id` in sitemap |
+| **P2** | og:image per article | ⏳ Pending | Branded fallback or source favicon |
+| **P2** | Duplicate/cluster detection UI | ⏳ Pending | "같은 주제" — same URL or title fuzzy match |
+| **P2** | Section navigation at bottom | ⏳ Pending | Prev/next in same section chips |
+| **P2** | Article pages in sitemap.xml | ⏳ Pending | Static generation or top-N items |
+| **P2** | Full article body (GeekNews GN+ style) | ⏳ Pending | Would need ingest of full text; summary only now |
+| **P2** | HN-style points/comments count | ⏳ Pending | Scrape or API for external sources |
+| **P2** | Related by co-occurrence in digest | ⏳ Pending | Items appearing same day/section in Top 7 |
+
+### Next loop priorities (Article Detail Page)
+
+1. **P1** Previous/next archive navigation
+2. **P1** Reading time estimate
+3. **P1** localStorage bookmarks
+4. **P2** JSON-LD + sitemap entries for `/item/:id`
+5. **P2** Duplicate/cluster "같은 주제" banner
+
+---
 
 ## P0 — High impact / broken
 
 | Item | Notes |
 |------|-------|
-| **Comments / discussion** | GeekNews has threaded comments & voting; we link out only |
+| **Comments / discussion** | GeekNews has threaded comments & voting; we link out only (detail page has GeekNews link) |
 | **User accounts & bookmarks** | No auth layer; would need backend or local-only bookmarks |
 | **GeekNews source in daily digest** | GeekNews in RSS list but often absent from Top 7 — tune scoring |
 | **Infinite scroll option** | Pagination works; optional infinite scroll for mobile feed |
@@ -19,7 +65,7 @@ Prioritized items for future UX/functionality rounds. Last updated: 2026-06-20.
 |------|-------|
 | **Mobile hamburger nav** | Horizontal scroll nav works; dedicated drawer for small screens |
 | **Keyboard shortcuts panel** | `/` search exists; add `?` help overlay, `j`/`k` item navigation |
-| **Share button per card** | Copy link + Web Share API for individual items |
+| **Share button per card** | Copy link + Web Share API for individual items (detail page done; cards pending) |
 | **Date archive deep pages SEO** | `/date/:date` not in sitemap; add dynamic sitemap generation |
 | **Source / section landing pages** | Routes exist (`/source/:slug`, `/section/:id`); add nav links & meta |
 | **Relative time SSR** | Client-only relative times; acceptable for static SPA |
@@ -52,7 +98,17 @@ Prioritized items for future UX/functionality rounds. Last updated: 2026-06-20.
 - Microsoft Teams Adaptive Card delivery
 - Multi-source aggregation beyond HN-style link board
 
-## Completed this round (2026-06-20)
+## Completed this round (2026-06-22)
+
+- **Article detail page** at `/item/:id` — wide layout, breadcrumb, back nav
+- **함께 보면 좋을 뉴스** — related items via section, keywords, fuse.js similarity
+- **More from source** sidebar + digest Top 7 badge (URL-matched)
+- **Share URL** — clipboard + Web Share API; per-article og meta
+- **NewsCard** titles link to detail page; 원문 remains external
+- Keyword chips → search; GeekNews comments link on detail page
+- IMPROVEMENT_BACKLOG.md Article Detail Page section with P0/P1/P2
+
+## Completed (2026-06-20)
 
 - Fixed `/feed` route shadowed by `feed/index.json` → moved to `data/feeds.json`
 - Search match highlighting in cards

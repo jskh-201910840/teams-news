@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import type { DigestItem } from "../lib/types";
 import {
   SOURCE_STYLES,
@@ -6,6 +7,7 @@ import {
   formatEngagement,
   formatRelativeTime,
 } from "../lib/types";
+import { itemDetailPath } from "../lib/archive";
 import { highlightText } from "../lib/highlight";
 import { Badge } from "../styleseed/components/ui/badge";
 import { cn } from "../styleseed/components/ui/utils";
@@ -44,14 +46,12 @@ export function NewsCard({
       </div>
 
       <h2 className="mb-2 text-base font-semibold leading-snug tracking-tight text-text-primary sm:text-lg">
-        <a
-          href={item.url}
-          target="_blank"
-          rel="noopener noreferrer"
+        <Link
+          to={itemDetailPath(item.id)}
           className="no-underline hover:text-brand"
         >
           {highlightText(title, highlightQuery)}
-        </a>
+        </Link>
       </h2>
 
       <p className="mb-4 flex-1 text-sm leading-relaxed text-text-tertiary line-clamp-3">

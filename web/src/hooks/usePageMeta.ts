@@ -7,6 +7,7 @@ const DEFAULT_DESC =
 interface PageMeta {
   title?: string;
   description?: string;
+  url?: string;
 }
 
 function setMeta(name: string, content: string, attr: "name" | "property" = "name") {
@@ -19,7 +20,7 @@ function setMeta(name: string, content: string, attr: "name" | "property" = "nam
   el.setAttribute("content", content);
 }
 
-export function usePageMeta({ title, description }: PageMeta) {
+export function usePageMeta({ title, description, url }: PageMeta) {
   useEffect(() => {
     const fullTitle = title ? `${title} · ${SITE}` : SITE;
     document.title = fullTitle;
@@ -28,9 +29,12 @@ export function usePageMeta({ title, description }: PageMeta) {
     setMeta("description", desc);
     setMeta("og:title", fullTitle, "property");
     setMeta("og:description", desc, "property");
-    setMeta("og:type", "website", "property");
+    setMeta("og:type", url ? "article" : "website", "property");
+    if (url) {
+      setMeta("og:url", url, "property");
+    }
     setMeta("twitter:card", "summary");
     setMeta("twitter:title", fullTitle);
     setMeta("twitter:description", desc);
-  }, [title, description]);
+  }, [title, description, url]);
 }
