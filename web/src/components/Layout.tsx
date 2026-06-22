@@ -33,14 +33,14 @@ export function Layout({ children }: { children: React.ReactNode }) {
 
       <header className="sticky top-0 z-50 overflow-visible border-b border-border bg-[color-mix(in_srgb,var(--surface-page)_88%,transparent)] backdrop-blur-md">
         <div className="relative mx-auto flex max-w-6xl flex-col gap-3 overflow-visible px-4 py-3 sm:px-6">
-          <div className="flex items-center justify-between gap-4">
+          <div className="relative z-20 flex items-center justify-between gap-4">
             <Link to="/" className="flex shrink-0 items-center gap-2 no-underline">
               <span className="text-lg font-semibold tracking-tight text-text-primary">
                 PIAI Teams News
               </span>
             </Link>
             <nav
-              className="scrollbar-hide flex items-center gap-1 overflow-x-auto sm:gap-3"
+              className="relative z-20 scrollbar-hide flex items-center gap-1 overflow-x-auto sm:gap-3"
               aria-label="주요 메뉴"
             >
               <NavLink to="/" end className={navLinkClass}>
@@ -71,7 +71,9 @@ export function Layout({ children }: { children: React.ReactNode }) {
               </button>
             </nav>
           </div>
-          <SearchBar compact />
+          <div className="relative z-10">
+            <SearchBar compact />
+          </div>
         </div>
       </header>
 

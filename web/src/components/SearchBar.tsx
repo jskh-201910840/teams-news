@@ -20,6 +20,7 @@ export function SearchBar({ className, compact }: SearchBarProps) {
   const location = useLocation();
   const navigate = useNavigate();
   const inputRef = useRef<HTMLInputElement>(null);
+  const prevPathRef = useRef(location.pathname);
   const urlQ = params.get("q") ?? "";
   const [inputValue, setInputValue] = useState(urlQ);
   const debouncedQ = useDebouncedValue(inputValue, DEBOUNCE_MS);
@@ -28,18 +29,23 @@ export function SearchBar({ className, compact }: SearchBarProps) {
   const [previewItems, setPreviewItems] = useState<SearchIndexItem[]>([]);
   const [previewLoading, setPreviewLoading] = useState(false);
 
-  const searchPath = location.pathname.includes("/feed") ? "/feed" : "/search";
-
   useEffect(() => {
     setRecent(loadRecentSearches());
   }, []);
 
-  // Sync URL → input only when the field is not focused (avoid clobbering in-progress typing).
+  // Sync URL → input on navigation; preserve in-progress typing on the same route.
   useEffect(() => {
+    const pathChanged = prevPathRef.current !== location.pathname;
+    prevPathRef.current = location.pathname;
+    if (pathChanged) {
+      setInputValue(urlQ);
+      setOpen(false);
+      return;
+    }
     const input = inputRef.current;
     if (input && document.activeElement === input) return;
     setInputValue(urlQ);
-  }, [urlQ]);
+  }, [urlQ, location.pathname]);
 
   const syncUrl = useCallback(
     (query: string, replace = true) => {
@@ -49,17 +55,18 @@ export function SearchBar({ className, compact }: SearchBarProps) {
       else next.delete("q");
       next.delete("page");
 
-      let targetPath = searchPath;
+      let targetPath = location.pathname;
       if (trimmed && location.pathname === "/") {
         targetPath = "/search";
       }
 
       const nextQ = next.get("q") ?? "";
-      if (nextQ === urlQ && targetPath === location.pathname) return;
+      const qs = next.toString();
+      if (nextQ === urlQ && targetPath === location.pathname && qs === params.toString()) return;
 
-      navigate(`${targetPath}?${next.toString()}`, { replace });
+      navigate(qs ? `${targetPath}?${qs}` : targetPath, { replace });
     },
-    [navigate, params, searchPath, location.pathname, urlQ],
+    [navigate, params, location.pathname, urlQ],
   );
 
   useEffect(() => {
@@ -125,7 +132,7 @@ export function SearchBar({ className, compact }: SearchBarProps) {
   const previewBusy = debouncePending || previewLoading;
 
   return (
-    <div className={cn("relative flex-1", className)}>
+    <div className={cn("relative", className)}>
       <form
         onSubmit={(e) => {
           e.preventDefault();
@@ -163,7 +170,7 @@ export function SearchBar({ className, compact }: SearchBarProps) {
       {showDropdown && (
         <div
           id="search-dropdown"
-          className="absolute left-0 right-0 top-full z-[60] mt-1 overflow-hidden rounded-lg border border-border bg-surface-page shadow-lg ring-1 ring-black/5"
+          className="absolute left-0 right-0 top-full z-10 mt-1 overflow-hidden rounded-lg border border-border bg-surface-page shadow-lg ring-1 ring-black/5"
           aria-label={showPreview ? "검색 미리보기" : "최근 검색"}
         >
           {showRecent && (
