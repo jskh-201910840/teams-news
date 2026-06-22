@@ -51,7 +51,7 @@ function SearchEmptyPrompt({ onSearch }: { onSearch: (q: string) => void }) {
     <div className="ss-card p-8 text-center">
       <p className="text-lg font-medium text-text-primary">검색어를 입력하세요</p>
       <p className="mt-2 text-sm text-text-tertiary">
-        상단 검색창에 키워드를 입력하면 결과가 바로 표시됩니다.
+        상단 검색창에 입력하면 Enter 없이 결과가 바로 표시됩니다.
       </p>
       {(recent.length > 0 || SEARCH_SUGGESTIONS.length > 0) && (
         <div className="mt-6 flex flex-wrap justify-center gap-2">

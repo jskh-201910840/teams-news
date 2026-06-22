@@ -34,7 +34,10 @@ export function SearchBar({ className, compact }: SearchBarProps) {
     setRecent(loadRecentSearches());
   }, []);
 
+  // Sync URL → input only when the field is not focused (avoid clobbering in-progress typing).
   useEffect(() => {
+    const input = inputRef.current;
+    if (input && document.activeElement === input) return;
     setInputValue(urlQ);
   }, [urlQ]);
 
@@ -64,7 +67,7 @@ export function SearchBar({ className, compact }: SearchBarProps) {
   }, [debouncedQ, syncUrl]);
 
   useEffect(() => {
-    if (!compact || !debouncedQ.trim()) {
+    if (!debouncedQ.trim()) {
       setPreviewItems([]);
       setPreviewLoading(false);
       return;
@@ -90,7 +93,7 @@ export function SearchBar({ className, compact }: SearchBarProps) {
     return () => {
       cancelled = true;
     };
-  }, [compact, debouncedQ]);
+  }, [debouncedQ]);
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
@@ -114,10 +117,12 @@ export function SearchBar({ className, compact }: SearchBarProps) {
     syncUrl(trimmed, false);
   };
 
-  const showRecent = open && !inputValue.trim() && recent.length > 0;
-  const showPreview =
-    compact && open && !!debouncedQ.trim() && (previewLoading || previewItems.length > 0);
+  const hasQuery = !!inputValue.trim();
+  const debouncePending = hasQuery && inputValue.trim() !== debouncedQ.trim();
+  const showRecent = open && !hasQuery && recent.length > 0;
+  const showPreview = open && hasQuery;
   const showDropdown = showRecent || showPreview;
+  const previewBusy = debouncePending || previewLoading;
 
   return (
     <div className={cn("relative flex-1", className)}>
@@ -133,7 +138,9 @@ export function SearchBar({ className, compact }: SearchBarProps) {
           name="q"
           value={inputValue}
           onChange={(e) => setInputValue(e.target.value)}
-          placeholder={compact ? "검색… (/)" : "제목·요약 검색 — LLM, RAG, Agent… ( / )"}
+          placeholder={
+            compact ? "입력하면 바로 검색됩니다 ( / )" : "입력하면 바로 검색됩니다 — LLM, RAG, Agent… ( / )"
+          }
           className={cn(
             "w-full rounded-lg border border-border bg-surface-subtle px-3 py-2 text-sm text-text-primary",
             "placeholder:text-text-disabled focus:border-brand focus:outline-none focus:ring-2 focus:ring-brand/30",
@@ -156,7 +163,7 @@ export function SearchBar({ className, compact }: SearchBarProps) {
       {showDropdown && (
         <div
           id="search-dropdown"
-          className="absolute left-0 right-0 top-full z-50 mt-1 overflow-hidden rounded-lg border border-border bg-surface-page shadow-lg ring-1 ring-black/5"
+          className="absolute left-0 right-0 top-full z-[60] mt-1 overflow-hidden rounded-lg border border-border bg-surface-page shadow-lg ring-1 ring-black/5"
           aria-label={showPreview ? "검색 미리보기" : "최근 검색"}
         >
           {showRecent && (
@@ -189,7 +196,7 @@ export function SearchBar({ className, compact }: SearchBarProps) {
                   미리보기
                 </span>
                 <Link
-                  to={`/search?q=${encodeURIComponent(debouncedQ.trim())}`}
+                  to={`/search?q=${encodeURIComponent(debouncedQ.trim() || inputValue.trim())}`}
                   className="text-[10px] font-medium text-brand no-underline hover:underline"
                   onMouseDown={(e) => e.preventDefault()}
                 >
@@ -200,8 +207,9 @@ export function SearchBar({ className, compact }: SearchBarProps) {
                 className="max-h-[min(70vh,32rem)] overflow-y-auto overscroll-contain divide-y divide-border"
                 role="listbox"
                 aria-label="검색 결과 미리보기"
+                aria-busy={previewBusy}
               >
-                {previewLoading ? (
+                {previewBusy ? (
                   Array.from({ length: 4 }, (_, i) => (
                     <div key={i} className="px-3 py-2.5" aria-hidden>
                       <div className="mb-2 flex gap-2">
@@ -212,7 +220,7 @@ export function SearchBar({ className, compact }: SearchBarProps) {
                       <div className="mt-1 h-4 w-4/5 animate-pulse rounded bg-surface-subtle" />
                     </div>
                   ))
-                ) : (
+                ) : previewItems.length > 0 ? (
                   previewItems.map((item, i) => (
                     <div key={item.id} role="option" onMouseDown={(e) => e.preventDefault()}>
                       <NewsCard
@@ -222,6 +230,10 @@ export function SearchBar({ className, compact }: SearchBarProps) {
                       />
                     </div>
                   ))
+                ) : (
+                  <p className="px-3 py-4 text-center text-sm text-text-tertiary">
+                    &ldquo;{debouncedQ.trim()}&rdquo;에 맞는 항목이 없습니다
+                  </p>
                 )}
               </div>
             </div>

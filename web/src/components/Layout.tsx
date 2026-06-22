@@ -31,8 +31,8 @@ export function Layout({ children }: { children: React.ReactNode }) {
         본문으로 건너뛰기
       </a>
 
-      <header className="sticky top-0 z-50 border-b border-border bg-[color-mix(in_srgb,var(--surface-page)_88%,transparent)] backdrop-blur-md">
-        <div className="mx-auto flex max-w-6xl flex-col gap-3 px-4 py-3 sm:px-6">
+      <header className="sticky top-0 z-50 overflow-visible border-b border-border bg-[color-mix(in_srgb,var(--surface-page)_88%,transparent)] backdrop-blur-md">
+        <div className="relative mx-auto flex max-w-6xl flex-col gap-3 overflow-visible px-4 py-3 sm:px-6">
           <div className="flex items-center justify-between gap-4">
             <Link to="/" className="flex shrink-0 items-center gap-2 no-underline">
               <span className="text-lg font-semibold tracking-tight text-text-primary">
