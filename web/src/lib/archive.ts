@@ -1,5 +1,6 @@
 import type { Digest, DigestItem } from "./types";
 import { SITE_BASE } from "./types";
+import { inferTags, inferTopics, sharedTopicReason } from "./topics";
 
 export interface ArchiveMeta {
   schema_version: number;
@@ -303,24 +304,48 @@ export async function resolveItem(
   return undefined;
 }
 
+export interface RelatedItem extends SearchIndexItem {
+  /** Korean label explaining why this item is related */
+  relatedReason: string;
+}
+
 export async function getRelatedItems(
   current: SearchIndexItem,
   allItems: SearchIndexItem[],
   limit = 6,
-): Promise<SearchIndexItem[]> {
-  const others = allItems.filter((i) => i.id !== current.id);
+): Promise<RelatedItem[]> {
+  const others = allItems.filter(
+    (i) => i.id !== current.id && i.url !== current.url,
+  );
   if (others.length === 0) return [];
 
+  const currentTopics = inferTopics(current);
+  const currentPrimary = currentTopics[0];
+  const currentTopicSet = new Set(currentTopics);
+  const currentTags = new Set(inferTags(current));
+
   const scores = new Map<string, number>();
-  const currentKeywords = new Set(current.matched_keywords ?? []);
 
   for (const item of others) {
     let score = 0;
-    if (item.sec === current.sec) score += 4;
-    if (item.src === current.src) score += 2;
-    for (const kw of item.matched_keywords ?? []) {
-      if (currentKeywords.has(kw)) score += 2;
+    const itemTopics = inferTopics(item);
+    const itemPrimary = itemTopics[0];
+
+    if (currentPrimary && itemPrimary === currentPrimary) {
+      score += 40;
     }
+    for (const topicId of itemTopics) {
+      if (topicId !== itemPrimary && currentTopicSet.has(topicId)) {
+        score += 15;
+      }
+    }
+
+    for (const tag of inferTags(item)) {
+      if (currentTags.has(tag)) score += 5;
+    }
+
+    if (item.sec === current.sec) score += 4;
+
     if (score > 0) scores.set(item.id, score);
   }
 
@@ -336,18 +361,45 @@ export async function getRelatedItems(
     ignoreLocation: true,
   });
   const query = `${current.t} ${current.s}`.trim();
-  for (const result of fuse.search(query, { limit: 20 })) {
+  for (const result of fuse.search(query, { limit: 30 })) {
     const { item, score: fuseScore = 1 } = result;
     const similarity = Math.max(0, 1 - fuseScore);
     const existing = scores.get(item.id) ?? 0;
     scores.set(item.id, existing + similarity * 5);
   }
 
-  return [...scores.entries()]
+  const ranked = [...scores.entries()]
     .sort((a, b) => b[1] - a[1])
-    .slice(0, limit)
-    .map(([id]) => others.find((i) => i.id === id)!)
-    .filter(Boolean);
+    .map(([id, score]) => ({ item: others.find((i) => i.id === id)!, score }))
+    .filter((r) => r.item);
+
+  const minCount = Math.min(limit, Math.max(4, Math.min(6, ranked.length)));
+  const picked: RelatedItem[] = [];
+  const usedSources = new Set<string>();
+
+  for (const { item, score } of ranked) {
+    if (picked.length >= minCount) break;
+    const sourcePenalty = usedSources.has(item.src) ? 3 : 0;
+    if (picked.length >= 4 && sourcePenalty > 0 && score < 20) continue;
+    picked.push({
+      ...item,
+      relatedReason: sharedTopicReason(current, item) ?? "유사 주제",
+    });
+    usedSources.add(item.src);
+  }
+
+  if (picked.length < minCount) {
+    for (const { item } of ranked) {
+      if (picked.length >= minCount) break;
+      if (picked.some((p) => p.id === item.id)) continue;
+      picked.push({
+        ...item,
+        relatedReason: sharedTopicReason(current, item) ?? "유사 주제",
+      });
+    }
+  }
+
+  return picked.slice(0, limit);
 }
 
 export function getMoreFromSource(

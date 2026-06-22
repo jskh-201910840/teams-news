@@ -1,10 +1,10 @@
 import { Link } from "react-router-dom";
 import { itemDetailPath, toDigestItem } from "../lib/archive";
-import type { SearchIndexItem } from "../lib/archive";
+import type { RelatedItem } from "../lib/archive";
 import { SOURCE_STYLES, displayTitle, formatEngagement } from "../lib/types";
 import { Badge } from "../styleseed/components/ui/badge";
 
-export function RelatedNewsCard({ item }: { item: SearchIndexItem }) {
+export function RelatedNewsCard({ item }: { item: RelatedItem }) {
   const digestItem = toDigestItem(item, 0);
   const style = SOURCE_STYLES[item.source] ?? { color: "#8a8f98", icon: "📌" };
   const engagement = formatEngagement(digestItem);
@@ -30,7 +30,15 @@ export function RelatedNewsCard({ item }: { item: SearchIndexItem }) {
       <h3 className="ss-text-ko text-pretty line-clamp-2 flex-1 text-sm font-semibold leading-snug text-text-primary">
         {title}
       </h3>
-      <span className="text-xs text-text-disabled">{item.section}</span>
+      <div className="flex flex-wrap items-center gap-2">
+        <Badge
+          variant="outline"
+          className="border-brand/30 bg-brand-tint/50 text-[10px] font-medium text-brand"
+        >
+          {item.relatedReason}
+        </Badge>
+        <span className="text-xs text-text-disabled">{item.section}</span>
+      </div>
     </Link>
   );
 }

@@ -13,7 +13,7 @@ Research reference: [GeekNews](https://news.hada.io) topic pages (related posts,
 | **P0** | Route `/item/:id` — wide reading layout | ✅ Done | React Router + GitHub Pages 404.html SPA pattern |
 | **P0** | Title, source badge, date, section, engagement metrics | ✅ Done | Stars/Upvotes/Points on detail header |
 | **P0** | Korean summary + `[원문 보기]` link | ✅ Done | Full summary (no line-clamp), external link |
-| **P0** | Related news — "함께 보면 좋을 뉴스" | ✅ Done | Section + keywords + fuse.js title/summary similarity |
+| **P0** | Related news — "함께 보면 좋을 뉴스" | ✅ Done | Topic taxonomy + tag overlap + section + fuse.js tiebreaker |
 | **P0** | Back navigation + breadcrumb | ✅ Done | 홈 → 피드 → 섹션 trail + 뒤로 button |
 | **P0** | Share URL (copy link / Web Share API) | ✅ Done | Per-article detail page URL |
 | **P0** | Mobile responsive wide card | ✅ Done | max-w-3xl article, stacked sidebar |
@@ -31,7 +31,7 @@ Research reference: [GeekNews](https://news.hada.io) topic pages (related posts,
 | **P2** | Print-friendly view | ⏳ Pending | `@media print` stylesheet |
 | **P2** | JSON-LD structured data (Article) | ⏳ Pending | SEO for `/item/:id` in sitemap |
 | **P2** | og:image per article | ⏳ Pending | Branded fallback or source favicon |
-| **P2** | Duplicate/cluster detection UI | ⏳ Pending | "같은 주제" — same URL or title fuzzy match |
+| **P2** | Duplicate/cluster detection UI | ⏳ Pending | "같은 주제" — same URL or title fuzzy match (partial: topic badges on related cards) |
 | **P2** | Section navigation at bottom | ⏳ Pending | Prev/next in same section chips |
 | **P2** | Article pages in sitemap.xml | ⏳ Pending | Static generation or top-N items |
 | **P2** | Full article body (GeekNews GN+ style) | ⏳ Pending | Would need ingest of full text; summary only now |
@@ -44,7 +44,14 @@ Research reference: [GeekNews](https://news.hada.io) topic pages (related posts,
 2. **P1** Reading time estimate
 3. **P1** localStorage bookmarks
 4. **P2** JSON-LD + sitemap entries for `/item/:id`
-5. **P2** Duplicate/cluster "같은 주제" banner
+5. **P2** Duplicate/cluster "같은 주제" banner (topic inference exists; cluster UI pending)
+
+### Related news taxonomy (2026-06-22)
+
+- ✅ **Done:** `web/src/lib/topics.ts` — keyword-pattern classifier (16 categories, entity tags)
+- ✅ **Done:** `getRelatedItems()` scores primary topic → tag overlap → section → fuse.js
+- ✅ **Done:** Related card topic badge + article "이 글의 주제" chips
+- ⏳ **Future:** ML embedding similarity, user feedback on related quality, Python-side topic at ingest
 
 ---
 
@@ -100,8 +107,9 @@ Research reference: [GeekNews](https://news.hada.io) topic pages (related posts,
 
 ## Completed this round (2026-06-22)
 
+- **Related news taxonomy** — topic classifier (`topics.ts`), improved scoring, Korean topic badges
 - **Article detail page** at `/item/:id` — wide layout, breadcrumb, back nav
-- **함께 보면 좋을 뉴스** — related items via section, keywords, fuse.js similarity
+- **함께 보면 좋을 뉴스** — same-topic recommendations via taxonomy (not loose similarity only)
 - **More from source** sidebar + digest Top 7 badge (URL-matched)
 - **Share URL** — clipboard + Web Share API; per-article og meta
 - **NewsCard** titles link to detail page; 원문 remains external

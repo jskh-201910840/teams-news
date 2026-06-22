@@ -10,7 +10,8 @@ import {
   itemDetailPath,
   toDigestItem,
 } from "../lib/archive";
-import type { SearchIndexItem } from "../lib/archive";
+import type { RelatedItem, SearchIndexItem } from "../lib/archive";
+import { topicsForItem } from "../lib/topics";
 import {
   SITE_BASE,
   SOURCE_STYLES,
@@ -42,7 +43,7 @@ export function ArticlePage() {
   const { id = "" } = useParams();
   const navigate = useNavigate();
   const [item, setItem] = useState<SearchIndexItem | null>(null);
-  const [related, setRelated] = useState<SearchIndexItem[]>([]);
+  const [related, setRelated] = useState<RelatedItem[]>([]);
   const [fromSource, setFromSource] = useState<SearchIndexItem[]>([]);
   const [inDigest, setInDigest] = useState<{ date: string; index: number } | null>(null);
   const [loading, setLoading] = useState(true);
@@ -150,6 +151,7 @@ export function ArticlePage() {
   const style = SOURCE_STYLES[item.source] ?? { color: "#8a8f98", icon: "📌" };
   const engagement = formatEngagement(digestItem);
   const commentsUrl = item.source === "GeekNews" ? geekNewsCommentsUrl(item.url) : null;
+  const articleTopics = topicsForItem(item);
 
   return (
     <div className="min-w-0 space-y-6">
@@ -228,17 +230,35 @@ export function ArticlePage() {
             {summary}
           </p>
 
-          {item.matched_keywords.length > 0 && (
-            <div className="flex flex-wrap gap-2">
-              {item.matched_keywords.map((kw) => (
-                <Link
-                  key={kw}
-                  to={`/search?q=${encodeURIComponent(kw)}`}
-                  className="ss-chip text-xs no-underline"
-                >
-                  {kw}
-                </Link>
-              ))}
+          {(articleTopics.length > 0 || item.matched_keywords.length > 0) && (
+            <div className="space-y-2">
+              {articleTopics.length > 0 && (
+                <div className="flex flex-wrap items-center gap-2">
+                  <span className="text-xs font-medium text-text-tertiary">이 글의 주제</span>
+                  {articleTopics.map((topic) => (
+                    <Link
+                      key={topic.id}
+                      to={`/search?q=${encodeURIComponent(topic.labelKo)}`}
+                      className="ss-chip ss-chip-active text-xs no-underline"
+                    >
+                      {topic.labelKo}
+                    </Link>
+                  ))}
+                </div>
+              )}
+              {item.matched_keywords.length > 0 && (
+                <div className="flex flex-wrap gap-2">
+                  {item.matched_keywords.map((kw) => (
+                    <Link
+                      key={kw}
+                      to={`/search?q=${encodeURIComponent(kw)}`}
+                      className="ss-chip text-xs no-underline"
+                    >
+                      {kw}
+                    </Link>
+                  ))}
+                </div>
+              )}
             </div>
           )}
 
