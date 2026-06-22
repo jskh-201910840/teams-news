@@ -5,9 +5,45 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 23 Jun 2026 05:51:42 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 07:48:33 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>[6월22일] "내 치즈를 옮긴 것은 챗GPT"… 종이책에서 AI로 이동하는 '조언 산업'</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=211972</link>
+      <description>AI의 급격한 발전과 간편한 요약 기능이 자기계발서 판매 감소의 원인 중 하나라는 분석이 나왔습니다.</description>
+      <pubDate>Tue, 23 Jun 2026 07:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=211972">AI Times</source>
+      <guid isPermaLink="false">0eeae2c4d1656ad73f4e6ce7644452ef</guid>
+    </item>
+    <item>
+      <title>AgentSpace: 사람과 AI 에이전트가 한 팀으로 일하는 협업 워크스페이스 (feat. HKUDS)</title>
+      <link>https://discuss.pytorch.kr/t/agentspace-ai-feat-hkuds/10868</link>
+      <description>AgentSpace 소개 AgentSpace는 사람과 AI 에이전트가 하나의 워크스페이스에서 한 팀으로 일하도록 설계된 에이전트 협업 플랫폼입니다. 에이전트가 점점 똑똑해지고 있지만, 대부분의 에이전트 도구는 여전히 한 사람이 터미널 하나에서 단발성으로 쓰는 형태에 머물러 있습니다.</description>
+      <pubDate>Tue, 23 Jun 2026 06:30:09 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/agentspace-ai-feat-hkuds/10868">PyTorch Korea</source>
+      <guid isPermaLink="false">0a1e8bdeed4f56270dfda2a2e0ac8b45</guid>
+    </item>
+    <item>
+      <title>피임약이 폭식 위험 높인다…호르몬 변화가 식사 행동에 영향</title>
+      <link>https://www.etnews.com/20260622000364</link>
+      <description>일반적으로 사용되는 경구 피임제가 폭식과 관련이 있을 수 있다는 연구 결과가 나왔다. 17일(현지시간) 뉴욕포스트는 미시간주립대학교 연구팀의 연구를 인용해 경구용 피임제가 식사 행동 변화에 영향을 미칠 가능성이 확인됐다고 전했다. 경구 피임제는 여성들이 널리 이용하는 피임 수단 중 하나로, 호르몬 성분이 포함된 약과 호르몬이 들어 있지 않은 위약 형태로 구성된다.</description>
+      <pubDate>Tue, 23 Jun 2026 06:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260622000364">전자신문 IT</source>
+      <guid isPermaLink="false">9cb543d476391f84628d9f56c2677b28</guid>
+    </item>
+    <item>
+      <title>언제, 어디서, 어떻게: 테이블 형식 자기 지도 학습을 위한 적응형 비닝</title>
+      <link>https://huggingface.co/papers/2606.19827</link>
+      <description>적응형 비닝(Adaptive Binning)은 의료 테이블 형식 데이터에 대한 자기 지도 학습을 위한 훈련-적응 이산화 방법을 도입하여 특징별 개선 및 이종 특징 처리를 통해 표현 학습을 개선합니다.</description>
+      <pubDate>Mon, 22 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.19827">Hugging Face Papers</source>
+      <guid isPermaLink="false">076a576bcbdc9ccb3fd20658703d9cc9</guid>
+    </item>
     <item>
       <title>SantanderAI/sota-stressed-datasets — ML/LLM 견고성을 평가하기 위해 스트레스 형식으로 다시 게시된 공개 벤치마크 데이터세트입니다. 산타가 큐레이팅함</title>
       <link>https://github.com/SantanderAI/sota-stressed-datasets</link>
@@ -421,42 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260622000126">전자신문 IT</source>
       <guid isPermaLink="false">16b34706ac9f6123dbff7b5e6483f713</guid>
-    </item>
-    <item>
-      <title>예제를 작업 지침으로 추출: 실제 B2B 대화를 위한 향상된 상황 내 학습</title>
-      <link>https://huggingface.co/papers/2606.15641</link>
-      <description>컨텍스트 길이가 늘어남에 따라 성능을 개선하고 견고성을 유지하면서 토큰 사용량을 99%까지 줄이는 B2B 대화 분류를 위한 새로운 접근 방식입니다.</description>
-      <pubDate>Mon, 22 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.15641">Hugging Face Papers</source>
-      <guid isPermaLink="false">2acb796d37ae430bd2ee2ffe9df48448</guid>
-    </item>
-    <item>
-      <title>raiyanyahya/recall — 토큰을 낭비하지 말고 매 세션마다 프로젝트를 다시 설명하세요. 회상은 Claude Code의 내구성을 높여줍니다.</title>
-      <link>https://github.com/raiyanyahya/recall</link>
-      <description>토큰을 낭비하지 말고 매 세션마다 프로젝트를 다시 설명하세요. Recall은 Claude Code의 내구성 있는 메모리를 완전히 오프라인으로 제공합니다.</description>
-      <pubDate>Mon, 22 Jun 2026 08:04:56 +0900</pubDate>
-      <category>trending</category>
-      <source url="https://github.com/raiyanyahya/recall">GitHub Trending</source>
-      <guid isPermaLink="false">59bd03a59046a73ecd6b54aba4d65103</guid>
-    </item>
-    <item>
-      <title>llm-wiki: Karpathy의 방법론으로 흩어진 정보를 지식 그래프로 키우는 에이전트 스킬</title>
-      <link>https://discuss.pytorch.kr/t/llm-wiki-karpathy/10843</link>
-      <description>llm-wiki 소개 논문, 블로그 글, 트윗, 메모처럼 매일 접하는 정보는 대개 한 번 읽고 흩어집니다. 필요할 때마다 다시 검색하고 같은 자료를 또 읽지만, 정작 그 사이의 연결은 머릿속에만 남습니다. llm-wiki는 이런 파편화된 정보를 한 번 정제해 두고 계속 이어 붙이는 개인 지식 베이스로 바꾸는 에이전트 스킬입니다.</description>
-      <pubDate>Mon, 22 Jun 2026 08:30:41 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/llm-wiki-karpathy/10843">PyTorch Korea</source>
-      <guid isPermaLink="false">6e2facea736f53d658d3e5f7d8e87937</guid>
-    </item>
-    <item>
-      <title>[2026/06/15 ~ 21] 이번 주에 살펴볼 만한 AI/ML 논문 모음</title>
-      <link>https://discuss.pytorch.kr/t/2026-06-15-21-ai-ml/10844</link>
-      <description>[2026/06/15 ~ 21] 이번 주에 살펴볼 만한 AI/ML 논문 모음 PyTorchKR​ 이번 주에 선정된 10편의 논문을 살펴보면, 에이전트의 기억, 실행 하네스, 점진적 추론, 자동화된 피드백 루프를 중심으로, LLM을 단순 생성기가 아니라 지속적으로 학습하고 수정되는 시스템 으로 다루고 있습니다.</description>
-      <pubDate>Mon, 22 Jun 2026 06:30:07 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/2026-06-15-21-ai-ml/10844">PyTorch Korea</source>
-      <guid isPermaLink="false">fbc7fe8a324c4aea2697ab548feb131f</guid>
     </item>
   </channel>
 </rss>

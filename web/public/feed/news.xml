@@ -5,9 +5,27 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 23 Jun 2026 05:51:42 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 07:48:33 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>[6월22일] "내 치즈를 옮긴 것은 챗GPT"… 종이책에서 AI로 이동하는 '조언 산업'</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=211972</link>
+      <description>AI의 급격한 발전과 간편한 요약 기능이 자기계발서 판매 감소의 원인 중 하나라는 분석이 나왔습니다.</description>
+      <pubDate>Tue, 23 Jun 2026 07:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=211972">AI Times</source>
+      <guid isPermaLink="false">0eeae2c4d1656ad73f4e6ce7644452ef</guid>
+    </item>
+    <item>
+      <title>피임약이 폭식 위험 높인다…호르몬 변화가 식사 행동에 영향</title>
+      <link>https://www.etnews.com/20260622000364</link>
+      <description>일반적으로 사용되는 경구 피임제가 폭식과 관련이 있을 수 있다는 연구 결과가 나왔다. 17일(현지시간) 뉴욕포스트는 미시간주립대학교 연구팀의 연구를 인용해 경구용 피임제가 식사 행동 변화에 영향을 미칠 가능성이 확인됐다고 전했다. 경구 피임제는 여성들이 널리 이용하는 피임 수단 중 하나로, 호르몬 성분이 포함된 약과 호르몬이 들어 있지 않은 위약 형태로 구성된다.</description>
+      <pubDate>Tue, 23 Jun 2026 06:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260622000364">전자신문 IT</source>
+      <guid isPermaLink="false">9cb543d476391f84628d9f56c2677b28</guid>
+    </item>
     <item>
       <title>AI가 도운 기적… 머리 붙은 샴쌍둥이, '40시간 대수술' 끝에 분리 성공</title>
       <link>https://www.etnews.com/20260622000385</link>

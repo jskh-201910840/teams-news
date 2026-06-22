@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/community.xml</link>
     <description>💬 Community — PyTorch Korea discussions</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 23 Jun 2026 05:51:42 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 07:48:33 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>AgentSpace: 사람과 AI 에이전트가 한 팀으로 일하는 협업 워크스페이스 (feat. HKUDS)</title>
+      <link>https://discuss.pytorch.kr/t/agentspace-ai-feat-hkuds/10868</link>
+      <description>AgentSpace 소개 AgentSpace는 사람과 AI 에이전트가 하나의 워크스페이스에서 한 팀으로 일하도록 설계된 에이전트 협업 플랫폼입니다. 에이전트가 점점 똑똑해지고 있지만, 대부분의 에이전트 도구는 여전히 한 사람이 터미널 하나에서 단발성으로 쓰는 형태에 머물러 있습니다.</description>
+      <pubDate>Tue, 23 Jun 2026 06:30:09 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/agentspace-ai-feat-hkuds/10868">PyTorch Korea</source>
+      <guid isPermaLink="false">0a1e8bdeed4f56270dfda2a2e0ac8b45</guid>
+    </item>
     <item>
       <title>MOSS-TTS-Local-Transformer-v1.5, 로컬 서빙에 최적화된 48kHz 스트리밍 TTS 모델 (feat. SGLang-Omni)</title>
       <link>https://discuss.pytorch.kr/t/moss-tts-local-transformer-v1-5-48khz-tts-feat-sglang-omni/10836</link>

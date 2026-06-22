@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/papers.xml</link>
     <description>📄 Papers — AI research from Hugging Face Daily Papers</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 23 Jun 2026 05:51:42 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 07:48:33 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>언제, 어디서, 어떻게: 테이블 형식 자기 지도 학습을 위한 적응형 비닝</title>
+      <link>https://huggingface.co/papers/2606.19827</link>
+      <description>적응형 비닝(Adaptive Binning)은 의료 테이블 형식 데이터에 대한 자기 지도 학습을 위한 훈련-적응 이산화 방법을 도입하여 특징별 개선 및 이종 특징 처리를 통해 표현 학습을 개선합니다.</description>
+      <pubDate>Mon, 22 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.19827">Hugging Face Papers</source>
+      <guid isPermaLink="false">076a576bcbdc9ccb3fd20658703d9cc9</guid>
+    </item>
     <item>
       <title>웹 규모 LLM 사전 학습 데이터에서 내러티브 콘텐츠 특성화</title>
       <link>https://huggingface.co/papers/2606.19468</link>
