@@ -5,9 +5,27 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/trending.xml</link>
     <description>🔥 Trending — GitHub ML/AI repositories</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 22 Jun 2026 21:52:13 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 02:45:13 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>SantanderAI/llm_bridge — 공급업체 중립적인 소형 LLM 클라이언트 라이브러리 — Op용 플러그형 어댑터가 포함된 단일 인터페이스(LLMClient)</title>
+      <link>https://github.com/SantanderAI/llm_bridge</link>
+      <description>공급업체 중립적인 작은 LLM 클라이언트 라이브러리 - OpenAI, AWS Bedrock 및 Google Gemini용 플러그형 어댑터가 포함된 하나의 인터페이스(LLMClient) 또는 자체 백엔드 가져오기.</description>
+      <pubDate>Sun, 21 Jun 2026 20:36:26 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/SantanderAI/llm_bridge">GitHub Trending</source>
+      <guid isPermaLink="false">0b306f39efb8adde15472de405b9aec8</guid>
+    </item>
+    <item>
+      <title>SantanderAI/ralph — 매 반복마다 새로운 세션으로 AI 코딩 CLI를 실행하는 구성 가능한 Bash/PowerShell 루프</title>
+      <link>https://github.com/SantanderAI/ralph</link>
+      <description>반복할 때마다 새로운 세션으로 AI 코딩 CLI를 실행하는 구성 가능한 Bash/PowerShell 루프</description>
+      <pubDate>Sun, 21 Jun 2026 20:35:49 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/SantanderAI/ralph">GitHub Trending</source>
+      <guid isPermaLink="false">c110093038ad44a6dc6196262e55d4a2</guid>
+    </item>
     <item>
       <title>dvbs2000/visible-ai — Visible AI · The Visible AI — 완전히 그림이 그려져 있고 제로 기반의 실습형 AI 일반 지식 서적이며 영구 무료입니다. 30개 장/6개 단계로 구성된 Yuanyuan × Xiaoman은 뉴런에서 AI 애플리케이션을 직접 구축하는 단계까지 안내합니다.</title>
       <link>https://github.com/dvbs2000/visible-ai</link>

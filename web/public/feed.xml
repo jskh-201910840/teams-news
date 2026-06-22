@@ -5,9 +5,81 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 22 Jun 2026 21:52:13 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 02:45:13 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>SantanderAI/llm_bridge — 공급업체 중립적인 소형 LLM 클라이언트 라이브러리 — Op용 플러그형 어댑터가 포함된 단일 인터페이스(LLMClient)</title>
+      <link>https://github.com/SantanderAI/llm_bridge</link>
+      <description>공급업체 중립적인 작은 LLM 클라이언트 라이브러리 - OpenAI, AWS Bedrock 및 Google Gemini용 플러그형 어댑터가 포함된 하나의 인터페이스(LLMClient) 또는 자체 백엔드 가져오기.</description>
+      <pubDate>Sun, 21 Jun 2026 20:36:26 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/SantanderAI/llm_bridge">GitHub Trending</source>
+      <guid isPermaLink="false">0b306f39efb8adde15472de405b9aec8</guid>
+    </item>
+    <item>
+      <title>AI가 도운 기적… 머리 붙은 샴쌍둥이, '40시간 대수술' 끝에 분리 성공</title>
+      <link>https://www.etnews.com/20260622000385</link>
+      <description>머리가 붙은 채 태어난 결합쌍둥이(샴쌍둥이) 자매가 인공지능(AI) 기술을 활용한 획기적인 수술 끝에 성공적으로 분리됐다. 최근 미국 피플지에 따르면, 영국 비영리 단체 제미니 언트윈드는 머리 일부를 공유한 채 태어난 쌍둥이 자매 머시와 굿니스가 아랍에미리트(UAE) 아부다비의 SEHA 셰이크 칼리파 의료도시에서 4개월에 걸친 여러 단계의 수술 끝에 분리됐다고 밝혔다.</description>
+      <pubDate>Mon, 22 Jun 2026 22:30:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260622000385">전자신문 IT</source>
+      <guid isPermaLink="false">5dfd371e3f7044c356c566a4ead01194</guid>
+    </item>
+    <item>
+      <title>헬리콥터 동력전달 4개 부품 원천기술 국산화…"성능 샤프란 수준"</title>
+      <link>https://zdnet.co.kr/view/?no=20260622222322</link>
+      <description>[지디넷코리아]헬리콥터 동력장치인 회전익기 동력전달장치 4대 핵심부품과 관련한 원천기술이 국산화됐다.한국기계연구원은 이한민 가상공학플랫폼연구본부 산업기계DX연구실장 연구팀이 클러치와 기어, 하우징, 베어링 기술 개발에 성공했다고 23일 밝혔다.동력전달장치는 회전익기 엔진 동력을 로터(프로펠러처럼 도는 날개)에 전달하는 핵심 장치다.</description>
+      <pubDate>Mon, 22 Jun 2026 22:23:22 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260622222322">ZDNet Korea</source>
+      <guid isPermaLink="false">055b91ee4431c97b1b7fe1f081f72d50</guid>
+    </item>
+    <item>
+      <title>요즘 작품 이미지의 LLM 학습 방해 방법은?</title>
+      <link>https://news.hada.io/topic?id=30731</link>
+      <description>한 사용자는 아내가 자신의 작품 이미지 가 LLM 학습에 쓰이는 것을 원치 않아 온라인 공개를 망설이고 있다고 밝힘 질문의 핵심은 이미지를 사전에 처리해 LLM 학습을 방해 하는 라이브러리나 방법이 현재 실용적인지임 사용자는 아내를 위한 맞춤...</description>
+      <pubDate>Tue, 23 Jun 2026 00:01:08 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30731">GeekNews</source>
+      <guid isPermaLink="false">b5eca30dde92c8947819594b6332173d</guid>
+    </item>
+    <item>
+      <title>SantanderAI/ralph — 매 반복마다 새로운 세션으로 AI 코딩 CLI를 실행하는 구성 가능한 Bash/PowerShell 루프</title>
+      <link>https://github.com/SantanderAI/ralph</link>
+      <description>반복할 때마다 새로운 세션으로 AI 코딩 CLI를 실행하는 구성 가능한 Bash/PowerShell 루프</description>
+      <pubDate>Sun, 21 Jun 2026 20:35:49 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/SantanderAI/ralph">GitHub Trending</source>
+      <guid isPermaLink="false">c110093038ad44a6dc6196262e55d4a2</guid>
+    </item>
+    <item>
+      <title>StylisticBias: 소수의 인간 시각적 단서가 MLLM에서 대부분의 사회적 편견을 유발합니다</title>
+      <link>https://huggingface.co/papers/2606.20527</link>
+      <description>다중 모드 대형 언어 모델은 패션 스타일과 사회 경제적 단서가 모델 판단에 가장 큰 영향을 미치는 특정 시각적 속성에 의해 주도되는 사회적 편견을 나타냅니다.</description>
+      <pubDate>Mon, 22 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.20527">Hugging Face Papers</source>
+      <guid isPermaLink="false">84112d1b388b0fe46ecb7de5ffd71a31</guid>
+    </item>
+    <item>
+      <title>SproutRAG: 긴 문서 RAG에 대한 프로그레시브 임베딩을 사용한 주의 기반 트리 검색</title>
+      <link>https://huggingface.co/papers/2606.18381</link>
+      <description>SproutRAG는 학습된 문장 간 주의를 사용하여 문장 수준 청크를 의미상 일관된 단위로 구성하고 다중 과립을 가능하게 하는 주의 기반 계층 검색 증강 생성 프레임워크입니다.</description>
+      <pubDate>Mon, 22 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.18381">Hugging Face Papers</source>
+      <guid isPermaLink="false">f697b28f34b53bc9d816247ed0e6e0f7</guid>
+    </item>
+    <item>
+      <title>MCompassRAG: 단락 수준 검색을 위한 의미론적 나침반으로서의 주제 메타데이터</title>
+      <link>https://huggingface.co/papers/2606.18508</link>
+      <description>MCompassRAG는 주제 수준 메타데이터를 사용하여 청크 선택을 안내함으로써 검색 증강 생성을 향상시켜 복잡한 연구 작업의 효율성과 정확성을 모두 향상시킵니다.</description>
+      <pubDate>Mon, 22 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.18508">Hugging Face Papers</source>
+      <guid isPermaLink="false">dcc1fc095ba97917cd618b79042c3771</guid>
+    </item>
     <item>
       <title>앤트로픽 "클로드 오퍼스 4.7, 인간보다 37배 빠르게 로봇 제어 수행"</title>
       <link>https://www.aitimes.com/news/articleView.html?idxno=211969</link>
@@ -385,78 +457,6 @@
       <category>trending</category>
       <source url="https://github.com/HunterDevops/cs2-training-toolkit">GitHub Trending</source>
       <guid isPermaLink="false">e900b77742090dec7e06315068c831da</guid>
-    </item>
-    <item>
-      <title>huluobo2237-pixel/JobCopilot — LLM 기반 지능형 구직 도우미: AI 채용 정보 매칭 + 수천 개의 채용 정보 인사말 + 자동 전달(Edge/Chrome 확장)</title>
-      <link>https://github.com/huluobo2237-pixel/JobCopilot</link>
-      <description>LLM 기반 지능형 취업지원 : AI 채용 매칭 + 수천개 ​​채용 인사 인사 + 자동 전달 (Edge/Chrome 확장)</description>
-      <pubDate>Thu, 18 Jun 2026 14:36:45 +0900</pubDate>
-      <category>trending</category>
-      <source url="https://github.com/huluobo2237-pixel/JobCopilot">GitHub Trending</source>
-      <guid isPermaLink="false">1a1866292b338c1fcf4db24634adb2cb</guid>
-    </item>
-    <item>
-      <title>ashhart/TensorFold — Mac에서 일반적으로 실행할 수 없는 MLX를 통해 Apple Silicon에서 MoE LLM을 실행합니다.</title>
-      <link>https://github.com/ashhart/TensorFold</link>
-      <description>Mac에서 일반적으로 실행할 수 없는 MLX를 통해 Apple Silicon에서 MoE LLM을 실행하세요.</description>
-      <pubDate>Sat, 20 Jun 2026 12:03:23 +0900</pubDate>
-      <category>trending</category>
-      <source url="https://github.com/ashhart/TensorFold">GitHub Trending</source>
-      <guid isPermaLink="false">dec6612ec0bc41e7caec59320d4ed029</guid>
-    </item>
-    <item>
-      <title>Liquid AI, 엣지용 350M 모델 LFM2.5와 다국어 검색 리트리버 LFM2.5 Retrievers 공개</title>
-      <link>https://discuss.pytorch.kr/t/liquid-ai-350m-lfm2-5-lfm2-5-retrievers/10808</link>
-      <description>LFM2.5와 LFM2.5 Retrievers 소개 Liquid AI 가 2026년 들어 엣지(edge) 환경을 겨냥한 소형 모델 제품군을 빠르게 확장하고 있습니다.</description>
-      <pubDate>Sun, 21 Jun 2026 18:30:12 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/liquid-ai-350m-lfm2-5-lfm2-5-retrievers/10808">PyTorch Korea</source>
-      <guid isPermaLink="false">bbb28f75b3f7430812cdcc0eec561404</guid>
-    </item>
-    <item>
-      <title>dynamiq-ai/pragmatiq</title>
-      <link>https://github.com/dynamiq-ai/pragmatiq</link>
-      <description>자금 세탁 방지, 은행 업무, 행동 모델링, 이탈 예측, 신용 평가</description>
-      <pubDate>Sun, 21 Jun 2026 00:23:27 +0900</pubDate>
-      <category>trending</category>
-      <source url="https://github.com/dynamiq-ai/pragmatiq">GitHub Trending</source>
-      <guid isPermaLink="false">878e647707e1c0b8f7460422709bb02b</guid>
-    </item>
-    <item>
-      <title>claude-peers: 여러 Claude Code 인스턴스가 서로 메시지를 주고받는 MCP 서버</title>
-      <link>https://discuss.pytorch.kr/t/claude-peers-claude-code-mcp/10755</link>
-      <description>claude-peers 소개 claude-peers는 같은 컴퓨터에서 실행 중인 여러 Claude Code 인스턴스가 서로를 발견하고 메시지를 주고받게 해 주는 MCP 서버입니다. 서로 다른 프로젝트에서 다섯 개의 세션을 띄워 작업할 때, 각 Claude가 다른 세션을 찾아 즉시 메시지를 보낼 수 있습니다.</description>
-      <pubDate>Sun, 21 Jun 2026 16:30:42 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/claude-peers-claude-code-mcp/10755">PyTorch Korea</source>
-      <guid isPermaLink="false">2ac38d66ac2bfe36edb93f42bd90d5a6</guid>
-    </item>
-    <item>
-      <title>중기중앙회, LG CNS·메가존과 손잡고 중소제조업 AX 지원…최대 18억원 지원</title>
-      <link>https://www.etnews.com/20260621000013</link>
-      <description>중소기업중앙회가 LG CNS, 메가존과 손잡고 중소·중견 제조기업의 인공지능 전환(AX) 지원에 나선다. 중소기업중앙회는 국내 중소·중견 제조기업의 AI 전환을 촉진하고 글로벌 제조 경쟁력을 강화하기 위해 '2026년 대·중소 상생형 AX 선도모델 사업' 참여기업을 모집한다고 밝혔다. 이번 사업은 AI 전문 대기업의 기술력과 혁신 역량을 중소기업 제조 현장에 접목하는 상생협력 사업이다.</description>
-      <pubDate>Sun, 21 Jun 2026 12:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260621000013">전자신문 IT</source>
-      <guid isPermaLink="false">531106f484319dbd5bbbbdabc2b5c460</guid>
-    </item>
-    <item>
-      <title>비욘드허니컴, 산업용보다 20배 싼 액추에이터 내년 양산</title>
-      <link>https://www.etnews.com/20260619000144</link>
-      <description>인공지능(AI) 조리 로봇 스타트업 비욘드허니컴이 산업용 로봇 액추에이터보다 20배 저렴한 10만원대 로봇 구동 모듈을 내년 상반기 양산한다. 센서, AI, 액추에이터를 내재화해 상업용 조리 로봇 원가를 낮추고 피지컬 AI 플랫폼 확산을 추진한다.</description>
-      <pubDate>Sun, 21 Jun 2026 17:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260619000144">전자신문 IT</source>
-      <guid isPermaLink="false">642e16472a4f3aaaf70eb72423db701c</guid>
-    </item>
-    <item>
-      <title>네이버 D2SF, 누적 신규 투자 124건…AI·로봇 발굴 속도</title>
-      <link>https://www.etnews.com/20260619000198</link>
-      <description>네이버의 기업형 벤처캐피털(CVC) 조직 D2SF가 투자한 스타트업이 누적 124개를 기록했다. 최근 3년간 신규 투자 기업의 70% 이상이 인공지능(AI) 기술 기업으로 나타났다. AI 전환에 대응해 검색·콘텐츠·로봇 등 네이버 사업과 시너지를 낼 기술 기업을 선제적으로 확보하려는 전략으로 풀이된다.</description>
-      <pubDate>Sun, 21 Jun 2026 16:30:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260619000198">전자신문 IT</source>
-      <guid isPermaLink="false">311c6804ae39d612d3c44d9e4f303561</guid>
     </item>
   </channel>
 </rss>

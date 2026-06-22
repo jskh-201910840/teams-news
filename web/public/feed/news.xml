@@ -5,9 +5,36 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 22 Jun 2026 21:52:13 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 02:45:13 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>AI가 도운 기적… 머리 붙은 샴쌍둥이, '40시간 대수술' 끝에 분리 성공</title>
+      <link>https://www.etnews.com/20260622000385</link>
+      <description>머리가 붙은 채 태어난 결합쌍둥이(샴쌍둥이) 자매가 인공지능(AI) 기술을 활용한 획기적인 수술 끝에 성공적으로 분리됐다. 최근 미국 피플지에 따르면, 영국 비영리 단체 제미니 언트윈드는 머리 일부를 공유한 채 태어난 쌍둥이 자매 머시와 굿니스가 아랍에미리트(UAE) 아부다비의 SEHA 셰이크 칼리파 의료도시에서 4개월에 걸친 여러 단계의 수술 끝에 분리됐다고 밝혔다.</description>
+      <pubDate>Mon, 22 Jun 2026 22:30:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260622000385">전자신문 IT</source>
+      <guid isPermaLink="false">5dfd371e3f7044c356c566a4ead01194</guid>
+    </item>
+    <item>
+      <title>헬리콥터 동력전달 4개 부품 원천기술 국산화…"성능 샤프란 수준"</title>
+      <link>https://zdnet.co.kr/view/?no=20260622222322</link>
+      <description>[지디넷코리아]헬리콥터 동력장치인 회전익기 동력전달장치 4대 핵심부품과 관련한 원천기술이 국산화됐다.한국기계연구원은 이한민 가상공학플랫폼연구본부 산업기계DX연구실장 연구팀이 클러치와 기어, 하우징, 베어링 기술 개발에 성공했다고 23일 밝혔다.동력전달장치는 회전익기 엔진 동력을 로터(프로펠러처럼 도는 날개)에 전달하는 핵심 장치다.</description>
+      <pubDate>Mon, 22 Jun 2026 22:23:22 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260622222322">ZDNet Korea</source>
+      <guid isPermaLink="false">055b91ee4431c97b1b7fe1f081f72d50</guid>
+    </item>
+    <item>
+      <title>요즘 작품 이미지의 LLM 학습 방해 방법은?</title>
+      <link>https://news.hada.io/topic?id=30731</link>
+      <description>한 사용자는 아내가 자신의 작품 이미지 가 LLM 학습에 쓰이는 것을 원치 않아 온라인 공개를 망설이고 있다고 밝힘 질문의 핵심은 이미지를 사전에 처리해 LLM 학습을 방해 하는 라이브러리나 방법이 현재 실용적인지임 사용자는 아내를 위한 맞춤...</description>
+      <pubDate>Tue, 23 Jun 2026 00:01:08 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30731">GeekNews</source>
+      <guid isPermaLink="false">b5eca30dde92c8947819594b6332173d</guid>
+    </item>
     <item>
       <title>앤트로픽 "클로드 오퍼스 4.7, 인간보다 37배 빠르게 로봇 제어 수행"</title>
       <link>https://www.aitimes.com/news/articleView.html?idxno=211969</link>
