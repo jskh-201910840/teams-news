@@ -5,7 +5,7 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/full.xml</link>
     <description>Extended RSS with scores, sections, and engagement metrics for bot builders.</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 22 Jun 2026 09:51:22 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 09:53:35 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <item>
@@ -18,22 +18,22 @@
       <guid isPermaLink="false">174e60b74598ab5300cbcc8b7d94bcb8</guid>
       <teams:source>GeekNews</teams:source>
       <teams:section>news</teams:section>
-      <teams:score>21.26</teams:score>
+      <teams:score>21.13</teams:score>
       <teams:titleOriginal>Linux의 epoll과 io_uring 비교</teams:titleOriginal>
       <teams:engagement label="Points">8</teams:engagement>
     </item>
     <item>
-      <title>SaaS 대체하기: AI와 함께한 광고SDK 에러 모니터링 시스템 구축기</title>
-      <link>https://d2.naver.com/helloworld/8319114</link>
-      <description>네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 서드파티 SDK 환경에서 범용 에러 모니터링 도구 연동 시 발생하는 구조적 한계를 극복하기 위해, AI Agent를 활용해 전용 Javascript 에러 모니터링 시스템을 직접 구축한 경험과 그 가능성을 공유합니다.</description>
-      <pubDate>Tue, 16 Jun 2026 23:14:39 +0900</pubDate>
+      <title>"갤럭시 S26 FE 벤치마크 등장…엑시노스 2500 칩 확인"</title>
+      <link>https://zdnet.co.kr/view/?no=20260622084134</link>
+      <description>[지디넷코리아]삼성전자가 올가을 출시할 것으로 예상되는 보급형 플래그십 스마트폰 ‘갤럭시 S26 FE’의 벤치마크 테스트 결과가 공개됐다고 IT매체 폰아레나가 21일(현지시간) 보도했다.보도에 따르면 모델명 SM-S741N인 갤럭시S26 FE 한국 출시 모델은 긱벤치 벤치마크에서 싱글코어 2255점, 멀티코어 7450점을 기록했다.</description>
+      <pubDate>Mon, 22 Jun 2026 08:56:06 +0900</pubDate>
       <category>news</category>
-      <source url="https://d2.naver.com/helloworld/8319114">NAVER D2</source>
-      <guid isPermaLink="false">e4579006c87a8d881977e73f86e693e8</guid>
-      <teams:source>NAVER D2</teams:source>
+      <source url="https://zdnet.co.kr/view/?no=20260622084134">ZDNet Korea</source>
+      <guid isPermaLink="false">f665fa414eb2f2f3c250ce4feb31aabd</guid>
+      <teams:source>ZDNet Korea</teams:source>
       <teams:section>news</teams:section>
-      <teams:score>17.8</teams:score>
-      <teams:titleOriginal>SaaS 대체하기: AI와 함께한 광고SDK 에러 모니터링 시스템 구축기</teams:titleOriginal>
+      <teams:score>19.83</teams:score>
+      <teams:titleOriginal>"갤럭시 S26 FE 벤치마크 등장…엑시노스 2500 칩 확인"</teams:titleOriginal>
       
     </item>
     <item>
@@ -51,18 +51,18 @@
       <teams:engagement label="Stars">69</teams:engagement>
     </item>
     <item>
-      <title>sums001/Windows-Copilot-API — Windows Copilot을 OpenAI 호환 API로 리버스 엔지니어링했습니다. 다음을 통해 GPT-4 및 GPT-5 모델에 액세스하세요.</title>
-      <link>https://github.com/sums001/Windows-Copilot-API</link>
-      <description>Windows Copilot을 OpenAI 호환 API로 리버스 엔지니어링했습니다. API 키나 청구 없이 간단한 REST 인터페이스를 통해 GPT-4 및 GPT-5 모델에 액세스하세요.</description>
-      <pubDate>Sun, 21 Jun 2026 21:51:27 +0900</pubDate>
+      <title>raiyanyahya/recall — 토큰을 낭비하지 말고 매 세션마다 프로젝트를 다시 설명하세요. 회상은 Claude Code의 내구성을 높여줍니다.</title>
+      <link>https://github.com/raiyanyahya/recall</link>
+      <description>토큰을 낭비하지 말고 매 세션마다 프로젝트를 다시 설명하세요. Recall은 Claude Code의 내구성 있는 메모리를 완전히 오프라인으로 제공합니다.</description>
+      <pubDate>Mon, 22 Jun 2026 08:04:56 +0900</pubDate>
       <category>trending</category>
-      <source url="https://github.com/sums001/Windows-Copilot-API">GitHub Trending</source>
-      <guid isPermaLink="false">3432d3b59cdfbde8ec57fb8a545009aa</guid>
+      <source url="https://github.com/raiyanyahya/recall">GitHub Trending</source>
+      <guid isPermaLink="false">59bd03a59046a73ecd6b54aba4d65103</guid>
       <teams:source>GitHub Trending</teams:source>
       <teams:section>trending</teams:section>
-      <teams:score>27.58</teams:score>
-      <teams:titleOriginal>sums001/Windows-Copilot-API — Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models thro</teams:titleOriginal>
-      <teams:engagement label="Stars">125</teams:engagement>
+      <teams:score>27.95</teams:score>
+      <teams:titleOriginal>raiyanyahya/recall — Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable m</teams:titleOriginal>
+      <teams:engagement label="Stars">78</teams:engagement>
     </item>
     <item>
       <title>[2026/06/15 ~ 21] 이번 주에 살펴볼 만한 AI/ML 논문 모음</title>
@@ -74,7 +74,7 @@
       <guid isPermaLink="false">fbc7fe8a324c4aea2697ab548feb131f</guid>
       <teams:source>PyTorch Korea</teams:source>
       <teams:section>community</teams:section>
-      <teams:score>25.35</teams:score>
+      <teams:score>25.22</teams:score>
       <teams:titleOriginal>[2026/06/15 ~ 21] 이번 주에 살펴볼 만한 AI/ML 논문 모음</teams:titleOriginal>
       
     </item>
@@ -88,7 +88,7 @@
       <guid isPermaLink="false">6e2facea736f53d658d3e5f7d8e87937</guid>
       <teams:source>PyTorch Korea</teams:source>
       <teams:section>community</teams:section>
-      <teams:score>19.87</teams:score>
+      <teams:score>19.74</teams:score>
       <teams:titleOriginal>llm-wiki: Karpathy의 방법론으로 흩어진 정보를 지식 그래프로 키우는 에이전트 스킬</teams:titleOriginal>
       
     </item>

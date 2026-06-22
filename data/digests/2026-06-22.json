@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "date": "2026-06-22",
-  "generated_at": "2026-06-22T09:07:35.371460+09:00",
+  "generated_at": "2026-06-22T09:44:38.094344+09:00",
   "title": "📄📰 오늘의 AI 논문 & 테크 뉴스",
   "item_count": 6,
   "sections": [
@@ -23,8 +23,8 @@
           "published_at": "2026-06-22T06:35:52+09:00",
           "popularity": 8,
           "upvotes": 0,
-          "score": 21.26,
-          "importance_score": 17.74,
+          "score": 21.13,
+          "importance_score": 17.48,
           "matched_keywords": [
             "ai",
             "모델"
@@ -35,24 +35,23 @@
           }
         },
         {
-          "id": "e4579006c87a8d881977e73f86e693e8",
+          "id": "f665fa414eb2f2f3c250ce4feb31aabd",
           "index": 2,
-          "title": "SaaS 대체하기: AI와 함께한 광고SDK 에러 모니터링 시스템 구축기",
+          "title": "\"갤럭시 S26 FE 벤치마크 등장…엑시노스 2500 칩 확인\"",
           "title_ko": null,
-          "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 서드파티 SDK 환경에서 범용 에러 모니터링 도구 연동 시 발생하는 구조적 한계를 극복하기 위해, AI Agent를 활용해 전용 Javascript 에러 모니터링 시스템을 직접 구축한 경험과 그 가능성을 공유합니다.",
+          "summary": "[지디넷코리아]삼성전자가 올가을 출시할 것으로 예상되는 보급형 플래그십 스마트폰 ‘갤럭시 S26 FE’의 벤치마크 테스트 결과가 공개됐다고 IT매체 폰아레나가 21일(현지시간) 보도했다.보도에 따르면 모델명 SM-S741N인 갤럭시S26 FE 한국 출시 모델은 긱벤치 벤치마크에서 싱글코어 2255점, 멀티코어 7450점을 기록했다.",
           "summary_ko": null,
-          "url": "https://d2.naver.com/helloworld/8319114",
-          "source": "NAVER D2",
+          "url": "https://zdnet.co.kr/view/?no=20260622084134",
+          "source": "ZDNet Korea",
           "section": "📰 News",
           "section_id": "news",
-          "published_at": "2026-06-16T23:14:39+09:00",
-          "popularity": 98,
+          "published_at": "2026-06-22T08:56:06+09:00",
+          "popularity": 100,
           "upvotes": 0,
-          "score": 17.8,
-          "importance_score": 9.8,
+          "score": 19.83,
+          "importance_score": 19.66,
           "matched_keywords": [
-            "ai",
-            "agent"
+            "모델"
           ],
           "engagement": null
         }
@@ -90,28 +89,28 @@
           }
         },
         {
-          "id": "3432d3b59cdfbde8ec57fb8a545009aa",
+          "id": "59bd03a59046a73ecd6b54aba4d65103",
           "index": 4,
-          "title": "sums001/Windows-Copilot-API — Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models thro",
-          "title_ko": "sums001/Windows-Copilot-API — Windows Copilot을 OpenAI 호환 API로 리버스 엔지니어링했습니다. 다음을 통해 GPT-4 및 GPT-5 모델에 액세스하세요.",
-          "summary": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
-          "summary_ko": "Windows Copilot을 OpenAI 호환 API로 리버스 엔지니어링했습니다. API 키나 청구 없이 간단한 REST 인터페이스를 통해 GPT-4 및 GPT-5 모델에 액세스하세요.",
-          "url": "https://github.com/sums001/Windows-Copilot-API",
+          "title": "raiyanyahya/recall — Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable m",
+          "title_ko": "raiyanyahya/recall — 토큰을 낭비하지 말고 매 세션마다 프로젝트를 다시 설명하세요. 회상은 Claude Code의 내구성을 높여줍니다.",
+          "summary": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+          "summary_ko": "토큰을 낭비하지 말고 매 세션마다 프로젝트를 다시 설명하세요. Recall은 Claude Code의 내구성 있는 메모리를 완전히 오프라인으로 제공합니다.",
+          "url": "https://github.com/raiyanyahya/recall",
           "source": "GitHub Trending",
           "section": "🔥 Trending",
           "section_id": "trending",
-          "published_at": "2026-06-21T21:51:27+09:00",
-          "popularity": 125,
-          "upvotes": 125,
-          "score": 27.58,
-          "importance_score": 22.23,
+          "published_at": "2026-06-22T08:04:56+09:00",
+          "popularity": 78,
+          "upvotes": 78,
+          "score": 27.95,
+          "importance_score": 24.6,
           "matched_keywords": [
             "ai",
-            "gpt"
+            "claude"
           ],
           "engagement": {
             "label": "Stars",
-            "value": 125
+            "value": 78
           }
         }
       ]
@@ -134,8 +133,8 @@
           "published_at": "2026-06-22T06:30:07+09:00",
           "popularity": 99,
           "upvotes": 0,
-          "score": 25.35,
-          "importance_score": 18.81,
+          "score": 25.22,
+          "importance_score": 18.55,
           "matched_keywords": [
             "ai",
             "llm",
@@ -157,8 +156,8 @@
           "published_at": "2026-06-22T08:30:41+09:00",
           "popularity": 100,
           "upvotes": 0,
-          "score": 19.87,
-          "importance_score": 19.74,
+          "score": 19.74,
+          "importance_score": 19.49,
           "matched_keywords": [
             "llm"
           ],
@@ -182,8 +181,8 @@
       "published_at": "2026-06-22T06:35:52+09:00",
       "popularity": 8,
       "upvotes": 0,
-      "score": 21.26,
-      "importance_score": 17.74,
+      "score": 21.13,
+      "importance_score": 17.48,
       "matched_keywords": [
         "ai",
         "모델"
@@ -194,24 +193,23 @@
       }
     },
     {
-      "id": "e4579006c87a8d881977e73f86e693e8",
+      "id": "f665fa414eb2f2f3c250ce4feb31aabd",
       "index": 2,
-      "title": "SaaS 대체하기: AI와 함께한 광고SDK 에러 모니터링 시스템 구축기",
+      "title": "\"갤럭시 S26 FE 벤치마크 등장…엑시노스 2500 칩 확인\"",
       "title_ko": null,
-      "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 서드파티 SDK 환경에서 범용 에러 모니터링 도구 연동 시 발생하는 구조적 한계를 극복하기 위해, AI Agent를 활용해 전용 Javascript 에러 모니터링 시스템을 직접 구축한 경험과 그 가능성을 공유합니다.",
+      "summary": "[지디넷코리아]삼성전자가 올가을 출시할 것으로 예상되는 보급형 플래그십 스마트폰 ‘갤럭시 S26 FE’의 벤치마크 테스트 결과가 공개됐다고 IT매체 폰아레나가 21일(현지시간) 보도했다.보도에 따르면 모델명 SM-S741N인 갤럭시S26 FE 한국 출시 모델은 긱벤치 벤치마크에서 싱글코어 2255점, 멀티코어 7450점을 기록했다.",
       "summary_ko": null,
-      "url": "https://d2.naver.com/helloworld/8319114",
-      "source": "NAVER D2",
+      "url": "https://zdnet.co.kr/view/?no=20260622084134",
+      "source": "ZDNet Korea",
       "section": "📰 News",
       "section_id": "news",
-      "published_at": "2026-06-16T23:14:39+09:00",
-      "popularity": 98,
+      "published_at": "2026-06-22T08:56:06+09:00",
+      "popularity": 100,
       "upvotes": 0,
-      "score": 17.8,
-      "importance_score": 9.8,
+      "score": 19.83,
+      "importance_score": 19.66,
       "matched_keywords": [
-        "ai",
-        "agent"
+        "모델"
       ],
       "engagement": null
     },
@@ -243,28 +241,28 @@
       }
     },
     {
-      "id": "3432d3b59cdfbde8ec57fb8a545009aa",
+      "id": "59bd03a59046a73ecd6b54aba4d65103",
       "index": 4,
-      "title": "sums001/Windows-Copilot-API — Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models thro",
-      "title_ko": "sums001/Windows-Copilot-API — Windows Copilot을 OpenAI 호환 API로 리버스 엔지니어링했습니다. 다음을 통해 GPT-4 및 GPT-5 모델에 액세스하세요.",
-      "summary": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
-      "summary_ko": "Windows Copilot을 OpenAI 호환 API로 리버스 엔지니어링했습니다. API 키나 청구 없이 간단한 REST 인터페이스를 통해 GPT-4 및 GPT-5 모델에 액세스하세요.",
-      "url": "https://github.com/sums001/Windows-Copilot-API",
+      "title": "raiyanyahya/recall — Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable m",
+      "title_ko": "raiyanyahya/recall — 토큰을 낭비하지 말고 매 세션마다 프로젝트를 다시 설명하세요. 회상은 Claude Code의 내구성을 높여줍니다.",
+      "summary": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+      "summary_ko": "토큰을 낭비하지 말고 매 세션마다 프로젝트를 다시 설명하세요. Recall은 Claude Code의 내구성 있는 메모리를 완전히 오프라인으로 제공합니다.",
+      "url": "https://github.com/raiyanyahya/recall",
       "source": "GitHub Trending",
       "section": "🔥 Trending",
       "section_id": "trending",
-      "published_at": "2026-06-21T21:51:27+09:00",
-      "popularity": 125,
-      "upvotes": 125,
-      "score": 27.58,
-      "importance_score": 22.23,
+      "published_at": "2026-06-22T08:04:56+09:00",
+      "popularity": 78,
+      "upvotes": 78,
+      "score": 27.95,
+      "importance_score": 24.6,
       "matched_keywords": [
         "ai",
-        "gpt"
+        "claude"
       ],
       "engagement": {
         "label": "Stars",
-        "value": 125
+        "value": 78
       }
     },
     {
@@ -281,8 +279,8 @@
       "published_at": "2026-06-22T06:30:07+09:00",
       "popularity": 99,
       "upvotes": 0,
-      "score": 25.35,
-      "importance_score": 18.81,
+      "score": 25.22,
+      "importance_score": 18.55,
       "matched_keywords": [
         "ai",
         "llm",
@@ -304,8 +302,8 @@
       "published_at": "2026-06-22T08:30:41+09:00",
       "popularity": 100,
       "upvotes": 0,
-      "score": 19.87,
-      "importance_score": 19.74,
+      "score": 19.74,
+      "importance_score": 19.49,
       "matched_keywords": [
         "llm"
       ],
