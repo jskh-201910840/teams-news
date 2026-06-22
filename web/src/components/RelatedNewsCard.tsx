@@ -13,7 +13,7 @@ export function RelatedNewsCard({ item }: { item: SearchIndexItem }) {
   return (
     <Link
       to={itemDetailPath(item.id)}
-      className="ss-card flex flex-col gap-2 p-4 no-underline transition-colors hover:border-brand/40"
+      className="ss-card flex h-full min-w-0 flex-col gap-2 p-4 no-underline transition-colors hover:border-brand/40"
     >
       <div className="flex flex-wrap items-center gap-2">
         <Badge
@@ -27,7 +27,7 @@ export function RelatedNewsCard({ item }: { item: SearchIndexItem }) {
           <span className="ml-auto text-[11px] font-semibold text-brand">{engagement}</span>
         )}
       </div>
-      <h3 className="text-sm font-semibold leading-snug text-text-primary line-clamp-2">
+      <h3 className="ss-text-ko text-pretty line-clamp-2 flex-1 text-sm font-semibold leading-snug text-text-primary">
         {title}
       </h3>
       <span className="text-xs text-text-disabled">{item.section}</span>

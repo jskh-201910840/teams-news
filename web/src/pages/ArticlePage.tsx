@@ -152,7 +152,7 @@ export function ArticlePage() {
   const commentsUrl = item.source === "GeekNews" ? geekNewsCommentsUrl(item.url) : null;
 
   return (
-    <div className="space-y-8">
+    <div className="min-w-0 space-y-6">
       <nav aria-label="breadcrumb" className="text-sm text-text-tertiary">
         <ol className="flex flex-wrap items-center gap-1.5">
           <li>
@@ -178,74 +178,71 @@ export function ArticlePage() {
         </ol>
       </nav>
 
-      <div className="grid grid-cols-1 gap-8 lg:grid-cols-[minmax(0,1fr)_260px]">
-        <div className="min-w-0 space-y-8">
-          <article className="ss-card mx-auto max-w-3xl p-6 sm:p-10">
-            <div className="mb-6 flex flex-wrap items-center gap-2">
-              <Badge
-                variant="secondary"
-                className="border-transparent text-[11px] font-semibold uppercase tracking-wide text-white"
-                style={{ backgroundColor: style.color }}
-              >
-                {style.icon} {item.source}
-              </Badge>
-              <Link
-                to={`/section/${item.sec}`}
-                className="text-xs text-text-tertiary no-underline hover:text-brand"
-              >
-                {item.section}
-              </Link>
-              {engagement && (
-                <span className="ml-auto text-sm font-semibold text-brand">{engagement}</span>
-              )}
-            </div>
-
-            <h1 className="mb-4 text-2xl font-bold leading-tight tracking-tight text-text-primary sm:text-3xl">
-              {title}
-            </h1>
-
-            {digestItem.title_ko && digestItem.title !== digestItem.title_ko && (
-              <p className="mb-4 text-base text-text-secondary">{digestItem.title}</p>
+      <div className="grid grid-cols-1 items-start gap-6 lg:grid-cols-[minmax(0,1fr)_minmax(280px,300px)] lg:gap-8">
+        <article className="ss-card flex min-w-0 flex-col gap-5 p-6 sm:p-8">
+          <div className="flex flex-wrap items-center gap-2">
+            <Badge
+              variant="secondary"
+              className="border-transparent text-[11px] font-semibold uppercase tracking-wide text-white"
+              style={{ backgroundColor: style.color }}
+            >
+              {style.icon} {item.source}
+            </Badge>
+            <Link
+              to={`/section/${item.sec}`}
+              className="text-xs text-text-tertiary no-underline hover:text-brand"
+            >
+              {item.section}
+            </Link>
+            {engagement && (
+              <span className="ml-auto text-sm font-semibold text-brand">{engagement}</span>
             )}
+          </div>
 
-            <div className="mb-6 flex flex-wrap items-center gap-x-4 gap-y-2 text-sm text-text-tertiary">
-              <time dateTime={item.pub}>{formatDate(item.pub)}</time>
-              <span aria-hidden>·</span>
-              <span>{formatRelativeTime(item.pub)}</span>
-              {inDigest && (
-                <>
-                  <span aria-hidden>·</span>
-                  <Link
-                    to={`/date/${inDigest.date}`}
-                    className="rounded-full bg-brand-tint px-2.5 py-0.5 text-xs font-semibold text-brand no-underline hover:underline"
-                  >
-                    {inDigest.date} Top 7 #{inDigest.index}
-                  </Link>
-                </>
-              )}
-            </div>
+          <h1 className="ss-text-ko text-pretty text-2xl font-bold leading-snug tracking-tight text-text-primary sm:text-3xl">
+            {title}
+          </h1>
 
-            <div className="prose prose-sm mb-8 max-w-none">
-              <p className="text-base leading-relaxed text-text-secondary sm:text-lg sm:leading-relaxed">
-                {summary}
-              </p>
-            </div>
+          {digestItem.title_ko && digestItem.title !== digestItem.title_ko && (
+            <p className="ss-text-ko text-base text-text-secondary">{digestItem.title}</p>
+          )}
 
-            {item.matched_keywords.length > 0 && (
-              <div className="mb-6 flex flex-wrap gap-2">
-                {item.matched_keywords.map((kw) => (
-                  <Link
-                    key={kw}
-                    to={`/search?q=${encodeURIComponent(kw)}`}
-                    className="ss-chip text-xs no-underline"
-                  >
-                    {kw}
-                  </Link>
-                ))}
-              </div>
+          <div className="flex flex-wrap items-center gap-x-4 gap-y-2 text-sm text-text-tertiary">
+            <time dateTime={item.pub}>{formatDate(item.pub)}</time>
+            <span aria-hidden>·</span>
+            <span>{formatRelativeTime(item.pub)}</span>
+            {inDigest && (
+              <>
+                <span aria-hidden>·</span>
+                <Link
+                  to={`/date/${inDigest.date}`}
+                  className="rounded-full bg-brand-tint px-2.5 py-0.5 text-xs font-semibold text-brand no-underline hover:underline"
+                >
+                  {inDigest.date} Top 7 #{inDigest.index}
+                </Link>
+              </>
             )}
+          </div>
 
-            <div className="flex flex-wrap items-center gap-3 border-t border-border pt-6">
+          <p className="ss-text-ko text-base leading-relaxed text-text-secondary sm:text-lg sm:leading-relaxed">
+            {summary}
+          </p>
+
+          {item.matched_keywords.length > 0 && (
+            <div className="flex flex-wrap gap-2">
+              {item.matched_keywords.map((kw) => (
+                <Link
+                  key={kw}
+                  to={`/search?q=${encodeURIComponent(kw)}`}
+                  className="ss-chip text-xs no-underline"
+                >
+                  {kw}
+                </Link>
+              ))}
+            </div>
+          )}
+
+          <div className="flex flex-wrap items-center gap-3 border-t border-border pt-4">
               <a
                 href={item.url}
                 target="_blank"
@@ -279,28 +276,14 @@ export function ArticlePage() {
               >
                 ← 뒤로
               </button>
-            </div>
-          </article>
-
-          {related.length > 0 && (
-            <section aria-labelledby="related-heading">
-              <h2
-                id="related-heading"
-                className="mb-4 text-lg font-semibold text-text-primary"
-              >
-                함께 보면 좋을 뉴스
-              </h2>
-              <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
-                {related.map((rel) => (
-                  <RelatedNewsCard key={rel.id} item={rel} />
-                ))}
-              </div>
-            </section>
-          )}
-        </div>
+          </div>
+        </article>
 
         {fromSource.length > 0 && (
-          <aside aria-labelledby="source-more-heading" className="space-y-4">
+          <aside
+            aria-labelledby="source-more-heading"
+            className="min-w-0 space-y-4 lg:sticky lg:top-24"
+          >
             <h2
               id="source-more-heading"
               className="text-sm font-semibold text-text-primary"
@@ -314,7 +297,7 @@ export function ArticlePage() {
                     to={itemDetailPath(srcItem.id)}
                     className="block rounded-lg border border-border p-3 text-sm no-underline transition-colors hover:border-brand/40 hover:bg-surface-subtle"
                   >
-                    <span className="line-clamp-2 font-medium text-text-primary">
+                    <span className="ss-text-ko line-clamp-2 font-medium text-text-primary">
                       {displayTitle(toDigestItem(srcItem, 0))}
                     </span>
                     <span className="mt-1 block text-xs text-text-disabled">
@@ -333,6 +316,22 @@ export function ArticlePage() {
           </aside>
         )}
       </div>
+
+      {related.length > 0 && (
+        <section aria-labelledby="related-heading">
+          <h2
+            id="related-heading"
+            className="mb-4 text-lg font-semibold text-text-primary"
+          >
+            함께 보면 좋을 뉴스
+          </h2>
+          <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 sm:items-stretch">
+            {related.map((rel) => (
+              <RelatedNewsCard key={rel.id} item={rel} />
+            ))}
+          </div>
+        </section>
+      )}
     </div>
   );
 }

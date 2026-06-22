@@ -81,3 +81,9 @@ body {
   text-transform: uppercase;
   color: var(--text-tertiary);
 }
+
+/* Korean/CJK title wrapping — DESIGN-LANGUAGE § typography */
+.ss-text-ko {
+  word-break: keep-all;
+  overflow-wrap: break-word;
+}
