@@ -5,9 +5,36 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 23 Jun 2026 09:02:04 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 09:09:18 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>삼성전자가 쏜 온누리상품권 '4000억' 풀린다</title>
+      <link>https://www.etnews.com/20260623000008</link>
+      <description>삼성전자가 '국민과 함께, 삼성전자 감사 페스티벌' 참여 고객을 대상으로 디지털 온누리상품권 지급을 시작한다. 구매 금액 20%를 온누리상품권으로 돌려주는 이번 행사는 AI 시대 반도체 성과를 국민과 나누겠다는 취지로 마련됐다. 이르면 24일부터 순차 지급한다.</description>
+      <pubDate>Tue, 23 Jun 2026 08:20:14 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260623000008">전자신문 IT</source>
+      <guid isPermaLink="false">342ab42b5be6dd0cb05a4e381e6548d1</guid>
+    </item>
+    <item>
+      <title>KETI·로봇진흥원·두산로보틱스, 유럽 로봇시장 진출 협약</title>
+      <link>https://zdnet.co.kr/view/?no=20260623070845</link>
+      <description>[지디넷코리아]한국전자기술연구원(KETI·원장 노건기)은 20일(현지 시간) 독일 프랑크푸르트 소재 두산로보틱스 유럽지사에서 한국로봇산업진흥원(KIRIA·원장 조영훈), 두산로보틱스(대표 김민표)와 첨단로봇 분야 연구개발(R&amp;D) 협력을 위한 업무협약을 체결했다고 밝혔다.세 기관은 협약에 따라 체코 프라하공과대학교 안에 구축하는 ‘한-체코 첨단로봇산업 협력센터’를 협력 기반으로 활용해 국내…</description>
+      <pubDate>Tue, 23 Jun 2026 07:08:45 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260623070845">ZDNet Korea</source>
+      <guid isPermaLink="false">1b8d19ef68d604ba03486237ab708925</guid>
+    </item>
+    <item>
+      <title>“한개 칩으로 여러 생체신호 동시 측정” DGIST, 초소형 생체신호 측정 반도체 세계 최초 개발</title>
+      <link>https://www.etnews.com/20260623000004</link>
+      <description>디지스트(DGIST·총장 이건우)는 이정협 전기전자컴퓨터공학과 교수팀이 심전도(ECG)와 근전도(EMG) 등 다양한 생체 신호를 동시에 측정할 수 있는 '시분할 잡음성형 SAR ADC(아날로그-디지털 변환기)' 반도체 칩을 세계 최초로 개발했다고 23일 밝혔다. 연구팀은 해당 기술을 실제 반도체 칩으로 제작해 동작 검증까지 마쳤다.</description>
+      <pubDate>Tue, 23 Jun 2026 07:50:59 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260623000004">전자신문 IT</source>
+      <guid isPermaLink="false">41de723ecf70d8189d9dcf972a947e43</guid>
+    </item>
     <item>
       <title>[6월22일] "내 치즈를 옮긴 것은 챗GPT"… 종이책에서 AI로 이동하는 '조언 산업'</title>
       <link>https://www.aitimes.com/news/articleView.html?idxno=211972</link>
@@ -430,15 +457,6 @@
       <category>news</category>
       <source url="https://d2.naver.com/helloworld/4399330">NAVER D2</source>
       <guid isPermaLink="false">1fcd6d6bac70356c2e2e8b67107c2f62</guid>
-    </item>
-    <item>
-      <title>AI 에이전트를 위한 Playwright E2E 테스트 하네스 구축하기</title>
-      <link>https://d2.naver.com/helloworld/6811215</link>
-      <description>네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 AI 에이전트가 코드를 짜는 시대, 우리는 그 코드를 어떻게 믿을 수 있을까요? Playwright 기반 E2E 테스트를 구축하고, 에이전트가 직접 테스트 코드를 작성 및 검증하는 워크플로우를 만든 여정을 공유합니다.</description>
-      <pubDate>Mon, 15 Jun 2026 19:51:03 +0900</pubDate>
-      <category>news</category>
-      <source url="https://d2.naver.com/helloworld/6811215">NAVER D2</source>
-      <guid isPermaLink="false">8f18abb60dc88041649010d4f3eb5934</guid>
     </item>
   </channel>
 </rss>

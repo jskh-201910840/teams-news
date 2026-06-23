@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/community.xml</link>
     <description>💬 Community — PyTorch Korea discussions</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 23 Jun 2026 09:02:04 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 09:09:18 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>WaterCrawl: 웹 콘텐츠를 LLM이 바로 쓰는 데이터로 바꾸는 셀프호스트 크롤링 플랫폼</title>
+      <link>https://discuss.pytorch.kr/t/watercrawl-llm/10854</link>
+      <description>WaterCrawl 소개 LLM 기반 애플리케이션을 만들 때 가장 번거로운 단계 중 하나는 웹에 흩어진 정보를 모델이 읽을 수 있는 형태로 정리하는 일입니다. 일반적인 HTML 페이지에는 내비게이션 바, 광고, 푸터, 사이드바처럼 본문과 무관한 요소가 섞여 있어, 그대로 모델에 넣으면 토큰만 낭비하고 답변 품질도 떨어집니다.</description>
+      <pubDate>Tue, 23 Jun 2026 08:30:32 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/watercrawl-llm/10854">PyTorch Korea</source>
+      <guid isPermaLink="false">f6f0ecddd6d584800b379c4fe29a1eb9</guid>
+    </item>
     <item>
       <title>AgentSpace: 사람과 AI 에이전트가 한 팀으로 일하는 협업 워크스페이스 (feat. HKUDS)</title>
       <link>https://discuss.pytorch.kr/t/agentspace-ai-feat-hkuds/10868</link>

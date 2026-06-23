@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-23T07:48:33.659917+09:00",
-  "total": 145,
+  "generated_at": "2026-06-23T09:09:18.049926+09:00",
+  "total": 149,
   "sources": [
     {
       "slug": "huggingface",
@@ -11,7 +11,7 @@
     {
       "slug": "etnews",
       "name": "전자신문 IT",
-      "count": 31
+      "count": 33
     },
     {
       "slug": "github-trending",
@@ -21,7 +21,12 @@
     {
       "slug": "pytorch-korea",
       "name": "PyTorch Korea",
-      "count": 20
+      "count": 21
+    },
+    {
+      "slug": "zdnet-korea",
+      "name": "ZDNet Korea",
+      "count": 5
     },
     {
       "slug": "naver-d2",
@@ -34,11 +39,6 @@
       "count": 4
     },
     {
-      "slug": "zdnet-korea",
-      "name": "ZDNet Korea",
-      "count": 4
-    },
-    {
       "slug": "geeknews",
       "name": "GeekNews",
       "count": 4
@@ -48,7 +48,7 @@
     {
       "id": "news",
       "title": "📰 News",
-      "count": 48
+      "count": 51
     },
     {
       "id": "papers",
@@ -63,11 +63,11 @@
     {
       "id": "community",
       "title": "💬 Community",
-      "count": 20
+      "count": 21
     }
   ],
   "date_counts": {
-    "2026-06-23": 4,
+    "2026-06-23": 8,
     "2026-06-22": 47,
     "2026-06-21": 24,
     "2026-06-20": 16,

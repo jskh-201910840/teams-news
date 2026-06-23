@@ -5,9 +5,45 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 23 Jun 2026 09:02:04 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 09:09:18 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>WaterCrawl: 웹 콘텐츠를 LLM이 바로 쓰는 데이터로 바꾸는 셀프호스트 크롤링 플랫폼</title>
+      <link>https://discuss.pytorch.kr/t/watercrawl-llm/10854</link>
+      <description>WaterCrawl 소개 LLM 기반 애플리케이션을 만들 때 가장 번거로운 단계 중 하나는 웹에 흩어진 정보를 모델이 읽을 수 있는 형태로 정리하는 일입니다. 일반적인 HTML 페이지에는 내비게이션 바, 광고, 푸터, 사이드바처럼 본문과 무관한 요소가 섞여 있어, 그대로 모델에 넣으면 토큰만 낭비하고 답변 품질도 떨어집니다.</description>
+      <pubDate>Tue, 23 Jun 2026 08:30:32 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/watercrawl-llm/10854">PyTorch Korea</source>
+      <guid isPermaLink="false">f6f0ecddd6d584800b379c4fe29a1eb9</guid>
+    </item>
+    <item>
+      <title>삼성전자가 쏜 온누리상품권 '4000억' 풀린다</title>
+      <link>https://www.etnews.com/20260623000008</link>
+      <description>삼성전자가 '국민과 함께, 삼성전자 감사 페스티벌' 참여 고객을 대상으로 디지털 온누리상품권 지급을 시작한다. 구매 금액 20%를 온누리상품권으로 돌려주는 이번 행사는 AI 시대 반도체 성과를 국민과 나누겠다는 취지로 마련됐다. 이르면 24일부터 순차 지급한다.</description>
+      <pubDate>Tue, 23 Jun 2026 08:20:14 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260623000008">전자신문 IT</source>
+      <guid isPermaLink="false">342ab42b5be6dd0cb05a4e381e6548d1</guid>
+    </item>
+    <item>
+      <title>KETI·로봇진흥원·두산로보틱스, 유럽 로봇시장 진출 협약</title>
+      <link>https://zdnet.co.kr/view/?no=20260623070845</link>
+      <description>[지디넷코리아]한국전자기술연구원(KETI·원장 노건기)은 20일(현지 시간) 독일 프랑크푸르트 소재 두산로보틱스 유럽지사에서 한국로봇산업진흥원(KIRIA·원장 조영훈), 두산로보틱스(대표 김민표)와 첨단로봇 분야 연구개발(R&amp;D) 협력을 위한 업무협약을 체결했다고 밝혔다.세 기관은 협약에 따라 체코 프라하공과대학교 안에 구축하는 ‘한-체코 첨단로봇산업 협력센터’를 협력 기반으로 활용해 국내…</description>
+      <pubDate>Tue, 23 Jun 2026 07:08:45 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260623070845">ZDNet Korea</source>
+      <guid isPermaLink="false">1b8d19ef68d604ba03486237ab708925</guid>
+    </item>
+    <item>
+      <title>“한개 칩으로 여러 생체신호 동시 측정” DGIST, 초소형 생체신호 측정 반도체 세계 최초 개발</title>
+      <link>https://www.etnews.com/20260623000004</link>
+      <description>디지스트(DGIST·총장 이건우)는 이정협 전기전자컴퓨터공학과 교수팀이 심전도(ECG)와 근전도(EMG) 등 다양한 생체 신호를 동시에 측정할 수 있는 '시분할 잡음성형 SAR ADC(아날로그-디지털 변환기)' 반도체 칩을 세계 최초로 개발했다고 23일 밝혔다. 연구팀은 해당 기술을 실제 반도체 칩으로 제작해 동작 검증까지 마쳤다.</description>
+      <pubDate>Tue, 23 Jun 2026 07:50:59 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260623000004">전자신문 IT</source>
+      <guid isPermaLink="false">41de723ecf70d8189d9dcf972a947e43</guid>
+    </item>
     <item>
       <title>[6월22일] "내 치즈를 옮긴 것은 챗GPT"… 종이책에서 AI로 이동하는 '조언 산업'</title>
       <link>https://www.aitimes.com/news/articleView.html?idxno=211972</link>
@@ -421,42 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.18847">Hugging Face Papers</source>
       <guid isPermaLink="false">686054d67ea18f1f474a622a18e3ab12</guid>
-    </item>
-    <item>
-      <title>Show GN: NotionTalk | 카카오톡에서 바로 사용하는 Notion 편집/조회 도구(MCP)</title>
-      <link>https://news.hada.io/topic?id=30714</link>
-      <description>복잡한 설정도, 영어 명령어도 필요 없어요. "오늘 회의록 만들어줘" 한 마디면 NotionTalk이 알아서 페이지를 만들고, 찾고, 정리해요. 카카오톡에서 쓰는 MCP 입니다.</description>
-      <pubDate>Mon, 22 Jun 2026 13:08:10 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30714">GeekNews</source>
-      <guid isPermaLink="false">8b3f40856f3019a20d9aa03359a0961e</guid>
-    </item>
-    <item>
-      <title>“숙련공 의존 줄이는 제조 AI”… 이즈파크, 공정 지능화 전략 구체화</title>
-      <link>https://www.etnews.com/20260622000211</link>
-      <description>제조 인공지능 전환(AX) 전문기업 이즈파크(대표 김갑산)는 제조 현장의 구조적 문제에 대응하기 위해 제조 데이터를 기반으로 설비·공정·품질을 지능화하는 '제조 현장형 피지컬 AI' 전략을 마련하고, 관련 기술 개발과 사업화 준비에 나선다고 22일 밝혔다. 이번에 공개된 제조 피지컬 AI 전략은 단순히 로봇이 자율적으로 움직이는 기술에 한정되지 않는다.</description>
-      <pubDate>Mon, 22 Jun 2026 11:10:13 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260622000211">전자신문 IT</source>
-      <guid isPermaLink="false">2bff6a3c1bd63174acb540eee7842b89</guid>
-    </item>
-    <item>
-      <title>충남-KAIST, '2026 미래 유니콘' 발굴·선정…지역·산업에 AX 생태계 조성</title>
-      <link>https://www.etnews.com/20260622000161</link>
-      <description>충남도와 한국과학기술원(KAIST)이 인공지능 대전환(AX) 시대를 맞아 첨단 모빌리티·기후 에너지 등 신산업을 이끌 미래 유니콘 기업 발굴·육성 사업에 속도를 내고 있다. 혁신성과 성장성을 두루 갖춘 스타트업(초기·예비 창업 기업)을 일찍 발굴해 낙점하고 도내 유망기업으로 육성해 지역과 기업의 동반 성장 생태계를 조성하기 위해서다.</description>
-      <pubDate>Mon, 22 Jun 2026 10:30:09 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260622000161">전자신문 IT</source>
-      <guid isPermaLink="false">109e3b36e32eafc34ee987f8915a1ea5</guid>
-    </item>
-    <item>
-      <title>국민연금, 고성능 GPU 확보…“AI 서비스 개발 박차”</title>
-      <link>https://www.etnews.com/20260622000126</link>
-      <description>국민연금공단은 카카오엔터프라이즈와 '인공지능 서비스 관련 인프라 협력을 위한 업무협약'을 체결했다고 22일 밝혔다. 이번 협약은 지난 3월 국민연금과 카카오가 체결한 '인공지능 기반 공공 서비스 혁신 및 업무 전환에 관한 양해각서'의 연장선이다. 두 기관은 인공지능 인프라 설계부터 운영까지 전 과정에 걸쳐 협력할 예정이다.</description>
-      <pubDate>Mon, 22 Jun 2026 10:06:24 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260622000126">전자신문 IT</source>
-      <guid isPermaLink="false">16b34706ac9f6123dbff7b5e6483f713</guid>
     </item>
   </channel>
 </rss>
