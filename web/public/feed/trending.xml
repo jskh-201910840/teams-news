@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/trending.xml</link>
     <description>🔥 Trending — GitHub ML/AI repositories</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 24 Jun 2026 00:50:35 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 03:00:11 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Reyzowter/Hello-Agents — 🤖 처음부터 AI 에이전트 시스템 구축 — 기초부터</title>
+      <link>https://github.com/Reyzowter/Hello-Agents</link>
+      <description>🤖 처음부터 AI 에이전트 시스템 구축 — 기초부터 프로덕션 등급 다중 에이전트 애플리케이션까지 포괄적이고 실용적인 튜토리얼</description>
+      <pubDate>Wed, 24 Jun 2026 02:34:47 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/Reyzowter/Hello-Agents">GitHub Trending</source>
+      <guid isPermaLink="false">04cd62f2c8454059ef18f43dc4dd3772</guid>
+    </item>
     <item>
       <title>SantanderAI/causal-perception-implementation — 인과 인식을 위한 기계 학습 연구 코드: 경쟁 구조 인과 모델 비교(</title>
       <link>https://github.com/SantanderAI/causal-perception-implementation</link>

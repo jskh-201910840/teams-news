@@ -5,9 +5,63 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 24 Jun 2026 00:50:35 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 03:00:11 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Reyzowter/Hello-Agents — 🤖 처음부터 AI 에이전트 시스템 구축 — 기초부터</title>
+      <link>https://github.com/Reyzowter/Hello-Agents</link>
+      <description>🤖 처음부터 AI 에이전트 시스템 구축 — 기초부터 프로덕션 등급 다중 에이전트 애플리케이션까지 포괄적이고 실용적인 튜토리얼</description>
+      <pubDate>Wed, 24 Jun 2026 02:34:47 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/Reyzowter/Hello-Agents">GitHub Trending</source>
+      <guid isPermaLink="false">04cd62f2c8454059ef18f43dc4dd3772</guid>
+    </item>
+    <item>
+      <title>Claude Code의 “Extended Thinking” 출력 텍스트는 실제 추론이 아님</title>
+      <link>https://news.hada.io/topic?id=30766</link>
+      <description>Claude Code는 세션을 디스크에 기록하지만, 로컬 로그의 thinking block 에는 실제 추론 텍스트 대신 600자 길이의 signature 만 남아 있었음 Claude의 추론은 signature로 암호화 되며, 키는 Anthropic이 보유하고 사용자 기기에는 전달되지 않음 ...</description>
+      <pubDate>Wed, 24 Jun 2026 02:35:11 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30766">GeekNews</source>
+      <guid isPermaLink="false">f65d38c3dfec54b5efe1065e6e216802</guid>
+    </item>
+    <item>
+      <title>팀스파르타 “교육·구축·컨설팅까지…AX ‘엔드투엔드’ 책임진다”</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212031</link>
+      <description>“팀스파르타는 AI를 실제 업무 흐름에 반영해 성과를 낼 수 있도록 전 과정을 지원합니다. 대부분의 글로벌 기업에서도 갖추지 못한 역량이라는 점에서, 가능성과 차별점을 긍정적으로 평가해 합류를 결정하게 됐습니다.”팀스파르타는 2019년부터 코딩 교육 서비스 ‘스파르타코딩클럽’으로 잘 알려져 있다. 이제는 교육 역량을 활용해 기업과 개인의 AX를 담당하고 있다.</description>
+      <pubDate>Wed, 24 Jun 2026 02:00:23 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212031">AI Times</source>
+      <guid isPermaLink="false">c178e4d8ed0bc030a4548942333fa9d6</guid>
+    </item>
+    <item>
+      <title>에이전트가 너무 빨리 커밋하는 경우: LLM 에이전트의 조기 커밋 진단</title>
+      <link>https://huggingface.co/papers/2606.22936</link>
+      <description>장거리 LLM 에이전트의 조기 약속은 에이전트가 대안을 고려하지 않고 초기 해석을 방어하는 조용한 실패로 이어지며 숨겨진 상태 수렴은 트래픽에 대한 조기 진단 역할을 합니다.</description>
+      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.22936">Hugging Face Papers</source>
+      <guid isPermaLink="false">3b8bea8886953e474effcd8655f04ea8</guid>
+    </item>
+    <item>
+      <title>Go-with-the-Track: 포인트 추적을 통한 비디오 합성 및 모션 제어</title>
+      <link>https://huggingface.co/papers/2606.20891</link>
+      <description>Go-with-the-Track은 공간 인식 인코딩 및 비디오 확산 변환기가 포함된 포인트 트랙 임베딩을 사용하여 비디오 생성 시 모션 제어 및 참조 이미지 합성을 통합합니다.</description>
+      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.20891">Hugging Face Papers</source>
+      <guid isPermaLink="false">c14543b47331e5d12a0a5e5bde98be10</guid>
+    </item>
+    <item>
+      <title>대본: LLM 에이전트에게 음악적 구조에 대한 감각 제공</title>
+      <link>https://huggingface.co/papers/2606.22708</link>
+      <description>Libretto는 LLM 기본 문법과 음악 차원 전반에 걸친 통계 평가를 사용하여 상징적인 음악 생성 및 개정을 위한 구조화된 프레임워크를 제공합니다.</description>
+      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.22708">Hugging Face Papers</source>
+      <guid isPermaLink="false">73955376188b9ada2dc684e2c06a4afb</guid>
+    </item>
     <item>
       <title>AC-ODM: 샘플 효율적인 LLM 사전 훈련을 위한 배우-비평 온라인 데이터 혼합</title>
       <link>https://huggingface.co/papers/2505.23878</link>
@@ -403,60 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260623000315">전자신문 IT</source>
       <guid isPermaLink="false">ac5edb5ee6e409e11e199e2ecee283b8</guid>
-    </item>
-    <item>
-      <title>MeshFlow: 등변 흐름 매칭을 통한 메쉬 생성</title>
-      <link>https://huggingface.co/papers/2606.23489</link>
-      <description>MeshFlow는 자동 회귀 방법보다 추론 속도가 향상된 등변 최적 전송 흐름 일치 모델을 사용하여 직접 삼각형 메쉬를 생성합니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.23489">Hugging Face Papers</source>
-      <guid isPermaLink="false">9a197540a9feabfbc2173bfa5d070eaa</guid>
-    </item>
-    <item>
-      <title>[바이오 USA]K바이오, 글로벌 고객·파트너 확보 총력전</title>
-      <link>https://www.etnews.com/20260623000310</link>
-      <description>세계 최대 제약바이오 박람회 '바이오 인터내셔널 컨벤션 2026(바이오 USA 2026)'이 22일(현지시간) 미국 캘리포니아주 샌디에이고 컨벤션센터에서 막을 올렸다. 나흘간 세계 70여개국 약 2만명 관계자가 모여 기술을 알리고 협력을 타진한다. 한국 기업은 생산 능력과 인공지능(AI) 역량 등을 앞세워 신규 수주와 협업 파트너 확대에 나선다.</description>
-      <pubDate>Tue, 23 Jun 2026 14:15:55 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260623000310">전자신문 IT</source>
-      <guid isPermaLink="false">ca45b9027c7265e89e91138af4b69dd1</guid>
-    </item>
-    <item>
-      <title>더 깊을수록 항상 더 나은 것은 아닙니다: 신뢰성 있는 레이어 디코딩을 통해 정렬 세금 완화</title>
-      <link>https://huggingface.co/papers/2606.21906</link>
-      <description>대규모 언어 모델의 자동 회귀 생성은 전통적으로 토큰 예측을 위해 최종 레이어를 사용하지만, 새로운 디코딩 전략은 엔트로피 유도 검색을 기반으로 보다 신뢰할 수 있는 중간 레이어를 동적으로 선택합니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.21906">Hugging Face Papers</source>
-      <guid isPermaLink="false">fa2837dcf791db23c47eb090a2cc6026</guid>
-    </item>
-    <item>
-      <title>HAKARI-Bench: 통합 조건에서 검색 아키텍처와 효율성 설정을 비교하기 위한 경량 벤치마크</title>
-      <link>https://huggingface.co/papers/2606.22778</link>
-      <description>HAKARI-Bench는 여러 구성 및 언어에 걸쳐 검색 방법을 비교하기 위한 경량 벤치마크를 제공하여 효율적인 모델 선택 및 성능 분석을 가능하게 합니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.22778">Hugging Face Papers</source>
-      <guid isPermaLink="false">0fcfe7bbf21dff50cac38e9b19ea2ce2</guid>
-    </item>
-    <item>
-      <title>인간 선호 보상을 통한 텍스트-음악 생성 개선</title>
-      <link>https://huggingface.co/papers/2606.21670</link>
-      <description>텍스트-음악 생성 시스템은 보상 조절, 전문가 반복 및 선호도 조정을 사용하여 120M 매개변수 모델 프레임워크 내에서 효율성을 유지하면서 오디오 품질을 향상시킵니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.21670">Hugging Face Papers</source>
-      <guid isPermaLink="false">4c09ac783566ebb3f5bfb98cecf02d0c</guid>
-    </item>
-    <item>
-      <title>에이전트 시대의 인과 발견</title>
-      <link>https://huggingface.co/papers/2606.23608</link>
-      <description>언어 모델은 데이터 분석과 정보를 통합하는 플랫폼을 통해 입증된 것처럼 인과적 결론을 생성하기보다는 상황에 맞는 지원과 설명을 제공하여 인과관계 발견 워크플로우를 지원해야 합니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.23608">Hugging Face Papers</source>
-      <guid isPermaLink="false">619a20e6537b8915c2b4a687fc63b729</guid>
     </item>
   </channel>
 </rss>

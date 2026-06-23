@@ -5,9 +5,27 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 24 Jun 2026 00:50:35 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 03:00:11 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Claude Code의 “Extended Thinking” 출력 텍스트는 실제 추론이 아님</title>
+      <link>https://news.hada.io/topic?id=30766</link>
+      <description>Claude Code는 세션을 디스크에 기록하지만, 로컬 로그의 thinking block 에는 실제 추론 텍스트 대신 600자 길이의 signature 만 남아 있었음 Claude의 추론은 signature로 암호화 되며, 키는 Anthropic이 보유하고 사용자 기기에는 전달되지 않음 ...</description>
+      <pubDate>Wed, 24 Jun 2026 02:35:11 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30766">GeekNews</source>
+      <guid isPermaLink="false">f65d38c3dfec54b5efe1065e6e216802</guid>
+    </item>
+    <item>
+      <title>팀스파르타 “교육·구축·컨설팅까지…AX ‘엔드투엔드’ 책임진다”</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212031</link>
+      <description>“팀스파르타는 AI를 실제 업무 흐름에 반영해 성과를 낼 수 있도록 전 과정을 지원합니다. 대부분의 글로벌 기업에서도 갖추지 못한 역량이라는 점에서, 가능성과 차별점을 긍정적으로 평가해 합류를 결정하게 됐습니다.”팀스파르타는 2019년부터 코딩 교육 서비스 ‘스파르타코딩클럽’으로 잘 알려져 있다. 이제는 교육 역량을 활용해 기업과 개인의 AX를 담당하고 있다.</description>
+      <pubDate>Wed, 24 Jun 2026 02:00:23 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212031">AI Times</source>
+      <guid isPermaLink="false">c178e4d8ed0bc030a4548942333fa9d6</guid>
+    </item>
     <item>
       <title>트라이넷엑스 라이브 네트워크, 글로벌 헬스케어 전반의 의사결정 등급 근거를 확장하며 환자 수 3억 명 돌파</title>
       <link>https://zdnet.co.kr/view/?no=20260623231002</link>
@@ -439,24 +457,6 @@
       <category>news</category>
       <source url="https://www.aitimes.com/news/articleView.html?idxno=211983">AI Times</source>
       <guid isPermaLink="false">b4143aa4d9ab4e1281226f638268fde5</guid>
-    </item>
-    <item>
-      <title>6월 메모리 반도체 수출 '사상 최대' 경신 임박</title>
-      <link>https://www.etnews.com/20260622000299</link>
-      <description>6월 메모리 반도체 수출이 AI 수요와 공급 부족으로 수출액·단가가 동반 급등하며 강력한 증가세를 이어갔다. 특히 고대역폭메모리(HBM) 공급 부족의 낙수효과가 범용 D램과 낸드, 솔리드스테이트드라이브(SSD)까지 확대되면서 5월 월간 사상 최대 실적(371.6억달러)을 넘어설 가능성이 커지고 있다.</description>
-      <pubDate>Mon, 22 Jun 2026 14:11:41 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260622000299">전자신문 IT</source>
-      <guid isPermaLink="false">0a97acb782ede06aaf566dfaa88bf94d</guid>
-    </item>
-    <item>
-      <title>디지털 헬스케어법 공청회 개최…의료데이터 활용·보호 논의</title>
-      <link>https://www.etnews.com/20260622000225</link>
-      <description>보건의료정보 활용 제도화를 둘러싼 사회적 논의가 본격화된다. 인공지능(AI) 기반 의료혁신과 의료 마이데이터 활성화를 위해 데이터 활용 근거를 명확히 해야 한다는 요구가 커지고 있어서다. 다만 의료정보 보호와 환자 권리 보장을 놓고 의료계와 산업계간 이견을 좁히는 것이 쟁점이다.</description>
-      <pubDate>Mon, 22 Jun 2026 14:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260622000225">전자신문 IT</source>
-      <guid isPermaLink="false">2cb31239373879ad22e6abc758f12b29</guid>
     </item>
   </channel>
 </rss>

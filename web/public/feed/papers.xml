@@ -5,9 +5,36 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/papers.xml</link>
     <description>📄 Papers — AI research from Hugging Face Daily Papers</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 24 Jun 2026 00:50:35 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 03:00:11 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>에이전트가 너무 빨리 커밋하는 경우: LLM 에이전트의 조기 커밋 진단</title>
+      <link>https://huggingface.co/papers/2606.22936</link>
+      <description>장거리 LLM 에이전트의 조기 약속은 에이전트가 대안을 고려하지 않고 초기 해석을 방어하는 조용한 실패로 이어지며 숨겨진 상태 수렴은 트래픽에 대한 조기 진단 역할을 합니다.</description>
+      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.22936">Hugging Face Papers</source>
+      <guid isPermaLink="false">3b8bea8886953e474effcd8655f04ea8</guid>
+    </item>
+    <item>
+      <title>Go-with-the-Track: 포인트 추적을 통한 비디오 합성 및 모션 제어</title>
+      <link>https://huggingface.co/papers/2606.20891</link>
+      <description>Go-with-the-Track은 공간 인식 인코딩 및 비디오 확산 변환기가 포함된 포인트 트랙 임베딩을 사용하여 비디오 생성 시 모션 제어 및 참조 이미지 합성을 통합합니다.</description>
+      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.20891">Hugging Face Papers</source>
+      <guid isPermaLink="false">c14543b47331e5d12a0a5e5bde98be10</guid>
+    </item>
+    <item>
+      <title>대본: LLM 에이전트에게 음악적 구조에 대한 감각 제공</title>
+      <link>https://huggingface.co/papers/2606.22708</link>
+      <description>Libretto는 LLM 기본 문법과 음악 차원 전반에 걸친 통계 평가를 사용하여 상징적인 음악 생성 및 개정을 위한 구조화된 프레임워크를 제공합니다.</description>
+      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.22708">Hugging Face Papers</source>
+      <guid isPermaLink="false">73955376188b9ada2dc684e2c06a4afb</guid>
+    </item>
     <item>
       <title>AC-ODM: 샘플 효율적인 LLM 사전 훈련을 위한 배우-비평 온라인 데이터 혼합</title>
       <link>https://huggingface.co/papers/2505.23878</link>
@@ -430,33 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.23525">Hugging Face Papers</source>
       <guid isPermaLink="false">d2ce1f3c01acd81b94af2e28e72e4004</guid>
-    </item>
-    <item>
-      <title>테이퍼 언어 모델</title>
-      <link>https://huggingface.co/papers/2606.23670</link>
-      <description>테이퍼형 언어 모델은 이전 레이어에 더 많은 매개변수를 할당하고 이후 레이어에 더 적은 매개변수를 할당하여 총 매개변수나 컴퓨팅 비용을 늘리지 않고도 성능을 향상시킵니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.23670">Hugging Face Papers</source>
-      <guid isPermaLink="false">03dbf942460b1636744472ffd31e74bb</guid>
-    </item>
-    <item>
-      <title>언제, 어디서, 어떻게: 테이블 형식 자기 지도 학습을 위한 적응형 비닝</title>
-      <link>https://huggingface.co/papers/2606.19827</link>
-      <description>적응형 비닝(Adaptive Binning)은 의료 테이블 형식 데이터에 대한 자기 지도 학습을 위한 훈련-적응 이산화 방법을 도입하여 특징별 개선 및 이종 특징 처리를 통해 표현 학습을 개선합니다.</description>
-      <pubDate>Mon, 22 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.19827">Hugging Face Papers</source>
-      <guid isPermaLink="false">076a576bcbdc9ccb3fd20658703d9cc9</guid>
-    </item>
-    <item>
-      <title>웹 규모 LLM 사전 학습 데이터에서 내러티브 콘텐츠 특성화</title>
-      <link>https://huggingface.co/papers/2606.19468</link>
-      <description>대규모 언어 모델 훈련 데이터의 서술 구조를 종합적으로 분석하면 다양한 콘텐츠 소스와 주제에 따라 달라지는 측정 가능하고 다차원적인 서술 패턴이 드러납니다.</description>
-      <pubDate>Mon, 22 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.19468">Hugging Face Papers</source>
-      <guid isPermaLink="false">d222b62bbad9fc2681bcb5650a2b77fc</guid>
     </item>
   </channel>
 </rss>
