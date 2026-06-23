@@ -5,9 +5,27 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/community.xml</link>
     <description>💬 Community — PyTorch Korea discussions</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 23 Jun 2026 09:09:18 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 14:04:20 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Agentic Resource Discovery(ARD): Google과 Microsoft 등이 함께 제안하는, 에이전트를 위한 개방형 자원 탐색 표준</title>
+      <link>https://discuss.pytorch.kr/t/agentic-resource-discovery-ard-google-microsoft/10847</link>
+      <description>Agentic Resource Discovery(ARD) 소개 오늘날 AI 에이전트는 더 이상 혼자 동작하지 않습니다. 하나의 작업을 끝내기 위해 외부 도구를 호출하고, 다른 팀이 만든 스킬을 빌려 오고, 때로는 또 다른 전문 에이전트에게 일을 넘깁니다.</description>
+      <pubDate>Tue, 23 Jun 2026 12:30:18 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/agentic-resource-discovery-ard-google-microsoft/10847">PyTorch Korea</source>
+      <guid isPermaLink="false">500efc126ab051521c22a5b6e244d3b6</guid>
+    </item>
+    <item>
+      <title>CADAM: 자연어로 3D CAD 모델을 만드는 오픈소스 text-to-CAD 웹 애플리케이션</title>
+      <link>https://discuss.pytorch.kr/t/cadam-3d-cad-text-to-cad/10814</link>
+      <description>CADAM 소개 기계 부품이나 시제품을 설계할 때 CAD 소프트웨어의 진입 장벽은 꽤 높습니다. 스케치, 구속 조건, 모델링 트리에 익숙해지기까지 시간이 걸리고, 치수 하나를 바꾸려면 어디를 수정해야 하는지 다시 찾아야 합니다. 머릿속에 만들고 싶은 형상이 분명해도 그것을 도구의 조작으로 옮기는 과정이 만만치 않습니다.</description>
+      <pubDate>Tue, 23 Jun 2026 10:30:49 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/cadam-3d-cad-text-to-cad/10814">PyTorch Korea</source>
+      <guid isPermaLink="false">787c3cdf7291f4b62b719d1179c50901</guid>
+    </item>
     <item>
       <title>WaterCrawl: 웹 콘텐츠를 LLM이 바로 쓰는 데이터로 바꾸는 셀프호스트 크롤링 플랫폼</title>
       <link>https://discuss.pytorch.kr/t/watercrawl-llm/10854</link>
