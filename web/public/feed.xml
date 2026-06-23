@@ -5,9 +5,27 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 24 Jun 2026 03:00:11 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 05:18:32 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>ShotcreteDepth: Shotcrete 건설 환경에서 강력한 로봇 깊이 인식을 위한 바이모달 데이터세트</title>
+      <link>https://huggingface.co/papers/2606.23152</link>
+      <description>까다로운 환경 조건에서 스테레오 RGB와 LiDAR 데이터를 결합한 이중 모드 구성 도메인 데이터세트가 자율 시스템 인식 연구를 위해 도입되었습니다.</description>
+      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.23152">Hugging Face Papers</source>
+      <guid isPermaLink="false">4787292e18425750fd12393ba51121bb</guid>
+    </item>
+    <item>
+      <title>Mahalanobis 코사인 유사성과 선형 프로브 비교</title>
+      <link>https://huggingface.co/papers/2606.19603</link>
+      <description>Mahalanobis 코사인 유사성은 분포 외 성능 측정항목과 밀접한 상관관계가 있는 선형 프로브를 비교하기 위한 이론적 기반 방법을 제공합니다.</description>
+      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.19603">Hugging Face Papers</source>
+      <guid isPermaLink="false">0cd7892793a211f95d683f12d8064276</guid>
+    </item>
     <item>
       <title>Reyzowter/Hello-Agents — 🤖 처음부터 AI 에이전트 시스템 구축 — 기초부터</title>
       <link>https://github.com/Reyzowter/Hello-Agents</link>
@@ -439,24 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260623000347">전자신문 IT</source>
       <guid isPermaLink="false">61b870d7566138f77b301c8376c281ae</guid>
-    </item>
-    <item>
-      <title>모태펀드-국민성장펀드 '투자 이어달리기' 가동…K-빅테크에 대규모 자금 붓는다</title>
-      <link>https://www.etnews.com/20260623000078</link>
-      <description>정부가 모태펀드와 국민성장펀드를 연계해 벤처·스타트업이 글로벌 유니콘을 넘어 빅테크 기업으로 스케일업할 수 있도록 돕는 대규모 '투자 이어달리기' 체계를 본격적으로 가동한다. 민간 벤처캐피털(VC)이 모태펀드로 키워낸 유망 기술기업을 선별하면 국민성장펀드가 대규모 자금을 이어받아 투자하는 부처 간 협업 모델이다.</description>
-      <pubDate>Tue, 23 Jun 2026 14:30:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260623000078">전자신문 IT</source>
-      <guid isPermaLink="false">f2e2f9a1c6bcab11a8e8b4451f0132f5</guid>
-    </item>
-    <item>
-      <title>보안목적 AI '망분리 의무' 적용 안한다…금융사 10곳에 비조치의견서 발급</title>
-      <link>https://www.etnews.com/20260623000315</link>
-      <description>보안 목적으로 인공지능(AI)을 활용할 경우 금융회사에 적용되던 '망분리 의무'가 적용되지 않는다. 최근 금융감독원은 보안목적 AI와 SaaS 활용 테스트 참여기관으로 선정된 금융사 10곳에 대해서는 1년간 망분리 의무 위반으로 조치하지 않는다는 법령해석을 내렸다.</description>
-      <pubDate>Tue, 23 Jun 2026 14:17:41 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260623000315">전자신문 IT</source>
-      <guid isPermaLink="false">ac5edb5ee6e409e11e199e2ecee283b8</guid>
     </item>
   </channel>
 </rss>

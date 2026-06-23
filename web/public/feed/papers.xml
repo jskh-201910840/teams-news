@@ -5,9 +5,27 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/papers.xml</link>
     <description>📄 Papers — AI research from Hugging Face Daily Papers</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 24 Jun 2026 03:00:11 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 05:18:32 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>ShotcreteDepth: Shotcrete 건설 환경에서 강력한 로봇 깊이 인식을 위한 바이모달 데이터세트</title>
+      <link>https://huggingface.co/papers/2606.23152</link>
+      <description>까다로운 환경 조건에서 스테레오 RGB와 LiDAR 데이터를 결합한 이중 모드 구성 도메인 데이터세트가 자율 시스템 인식 연구를 위해 도입되었습니다.</description>
+      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.23152">Hugging Face Papers</source>
+      <guid isPermaLink="false">4787292e18425750fd12393ba51121bb</guid>
+    </item>
+    <item>
+      <title>Mahalanobis 코사인 유사성과 선형 프로브 비교</title>
+      <link>https://huggingface.co/papers/2606.19603</link>
+      <description>Mahalanobis 코사인 유사성은 분포 외 성능 측정항목과 밀접한 상관관계가 있는 선형 프로브를 비교하기 위한 이론적 기반 방법을 제공합니다.</description>
+      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.19603">Hugging Face Papers</source>
+      <guid isPermaLink="false">0cd7892793a211f95d683f12d8064276</guid>
+    </item>
     <item>
       <title>에이전트가 너무 빨리 커밋하는 경우: LLM 에이전트의 조기 커밋 진단</title>
       <link>https://huggingface.co/papers/2606.22936</link>
@@ -439,24 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.21139">Hugging Face Papers</source>
       <guid isPermaLink="false">bf34836adfed6a54e751548c261d913a</guid>
-    </item>
-    <item>
-      <title>무제한 OCR 작동</title>
-      <link>https://huggingface.co/papers/2606.23050</link>
-      <description>Unlimited OCR은 참조 슬라이딩 윈도우 어텐션(Reference Sliding Window Attention)을 도입하여 긴 시퀀스 OCR 작업 중에 증가하는 메모리 소비를 제거하고 단일 전달 패스에서 여러 페이지를 효율적으로 기록할 수 있도록 합니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.23050">Hugging Face Papers</source>
-      <guid isPermaLink="false">145fcdd2a815664d001fc2f4b0cb8892</guid>
-    </item>
-    <item>
-      <title>자체 압축 언어 모델 에이전트</title>
-      <link>https://huggingface.co/papers/2606.23525</link>
-      <description>SelfCompact는 모델이 긴 에이전트 추적을 관리하기 위한 최적의 압축 타이밍과 방법을 자동으로 결정할 수 있도록 하는 스캐폴딩 접근 방식으로, 기존에 비해 감소된 토큰 비용으로 더 나은 성능을 달성합니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.23525">Hugging Face Papers</source>
-      <guid isPermaLink="false">d2ce1f3c01acd81b94af2e28e72e4004</guid>
     </item>
   </channel>
 </rss>

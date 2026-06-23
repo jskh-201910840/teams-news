@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-24T03:00:11.801789+09:00",
-  "total": 239,
+  "generated_at": "2026-06-24T05:18:32.299896+09:00",
+  "total": 241,
   "sources": [
     {
       "slug": "huggingface",
       "name": "Hugging Face Papers",
-      "count": 99
+      "count": 101
     },
     {
       "slug": "etnews",
@@ -48,7 +48,7 @@
     {
       "id": "papers",
       "title": "📄 Papers",
-      "count": 99
+      "count": 101
     },
     {
       "id": "news",
@@ -68,7 +68,7 @@
   ],
   "date_counts": {
     "2026-06-24": 4,
-    "2026-06-23": 93,
+    "2026-06-23": 95,
     "2026-06-22": 48,
     "2026-06-21": 24,
     "2026-06-20": 16,
