@@ -5,9 +5,27 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 25 Jun 2026 02:06:58 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 04:49:18 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>benlamiro/ShipGenAI — 🚀 생산 준비가 완료된 50개의 Generative AI SaaS 앱 — 브랜드를 지정하고 배송하며 수익의 100%를 유지하세요. Str</title>
+      <link>https://github.com/benlamiro/ShipGenAI</link>
+      <description>🚀 생산 준비가 완료된 50개의 Generative AI SaaS 앱 — 브랜드를 지정하고 배송하며 수익의 100%를 유지하세요. 스트라이프 결제 · Google OAuth · Vercel 배포 · MIT 라이선스</description>
+      <pubDate>Thu, 25 Jun 2026 04:33:10 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/benlamiro/ShipGenAI">GitHub Trending</source>
+      <guid isPermaLink="false">1a890535c1dc89e3b0c7fa2e9b33ac90</guid>
+    </item>
+    <item>
+      <title>InSight: 조종 가능한 VLA를 통한 자가 유도 기술 획득</title>
+      <link>https://huggingface.co/papers/2606.24884</link>
+      <description>InSight는 기본 동작 수준 조정 및 자동화된 데모 생성을 통해 비전-언어-동작 모델에 대한 자율적 기술 획득을 가능하게 합니다.</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.24884">Hugging Face Papers</source>
+      <guid isPermaLink="false">14250bb2e532c80b1446e6d7e393a4d6</guid>
+    </item>
     <item>
       <title>"남극 5,300만년전 동서로 쪼개지기 시작"…기존 학설 뒤집어</title>
       <link>https://zdnet.co.kr/view/?no=20260624230115</link>
@@ -439,24 +457,6 @@
       <category>news</category>
       <source url="https://news.hada.io/topic?id=30787">GeekNews</source>
       <guid isPermaLink="false">bb5274a3b0bf9beeccc60e58a3442bd6</guid>
-    </item>
-    <item>
-      <title>중국 '라인샤인', 세계 슈퍼컴 1위 탈환…"알맹이 없는 AI 경쟁력 과시용" 지적도</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=212037</link>
-      <description>중국이 9년 만에 세계 최고 성능 슈퍼컴퓨터 자리를 되찾으며 미국과의 첨단 기술 경쟁에서 존재감을 과시했다.</description>
-      <pubDate>Wed, 24 Jun 2026 11:00:13 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=212037">AI Times</source>
-      <guid isPermaLink="false">3580430e4dbf728e955795cc674e13da</guid>
-    </item>
-    <item>
-      <title>하이퍼엑셀, 기보 '2026 유니콘브릿지' 선정… 글로벌 진출 속도</title>
-      <link>https://zdnet.co.kr/view/?no=20260624105620</link>
-      <description>[지디넷코리아]AI 반도체 팹리스 스타트업 하이퍼엑셀이 기술보증기금(이하 기보)이 주관하는 ‘2026 유니콘브릿지’ 사업에 최종 선정되며 글로벌 시장 진출에 속도를 낸다.하이퍼엑셀은 이번 선정을 통해 글로벌시장개척자금을 지원받게 되며, 기보의 글로벌 네트워크와 스케일업 지원 체계를 기반으로 해외 시장 확대를 본격화할 계획이라고 24일 밝혔다.중소벤처기업부와 기보가 공동 운영하는 유니콘브릿지…</description>
-      <pubDate>Wed, 24 Jun 2026 11:09:56 +0900</pubDate>
-      <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260624105620">ZDNet Korea</source>
-      <guid isPermaLink="false">1b942ae54a6240dd59a64de63ece19f7</guid>
     </item>
   </channel>
 </rss>
