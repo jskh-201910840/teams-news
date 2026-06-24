@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 24 Jun 2026 08:53:43 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 09:01:17 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Moebius: 0.2B 이미지 인페인팅 모델로 10B급 성능 달성</title>
+      <link>https://news.hada.io/topic?id=30770</link>
+      <description>Moebius 는 10B급 산업용 이미지 인페인팅 모델의 높은 계산 비용을 줄이기 위한 0.22B 파라미터 경량 프레임워크임 LλMI 블록 은 Local-λ와 Interactive-λ 모듈로 공간 문맥과 전역 의미 정보를 고정 크기 선형 행렬에 압축해 계산 부담을 낮춤 학습은</description>
+      <pubDate>Wed, 24 Jun 2026 08:40:12 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30770">GeekNews</source>
+      <guid isPermaLink="false">27a6d5cdfd0f722b8a92bdbe9933b939</guid>
+    </item>
     <item>
       <title>[6월23일] "토큰 아끼지 마라"...새로운 AI 경쟁력은 '추론 투자'</title>
       <link>https://www.aitimes.com/news/articleView.html?idxno=212009</link>
@@ -448,15 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260622000403">전자신문 IT</source>
       <guid isPermaLink="false">cbed0e40529904648cbbfc66431c7f77</guid>
-    </item>
-    <item>
-      <title>ISMS-P 심사에 AI 활용 추진…실효성·효율 동시 강화</title>
-      <link>https://www.etnews.com/20260622000253</link>
-      <description>정보보호 및 개인정보보호 관리체계 인증(ISMS-P) 심사에 인공지능(AI)을 활용하는 방안이 추진된다. 현장실증과 기술심사를 강화해 인증의 실효성을 높이는 동시에 기존 서면 자료에 대한 심사 효율을 제고가 기대된다. 22일 업계에 따르면 한국인터넷진흥원(KISA)은 최근 '차세대 ISMS-P 시스템 고도화 정보화전략계획 수립' 용역을 발주했다.</description>
-      <pubDate>Mon, 22 Jun 2026 17:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260622000253">전자신문 IT</source>
-      <guid isPermaLink="false">949bc75a5a967ebc1201a381f55f3d5f</guid>
     </item>
   </channel>
 </rss>
