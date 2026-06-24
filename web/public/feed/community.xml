@@ -5,9 +5,36 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/community.xml</link>
     <description>💬 Community — PyTorch Korea discussions</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 24 Jun 2026 13:20:36 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 17:23:45 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>1Code: Claude Code와 Codex를 한 앱에서 실행하는 오픈소스 코딩 에이전트 클라이언트</title>
+      <link>https://discuss.pytorch.kr/t/1code-claude-code-codex/10811</link>
+      <description>1Code 소개 코딩 에이전트를 본격적으로 쓰기 시작하면 도구마다 실행 환경이 갈리는 문제에 부딪힙니다. Claude Code는 터미널에서, Codex는 또 다른 터미널이나 IDE에서 돌리고, 각 세션이 같은 작업 디렉토리를 건드리다 보면 변경 사항이 뒤섞이거나 main 브랜치를 실수로 오염시키기 쉽습니다.</description>
+      <pubDate>Wed, 24 Jun 2026 16:30:23 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/1code-claude-code-codex/10811">PyTorch Korea</source>
+      <guid isPermaLink="false">59a757e6bbd4c3a3249a708806695381</guid>
+    </item>
+    <item>
+      <title>Awesome Harness Engineering: AI 에이전트를 안정적으로 만드는 하네스 엔지니어링 자료 모음</title>
+      <link>https://discuss.pytorch.kr/t/awesome-harness-engineering-ai/10556</link>
+      <description>Awesome Harness Engineering 소개 Awesome Harness Engineering는 하네스 엔지니어링(harness engineering)에 관한 글, 플레이북, 벤치마크, 명세, 오픈소스 프로젝트를 한데 모은 큐레이션 목록입니다.</description>
+      <pubDate>Wed, 24 Jun 2026 14:30:48 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/awesome-harness-engineering-ai/10556">PyTorch Korea</source>
+      <guid isPermaLink="false">9def413cd16eeeb295f464713df1cb8a</guid>
+    </item>
+    <item>
+      <title>LLM Graph Builder: 비정형 데이터를 LLM으로 Neo4j 지식 그래프로 바꾸는 오픈소스 도구</title>
+      <link>https://discuss.pytorch.kr/t/llm-graph-builder-llm-neo4j/10812</link>
+      <description>LLM Graph Builder 소개 PDF, 문서, 유튜브 영상, 웹 페이지처럼 구조가 없는 데이터는 그 안에 풍부한 정보를 담고 있어도 기계가 곧바로 질의하기 어렵습니다. 어떤 개체(entity)가 등장하고 그 개체들이 서로 어떻게 연결되는지는 사람이 읽어야 알 수 있고, 단순 키워드 검색이나 벡터 검색만으로는 문서 사이를 잇는 관계를 따라가기 어렵습니다.</description>
+      <pubDate>Wed, 24 Jun 2026 14:30:48 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/llm-graph-builder-llm-neo4j/10812">PyTorch Korea</source>
+      <guid isPermaLink="false">b2be7d03b28fad99e66689d88773269d</guid>
+    </item>
     <item>
       <title>Swift-Agent-Skills: Claude Code와 Codex용 Swift 개발 AI 에이전트 스킬 모음</title>
       <link>https://discuss.pytorch.kr/t/swift-agent-skills-claude-code-codex-swift-ai/10840</link>

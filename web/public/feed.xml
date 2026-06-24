@@ -5,9 +5,171 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 24 Jun 2026 13:20:36 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 17:23:45 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>LingxiDiagBench: 중국 정신과 상담 및 진단에서 LLM 벤치마킹을 위한 다중 에이전트 프레임워크</title>
+      <link>https://huggingface.co/papers/2602.09379</link>
+      <description>중국 정신의학 진단에서 LLM을 평가하기 위한 대규모 다중 에이전트 벤치마크가 도입되어 동적 상담의 과제와 상담 품질과 진단 정확도 간의 격차를 강조합니다.</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2602.09379">Hugging Face Papers</source>
+      <guid isPermaLink="false">98b5543c3ea575f0f5ef3c29914c0d34</guid>
+    </item>
+    <item>
+      <title>Google Workspace CLI를 만든 개발자, 구글에서 해고됨</title>
+      <link>https://news.hada.io/topic?id=30790</link>
+      <description>gws는 Google Drive, Gmail, Calendar 등 모든 Workspace API 를 다루며 사람과 에이전트 양쪽을 위해 설계된 오픈소스 CLI 공개 며칠 만에 Hacker News 1위 에 오르고 수천 개의 GitHub 스타와 수천 명의 실사용자 확보 구글 내부 반응은 두갈래 였음: 여러...</description>
+      <pubDate>Wed, 24 Jun 2026 15:34:01 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30790">GeekNews</source>
+      <guid isPermaLink="false">2042f2c3d47e2d0417dcfa610ef0c8d1</guid>
+    </item>
+    <item>
+      <title>1Code: Claude Code와 Codex를 한 앱에서 실행하는 오픈소스 코딩 에이전트 클라이언트</title>
+      <link>https://discuss.pytorch.kr/t/1code-claude-code-codex/10811</link>
+      <description>1Code 소개 코딩 에이전트를 본격적으로 쓰기 시작하면 도구마다 실행 환경이 갈리는 문제에 부딪힙니다. Claude Code는 터미널에서, Codex는 또 다른 터미널이나 IDE에서 돌리고, 각 세션이 같은 작업 디렉토리를 건드리다 보면 변경 사항이 뒤섞이거나 main 브랜치를 실수로 오염시키기 쉽습니다.</description>
+      <pubDate>Wed, 24 Jun 2026 16:30:23 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/1code-claude-code-codex/10811">PyTorch Korea</source>
+      <guid isPermaLink="false">59a757e6bbd4c3a3249a708806695381</guid>
+    </item>
+    <item>
+      <title>HKUSTDial/DataMagic — AI 기반 데이터-비디오 생성. 테이블을 업로드하고 내레이션이 포함된 애니메이션 데이터 스토리를 받아보세요.</title>
+      <link>https://github.com/HKUSTDial/DataMagic</link>
+      <description>AI 기반 데이터-비디오 생성. 테이블을 업로드하고 내레이션이 포함된 애니메이션 데이터 스토리를 받아보세요.</description>
+      <pubDate>Wed, 24 Jun 2026 02:42:37 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/HKUSTDial/DataMagic">GitHub Trending</source>
+      <guid isPermaLink="false">d9237862857492012ab6c0bef564aab8</guid>
+    </item>
+    <item>
+      <title>DB생명, 업계 최초 'AI 건강코칭' 탑재한 암보험 출시…보험특허 신청</title>
+      <link>https://www.etnews.com/20260624000281</link>
+      <description>AI가 분석한 건강검진 데이터를 기반으로 건강을 관리하고 보험에 가입할 수 있게 됐다. DB생명이 업계 최초로 대화형 AI 건강코칭 서비스를 탑재한 암보험을 출시했다. 24일 보험업계에 따르면 이달 DB생명은 'AI라이프케어 암보험' 내 AI 건강코칭 서비스에 대해 배타적사용권을 신청했다.</description>
+      <pubDate>Wed, 24 Jun 2026 17:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260624000281">전자신문 IT</source>
+      <guid isPermaLink="false">a107a5f6d7d120dfdcf1182a4376cd88</guid>
+    </item>
+    <item>
+      <title>삼성전자 “AI 모듈러 홈, 3년 후 1만호 공급 목표”…아파트·빌딩으로 확장</title>
+      <link>https://www.etnews.com/20260624000245</link>
+      <description>삼성전자가 인공지능(AI) 모듈러 홈 사업을 단독주택 이외 아파트·공공주택·빌딩 등 다양한 영역으로 확장한다. 3년 후 AI 모듈러 홈 1만호 공급을 목표로 수립했다. 삼성전자는 24일 경기 화성시에 위치한 '삼성 AI 모듈러 홈' 쇼룸 행사에서 이같은 청사진을 공개했다.</description>
+      <pubDate>Wed, 24 Jun 2026 17:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260624000245">전자신문 IT</source>
+      <guid isPermaLink="false">4beff2d494fc229bc1bf8ce5338d763b</guid>
+    </item>
+    <item>
+      <title>딥시크, ‘하네스’ 팀 조직… 글로벌 AI 에이전트 시장 선점 가속화</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212059</link>
+      <description>딥시크가 급성장하는 AI 에이전트 시장 공략에 속도를 내고 있다.</description>
+      <pubDate>Wed, 24 Jun 2026 16:18:36 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212059">AI Times</source>
+      <guid isPermaLink="false">424d2cece028f3d2f262701993e372cb</guid>
+    </item>
+    <item>
+      <title>“AI 검색을 넘어 업무 자동화로”…젠스파크 'AI 워크스페이스' 청사진</title>
+      <link>https://www.etnews.com/20260624000272</link>
+      <description>미국 인공지능(AI) 스타트업 젠스파크가 '질문에 답하는 AI'를 넘어 '스스로 일을 끝내는 AI'를 핵심 비전으로 제시했다. 생성형 AI 시장이 챗봇 중심에서 자율형 에이전트 경쟁으로 전환되는 가운데, AI 모델 자체보다 사용자가 실제 업무 결과물을 얻을 수 있는 워크스페이스 경쟁력이 향후 AI 시장 성패를 가를 것이라는 설명이다.</description>
+      <pubDate>Wed, 24 Jun 2026 14:04:24 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260624000272">전자신문 IT</source>
+      <guid isPermaLink="false">f76a08dccd5062ee5446605a2263a8f6</guid>
+    </item>
+    <item>
+      <title>NH농협은행 예금 만기 조회 더 쉬워진다…웹케시, AI 기업뱅킹 구축</title>
+      <link>https://zdnet.co.kr/view/?no=20260624161604</link>
+      <description>[지디넷코리아]웹케시가 국내 시중은행 최초로 NH농협은행에 기업용 '에이전트 뱅킹'을 구축하며 금융권 인공지능(AI) 전환 시장 선점에 나선다.웹케시는 NH농협은행과 'AI 에이전트 기반 조회 서비스' 구축 계약을 체결하고 개발에 착수했다고 24일 밝혔다. 이번 사업은 NH농협은행이 추진하는 '에이전틱 AI 미래형 기업 풀뱅킹' 구축을 위한 3단계 로드맵의 첫 단계다.</description>
+      <pubDate>Wed, 24 Jun 2026 16:17:24 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260624161604">ZDNet Korea</source>
+      <guid isPermaLink="false">ae02bd2c3c90356136d672587c451ac2</guid>
+    </item>
+    <item>
+      <title>Awesome Harness Engineering: AI 에이전트를 안정적으로 만드는 하네스 엔지니어링 자료 모음</title>
+      <link>https://discuss.pytorch.kr/t/awesome-harness-engineering-ai/10556</link>
+      <description>Awesome Harness Engineering 소개 Awesome Harness Engineering는 하네스 엔지니어링(harness engineering)에 관한 글, 플레이북, 벤치마크, 명세, 오픈소스 프로젝트를 한데 모은 큐레이션 목록입니다.</description>
+      <pubDate>Wed, 24 Jun 2026 14:30:48 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/awesome-harness-engineering-ai/10556">PyTorch Korea</source>
+      <guid isPermaLink="false">9def413cd16eeeb295f464713df1cb8a</guid>
+    </item>
+    <item>
+      <title>LLM Graph Builder: 비정형 데이터를 LLM으로 Neo4j 지식 그래프로 바꾸는 오픈소스 도구</title>
+      <link>https://discuss.pytorch.kr/t/llm-graph-builder-llm-neo4j/10812</link>
+      <description>LLM Graph Builder 소개 PDF, 문서, 유튜브 영상, 웹 페이지처럼 구조가 없는 데이터는 그 안에 풍부한 정보를 담고 있어도 기계가 곧바로 질의하기 어렵습니다. 어떤 개체(entity)가 등장하고 그 개체들이 서로 어떻게 연결되는지는 사람이 읽어야 알 수 있고, 단순 키워드 검색이나 벡터 검색만으로는 문서 사이를 잇는 관계를 따라가기 어렵습니다.</description>
+      <pubDate>Wed, 24 Jun 2026 14:30:48 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/llm-graph-builder-llm-neo4j/10812">PyTorch Korea</source>
+      <guid isPermaLink="false">b2be7d03b28fad99e66689d88773269d</guid>
+    </item>
+    <item>
+      <title>[단독]국가AI전략위, 4년간 표류한 '디지털헬스' 중복 법안 일원화 추진</title>
+      <link>https://www.etnews.com/20260624000283</link>
+      <description>대통령 직속 국가인공지능전략위원회가 보건복지부와 산업통상부가 각각 추진 중인 디지털 헬스케어 관련 법안의 일원화를 추진한다. 의료 인공지능(AI)과 보건의료데이터 활용을 뒷받침할 법제화 필요성이 커지는 가운데 부처별 유사 입법이 이뤄질 경우 정책 주도와 규율 체계에 혼선이 생길 수 있다는 판단에 따른 것이다. 4년여간 표류해온 디지털 헬스케어 법제화에 속도가 붙을 것으로 기대된다.</description>
+      <pubDate>Wed, 24 Jun 2026 16:01:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260624000283">전자신문 IT</source>
+      <guid isPermaLink="false">968d268d76d990489d0e34adcfcede84</guid>
+    </item>
+    <item>
+      <title>“RISC-V AI 가속기 2031년 90.5억대…연평균 40% 성장”</title>
+      <link>https://www.etnews.com/20260624000277</link>
+      <description>반도체 설계자산(IP)의 '리눅스'라 불리는 RISC-V 기반 인공지능(AI) 가속기가 2031년까지 연평균 40% 이상 성장률을 보일 것이란 전망이 나왔다. 반도체 개발에 기본이 되는 IP 시장에서 '오픈소스' 바람이 거세졌다.</description>
+      <pubDate>Wed, 24 Jun 2026 16:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260624000277">전자신문 IT</source>
+      <guid isPermaLink="false">4d705c411ff1e129364b65f5df81799a</guid>
+    </item>
+    <item>
+      <title>'45톤 쇳덩이 0.1도까지 조정'… 포스코DX, '피지컬 AI'로 제조 자율화 가속</title>
+      <link>https://www.etnews.com/20260624000367</link>
+      <description>포스코DX가 제조 설비와 환경을 인지하고 자율적으로 제어하는 '피지컬 AI' 솔루션의 현장 적용을 본격화한다. 가상 시뮬레이션 기술과 현장 운영 기술(OT)을 결합해 설비 자율화를 실현함으로써, 단순 자동화 수준을 넘어선 '인텔리전트 팩토리' 전환에 속도를 낸다.</description>
+      <pubDate>Wed, 24 Jun 2026 15:00:37 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260624000367">전자신문 IT</source>
+      <guid isPermaLink="false">123296cfac8a1e7268edd08334ce623b</guid>
+    </item>
+    <item>
+      <title>MWC26 상하이 개막…中 '통신굴기' 생태계 확산 총력</title>
+      <link>https://www.etnews.com/20260624000335</link>
+      <description>아시아 최대 모바일 축제 'MWC26 상하이'가 막을 올렸다. 중국은 6G 이번 행사를 계기로 위성 등 차세대 통신 혁신 기술을 선보이는 한편 피지컬AI로 대변하는 'AI 굴기'를 가속화해 아시아지역 모바일 생태계 재편을 노린다. 세계이동통신사업자연합회(GSMA)는 24일(현지시간) 중국 상하이 신국제엑스포센터(SNIEC)에서 MWC26 상하이 개막을 알렸다.</description>
+      <pubDate>Wed, 24 Jun 2026 14:37:45 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260624000335">전자신문 IT</source>
+      <guid isPermaLink="false">63b3847a715fe6d54b18a1c58c6a50dc</guid>
+    </item>
+    <item>
+      <title>FLAT: 기하학적으로 정확한 장면 생성을 위한 피드포워드 잠재 삼각형 스플래팅</title>
+      <link>https://huggingface.co/papers/2606.24876</link>
+      <description>비디오 확산 모델은 잠재 공간에서 명시적 표면 프리미티브를 직접 디코딩하도록 조정되어 향상된 기하학적 정확성과 실시간 렌더링 기능을 갖춘 고품질 3D 장면 생성을 가능하게 합니다.</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.24876">Hugging Face Papers</source>
+      <guid isPermaLink="false">6896e7698e74664e4cece99b7b8f7dcb</guid>
+    </item>
+    <item>
+      <title>반도체·SMR·우주항공 키운다…생태계혁신형 DCP 출범</title>
+      <link>https://www.etnews.com/20260624000242</link>
+      <description>중소벤처기업부가 생태계혁신형 딥테크 챌린지 프로젝트(DCP) 예비연구를 시작한다. 반도체, 소형모듈원자로(SMR), 우주항공, 전고체전지 등 국가 전략기술 분야에서 미래 시장을 선도할 차세대 유니콘 후보 발굴에 나선다. 중기부는 24일 서울 마포구 스타트업벤처캠퍼스(SVC) 서울에서 '생태계혁신형 딥테크 챌린지 프로젝트(DCP)' 예비연구 프로젝트 출범식을 열었다.</description>
+      <pubDate>Wed, 24 Jun 2026 14:20:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260624000242">전자신문 IT</source>
+      <guid isPermaLink="false">0f6decbfdd026cd8322685aa0516260e</guid>
+    </item>
+    <item>
+      <title>LG전자, 초박형·투명 올레드 출격…“올레드 1위' 리더십굳힌다”</title>
+      <link>https://www.etnews.com/20260624000271</link>
+      <description>LG전자가 초프리미엄 올레드 TV 신제품 2종을 국내를 시작으로 글로벌 시장에 순차 출시한다. 세계 최초 무선 저지연 기술과 대폭 향상된 인공지능(AI) 프로세서를 앞세워 13년 연속 올레드 TV 시장 1위 지위를 굳힌다는 복안이다. LG전자 차세대 월페이퍼 TV 'LG 시그니처 올레드 W'(W6)는 두께 0.9cm대로 벽에 밀착되는 올인원 초슬림 디자인이 핵심 경쟁력이다.</description>
+      <pubDate>Wed, 24 Jun 2026 14:04:09 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260624000271">전자신문 IT</source>
+      <guid isPermaLink="false">e6e05bf85823ca746ebff30d191baa4f</guid>
+    </item>
     <item>
       <title>다중 목표 강화 학습을 통한 LLM 사전 훈련을 위한 전체적인 데이터 스케줄러</title>
       <link>https://huggingface.co/papers/2606.24133</link>
@@ -295,168 +457,6 @@
       <category>news</category>
       <source url="https://zdnet.co.kr/view/?no=20260624041004">ZDNet Korea</source>
       <guid isPermaLink="false">81de7caae9516f86a4cd36c79838f04c</guid>
-    </item>
-    <item>
-      <title>PixelRAG: 문서를 텍스트가 아닌 스크린샷으로 검색하는 시각 기반 RAG 프레임워크</title>
-      <link>https://discuss.pytorch.kr/t/pixelrag-rag/10870</link>
-      <description>PixelRAG 소개 검색 증강 생성(RAG)의 첫 단계는 보통 문서를 텍스트로 변환하는 일입니다. 웹페이지의 HTML을 파싱하거나 PDF에서 글자를 추출해 텍스트 청크로 쪼갠 뒤 임베딩하는 방식인데, 이 과정에서 표·차트·레이아웃·인포그래픽처럼 글자만으로는 복원되지 않는 시각적 구조 가 사라집니다.</description>
-      <pubDate>Wed, 24 Jun 2026 06:30:10 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/pixelrag-rag/10870">PyTorch Korea</source>
-      <guid isPermaLink="false">e6c115ce3c98e6723126b5aad3cbb061</guid>
-    </item>
-    <item>
-      <title>“사람의 손동작·압력까지 기록”…로봇 학습용 장갑 개발</title>
-      <link>https://www.etnews.com/20260623000443</link>
-      <description>미국 카네기멜런대학교 연구진이 사람의 손 움직임과 물체를 누르는 힘까지 동시에 기록하는 웨어러블 장갑 '아트 글러브'를 개발했습니다. 이 장갑은 손가락 관절의 움직임과 손이 닿는 위치, 압력의 세기를 실시간으로 측정해 로봇 학습 데이터로 활용할 수 있도록 설계됐습니다. 장갑에는 16개의 센서 패널과 22개의 관절 추적 장치, 2048개의 촉각 센서가 탑재됐으며 초당 120회 데이터를 수집합…</description>
-      <pubDate>Wed, 24 Jun 2026 06:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260623000443">전자신문 IT</source>
-      <guid isPermaLink="false">54f92064130591004fc2d80f891647b6</guid>
-    </item>
-    <item>
-      <title>모유에서 화학물질 검출…“아기 호르몬 체계·성장 과정 영향 줄 수 있어”</title>
-      <link>https://www.etnews.com/20260623000405</link>
-      <description>모유는 영아에게 가장 적합한 영양 공급원으로 평가받지만 모유 안에 포함된 일부 화학물질이 아기의 호르몬 체계에 영향을 줄 가능성이 있다는 연구 결과가 공개됐다. 20일(현지시간) 뉴욕포스트에 따르면 최근 이탈리아와 미국 연구팀이 각각 진행한 연구에서 산모들의 모유에서 여러 종류의 내분비계 교란 물질(EDCs)이 확인됐다.</description>
-      <pubDate>Wed, 24 Jun 2026 06:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260623000405">전자신문 IT</source>
-      <guid isPermaLink="false">5c563849b89c65244065787c8ae49be3</guid>
-    </item>
-    <item>
-      <title>Lift4D: 현장에서 4D 재구성을 위한 단일 뷰 3D 추정 조화</title>
-      <link>https://huggingface.co/papers/2606.23688</link>
-      <description>Lift4D는 단일 뷰 3D 재구성의 시간적 일관성을 변형 가능한 3D 가우스 스플래팅 및 뷰 조건 확산 이전에 결합하여 동적 재구성을 수행하는 테스트 시간 최적화 프레임워크를 제공합니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.23688">Hugging Face Papers</source>
-      <guid isPermaLink="false">e7596882fc9f81b2c15c6f831b4c9f3b</guid>
-    </item>
-    <item>
-      <title>Show GN: AI 에이전트를 내 걸로 만드는 방법</title>
-      <link>https://news.hada.io/topic?id=30768</link>
-      <description>AI 코딩 에이전트랑 매일 작업하는 개발자라면 이 기분 안다. 어제 분명히 우리가 같이 정한 컨벤션인데, 새 세션 열면 백지다. 내가 TypeScript에서 항상 interface 말고 type 쓰는 거, PR 리뷰에서 저 패턴 별로라고 했던 거, 지난주에 겨우 잡은 그 버그의 근본 원인 — 전부 처음 듣는 이</description>
-      <pubDate>Wed, 24 Jun 2026 06:55:53 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30768">GeekNews</source>
-      <guid isPermaLink="false">c6783bac40e0878c56ee34a12774c6e0</guid>
-    </item>
-    <item>
-      <title>TROPT: 개별 텍스트 최적화를 통합하고 발전시키기 위한 개방형 프레임워크</title>
-      <link>https://huggingface.co/papers/2606.23496</link>
-      <description>다양한 도메인과 애플리케이션에 걸쳐 최적화 전략의 개발 및 실행을 표준화하는 개별 텍스트 트리거 최적화를 위한 통합 오픈 소스 프레임워크입니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.23496">Hugging Face Papers</source>
-      <guid isPermaLink="false">f842e9680bccc86617abfce13f233798</guid>
-    </item>
-    <item>
-      <title>ShotcreteDepth: Shotcrete 건설 환경에서 강력한 로봇 깊이 인식을 위한 바이모달 데이터세트</title>
-      <link>https://huggingface.co/papers/2606.23152</link>
-      <description>까다로운 환경 조건에서 스테레오 RGB와 LiDAR 데이터를 결합한 이중 모드 구성 도메인 데이터세트가 자율 시스템 인식 연구를 위해 도입되었습니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.23152">Hugging Face Papers</source>
-      <guid isPermaLink="false">4787292e18425750fd12393ba51121bb</guid>
-    </item>
-    <item>
-      <title>Mahalanobis 코사인 유사성과 선형 프로브 비교</title>
-      <link>https://huggingface.co/papers/2606.19603</link>
-      <description>Mahalanobis 코사인 유사성은 분포 외 성능 측정항목과 밀접한 상관관계가 있는 선형 프로브를 비교하기 위한 이론적 기반 방법을 제공합니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.19603">Hugging Face Papers</source>
-      <guid isPermaLink="false">0cd7892793a211f95d683f12d8064276</guid>
-    </item>
-    <item>
-      <title>Reyzowter/Hello-Agents — 🤖 처음부터 AI 에이전트 시스템 구축 — 기초부터</title>
-      <link>https://github.com/Reyzowter/Hello-Agents</link>
-      <description>🤖 처음부터 AI 에이전트 시스템 구축 — 기초부터 프로덕션 등급 다중 에이전트 애플리케이션까지 포괄적이고 실용적인 튜토리얼</description>
-      <pubDate>Wed, 24 Jun 2026 02:34:47 +0900</pubDate>
-      <category>trending</category>
-      <source url="https://github.com/Reyzowter/Hello-Agents">GitHub Trending</source>
-      <guid isPermaLink="false">04cd62f2c8454059ef18f43dc4dd3772</guid>
-    </item>
-    <item>
-      <title>Claude Code의 “Extended Thinking” 출력 텍스트는 실제 추론이 아님</title>
-      <link>https://news.hada.io/topic?id=30766</link>
-      <description>Claude Code는 세션을 디스크에 기록하지만, 로컬 로그의 thinking block 에는 실제 추론 텍스트 대신 600자 길이의 signature 만 남아 있었음 Claude의 추론은 signature로 암호화 되며, 키는 Anthropic이 보유하고 사용자 기기에는 전달되지 않음 ...</description>
-      <pubDate>Wed, 24 Jun 2026 02:35:11 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30766">GeekNews</source>
-      <guid isPermaLink="false">f65d38c3dfec54b5efe1065e6e216802</guid>
-    </item>
-    <item>
-      <title>팀스파르타 “교육·구축·컨설팅까지…AX ‘엔드투엔드’ 책임진다”</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=212031</link>
-      <description>“팀스파르타는 AI를 실제 업무 흐름에 반영해 성과를 낼 수 있도록 전 과정을 지원합니다. 대부분의 글로벌 기업에서도 갖추지 못한 역량이라는 점에서, 가능성과 차별점을 긍정적으로 평가해 합류를 결정하게 됐습니다.”팀스파르타는 2019년부터 코딩 교육 서비스 ‘스파르타코딩클럽’으로 잘 알려져 있다. 이제는 교육 역량을 활용해 기업과 개인의 AX를 담당하고 있다.</description>
-      <pubDate>Wed, 24 Jun 2026 02:00:23 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=212031">AI Times</source>
-      <guid isPermaLink="false">c178e4d8ed0bc030a4548942333fa9d6</guid>
-    </item>
-    <item>
-      <title>에이전트가 너무 빨리 커밋하는 경우: LLM 에이전트의 조기 커밋 진단</title>
-      <link>https://huggingface.co/papers/2606.22936</link>
-      <description>장거리 LLM 에이전트의 조기 약속은 에이전트가 대안을 고려하지 않고 초기 해석을 방어하는 조용한 실패로 이어지며 숨겨진 상태 수렴은 트래픽에 대한 조기 진단 역할을 합니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.22936">Hugging Face Papers</source>
-      <guid isPermaLink="false">3b8bea8886953e474effcd8655f04ea8</guid>
-    </item>
-    <item>
-      <title>Go-with-the-Track: 포인트 추적을 통한 비디오 합성 및 모션 제어</title>
-      <link>https://huggingface.co/papers/2606.20891</link>
-      <description>Go-with-the-Track은 공간 인식 인코딩 및 비디오 확산 변환기가 포함된 포인트 트랙 임베딩을 사용하여 비디오 생성 시 모션 제어 및 참조 이미지 합성을 통합합니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.20891">Hugging Face Papers</source>
-      <guid isPermaLink="false">c14543b47331e5d12a0a5e5bde98be10</guid>
-    </item>
-    <item>
-      <title>대본: LLM 에이전트에게 음악적 구조에 대한 감각 제공</title>
-      <link>https://huggingface.co/papers/2606.22708</link>
-      <description>Libretto는 LLM 기본 문법과 음악 차원 전반에 걸친 통계 평가를 사용하여 상징적인 음악 생성 및 개정을 위한 구조화된 프레임워크를 제공합니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.22708">Hugging Face Papers</source>
-      <guid isPermaLink="false">73955376188b9ada2dc684e2c06a4afb</guid>
-    </item>
-    <item>
-      <title>AC-ODM: 샘플 효율적인 LLM 사전 훈련을 위한 배우-비평 온라인 데이터 혼합</title>
-      <link>https://huggingface.co/papers/2505.23878</link>
-      <description>AC-ODM은 강화 학습을 사용하여 LLM에 대한 사전 훈련 데이터 구성을 최적화하여 계산 효율성을 유지하면서 수렴 속도와 다운스트림 정확도를 향상시킵니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2505.23878">Hugging Face Papers</source>
-      <guid isPermaLink="false">564514097acbc51edb7d672ea9e6e2bf</guid>
-    </item>
-    <item>
-      <title>위험 없는 개방형 가중치 모델을 향하여: LLM의 공공 및 민간 기능 분리</title>
-      <link>https://huggingface.co/papers/2606.21638</link>
-      <description>계층형 언어 모델(TLM)은 공개 모델 무결성을 유지하면서 계산 그래프를 수정하는 비밀 키를 통해 구성 가능한 기능 수준을 갖춘 대규모 언어 모델을 출시하기 위한 프레임워크를 제공합니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.21638">Hugging Face Papers</source>
-      <guid isPermaLink="false">6ebcfcbdc32233896795f81db8743127</guid>
-    </item>
-    <item>
-      <title>트라이넷엑스 라이브 네트워크, 글로벌 헬스케어 전반의 의사결정 등급 근거를 확장하며 환자 수 3억 명 돌파</title>
-      <link>https://zdnet.co.kr/view/?no=20260623231002</link>
-      <description>[지디넷코리아] 이번 이정표는 가속화되는 국제적 성장을 반영하며 제약 회사, 학술 연구자, 의료 제공자, 헬스테크 혁신가들에게 신뢰할 수 있고 임상적으로 풍부하며 세계적 대표성을 가진 최신 실세계 데이터에 대한 접근을 제공한다.</description>
-      <pubDate>Tue, 23 Jun 2026 23:10:02 +0900</pubDate>
-      <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260623231002">ZDNet Korea</source>
-      <guid isPermaLink="false">c9b030638b315394718b0703c3cf21c8</guid>
-    </item>
-    <item>
-      <title>“뭘 사든 돈 번다”…반도체가 끌어올린 증시, 대만 '빚투 열풍' 한국보다 더하다</title>
-      <link>https://www.etnews.com/20260623000448</link>
-      <description>세계 최대 반도체 파운드리 기업 TSMC를 중심으로 한 인공지능(AI) 열풍이 대만 증시를 끌어올리면서 투자 과열 우려가 커지고 있다. 주가 상승에 베팅한 개인투자자들의 '빚투(빚내서 투자)'가 급증한 데 이어 국채 투자 자금까지 증시로 이동하고 있다는 분석이 제기된다. 23일(현지시간) 블룸버그통신에 따르면 대만에서는 AI 관련 기술주를 중심으로 투자 열기가 전 세대에 걸쳐 확산되고 있다.</description>
-      <pubDate>Tue, 23 Jun 2026 21:40:03 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260623000448">전자신문 IT</source>
-      <guid isPermaLink="false">b2f737a217f326f0cc6113fb276f52bb</guid>
     </item>
   </channel>
 </rss>

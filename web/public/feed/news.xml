@@ -5,9 +5,117 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 24 Jun 2026 13:20:36 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 17:23:45 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Google Workspace CLI를 만든 개발자, 구글에서 해고됨</title>
+      <link>https://news.hada.io/topic?id=30790</link>
+      <description>gws는 Google Drive, Gmail, Calendar 등 모든 Workspace API 를 다루며 사람과 에이전트 양쪽을 위해 설계된 오픈소스 CLI 공개 며칠 만에 Hacker News 1위 에 오르고 수천 개의 GitHub 스타와 수천 명의 실사용자 확보 구글 내부 반응은 두갈래 였음: 여러...</description>
+      <pubDate>Wed, 24 Jun 2026 15:34:01 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30790">GeekNews</source>
+      <guid isPermaLink="false">2042f2c3d47e2d0417dcfa610ef0c8d1</guid>
+    </item>
+    <item>
+      <title>DB생명, 업계 최초 'AI 건강코칭' 탑재한 암보험 출시…보험특허 신청</title>
+      <link>https://www.etnews.com/20260624000281</link>
+      <description>AI가 분석한 건강검진 데이터를 기반으로 건강을 관리하고 보험에 가입할 수 있게 됐다. DB생명이 업계 최초로 대화형 AI 건강코칭 서비스를 탑재한 암보험을 출시했다. 24일 보험업계에 따르면 이달 DB생명은 'AI라이프케어 암보험' 내 AI 건강코칭 서비스에 대해 배타적사용권을 신청했다.</description>
+      <pubDate>Wed, 24 Jun 2026 17:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260624000281">전자신문 IT</source>
+      <guid isPermaLink="false">a107a5f6d7d120dfdcf1182a4376cd88</guid>
+    </item>
+    <item>
+      <title>삼성전자 “AI 모듈러 홈, 3년 후 1만호 공급 목표”…아파트·빌딩으로 확장</title>
+      <link>https://www.etnews.com/20260624000245</link>
+      <description>삼성전자가 인공지능(AI) 모듈러 홈 사업을 단독주택 이외 아파트·공공주택·빌딩 등 다양한 영역으로 확장한다. 3년 후 AI 모듈러 홈 1만호 공급을 목표로 수립했다. 삼성전자는 24일 경기 화성시에 위치한 '삼성 AI 모듈러 홈' 쇼룸 행사에서 이같은 청사진을 공개했다.</description>
+      <pubDate>Wed, 24 Jun 2026 17:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260624000245">전자신문 IT</source>
+      <guid isPermaLink="false">4beff2d494fc229bc1bf8ce5338d763b</guid>
+    </item>
+    <item>
+      <title>딥시크, ‘하네스’ 팀 조직… 글로벌 AI 에이전트 시장 선점 가속화</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212059</link>
+      <description>딥시크가 급성장하는 AI 에이전트 시장 공략에 속도를 내고 있다.</description>
+      <pubDate>Wed, 24 Jun 2026 16:18:36 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212059">AI Times</source>
+      <guid isPermaLink="false">424d2cece028f3d2f262701993e372cb</guid>
+    </item>
+    <item>
+      <title>“AI 검색을 넘어 업무 자동화로”…젠스파크 'AI 워크스페이스' 청사진</title>
+      <link>https://www.etnews.com/20260624000272</link>
+      <description>미국 인공지능(AI) 스타트업 젠스파크가 '질문에 답하는 AI'를 넘어 '스스로 일을 끝내는 AI'를 핵심 비전으로 제시했다. 생성형 AI 시장이 챗봇 중심에서 자율형 에이전트 경쟁으로 전환되는 가운데, AI 모델 자체보다 사용자가 실제 업무 결과물을 얻을 수 있는 워크스페이스 경쟁력이 향후 AI 시장 성패를 가를 것이라는 설명이다.</description>
+      <pubDate>Wed, 24 Jun 2026 14:04:24 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260624000272">전자신문 IT</source>
+      <guid isPermaLink="false">f76a08dccd5062ee5446605a2263a8f6</guid>
+    </item>
+    <item>
+      <title>NH농협은행 예금 만기 조회 더 쉬워진다…웹케시, AI 기업뱅킹 구축</title>
+      <link>https://zdnet.co.kr/view/?no=20260624161604</link>
+      <description>[지디넷코리아]웹케시가 국내 시중은행 최초로 NH농협은행에 기업용 '에이전트 뱅킹'을 구축하며 금융권 인공지능(AI) 전환 시장 선점에 나선다.웹케시는 NH농협은행과 'AI 에이전트 기반 조회 서비스' 구축 계약을 체결하고 개발에 착수했다고 24일 밝혔다. 이번 사업은 NH농협은행이 추진하는 '에이전틱 AI 미래형 기업 풀뱅킹' 구축을 위한 3단계 로드맵의 첫 단계다.</description>
+      <pubDate>Wed, 24 Jun 2026 16:17:24 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260624161604">ZDNet Korea</source>
+      <guid isPermaLink="false">ae02bd2c3c90356136d672587c451ac2</guid>
+    </item>
+    <item>
+      <title>[단독]국가AI전략위, 4년간 표류한 '디지털헬스' 중복 법안 일원화 추진</title>
+      <link>https://www.etnews.com/20260624000283</link>
+      <description>대통령 직속 국가인공지능전략위원회가 보건복지부와 산업통상부가 각각 추진 중인 디지털 헬스케어 관련 법안의 일원화를 추진한다. 의료 인공지능(AI)과 보건의료데이터 활용을 뒷받침할 법제화 필요성이 커지는 가운데 부처별 유사 입법이 이뤄질 경우 정책 주도와 규율 체계에 혼선이 생길 수 있다는 판단에 따른 것이다. 4년여간 표류해온 디지털 헬스케어 법제화에 속도가 붙을 것으로 기대된다.</description>
+      <pubDate>Wed, 24 Jun 2026 16:01:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260624000283">전자신문 IT</source>
+      <guid isPermaLink="false">968d268d76d990489d0e34adcfcede84</guid>
+    </item>
+    <item>
+      <title>“RISC-V AI 가속기 2031년 90.5억대…연평균 40% 성장”</title>
+      <link>https://www.etnews.com/20260624000277</link>
+      <description>반도체 설계자산(IP)의 '리눅스'라 불리는 RISC-V 기반 인공지능(AI) 가속기가 2031년까지 연평균 40% 이상 성장률을 보일 것이란 전망이 나왔다. 반도체 개발에 기본이 되는 IP 시장에서 '오픈소스' 바람이 거세졌다.</description>
+      <pubDate>Wed, 24 Jun 2026 16:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260624000277">전자신문 IT</source>
+      <guid isPermaLink="false">4d705c411ff1e129364b65f5df81799a</guid>
+    </item>
+    <item>
+      <title>'45톤 쇳덩이 0.1도까지 조정'… 포스코DX, '피지컬 AI'로 제조 자율화 가속</title>
+      <link>https://www.etnews.com/20260624000367</link>
+      <description>포스코DX가 제조 설비와 환경을 인지하고 자율적으로 제어하는 '피지컬 AI' 솔루션의 현장 적용을 본격화한다. 가상 시뮬레이션 기술과 현장 운영 기술(OT)을 결합해 설비 자율화를 실현함으로써, 단순 자동화 수준을 넘어선 '인텔리전트 팩토리' 전환에 속도를 낸다.</description>
+      <pubDate>Wed, 24 Jun 2026 15:00:37 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260624000367">전자신문 IT</source>
+      <guid isPermaLink="false">123296cfac8a1e7268edd08334ce623b</guid>
+    </item>
+    <item>
+      <title>MWC26 상하이 개막…中 '통신굴기' 생태계 확산 총력</title>
+      <link>https://www.etnews.com/20260624000335</link>
+      <description>아시아 최대 모바일 축제 'MWC26 상하이'가 막을 올렸다. 중국은 6G 이번 행사를 계기로 위성 등 차세대 통신 혁신 기술을 선보이는 한편 피지컬AI로 대변하는 'AI 굴기'를 가속화해 아시아지역 모바일 생태계 재편을 노린다. 세계이동통신사업자연합회(GSMA)는 24일(현지시간) 중국 상하이 신국제엑스포센터(SNIEC)에서 MWC26 상하이 개막을 알렸다.</description>
+      <pubDate>Wed, 24 Jun 2026 14:37:45 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260624000335">전자신문 IT</source>
+      <guid isPermaLink="false">63b3847a715fe6d54b18a1c58c6a50dc</guid>
+    </item>
+    <item>
+      <title>반도체·SMR·우주항공 키운다…생태계혁신형 DCP 출범</title>
+      <link>https://www.etnews.com/20260624000242</link>
+      <description>중소벤처기업부가 생태계혁신형 딥테크 챌린지 프로젝트(DCP) 예비연구를 시작한다. 반도체, 소형모듈원자로(SMR), 우주항공, 전고체전지 등 국가 전략기술 분야에서 미래 시장을 선도할 차세대 유니콘 후보 발굴에 나선다. 중기부는 24일 서울 마포구 스타트업벤처캠퍼스(SVC) 서울에서 '생태계혁신형 딥테크 챌린지 프로젝트(DCP)' 예비연구 프로젝트 출범식을 열었다.</description>
+      <pubDate>Wed, 24 Jun 2026 14:20:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260624000242">전자신문 IT</source>
+      <guid isPermaLink="false">0f6decbfdd026cd8322685aa0516260e</guid>
+    </item>
+    <item>
+      <title>LG전자, 초박형·투명 올레드 출격…“올레드 1위' 리더십굳힌다”</title>
+      <link>https://www.etnews.com/20260624000271</link>
+      <description>LG전자가 초프리미엄 올레드 TV 신제품 2종을 국내를 시작으로 글로벌 시장에 순차 출시한다. 세계 최초 무선 저지연 기술과 대폭 향상된 인공지능(AI) 프로세서를 앞세워 13년 연속 올레드 TV 시장 1위 지위를 굳힌다는 복안이다. LG전자 차세대 월페이퍼 TV 'LG 시그니처 올레드 W'(W6)는 두께 0.9cm대로 벽에 밀착되는 올인원 초슬림 디자인이 핵심 경쟁력이다.</description>
+      <pubDate>Wed, 24 Jun 2026 14:04:09 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260624000271">전자신문 IT</source>
+      <guid isPermaLink="false">e6e05bf85823ca746ebff30d191baa4f</guid>
+    </item>
     <item>
       <title>FUTO Swipe: 공개형 스와이프 입력 모델</title>
       <link>https://news.hada.io/topic?id=30787</link>
@@ -349,114 +457,6 @@
       <category>news</category>
       <source url="https://news.hada.io/topic?id=30756">GeekNews</source>
       <guid isPermaLink="false">ac290f3954dfdb4f13b509d50e991eae</guid>
-    </item>
-    <item>
-      <title>테슬라, 또 자율주행 중 사망사고?…美 당국 '주택 돌진' 사건 특별조사 착수</title>
-      <link>https://www.etnews.com/20260623000149</link>
-      <description>미국 텍사스주에서 테슬라 차량이 주택으로 돌진해 내부에 있던 주민이 사망하는 사고가 발생해 미 연방 자동차 안전 규제 당국이 특별 조사에 착수했다. 22일(현지시간) 월스트리트저널(WSJ) 등 외신에 따르면 미 도로교통안전국(NHTSA)은 최근 휴스턴 인근 케이티 지역에서 발생한 테슬라 모델 3의 치명적 충돌 사고에 대해 본격적인 조사에 돌입했다고 밝혔다.</description>
-      <pubDate>Tue, 23 Jun 2026 10:48:17 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260623000149">전자신문 IT</source>
-      <guid isPermaLink="false">552a8756ef526605a23bd125b69244dd</guid>
-    </item>
-    <item>
-      <title>최저임금 16.3% 인상안, 일자리 44만개 감소한다</title>
-      <link>https://www.etnews.com/20260623000121</link>
-      <description>최저임금을 노동계 요구안 수준으로 인상하면, 연간 일자리 44만개가 감소할 수 있다는 연구 결과가 나왔다. 파이터치연구원은 내년도 최저임금을 올해보다 16.3% 인상하면 연간 일자리가 44만3000개 감소하고 총혁신투자는 4000억원 줄어든다는 연구 결과를 발표했다고 밝혔다.</description>
-      <pubDate>Tue, 23 Jun 2026 10:22:03 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260623000121">전자신문 IT</source>
-      <guid isPermaLink="false">cdca8cbcc58f9a612a07cec6804e4157</guid>
-    </item>
-    <item>
-      <title>한국거래소, 코스닥 승강제 '프리미엄→셀렉트' 추진…벤처·VC업계 “서열화 여전”</title>
-      <link>https://www.etnews.com/20260623000107</link>
-      <description>코스닥 승강제 도입을 앞두고 한국거래소가 기존 '프리미엄' 대신 '셀렉트(Select)' 명칭을 검토하고 있지만, 기업 간 서열화와 낙인효과를 우려하는 벤처·벤처캐피털(VC) 업계의 반발은 여전하다. 거래소는 자문단 논의와 자본시장연구원 연구용역 결과를 토대로 오는 9~10월 최종 개편안을 마련한다는 방침이다.</description>
-      <pubDate>Tue, 23 Jun 2026 10:14:13 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260623000107">전자신문 IT</source>
-      <guid isPermaLink="false">0e000a45f4c334c3e4b235acd9131510</guid>
-    </item>
-    <item>
-      <title>삼성전자, 메모리 솔루션 'UFS 5.0' 업계 최초 개발</title>
-      <link>https://www.etnews.com/20260623000060</link>
-      <description>삼성전자가 UFS(Universal Flash Storage) 5.0 메모리 솔루션을 개발했다고 23일 밝혔다. UFS는 스마트폰이나 태블릿 등 모바일 기기에 쓰이는 초고속 차세대 저장장치다. UFS 5.0은 삼성전자의 첨단 9세대 V낸드 기반으로 개발됐다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:32:37 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260623000060">전자신문 IT</source>
-      <guid isPermaLink="false">682bad6972030d465efe39242462de72</guid>
-    </item>
-    <item>
-      <title>오라클, 1년간 세계 임직원 2만명 감원…AI로 직무 대체</title>
-      <link>https://www.etnews.com/20260623000049</link>
-      <description>오라클이 인공지능(AI) 기술로 직무 일부를 대체하며 지난 12개월 간 임직원 2만1000명을 줄였다. 블룸버그는 22일(현지시간) AI 도입으로 인해 직무가 사라진 직원들을 포함해 기존에 알려진 것보다 더 큰 규모의 감원이라며 이같이 보도했다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:19:45 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260623000049">전자신문 IT</source>
-      <guid isPermaLink="false">41fe20968a75458221b1f64d9f3c3ac1</guid>
-    </item>
-    <item>
-      <title>삼성전자가 쏜 온누리상품권 '4000억' 풀린다</title>
-      <link>https://www.etnews.com/20260623000008</link>
-      <description>삼성전자가 '국민과 함께, 삼성전자 감사 페스티벌' 참여 고객을 대상으로 디지털 온누리상품권 지급을 시작한다. 구매 금액 20%를 온누리상품권으로 돌려주는 이번 행사는 AI 시대 반도체 성과를 국민과 나누겠다는 취지로 마련됐다. 이르면 24일부터 순차 지급한다.</description>
-      <pubDate>Tue, 23 Jun 2026 08:20:14 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260623000008">전자신문 IT</source>
-      <guid isPermaLink="false">342ab42b5be6dd0cb05a4e381e6548d1</guid>
-    </item>
-    <item>
-      <title>KETI·로봇진흥원·두산로보틱스, 유럽 로봇시장 진출 협약</title>
-      <link>https://zdnet.co.kr/view/?no=20260623070845</link>
-      <description>[지디넷코리아]한국전자기술연구원(KETI·원장 노건기)은 20일(현지 시간) 독일 프랑크푸르트 소재 두산로보틱스 유럽지사에서 한국로봇산업진흥원(KIRIA·원장 조영훈), 두산로보틱스(대표 김민표)와 첨단로봇 분야 연구개발(R&amp;D) 협력을 위한 업무협약을 체결했다고 밝혔다.세 기관은 협약에 따라 체코 프라하공과대학교 안에 구축하는 ‘한-체코 첨단로봇산업 협력센터’를 협력 기반으로 활용해 국내…</description>
-      <pubDate>Tue, 23 Jun 2026 07:08:45 +0900</pubDate>
-      <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260623070845">ZDNet Korea</source>
-      <guid isPermaLink="false">1b8d19ef68d604ba03486237ab708925</guid>
-    </item>
-    <item>
-      <title>“한개 칩으로 여러 생체신호 동시 측정” DGIST, 초소형 생체신호 측정 반도체 세계 최초 개발</title>
-      <link>https://www.etnews.com/20260623000004</link>
-      <description>디지스트(DGIST·총장 이건우)는 이정협 전기전자컴퓨터공학과 교수팀이 심전도(ECG)와 근전도(EMG) 등 다양한 생체 신호를 동시에 측정할 수 있는 '시분할 잡음성형 SAR ADC(아날로그-디지털 변환기)' 반도체 칩을 세계 최초로 개발했다고 23일 밝혔다. 연구팀은 해당 기술을 실제 반도체 칩으로 제작해 동작 검증까지 마쳤다.</description>
-      <pubDate>Tue, 23 Jun 2026 07:50:59 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260623000004">전자신문 IT</source>
-      <guid isPermaLink="false">41de723ecf70d8189d9dcf972a947e43</guid>
-    </item>
-    <item>
-      <title>[6월22일] "내 치즈를 옮긴 것은 챗GPT"… 종이책에서 AI로 이동하는 '조언 산업'</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=211972</link>
-      <description>AI의 급격한 발전과 간편한 요약 기능이 자기계발서 판매 감소의 원인 중 하나라는 분석이 나왔습니다.</description>
-      <pubDate>Tue, 23 Jun 2026 07:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=211972">AI Times</source>
-      <guid isPermaLink="false">0eeae2c4d1656ad73f4e6ce7644452ef</guid>
-    </item>
-    <item>
-      <title>피임약이 폭식 위험 높인다…호르몬 변화가 식사 행동에 영향</title>
-      <link>https://www.etnews.com/20260622000364</link>
-      <description>일반적으로 사용되는 경구 피임제가 폭식과 관련이 있을 수 있다는 연구 결과가 나왔다. 17일(현지시간) 뉴욕포스트는 미시간주립대학교 연구팀의 연구를 인용해 경구용 피임제가 식사 행동 변화에 영향을 미칠 가능성이 확인됐다고 전했다. 경구 피임제는 여성들이 널리 이용하는 피임 수단 중 하나로, 호르몬 성분이 포함된 약과 호르몬이 들어 있지 않은 위약 형태로 구성된다.</description>
-      <pubDate>Tue, 23 Jun 2026 06:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260622000364">전자신문 IT</source>
-      <guid isPermaLink="false">9cb543d476391f84628d9f56c2677b28</guid>
-    </item>
-    <item>
-      <title>AI가 도운 기적… 머리 붙은 샴쌍둥이, '40시간 대수술' 끝에 분리 성공</title>
-      <link>https://www.etnews.com/20260622000385</link>
-      <description>머리가 붙은 채 태어난 결합쌍둥이(샴쌍둥이) 자매가 인공지능(AI) 기술을 활용한 획기적인 수술 끝에 성공적으로 분리됐다. 최근 미국 피플지에 따르면, 영국 비영리 단체 제미니 언트윈드는 머리 일부를 공유한 채 태어난 쌍둥이 자매 머시와 굿니스가 아랍에미리트(UAE) 아부다비의 SEHA 셰이크 칼리파 의료도시에서 4개월에 걸친 여러 단계의 수술 끝에 분리됐다고 밝혔다.</description>
-      <pubDate>Mon, 22 Jun 2026 22:30:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260622000385">전자신문 IT</source>
-      <guid isPermaLink="false">5dfd371e3f7044c356c566a4ead01194</guid>
-    </item>
-    <item>
-      <title>헬리콥터 동력전달 4개 부품 원천기술 국산화…"성능 샤프란 수준"</title>
-      <link>https://zdnet.co.kr/view/?no=20260622222322</link>
-      <description>[지디넷코리아]헬리콥터 동력장치인 회전익기 동력전달장치 4대 핵심부품과 관련한 원천기술이 국산화됐다.한국기계연구원은 이한민 가상공학플랫폼연구본부 산업기계DX연구실장 연구팀이 클러치와 기어, 하우징, 베어링 기술 개발에 성공했다고 23일 밝혔다.동력전달장치는 회전익기 엔진 동력을 로터(프로펠러처럼 도는 날개)에 전달하는 핵심 장치다.</description>
-      <pubDate>Mon, 22 Jun 2026 22:23:22 +0900</pubDate>
-      <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260622222322">ZDNet Korea</source>
-      <guid isPermaLink="false">055b91ee4431c97b1b7fe1f081f72d50</guid>
     </item>
   </channel>
 </rss>

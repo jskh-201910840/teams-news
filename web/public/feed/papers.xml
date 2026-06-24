@@ -5,9 +5,27 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/papers.xml</link>
     <description>📄 Papers — AI research from Hugging Face Daily Papers</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 24 Jun 2026 13:20:36 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 17:23:45 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>LingxiDiagBench: 중국 정신과 상담 및 진단에서 LLM 벤치마킹을 위한 다중 에이전트 프레임워크</title>
+      <link>https://huggingface.co/papers/2602.09379</link>
+      <description>중국 정신의학 진단에서 LLM을 평가하기 위한 대규모 다중 에이전트 벤치마크가 도입되어 동적 상담의 과제와 상담 품질과 진단 정확도 간의 격차를 강조합니다.</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2602.09379">Hugging Face Papers</source>
+      <guid isPermaLink="false">98b5543c3ea575f0f5ef3c29914c0d34</guid>
+    </item>
+    <item>
+      <title>FLAT: 기하학적으로 정확한 장면 생성을 위한 피드포워드 잠재 삼각형 스플래팅</title>
+      <link>https://huggingface.co/papers/2606.24876</link>
+      <description>비디오 확산 모델은 잠재 공간에서 명시적 표면 프리미티브를 직접 디코딩하도록 조정되어 향상된 기하학적 정확성과 실시간 렌더링 기능을 갖춘 고품질 3D 장면 생성을 가능하게 합니다.</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.24876">Hugging Face Papers</source>
+      <guid isPermaLink="false">6896e7698e74664e4cece99b7b8f7dcb</guid>
+    </item>
     <item>
       <title>다중 목표 강화 학습을 통한 LLM 사전 훈련을 위한 전체적인 데이터 스케줄러</title>
       <link>https://huggingface.co/papers/2606.24133</link>
@@ -439,24 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.23608">Hugging Face Papers</source>
       <guid isPermaLink="false">619a20e6537b8915c2b4a687fc63b729</guid>
-    </item>
-    <item>
-      <title>OpenRath: 에이전트 시스템을 위한 세션 중심 런타임 상태</title>
-      <link>https://huggingface.co/papers/2606.19409</link>
-      <description>OpenRath는 포괄적인 실행을 기록하는 동시에 명시적인 포크, 병합 및 재생 작업을 가능하게 하는 중앙 런타임 추상화로 세션을 사용하는 다중 에이전트 시스템을 위한 PyTorch와 유사한 프로그래밍 모델을 도입합니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.19409">Hugging Face Papers</source>
-      <guid isPermaLink="false">3557bf2df03a19e70e8e643b96df3373</guid>
-    </item>
-    <item>
-      <title>세계 액션 모델: 설문조사</title>
-      <link>https://huggingface.co/papers/2606.20781</link>
-      <description>월드 액션 모델(World Action Model)은 의사결정을 위한 미래 상태를 생성하는 예측 액션 시스템으로, 표현의 풍부함과 컴퓨팅 제약의 균형을 맞추는 설계를 갖추고 있습니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.20781">Hugging Face Papers</source>
-      <guid isPermaLink="false">debef8f5692f9c3d8159a23a83fa7909</guid>
     </item>
   </channel>
 </rss>
