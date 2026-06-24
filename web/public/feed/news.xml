@@ -5,9 +5,27 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 24 Jun 2026 17:23:45 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 20:47:57 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>DCP 예비 7곳 출범...최종 5곳 4년간 200억 지원</title>
+      <link>https://zdnet.co.kr/view/?no=20260624183231</link>
+      <description>[지디넷코리아]중기부가 4년간 최대 200억 원을 지원하는 '생태계혁신형 딥테크 챌린지 프로젝트(Deep Tech Challenge Project, DCP)'의 예비연구 프로젝트팀 7개가 24일 공식 출범했다. 이날 중기부는 스타트업벤처 캠퍼스 서울(SVC 서울)에서 출범식을 개최했다.</description>
+      <pubDate>Wed, 24 Jun 2026 18:32:31 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260624183231">ZDNet Korea</source>
+      <guid isPermaLink="false">6a4dbc986e5ad79d61be2ed7a985cc7b</guid>
+    </item>
+    <item>
+      <title>[게시판] 퀄컴, ‘AI 이노베이터 프로그램 APAC’ 선정 스타트업 15개사 발표 등 단신</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212072</link>
+      <description>■ 퀄컴 테크날러지스는 ‘퀄컴 AI 이노베이터 프로그램 (QAIPI) 2026’에 선정된 스타트업 총 15개사를 발표했다. QAIPI 2026은 아태지역의 스타트업이 퀄컴 플랫폼을 활용해 확장 가능한 엣지 AI 솔루션을 개발하도록 지원한다.</description>
+      <pubDate>Wed, 24 Jun 2026 17:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212072">AI Times</source>
+      <guid isPermaLink="false">8ab0f92b911d0b0b39994b19b74061b7</guid>
+    </item>
     <item>
       <title>Google Workspace CLI를 만든 개발자, 구글에서 해고됨</title>
       <link>https://news.hada.io/topic?id=30790</link>
@@ -439,24 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260623000310">전자신문 IT</source>
       <guid isPermaLink="false">ca45b9027c7265e89e91138af4b69dd1</guid>
-    </item>
-    <item>
-      <title>구글 딥마인드, 미나리·백룸 배급사와 영화 AI 도구 개발 추진</title>
-      <link>https://zdnet.co.kr/view/?no=20260623101312</link>
-      <description>[지디넷코리아]구글 딥마인드가 미국 독립 영화 스튜디오 A24와 손잡고 영화 제작용 인공지능(AI) 도구 개발에 나선다. 구글 딥마인드는 22일(현지시간) A24와 연구 중심의 비(非) 독점적 파트너십을 체결했다고 밝혔다.</description>
-      <pubDate>Tue, 23 Jun 2026 11:49:10 +0900</pubDate>
-      <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260623101312">ZDNet Korea</source>
-      <guid isPermaLink="false">bac97e3f6f45373f982a2a03242d1c23</guid>
-    </item>
-    <item>
-      <title>Flock 기반 경찰서장들의 여성 스토킹 사례가 영장 필요성을 보여줌</title>
-      <link>https://news.hada.io/topic?id=30756</link>
-      <description>Flock은 사람 대신 차량만 추적한다고 설명하지만, 번호판 조회 가 전 연인과 연애 경쟁자의 위치를 찾는 데 반복적으로 쓰인 사례가 드러남 Illinois Holiday Hills 경찰서장은 Prairie Grove Police Department의 Flock LPR 과 Illinois State Police LEADS 데이터...</description>
-      <pubDate>Tue, 23 Jun 2026 12:36:13 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30756">GeekNews</source>
-      <guid isPermaLink="false">ac290f3954dfdb4f13b509d50e991eae</guid>
     </item>
   </channel>
 </rss>

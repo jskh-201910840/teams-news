@@ -5,9 +5,27 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/community.xml</link>
     <description>💬 Community — PyTorch Korea discussions</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 24 Jun 2026 17:23:45 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 20:47:57 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>TileKernels: DeepSeek AI가 공개한, LLM 연산을 위한 고성능 TileLang 기반 GPU 커널 라이브러리</title>
+      <link>https://discuss.pytorch.kr/t/tilekernels-deepseek-ai-llm-tilelang-gpu/9878</link>
+      <description>TileKernels 소개 현대 대규모 언어 모델(LLM)의 학습과 추론에서 GPU 커널 최적화는 연산 효율을 좌우하는 핵심 요소입니다. 특히 Mixture of Experts(MoE) 아키텍처가 널리 쓰이면서 게이팅(Gating), 전문가 라우팅(Expert Routing), 양자화(Quantization) 등 다양한 연산 커널의 하드웨어 수준 최적화 필요성이 높아졌습니다.</description>
+      <pubDate>Wed, 24 Jun 2026 20:30:20 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/tilekernels-deepseek-ai-llm-tilelang-gpu/9878">PyTorch Korea</source>
+      <guid isPermaLink="false">2b15696a42466297db9e53783673c625</guid>
+    </item>
+    <item>
+      <title>Cabinet: 마크다운 파일로 동작하는, AI-우선(AI-first) 지식 베이스 프로젝트</title>
+      <link>https://discuss.pytorch.kr/t/cabinet-ai-ai-first/10753</link>
+      <description>Cabinet 소개 Cabinet은 모든 데이터를 디스크의 마크다운 파일로 저장하는 AI 우선(AI-first) 지식 베이스이자 스타트업 OS입니다. 데이터베이스 없이 평범한 파일로만 동작하고, 자체 호스팅을 전제로 하므로 데이터가 사용자의 컴퓨터를 벗어나지 않습니다. Apple에서 엔지니어링 매니저를 지낸 Hila Shmuel이 오픈소스 커뮤니티와 함께 공개적으로 개발하고 있습니다.</description>
+      <pubDate>Wed, 24 Jun 2026 18:30:33 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/cabinet-ai-ai-first/10753">PyTorch Korea</source>
+      <guid isPermaLink="false">8e00b7dd7ab977cc87cfc63b675bf086</guid>
+    </item>
     <item>
       <title>1Code: Claude Code와 Codex를 한 앱에서 실행하는 오픈소스 코딩 에이전트 클라이언트</title>
       <link>https://discuss.pytorch.kr/t/1code-claude-code-codex/10811</link>

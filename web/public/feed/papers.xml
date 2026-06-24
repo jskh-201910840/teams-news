@@ -5,9 +5,36 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/papers.xml</link>
     <description>📄 Papers — AI research from Hugging Face Daily Papers</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 24 Jun 2026 17:23:45 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 20:47:57 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>QG-MIL: 의료 영상 분야에서 도메인에 구애받지 않는 다중 인스턴스 학습을 위한 Gated Transformer Aggregator</title>
+      <link>https://huggingface.co/papers/2606.20027</link>
+      <description>QG-MIL은 주의 분산을 안정화하고 다양한 의료 영역 전반에 걸쳐 예측 일관성을 향상시키는 의료 영상의 다중 인스턴스 학습을 위한 Gated Transformer Aggregator를 도입합니다.</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.20027">Hugging Face Papers</source>
+      <guid isPermaLink="false">402699dfcf3e8dd9d6b3ad98b9c7c673</guid>
+    </item>
+    <item>
+      <title>ChartWalker: 교차 차트 RAG 작업 벤치마킹</title>
+      <link>https://huggingface.co/papers/2606.23997</link>
+      <description>ChartWalker는 까다로운 다중 모드 분석 작업을 위한 계층적 지식 그래프 구성 및 구조 인식 샘플링을 통해 교차 차트 검색 증강 생성을 위한 새로운 프레임워크를 제시합니다.</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.23997">Hugging Face Papers</source>
+      <guid isPermaLink="false">c50b0dc35959308d46d015194413413b</guid>
+    </item>
+    <item>
+      <title>EventVLA: 장거리 비전-언어-행동 정책을 위한 이벤트 기반 시각적 증거 메모리</title>
+      <link>https://huggingface.co/papers/2606.20092</link>
+      <description>EventVLA는 향상된 작업 성능을 위해 시각적 앵커와 동적 키프레임 증거 메모리 모듈을 갖춘 희박한 시각적 증거 메모리 프레임워크를 도입하여 장거리 로봇 조작 문제를 해결합니다.</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.20092">Hugging Face Papers</source>
+      <guid isPermaLink="false">56d04dbb0ba8279a6d614de5a5ecd9e9</guid>
+    </item>
     <item>
       <title>LingxiDiagBench: 중국 정신과 상담 및 진단에서 LLM 벤치마킹을 위한 다중 에이전트 프레임워크</title>
       <link>https://huggingface.co/papers/2602.09379</link>
@@ -430,33 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.21906">Hugging Face Papers</source>
       <guid isPermaLink="false">fa2837dcf791db23c47eb090a2cc6026</guid>
-    </item>
-    <item>
-      <title>HAKARI-Bench: 통합 조건에서 검색 아키텍처와 효율성 설정을 비교하기 위한 경량 벤치마크</title>
-      <link>https://huggingface.co/papers/2606.22778</link>
-      <description>HAKARI-Bench는 여러 구성 및 언어에 걸쳐 검색 방법을 비교하기 위한 경량 벤치마크를 제공하여 효율적인 모델 선택 및 성능 분석을 가능하게 합니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.22778">Hugging Face Papers</source>
-      <guid isPermaLink="false">0fcfe7bbf21dff50cac38e9b19ea2ce2</guid>
-    </item>
-    <item>
-      <title>인간 선호 보상을 통한 텍스트-음악 생성 개선</title>
-      <link>https://huggingface.co/papers/2606.21670</link>
-      <description>텍스트-음악 생성 시스템은 보상 조절, 전문가 반복 및 선호도 조정을 사용하여 120M 매개변수 모델 프레임워크 내에서 효율성을 유지하면서 오디오 품질을 향상시킵니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.21670">Hugging Face Papers</source>
-      <guid isPermaLink="false">4c09ac783566ebb3f5bfb98cecf02d0c</guid>
-    </item>
-    <item>
-      <title>에이전트 시대의 인과 발견</title>
-      <link>https://huggingface.co/papers/2606.23608</link>
-      <description>언어 모델은 데이터 분석과 정보를 통합하는 플랫폼을 통해 입증된 것처럼 인과적 결론을 생성하기보다는 상황에 맞는 지원과 설명을 제공하여 인과관계 발견 워크플로우를 지원해야 합니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.23608">Hugging Face Papers</source>
-      <guid isPermaLink="false">619a20e6537b8915c2b4a687fc63b729</guid>
     </item>
   </channel>
 </rss>
