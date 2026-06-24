@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/trending.xml</link>
     <description>🔥 Trending — GitHub ML/AI repositories</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 25 Jun 2026 04:49:18 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 06:25:10 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>NotASithLord/peerd — 브라우저에 기본으로 제공되는 최초의 AI 에이전트입니다. 에이전트 loo를 실행하는 Chrome/Firefox 확장 프로그램</title>
+      <link>https://github.com/NotASithLord/peerd</link>
+      <description>최초의 AI 에이전트는 브라우저에 기본적으로 사용됩니다.</description>
+      <pubDate>Thu, 25 Jun 2026 04:00:17 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/NotASithLord/peerd">GitHub Trending</source>
+      <guid isPermaLink="false">f19219475ab87e83e2f84c2856f5acb9</guid>
+    </item>
     <item>
       <title>benlamiro/ShipGenAI — 🚀 생산 준비가 완료된 50개의 Generative AI SaaS 앱 — 브랜드를 지정하고 배송하며 수익의 100%를 유지하세요. Str</title>
       <link>https://github.com/benlamiro/ShipGenAI</link>
