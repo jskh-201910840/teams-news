@@ -5,9 +5,261 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 24 Jun 2026 09:01:17 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 13:20:36 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>다중 목표 강화 학습을 통한 LLM 사전 훈련을 위한 전체적인 데이터 스케줄러</title>
+      <link>https://huggingface.co/papers/2606.24133</link>
+      <description>Holistic Data Scheduler라는 새로운 온라인 데이터 혼합 프레임워크는 다중 목표 보상 기능과 함께 강화 학습을 사용하여 대규모 언어 모델 사전 훈련 효율성과 성능을 최적화합니다.</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.24133">Hugging Face Papers</source>
+      <guid isPermaLink="false">0454c13c7dc005376efa6eaa55041d11</guid>
+    </item>
+    <item>
+      <title>DiffusionBench: 확산 변압기의 전체적인 평가</title>
+      <link>https://huggingface.co/papers/2606.24888</link>
+      <description>연구원들은 실제 평가를 위해 ImageNet 클래스 조건 생성을 넘어 포괄적인 벤치마킹의 필요성을 입증하는 확산 변환기 교육 및 평가를 위한 통합 프레임워크인 NanoGen을 소개합니다.</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.24888">Hugging Face Papers</source>
+      <guid isPermaLink="false">c3284f9f2a7ba2092ae3535a19b2c9c2</guid>
+    </item>
+    <item>
+      <title>NatureBench: 코딩 에이전트가 Nature-Family 논문의 게시된 SOTA와 일치할 수 있습니까?</title>
+      <link>https://huggingface.co/papers/2606.24530</link>
+      <description>NatureBench는 단순한 복제가 아닌 발견을 달성하는 AI 코딩 에이전트의 능력을 평가하기 위해 Nature 간행물에서 파생된 90개 과학 작업에 대한 학제간 벤치마크를 제시하여 현재…</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.24530">Hugging Face Papers</source>
+      <guid isPermaLink="false">330eb9f1910b398dc8705fab0f65dc96</guid>
+    </item>
+    <item>
+      <title>Swift-Agent-Skills: Claude Code와 Codex용 Swift 개발 AI 에이전트 스킬 모음</title>
+      <link>https://discuss.pytorch.kr/t/swift-agent-skills-claude-code-codex-swift-ai/10840</link>
+      <description>Swift-Agent-Skills 소개 Claude Code, Codex, Cursor 같은 AI 코딩 도구로 Swift와 Apple 플랫폼 앱을 만들 때, 에이전트가 늘 SwiftUI의 최신 패턴이나 Swift 동시성(Concurrency)의 함정, SwiftData의 모델링 규칙을 알고 있는 것은 아닙니다.</description>
+      <pubDate>Wed, 24 Jun 2026 10:30:40 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/swift-agent-skills-claude-code-codex-swift-ai/10840">PyTorch Korea</source>
+      <guid isPermaLink="false">a3c40ea18279a22b1a018382afd6fbce</guid>
+    </item>
+    <item>
+      <title>mindmuxai/brain.md — 코딩 에이전트를 위한 영구 파일 기반 메모리 계층 — Claude Code, Codex 및 기타 사용자에게 프로젝트 제공</title>
+      <link>https://github.com/mindmuxai/brain.md</link>
+      <description>코딩 에이전트를 위한 영구 파일 기반 메모리 계층 — 종속성이 없는 CLI를 통해 Claude Code, Codex 및 기타 사람들에게 프로젝트 브레인(지속적인 결정, 요구 사항, 제약 조건)을 제공합니다.</description>
+      <pubDate>Tue, 23 Jun 2026 17:47:37 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/mindmuxai/brain.md">GitHub Trending</source>
+      <guid isPermaLink="false">0641592ec17db4624ff41b83b1b2e347</guid>
+    </item>
+    <item>
+      <title>AOHP: 개인화되고 효율적이며 안전한 상호 작용을 위한 오픈 소스 OS 수준 에이전트 하네스</title>
+      <link>https://huggingface.co/papers/2606.23449</link>
+      <description>AOHP는 AI 에이전트를 일류 엔터티로 취급하는 Android 기반 운영 체제 프레임워크를 제공하여 특수 에이전트 중심 메커니즘을 통해 작업 완료율을 높이고 실행 비용을 절감합니다.</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.23449">Hugging Face Papers</source>
+      <guid isPermaLink="false">dd2a8b9fd6cc1834e09d8500ccf5fe16</guid>
+    </item>
+    <item>
+      <title>Qwen-AgentWorld: 일반 에이전트를 위한 언어 세계 모델</title>
+      <link>https://huggingface.co/papers/2606.24597</link>
+      <description>언어 기반 세계 모델은 여러 도메인에 걸쳐 에이전트 환경 시뮬레이션을 지원하고 확장 가능한 시뮬레이션과 개선된 다운스트림 작업 성능을 통해 일반 에이전트 성능을 향상시킵니다.</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.24597">Hugging Face Papers</source>
+      <guid isPermaLink="false">218c65367aa2ca656f3d809ca08480ba</guid>
+    </item>
+    <item>
+      <title>MemGUI-Agent: 사전 예방적 컨텍스트 관리 기능을 갖춘 엔드투엔드 Long-Horizon 모바일 GUI 에이전트</title>
+      <link>https://huggingface.co/papers/2606.19926</link>
+      <description>MemGUI-Agent는 확장된 시퀀스 전반에 걸쳐 중요한 정보를 유지하기 위해 ConAct(Context-as-Action)를 사용하는 사전 컨텍스트 관리를 통해 장거리 모바일 GUI 작업 제한을 해결합니다.</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.19926">Hugging Face Papers</source>
+      <guid isPermaLink="false">932cabd8c38077a728dc2eb796b200af</guid>
+    </item>
+    <item>
+      <title>텍스트-이미지 모델은 유도주의적 터키인가요? 인과 추론을 위한 반사실적 벤치마크</title>
+      <link>https://huggingface.co/papers/2606.24548</link>
+      <description>텍스트-이미지 모델은 인과 추론보다는 밀접하게 결합된 시각적-텍스트 패턴에 의존하고 패턴 일치 이상의 제한된 이해를 보여주기 때문에 반사실적 장면을 생성하지 못합니다.</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.24548">Hugging Face Papers</source>
+      <guid isPermaLink="false">1e28af8cfdb53c2a2755f263e00ba198</guid>
+    </item>
+    <item>
+      <title>MobileForge: 계층적 피드백 기반 정책 최적화를 통해 모바일 GUI 에이전트를 위한 주석 없는 적응</title>
+      <link>https://huggingface.co/papers/2606.19930</link>
+      <description>MobileForge는 실제 앱 상호 작용 기반과 계층적 피드백 기반 정책 최적화를 결합하여 주석 없는 학습을 통해 모바일 GUI 에이전트의 효율적인 적응을 가능하게 합니다.</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.19930">Hugging Face Papers</source>
+      <guid isPermaLink="false">d7405498ad41a326b60ada551ee01143</guid>
+    </item>
+    <item>
+      <title>FedOT: 연합 LDM에 대한 워터마크를 통한 소유권 확인 및 누출 추적</title>
+      <link>https://huggingface.co/papers/2606.22875</link>
+      <description>FedOT는 워터마크 제거를 방지하기 위해 청크 워터마킹 및 잠재 벡터 변환을 도입하여 연합 잠재 확산 모델에서 소유권 확인 및 누출 추적을 가능하게 하는 새로운 프레임워크입니다.</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.22875">Hugging Face Papers</source>
+      <guid isPermaLink="false">a2325fd2ee2d9924d57ebc3286455474</guid>
+    </item>
+    <item>
+      <title>OpenThoughts-Agent: 에이전트 모델을 위한 데이터 레시피</title>
+      <link>https://huggingface.co/papers/2606.24855</link>
+      <description>에이전트 언어 모델 훈련을 위한 오픈 소스 데이터 큐레이션 파이프라인이 제시되어 체계적인 실험과 확장 가능한 훈련 데이터를 통해 탁월한 성능을 보여줍니다.</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.24855">Hugging Face Papers</source>
+      <guid isPermaLink="false">d83fdb7373a5a0bad197321c7bdb159f</guid>
+    </item>
+    <item>
+      <title>Awesome Autoresearch: 자율 개선 루프와 연구 에이전트를 모은 큐레이션 저장소</title>
+      <link>https://discuss.pytorch.kr/t/awesome-autoresearch/10826</link>
+      <description>Awesome Autoresearch 소개 Awesome Autoresearch는 자율적으로 돌아가는 개선 루프(autonomous improvement loop)와 연구 에이전트, 그리고 그로부터 갈라져 나온 파생 프로젝트를 한곳에 모아 분류한 큐레이션 인덱스입니다.</description>
+      <pubDate>Wed, 24 Jun 2026 12:30:42 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/awesome-autoresearch/10826">PyTorch Korea</source>
+      <guid isPermaLink="false">76f52f1a5b742ea3bec2db26c1a9b8fb</guid>
+    </item>
+    <item>
+      <title>FUTO Swipe: 공개형 스와이프 입력 모델</title>
+      <link>https://news.hada.io/topic?id=30787</link>
+      <description>모바일 키보드의 스와이프 입력 방식 을 공개 모델 + 알고리듬으로 구현하려는 시도 기존 고품질 스와이프 입력은 프라이버시 침해적 키보드 앱 이나 라이선스 없는 비공개 라이브러리 에 묶여 있어 대체재가 필요했음 완전 오프라인 안드로...</description>
+      <pubDate>Wed, 24 Jun 2026 12:21:51 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30787">GeekNews</source>
+      <guid isPermaLink="false">bb5274a3b0bf9beeccc60e58a3442bd6</guid>
+    </item>
+    <item>
+      <title>중국 '라인샤인', 세계 슈퍼컴 1위 탈환…"알맹이 없는 AI 경쟁력 과시용" 지적도</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212037</link>
+      <description>중국이 9년 만에 세계 최고 성능 슈퍼컴퓨터 자리를 되찾으며 미국과의 첨단 기술 경쟁에서 존재감을 과시했다.</description>
+      <pubDate>Wed, 24 Jun 2026 11:00:13 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212037">AI Times</source>
+      <guid isPermaLink="false">3580430e4dbf728e955795cc674e13da</guid>
+    </item>
+    <item>
+      <title>하이퍼엑셀, 기보 '2026 유니콘브릿지' 선정… 글로벌 진출 속도</title>
+      <link>https://zdnet.co.kr/view/?no=20260624105620</link>
+      <description>[지디넷코리아]AI 반도체 팹리스 스타트업 하이퍼엑셀이 기술보증기금(이하 기보)이 주관하는 ‘2026 유니콘브릿지’ 사업에 최종 선정되며 글로벌 시장 진출에 속도를 낸다.하이퍼엑셀은 이번 선정을 통해 글로벌시장개척자금을 지원받게 되며, 기보의 글로벌 네트워크와 스케일업 지원 체계를 기반으로 해외 시장 확대를 본격화할 계획이라고 24일 밝혔다.중소벤처기업부와 기보가 공동 운영하는 유니콘브릿지…</description>
+      <pubDate>Wed, 24 Jun 2026 11:09:56 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260624105620">ZDNet Korea</source>
+      <guid isPermaLink="false">1b942ae54a6240dd59a64de63ece19f7</guid>
+    </item>
+    <item>
+      <title>자체 확인 함정 탈출: 에이전트 경험 학습을 위한 실행-증류-검증 패러다임</title>
+      <link>https://huggingface.co/papers/2606.24428</link>
+      <description>EDV는 여러 이기종 에이전트를 사용하여 LLM 에이전트에 대한 신뢰할 수 있는 환경을 공동으로 구축하고 실행-추출-검증 프로세스를 통해 자체 확인 오류를 방지하는 3단계 프레임워크입니다.</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.24428">Hugging Face Papers</source>
+      <guid isPermaLink="false">e0ef66b82bf282af3859967cfe58c124</guid>
+    </item>
+    <item>
+      <title>꿈: 자기회귀 모델링을 통한 조밀한 검색 임베딩</title>
+      <link>https://huggingface.co/papers/2606.24667</link>
+      <description>DREAM은 레이블이 지정된 예제 없이 문서 쿼리 유사성을 감독하기 위해 자동 회귀 언어 모델 주의 메커니즘을 사용하여 밀집 검색 임베딩을 훈련합니다.</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.24667">Hugging Face Papers</source>
+      <guid isPermaLink="false">636e2ae9f79ed5011c495345d3a1dd41</guid>
+    </item>
+    <item>
+      <title>ReMMD: 다중 모달 잘못된 정보 탐지를 위한 현실적인 다국어 다중 이미지 에이전트 검증</title>
+      <link>https://huggingface.co/papers/2606.24112</link>
+      <description>여러 이미지와 다양한 검증 접근 방식을 사용하여 복잡한 다국어 콘텐츠를 처리하는 포괄적인 다중 모드 잘못된 정보 감지 프레임워크가 도입되어 비용을 줄이면서 우수한 성능을 달성합니다.</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.24112">Hugging Face Papers</source>
+      <guid isPermaLink="false">d9327c18d4f1a25f079c6dfd2f58cf8e</guid>
+    </item>
+    <item>
+      <title>“산화갈륨 전력반도체 소부장 생태계 강화”…韓-美 산·학·연 협력 다진다</title>
+      <link>https://www.etnews.com/20260624000118</link>
+      <description>차세대 초광대역갭(UWBG) 전력반도체 핵심 소재인 산화갈륨(Ga₂O₃) 분야 기술 도약을 위해 한국과 미국 산·학·연이 국경을 넘어 상호 연구개발(R&amp;D) 협력의 발판을 마련했다.</description>
+      <pubDate>Wed, 24 Jun 2026 10:31:42 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260624000118">전자신문 IT</source>
+      <guid isPermaLink="false">cd4df43950ac6a3051020c816a5596bd</guid>
+    </item>
+    <item>
+      <title>BMW코리아, 압도적 존재감 강조한 '7시리즈 블랙 트림' 출시</title>
+      <link>https://www.etnews.com/20260624000106</link>
+      <description>BMW코리아가 플래그십 세단 7시리즈의 외장 곳곳에 블랙 하이글로스 디자인 요소를 적용해 상품성을 높인 신규 블랙 트림을 출시했다. 블랙 트림은 'BMW 740i xDrive M 스포츠 리미티드'와 'BMW 740d xDrive M 스포츠' 두 가지 모델이다.</description>
+      <pubDate>Wed, 24 Jun 2026 10:23:31 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260624000106">전자신문 IT</source>
+      <guid isPermaLink="false">cf0c7a2d18123fae2087a3c6713341b0</guid>
+    </item>
+    <item>
+      <title>로컬 축소를 사용하여 불확실성 하에서 마이크로그리드를 최적으로 제어하는 ​​효율적인 방법</title>
+      <link>https://huggingface.co/papers/2606.12345</link>
+      <description>강력한 마이크로그리드 크기 조정 및 전력 스케줄링을 위한 두 가지 수학적 공식이 제안되고 비교됩니다. 하나는 이진 변수와 big-M 제약 조건을 사용하고 다른 하나는 S를 사용한 연속 비선형 프로그래밍을 사용합니다.</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.12345">Hugging Face Papers</source>
+      <guid isPermaLink="false">ed9e3d732890fd78391907ad5a910386</guid>
+    </item>
+    <item>
+      <title>포스텍, 세계 최고 수준 강도·연성 조합 갖춘 3D 프린팅용 초고강도 철계 합금 개발</title>
+      <link>https://www.etnews.com/20260624000010</link>
+      <description>국내 연구팀이 오랫동안 풀리지 않던 금속 강도와 연성의 딜레마를 해결할 새로운 초고강도 철계 합금 기술을 개발했다. 고성능 금속 부품의 3D프린팅 활용 범위를 넓히는 계기가 될 것으로 기대된다.</description>
+      <pubDate>Wed, 24 Jun 2026 08:14:35 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260624000010">전자신문 IT</source>
+      <guid isPermaLink="false">02ec46ba0d05f1d66f784ff170fa31b8</guid>
+    </item>
+    <item>
+      <title>FlowR2A: 다중 모드 운전 계획을 위한 행동 보상 분배 학습</title>
+      <link>https://huggingface.co/papers/2606.24231</link>
+      <description>FlowR2A는 보상 조건 동작 분포를 학습하는 흐름 일치 디코더를 통해 조밀한 보상 감독과 동적 제안 생성을 결합하여 다중 모드 운전 계획의 긴장을 해결합니다.</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.24231">Hugging Face Papers</source>
+      <guid isPermaLink="false">3d6404777dc0aee04027e2c4438d141a</guid>
+    </item>
+    <item>
+      <title>보상 공학을 넘어서: 장기 상황 강화 학습을 위한 데이터 레시피</title>
+      <link>https://huggingface.co/papers/2606.18831</link>
+      <description>선별된 데이터 세트와 최소한의 GRPO 설정을 사용하는 데이터 중심 접근 방식은 대규모 언어 모델의 장기 컨텍스트 추론을 크게 향상시켜 이전 강화 학습 방법보다 성능이 뛰어납니다.</description>
+      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.18831">Hugging Face Papers</source>
+      <guid isPermaLink="false">9fab566363ce919bbef5d79f239e0cd8</guid>
+    </item>
+    <item>
+      <title>유엔 사무총장 “AI 기업들, 환경 영향 공개해야”…'AI 환경투명성' 제안</title>
+      <link>https://www.etnews.com/20260624000004</link>
+      <description>안토니우 구테흐스 유엔 사무총장은 23일(현시지간) 글로벌 인공지능(AI) 기업들에 사업 활동이 환경에 미치는 영향에 관한 정보를 공개하라고 촉구했다. 구테흐스 총장은 이날 영국에서 열린 '런던 기후 행동 주간' 연설을 통해 'AI 환경 투명성 이니셔티브'를 제안하면서 “모든 주요 AI 기업이 자사 시스템의 전체 환경 영향을 측정해 공개하기를 촉구한다”고 밝혔다.</description>
+      <pubDate>Wed, 24 Jun 2026 07:16:56 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260624000004">전자신문 IT</source>
+      <guid isPermaLink="false">a9e514bde7b993b032d1e600a9c55d38</guid>
+    </item>
+    <item>
+      <title>FLUX3D: 확산 정렬된 희소 표현을 사용한 고충실도 3D 가우스 생성</title>
+      <link>https://huggingface.co/papers/2606.24874</link>
+      <description>FLUX3D는 특수 아키텍처 및 주의 메커니즘을 통해 표현 학습 및 교차 모달 정렬을 개선하여 이미지-3D 가우스 스플래팅 생성의 제한 사항을 해결합니다.</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.24874">Hugging Face Papers</source>
+      <guid isPermaLink="false">68d9a507123878b0c0d7cdb8b78863f4</guid>
+    </item>
+    <item>
+      <title>로봇 조작을 위한 세계 가치 모델</title>
+      <link>https://huggingface.co/papers/2606.24742</link>
+      <description>World Value Model은 세계 모델과 가치 추정을 결합하여 정확한 작업 진행 평가를 제공하고 혼합 품질 데이터로부터 로봇 정책 학습을 개선합니다.</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.24742">Hugging Face Papers</source>
+      <guid isPermaLink="false">6ec249785b74d3782407cfbc2b6a4d6b</guid>
+    </item>
     <item>
       <title>밑바닥부터 언어 모델을 구현하는 스탠퍼드의 CS336 수업의 첫번째 과제에 대한 공식 저장소</title>
       <link>https://discuss.pytorch.kr/t/cs336/10835</link>
@@ -205,258 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260623000448">전자신문 IT</source>
       <guid isPermaLink="false">b2f737a217f326f0cc6113fb276f52bb</guid>
-    </item>
-    <item>
-      <title>데이터 제약이 있는 언어 모델 사전 훈련을 위한 훈련 시간 확대의 신비화</title>
-      <link>https://huggingface.co/papers/2606.16246</link>
-      <description>훈련 시간 데이터 증대 기술은 고정 데이터 세트를 훈련할 때 성능 저하를 지연하고 최종 모델 품질을 향상시켜 자동 회귀 언어 모델 사전 훈련의 과적합을 완화하는 데 도움이 됩니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.16246">Hugging Face Papers</source>
-      <guid isPermaLink="false">5fce1809f448dfb0b04903935eee5e5d</guid>
-    </item>
-    <item>
-      <title>Robusto-2: 리마와 뉴욕시에서 자율 주행을 위한 인간 및 VLM 벤치마킹</title>
-      <link>https://huggingface.co/papers/2606.20980</link>
-      <description>연구에서는 자율 주행 자동차 시스템과 인간이 다양한 지리적 위치에 걸쳐 시각적 질문 응답 작업에서 어떻게 수행하는지 조사하고 인간과 AI 응답 모두 질문 유형에 따라 다르지만…</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.20980">Hugging Face Papers</source>
-      <guid isPermaLink="false">7da4f94c64b60c5111f65ea2ed9e6d03</guid>
-    </item>
-    <item>
-      <title>검증 가능한 검색은 학습 가능한 사고 사슬이 아닙니다.</title>
-      <link>https://huggingface.co/papers/2606.21884</link>
-      <description>일련의 사고 시연에 대한 교육 모델은 순방향 파생을 충실하게 모방할 수 없기 때문에 역추적 검색이 필요한 작업에 실패하며, 이는 검색 학습 학습에 근본적인 한계를 보여줍니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.21884">Hugging Face Papers</source>
-      <guid isPermaLink="false">f01cef1ba7af2ff20c3da0abfaedcea3</guid>
-    </item>
-    <item>
-      <title>주차 공간 점유 인식을 향하여: 자체 감독 접근 방식</title>
-      <link>https://huggingface.co/papers/2606.20886</link>
-      <description>2단계 훈련 및 배포 전략을 통해 최소한의 레이블이 지정된 데이터로 높은 정확도를 달성하는 주차 공간 점유 인식을 위한 자가 지도 전이 학습 접근 방식입니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.20886">Hugging Face Papers</source>
-      <guid isPermaLink="false">5634f145334c09a8434acb0a92e63f29</guid>
-    </item>
-    <item>
-      <title>Vera: 콘텐츠 보존 비디오 편집을 위한 계층형 확산 모델</title>
-      <link>https://huggingface.co/papers/2606.23610</link>
-      <description>Vera는 Mixture-of-Transformers 아키텍처를 통해 편집 레이어와 알파 매트를 생성하여 편집 중에 비디오 콘텐츠를 보존하는 레이어 확산 프레임워크입니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.23610">Hugging Face Papers</source>
-      <guid isPermaLink="false">8b2b01b36af02791e971cf854571a54f</guid>
-    </item>
-    <item>
-      <title>Endless Runner 게임에서 LLM 지원 리팩토링 및 게임플레이 기능 생성에 대한 탐색적 사례 연구</title>
-      <link>https://huggingface.co/papers/2606.21171</link>
-      <description>대규모 언어 모델은 소프트웨어 개발 작업에서 다양한 효율성을 보여 지역화된 리팩토링을 성공적으로 완료하지만 기존 게임 시스템 내에서 새로운 게임플레이 기능을 통합하는 데는 한계가 있습니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.21171">Hugging Face Papers</source>
-      <guid isPermaLink="false">899120568f452aa1b4191b1f458975bd</guid>
-    </item>
-    <item>
-      <title>유능하지만 부주의함: 컴퓨터 사용 에이전트는 상황에 맞는 무결성을 준수합니까?</title>
-      <link>https://huggingface.co/papers/2606.23189</link>
-      <description>컴퓨터 사용 에이전트는 애플리케이션 전체에서 부적절한 정보를 자주 노출하므로 애플리케이션 간 컨텍스트에서 개인 정보 보호 위험을 평가하고 완화하기 위해 AgentCIBench가 생성됩니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.23189">Hugging Face Papers</source>
-      <guid isPermaLink="false">9423a4164b1f5c73ef5c274ad59db870</guid>
-    </item>
-    <item>
-      <title>deepclaude: Claude Code의 에이전트 루프를 DeepSeek 등 더 저렴한 백엔드로 돌리는 도구</title>
-      <link>https://discuss.pytorch.kr/t/deepclaude-claude-code-deepseek/10832</link>
-      <description>deepclaude 소개 deepclaude는 Claude Code의 자율 에이전트 루프를 그대로 쓰면서, 그 뒤에서 실제로 추론하는 모델만 DeepSeek V4 Pro, OpenRouter, 또는 Anthropic 호환 백엔드로 바꿔 주는 도구입니다.</description>
-      <pubDate>Tue, 23 Jun 2026 21:30:22 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/deepclaude-claude-code-deepseek/10832">PyTorch Korea</source>
-      <guid isPermaLink="false">1b9242b5b5f743ecdb6a37370891eb3e</guid>
-    </item>
-    <item>
-      <title>알리바바, 비디오 생성 모델 ‘해피호스 1.1’ 출시...기업용 API 시장 정조준</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=212011</link>
-      <description>알리바바는 22일(현지시간) 차세대 비디오 생성 모델 \'해피호스 1.1(HappyHorse)\'을 정식 출시하고, 기업 고객과 개발자를 위한 전체 API를 공개했다.연구용 데모나 소비자용 서비스가 아닌, 기업용 소프트웨어 스택에 직접 통합할 수 있도록 설계된 API 제품이다.</description>
-      <pubDate>Tue, 23 Jun 2026 19:11:10 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=212011">AI Times</source>
-      <guid isPermaLink="false">c91796e33638d26dc93d181e61e74611</guid>
-    </item>
-    <item>
-      <title>[GN⁺] Claude Code의 수석 디자이너가 AI로 빌드하는 방법</title>
-      <link>https://discuss.pytorch.kr/t/gn-claude-code-ai/10845</link>
-      <description>Claude Code의 수석 디자이너가 AI로 빌드하는 방법 글 소개 실제 제품 개발에서 클로드 코드를 어떻게 쓰는지, Excalidraw에 autocomplete 기능을 직접 추가하며 실전 워크플로우 를 시연 디자이너의 발표지만 내용은 거의 개발자 워크플로우에 가까우며, worktree로 여러 Claude 세션을 병렬 실행 하고, 기능 프로토타입을 만들고, 브라우저에서 검증하고, PR까지…</description>
-      <pubDate>Tue, 23 Jun 2026 19:30:44 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/gn-claude-code-ai/10845">PyTorch Korea</source>
-      <guid isPermaLink="false">63b81bbe893b3a6aea8253215847cbb5</guid>
-    </item>
-    <item>
-      <title>그룹화된 쿼리 전문가: GQA Self-Attention에 대한 전문가 혼합</title>
-      <link>https://huggingface.co/papers/2606.20945</link>
-      <description>GQE(그룹화된 쿼리 전문가)는 그룹화된 쿼리 주의의 키-값 캐시 이점을 유지하면서 토큰 콘텐츠를 기반으로 쿼리 헤드를 선택적으로 활성화하여 Transformer 효율성을 향상시킵니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.20945">Hugging Face Papers</source>
-      <guid isPermaLink="false">0aa1fc054258cd08527b86e6f79847b5</guid>
-    </item>
-    <item>
-      <title>김광집 스튜디오메타케이 대표 "AI로 제작비 90% 절감…STO로 콘텐츠 펀딩 혁명 이끌 것"</title>
-      <link>https://zdnet.co.kr/view/?no=20260623190922</link>
-      <description>[지디넷코리아]생성형 인공지능(AI)으로 콘텐츠 제작비를 최대 90% 절감하고, 필요한 제작비는 토큰증권STO)으로 조달하는 새로운 콘텐츠 제작 방식을 제언했다.김광집 스튜디오메타케이 대표는 23일 판교 경기창조경제혁신센터에서 열린 '제5회 대한민국 블록체인 웹3 게임 컨퍼런스'에서 '생성형 AI기반 프로덕션 시대의 IP 창출 전략'을 주제로 발표했다.김 대표는 고비용 구조와 투자 가뭄에…</description>
-      <pubDate>Tue, 23 Jun 2026 19:15:01 +0900</pubDate>
-      <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260623190922">ZDNet Korea</source>
-      <guid isPermaLink="false">95ed4f50e9f86ff340792f241bac7f4d</guid>
-    </item>
-    <item>
-      <title>SantanderAI/causal-perception-implementation — 인과 인식을 위한 기계 학습 연구 코드: 경쟁 구조 인과 모델 비교(</title>
-      <link>https://github.com/SantanderAI/causal-perception-implementation</link>
-      <description>인과 관계 인식을 위한 기계 학습 연구 코드: 공정한 신용 결정에 적용되는 개입 및 반사실 분포를 통해 경쟁 구조적 인과 모델(SCM)을 비교합니다.</description>
-      <pubDate>Mon, 22 Jun 2026 22:40:19 +0900</pubDate>
-      <category>trending</category>
-      <source url="https://github.com/SantanderAI/causal-perception-implementation">GitHub Trending</source>
-      <guid isPermaLink="false">38ffeabcca1783693f791abe2cb4d1d4</guid>
-    </item>
-    <item>
-      <title>Show GN: GWEB: Go 언어를 위한 문학적 프로그래밍 도구</title>
-      <link>https://news.hada.io/topic?id=30761</link>
-      <description>GWEB 은 Go 언어를 위한 문학적 프로그래밍(Literate Programming) 시스템입니다. 도널드 커누스(Donald Knuth)의 CWEB 구조를 긴밀하게 모델링하여 개발되었습니다. 개발자는 하나의 .w 소스 파일에 TeX 문서(설명)와 Go 코드를 병행하여 작성합니다.</description>
-      <pubDate>Tue, 23 Jun 2026 21:15:22 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30761">GeekNews</source>
-      <guid isPermaLink="false">21d541f66d384df695476c644cc25724</guid>
-    </item>
-    <item>
-      <title>Arbor: 제어 가능한 3D 자산 생성을 위한 명시적 기하학적 조건화</title>
-      <link>https://huggingface.co/papers/2606.23514</link>
-      <description>Arbor는 점유, 회피 및 접촉 영역을 정의하는 제약 메시를 통해 텍스트 조건 잠재 생성에서 명시적인 3D 공간 제어를 가능하게 하며 제약 조건 준수를 향상시키면서 객체 품질을 유지합니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.23514">Hugging Face Papers</source>
-      <guid isPermaLink="false">b3c45c62dfc5604ab253aae5a154dcdb</guid>
-    </item>
-    <item>
-      <title>Simpl3x3/ESEILANE — AI, LLM 및 GraphRAG용 고성능 지식 그래프 엔진 — 차세대를 위해 구축됨 o</title>
-      <link>https://github.com/Simpl3x3/ESEILANE</link>
-      <description>AI, LLM 및 GraphRAG용 고성능 지식 그래프 엔진은 차세대 지능형 애플리케이션용으로 구축되었습니다.</description>
-      <pubDate>Tue, 23 Jun 2026 17:33:12 +0900</pubDate>
-      <category>trending</category>
-      <source url="https://github.com/Simpl3x3/ESEILANE">GitHub Trending</source>
-      <guid isPermaLink="false">6b0771a897c48320a7710204aa22e356</guid>
-    </item>
-    <item>
-      <title>DataClaw0: 원시 스트림에서 다중 모드 데이터를 조정하는 에이전트</title>
-      <link>https://huggingface.co/papers/2606.21337</link>
-      <description>Agentic Data Tailoring 패러다임은 학습 가능한 데이터 처리를 사용하여 고엔트로피 다중 모달 스트림을 구조화하고 DataClaw_0-9B 모델은 새로운 벤치마크에서 SFT 및 GRPO를 통해 강력한 정렬을 달성합니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.21337">Hugging Face Papers</source>
-      <guid isPermaLink="false">583981521f815a6c83bbfba8b29568e6</guid>
-    </item>
-    <item>
-      <title>Tmax: 단말 에이전트를 위한 간단한 방법</title>
-      <link>https://huggingface.co/papers/2606.23321</link>
-      <description>단말 에이전트를 위한 새로운 RL 교육 접근 방식은 단순화된 레시피와 확장된 데이터 세트를 사용하여 우수한 성능을 달성하므로 이전 방법보다 더 적은 수의 매개 변수로 효과적인 교육이 가능합니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.23321">Hugging Face Papers</source>
-      <guid isPermaLink="false">bbf7388676c2f8923d339627267ae84e</guid>
-    </item>
-    <item>
-      <title>SNOW의 Automatic Sharding 도입기</title>
-      <link>https://d2.naver.com/helloworld/4394359</link>
-      <description>네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 수천 개의 서비스가 한정된 GPU 자원을 효율적으로 공유할 수 있도록 돕는 Automatic Sharding 기술을 소개하고, 모델 로딩 오버헤드를 제거하여 더 빠르고 안정적인 AI 모델 서빙 전략을 공유합니다.</description>
-      <pubDate>Wed, 24 Jun 2026 00:05:35 +0900</pubDate>
-      <category>news</category>
-      <source url="https://d2.naver.com/helloworld/4394359">NAVER D2</source>
-      <guid isPermaLink="false">7f67977ea0da7a12f8d2ea21372ceabd</guid>
-    </item>
-    <item>
-      <title>BioMatrix: 서열, 구조 및 언어의 양식 매트릭스를 포괄하는 포괄적인 생물학적 기초 모델을 향하여</title>
-      <link>https://huggingface.co/papers/2606.22138</link>
-      <description>BioMatrix는 다양한 생물학적 작업을 위해 분자 서열, 구조 및 자연어를 통합된 디코더 전용 아키텍처로 통합하는 새로운 다중 모드 기반 모델입니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.22138">Hugging Face Papers</source>
-      <guid isPermaLink="false">de3bead90f144fa43f369e4c275a0a4d</guid>
-    </item>
-    <item>
-      <title>오픈AI, 보안 전용 '코덱스 시큐리티' 공개…'GPT-5.5 사이버'도 출시</title>
-      <link>https://www.etnews.com/20260623000311</link>
-      <description>오픈AI가 보안 전용 기능을 탑재한 '코덱스 시큐리티' 플러그인을 공개했다. 사이버 보안 특화 인공지능(AI) 모델 'GPT-5.5 사이버'를 특정 전문가 대상 출시한다. 자사 주도 사이버 보안 이니셔티브 '데이브레이크' 강화 목적이다.</description>
-      <pubDate>Tue, 23 Jun 2026 14:16:06 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260623000311">전자신문 IT</source>
-      <guid isPermaLink="false">15d7c173e1ff9d0f6133e38e251bde65</guid>
-    </item>
-    <item>
-      <title>군 의료체계도 AI 전환 시동…군 의료AI 도입 로드맵 짠다</title>
-      <link>https://www.etnews.com/20260623000292</link>
-      <description>군 의료체계를 인공지능(AI)을 적용해 혁신한다. 군의관 수급난과 병력 자원 감소, 장병 의료 수요 증가가 맞물리면서 기존 인력 중심의 군 의료 체계만으로는 한계가 있다는 판단에서다. 23일 관련업계에 따르면 국군의무사령부는 '군 의료AI 중장기 발전계획 수립을 위한 정책연구'를 준비하고 있다.</description>
-      <pubDate>Tue, 23 Jun 2026 16:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260623000292">전자신문 IT</source>
-      <guid isPermaLink="false">4391e3b2035893afa2308d2d75f019dc</guid>
-    </item>
-    <item>
-      <title>SkillHarness: 컴퓨터 사용 상담원을 위한 안전한 기술 활용</title>
-      <link>https://huggingface.co/papers/2606.20636</link>
-      <description>SkillHarness는 안전 제약 조건과 적응형 기술 선택 메커니즘을 통합하여 컴퓨터 사용 에이전트가 동적 환경에서 기술을 안전하게 학습하고 실행할 수 있도록 하는 프레임워크입니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.20636">Hugging Face Papers</source>
-      <guid isPermaLink="false">740601746dc574c7ff54a76fbddc10d1</guid>
-    </item>
-    <item>
-      <title>경북, 600억원 투입해 전략산업 핵심 인재 양성…23일 '경북 전략산업 앵커 대학' 업무협약</title>
-      <link>https://www.etnews.com/20260623000009</link>
-      <description>경북도가 인공지능(AI) 등 전략산업 핵심 인재 양성에 600억원을 투입한다. 대한민국 성장동력이자 대경권 전략산업인 AI, 미래 항공, 바이오 분야에서 핵심 인재를 키워 청년이 지역에서 취업하고 정착하는 모델을 만들겠다는 구상이다.</description>
-      <pubDate>Tue, 23 Jun 2026 15:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260623000009">전자신문 IT</source>
-      <guid isPermaLink="false">4463f044f2534a92b8b86f13939d4b5b</guid>
-    </item>
-    <item>
-      <title>조언: 에이전트 작업을 위한 메타 평가 데이터 세트</title>
-      <link>https://huggingface.co/papers/2606.21627</link>
-      <description>자동화된 평가 방법의 보정 및 신뢰성을 향상시키기 위해 에이전트 작업에 대한 LLM 비평의 인간 메타 평가에 대한 대규모 데이터 세트가 도입되었습니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.21627">Hugging Face Papers</source>
-      <guid isPermaLink="false">64897f3271f67a2a2365e83f97b46620</guid>
-    </item>
-    <item>
-      <title>구글, 영화 스튜디오 A24에 1100억 투자...할리우드 진출 본격화</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=212021</link>
-      <description>구글이 독립 영화 스튜디오 A24에 7500만달러(약 1100억원)를 투자하고 AI 기반 영화 제작 도구를 공동 개발하는 전략적 파트너십을 체결했다.</description>
-      <pubDate>Tue, 23 Jun 2026 17:43:56 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=212021">AI Times</source>
-      <guid isPermaLink="false">efa3cbaf6163c3aaad33e9dfe99a47be</guid>
-    </item>
-    <item>
-      <title>atlas-gic: 프롬프트를 가중치로 삼아 스스로 개선하는 멀티 에이전트 트레이딩 프레임워크</title>
-      <link>https://discuss.pytorch.kr/t/atlas-gic/10838</link>
-      <description>atlas-gic 소개 대규모 언어 모델을 어떤 작업에 맞춰 개선할 때 보통은 가중치를 다시 학습합니다. atlas-gic(ATLAS)은 이 발상을 뒤집어, 모델 가중치 대신 에이전트의 프롬프트를 조정 대상으로 두고 시장 성과를 기준으로 스스로 개선하는 멀티 에이전트 트레이딩 프레임워크입니다.</description>
-      <pubDate>Tue, 23 Jun 2026 17:30:06 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/atlas-gic/10838">PyTorch Korea</source>
-      <guid isPermaLink="false">7af4d9077b3732fb834db4a402187550</guid>
-    </item>
-    <item>
-      <title>“AI 이용해 고유가 담합”…캘리포니아 기름값 너무 비싼 이유 있었다</title>
-      <link>https://www.etnews.com/20260623000435</link>
-      <description>미국 캘리포니아주의 운전자들이 주요 주유소 운영사들이 인공지능(AI)을 이용해 휘발유 가격을 담합했다며 집단 소송을 제기했다. 22일(현지시간) 영국 가디언에 따르면 BP, 서클K, 마라톤, 세븐일레븐, 월마트, 알버트슨 등 대형 주유소 운영업체들이 AI 기반 가격 책정 시스템을 활용해 연료 가격을 담합한 혐의로 캘리포니아 소비자들의 소송 대상이 됐다.</description>
-      <pubDate>Tue, 23 Jun 2026 17:27:59 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260623000435">전자신문 IT</source>
-      <guid isPermaLink="false">b144524de0ec128ad4e92e9de3665c09</guid>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,72 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 24 Jun 2026 09:01:17 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 13:20:36 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>FUTO Swipe: 공개형 스와이프 입력 모델</title>
+      <link>https://news.hada.io/topic?id=30787</link>
+      <description>모바일 키보드의 스와이프 입력 방식 을 공개 모델 + 알고리듬으로 구현하려는 시도 기존 고품질 스와이프 입력은 프라이버시 침해적 키보드 앱 이나 라이선스 없는 비공개 라이브러리 에 묶여 있어 대체재가 필요했음 완전 오프라인 안드로...</description>
+      <pubDate>Wed, 24 Jun 2026 12:21:51 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30787">GeekNews</source>
+      <guid isPermaLink="false">bb5274a3b0bf9beeccc60e58a3442bd6</guid>
+    </item>
+    <item>
+      <title>중국 '라인샤인', 세계 슈퍼컴 1위 탈환…"알맹이 없는 AI 경쟁력 과시용" 지적도</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212037</link>
+      <description>중국이 9년 만에 세계 최고 성능 슈퍼컴퓨터 자리를 되찾으며 미국과의 첨단 기술 경쟁에서 존재감을 과시했다.</description>
+      <pubDate>Wed, 24 Jun 2026 11:00:13 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212037">AI Times</source>
+      <guid isPermaLink="false">3580430e4dbf728e955795cc674e13da</guid>
+    </item>
+    <item>
+      <title>하이퍼엑셀, 기보 '2026 유니콘브릿지' 선정… 글로벌 진출 속도</title>
+      <link>https://zdnet.co.kr/view/?no=20260624105620</link>
+      <description>[지디넷코리아]AI 반도체 팹리스 스타트업 하이퍼엑셀이 기술보증기금(이하 기보)이 주관하는 ‘2026 유니콘브릿지’ 사업에 최종 선정되며 글로벌 시장 진출에 속도를 낸다.하이퍼엑셀은 이번 선정을 통해 글로벌시장개척자금을 지원받게 되며, 기보의 글로벌 네트워크와 스케일업 지원 체계를 기반으로 해외 시장 확대를 본격화할 계획이라고 24일 밝혔다.중소벤처기업부와 기보가 공동 운영하는 유니콘브릿지…</description>
+      <pubDate>Wed, 24 Jun 2026 11:09:56 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260624105620">ZDNet Korea</source>
+      <guid isPermaLink="false">1b942ae54a6240dd59a64de63ece19f7</guid>
+    </item>
+    <item>
+      <title>“산화갈륨 전력반도체 소부장 생태계 강화”…韓-美 산·학·연 협력 다진다</title>
+      <link>https://www.etnews.com/20260624000118</link>
+      <description>차세대 초광대역갭(UWBG) 전력반도체 핵심 소재인 산화갈륨(Ga₂O₃) 분야 기술 도약을 위해 한국과 미국 산·학·연이 국경을 넘어 상호 연구개발(R&amp;D) 협력의 발판을 마련했다.</description>
+      <pubDate>Wed, 24 Jun 2026 10:31:42 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260624000118">전자신문 IT</source>
+      <guid isPermaLink="false">cd4df43950ac6a3051020c816a5596bd</guid>
+    </item>
+    <item>
+      <title>BMW코리아, 압도적 존재감 강조한 '7시리즈 블랙 트림' 출시</title>
+      <link>https://www.etnews.com/20260624000106</link>
+      <description>BMW코리아가 플래그십 세단 7시리즈의 외장 곳곳에 블랙 하이글로스 디자인 요소를 적용해 상품성을 높인 신규 블랙 트림을 출시했다. 블랙 트림은 'BMW 740i xDrive M 스포츠 리미티드'와 'BMW 740d xDrive M 스포츠' 두 가지 모델이다.</description>
+      <pubDate>Wed, 24 Jun 2026 10:23:31 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260624000106">전자신문 IT</source>
+      <guid isPermaLink="false">cf0c7a2d18123fae2087a3c6713341b0</guid>
+    </item>
+    <item>
+      <title>포스텍, 세계 최고 수준 강도·연성 조합 갖춘 3D 프린팅용 초고강도 철계 합금 개발</title>
+      <link>https://www.etnews.com/20260624000010</link>
+      <description>국내 연구팀이 오랫동안 풀리지 않던 금속 강도와 연성의 딜레마를 해결할 새로운 초고강도 철계 합금 기술을 개발했다. 고성능 금속 부품의 3D프린팅 활용 범위를 넓히는 계기가 될 것으로 기대된다.</description>
+      <pubDate>Wed, 24 Jun 2026 08:14:35 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260624000010">전자신문 IT</source>
+      <guid isPermaLink="false">02ec46ba0d05f1d66f784ff170fa31b8</guid>
+    </item>
+    <item>
+      <title>유엔 사무총장 “AI 기업들, 환경 영향 공개해야”…'AI 환경투명성' 제안</title>
+      <link>https://www.etnews.com/20260624000004</link>
+      <description>안토니우 구테흐스 유엔 사무총장은 23일(현시지간) 글로벌 인공지능(AI) 기업들에 사업 활동이 환경에 미치는 영향에 관한 정보를 공개하라고 촉구했다. 구테흐스 총장은 이날 영국에서 열린 '런던 기후 행동 주간' 연설을 통해 'AI 환경 투명성 이니셔티브'를 제안하면서 “모든 주요 AI 기업이 자사 시스템의 전체 환경 영향을 측정해 공개하기를 촉구한다”고 밝혔다.</description>
+      <pubDate>Wed, 24 Jun 2026 07:16:56 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260624000004">전자신문 IT</source>
+      <guid isPermaLink="false">a9e514bde7b993b032d1e600a9c55d38</guid>
+    </item>
     <item>
       <title>Moebius: 0.2B 이미지 인페인팅 모델로 10B급 성능 달성</title>
       <link>https://news.hada.io/topic?id=30770</link>
@@ -394,69 +457,6 @@
       <category>news</category>
       <source url="https://zdnet.co.kr/view/?no=20260622222322">ZDNet Korea</source>
       <guid isPermaLink="false">055b91ee4431c97b1b7fe1f081f72d50</guid>
-    </item>
-    <item>
-      <title>요즘 작품 이미지의 LLM 학습 방해 방법은?</title>
-      <link>https://news.hada.io/topic?id=30731</link>
-      <description>한 사용자는 아내가 자신의 작품 이미지 가 LLM 학습에 쓰이는 것을 원치 않아 온라인 공개를 망설이고 있다고 밝힘 질문의 핵심은 이미지를 사전에 처리해 LLM 학습을 방해 하는 라이브러리나 방법이 현재 실용적인지임 사용자는 아내를 위한 맞춤...</description>
-      <pubDate>Tue, 23 Jun 2026 00:01:08 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30731">GeekNews</source>
-      <guid isPermaLink="false">b5eca30dde92c8947819594b6332173d</guid>
-    </item>
-    <item>
-      <title>앤트로픽 "클로드 오퍼스 4.7, 인간보다 37배 빠르게 로봇 제어 수행"</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=211969</link>
-      <description>AI 모델이 소프트웨어 작업을 넘어 실제 물리적 세계의 도구를 활용하는 단계에 빠르게 접근하고 있다는 연구 결과가 나왔다. 앤트로픽은 \'클로드\'가 사족보행 로봇을 활용한 복합 작업에서 불과 1년 전 인간 팀보다 최대 수십배 빠른 성과를 기록했다고 밝혔다.</description>
-      <pubDate>Mon, 22 Jun 2026 18:15:51 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=211969">AI Times</source>
-      <guid isPermaLink="false">4f4c683c6f169f26939f39053b220503</guid>
-    </item>
-    <item>
-      <title>“배우는 AI에서 실행하는 AI로”…멀티캠퍼스, 기업 AX 교육 진화 이끈다</title>
-      <link>https://www.etnews.com/20260622000408</link>
-      <description>기업 인공지능(AI) 교육 시장이 변하고 있다. 생성형 AI 초기 챗GPT 사용법이나 프롬프트 작성법 등 기본 활용 교육이 주를 이뤘다면, 최근에는 AI로 실제 업무 생산성을 향상하고 활용 사례를 만드는 '실행형 교육'으로 중심축이 이동하고 있다. 국내 기업교육 1위 업체인 멀티캠퍼스가 기업 AX(AI 전환) 교육 분야에서도 패러다임 전환을 이끌고 있다.</description>
-      <pubDate>Mon, 22 Jun 2026 17:27:18 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260622000408">전자신문 IT</source>
-      <guid isPermaLink="false">037ab577720c3c5f604e82088e1e14b4</guid>
-    </item>
-    <item>
-      <title>앤트로픽, 'AI 수출 금지' 호재되나…美 정부 신뢰 회복은 과제</title>
-      <link>https://www.etnews.com/20260622000407</link>
-      <description>앤트로픽의 최신 인공지능(AI) 모델 '페이블5'와 '미토스5'에 대한 미국 정부의 외국인 사용 금지 명령이 열흘째 지속되고 있다. 앤트로픽은 백악관에 기술진을 파견해 본격적인 수습에 나선 상태다. 이번 조치로 당장 서비스 차질은 불가피해졌지만, 업계 일각에서는 이번 규제가 오히려 앤트로픽에 호재가 될 수 있다는 역설적 관측을 내놓고 있다.</description>
-      <pubDate>Mon, 22 Jun 2026 17:26:57 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260622000407">전자신문 IT</source>
-      <guid isPermaLink="false">8d092688bf5328ac89251b1d8d5e7c74</guid>
-    </item>
-    <item>
-      <title>GLM 5.2 대 Opus</title>
-      <link>https://news.hada.io/topic?id=30728</link>
-      <description>같은 원샷 프롬프트로 raw WebGL 3D 플랫폼 게임 을 만들게 하자, Opus는 더 빠르고 완성도 높은 결과를 냈고 GLM-5.2는 낮은 비용과 오픈 가중치라는 장점을 보임 GLM-5.2는 Z.ai의 MIT 라이선스 오픈 가중치 모델로 1M 토큰 컨텍스트와 High/Max 사고 수준을 제공...</description>
-      <pubDate>Mon, 22 Jun 2026 21:50:27 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30728">GeekNews</source>
-      <guid isPermaLink="false">a85a565a2d68379764507e510449ff6a</guid>
-    </item>
-    <item>
-      <title>[단독]네이버 차세대 AI 모델, '사용량 1위' 中 넘는다</title>
-      <link>https://www.etnews.com/20260622000361</link>
-      <description>네이버가 AI 에이전트 시대에 가장 강조되는 '토큰 대비 성능'을 앞세운 차세대 AI모델로 올 하반기 중국 AI와 정면으로 맞붙는다. 사용량 상위권을 장악한 중국 AI 모델을 경쟁 타깃으로 잡고 글로벌 AI 에이전트 주도권 확보를 노린다. 22일 전자신문 취재를 종합하면 네이버 자회사 네이버클라우드는 매개변수 5000억개 규모 차세대 하이퍼클로바 X를 개발 중이다.</description>
-      <pubDate>Mon, 22 Jun 2026 16:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260622000361">전자신문 IT</source>
-      <guid isPermaLink="false">8876ecd336899e03cbd02ecc6cc4935b</guid>
-    </item>
-    <item>
-      <title>AI로 과제해도 걸릴 일 없다?…사람이 쓴듯 문장 다듬고 일부러 오타도 섞어</title>
-      <link>https://www.etnews.com/20260622000403</link>
-      <description>미국에서 과제 작성에 인공지능(AI)를 활용하면서도 이를 들키지 않게 숨기는 각종 편법이 소셜미디어를 중심으로 빠르게 퍼지고 있다. 22일(현지시간) 뉴욕타임스에 따르면, '휴머나이저' '오토타이퍼' 같은 프로그램을 활용해 AI 사용 흔적을 감추는 방식이 틱톡과 유튜브 등에서 빠르게 퍼지고 있다.</description>
-      <pubDate>Mon, 22 Jun 2026 17:18:33 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260622000403">전자신문 IT</source>
-      <guid isPermaLink="false">cbed0e40529904648cbbfc66431c7f77</guid>
     </item>
   </channel>
 </rss>

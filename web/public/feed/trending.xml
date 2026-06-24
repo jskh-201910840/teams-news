@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/trending.xml</link>
     <description>🔥 Trending — GitHub ML/AI repositories</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 24 Jun 2026 09:01:17 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 13:20:36 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>mindmuxai/brain.md — 코딩 에이전트를 위한 영구 파일 기반 메모리 계층 — Claude Code, Codex 및 기타 사용자에게 프로젝트 제공</title>
+      <link>https://github.com/mindmuxai/brain.md</link>
+      <description>코딩 에이전트를 위한 영구 파일 기반 메모리 계층 — 종속성이 없는 CLI를 통해 Claude Code, Codex 및 기타 사람들에게 프로젝트 브레인(지속적인 결정, 요구 사항, 제약 조건)을 제공합니다.</description>
+      <pubDate>Tue, 23 Jun 2026 17:47:37 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/mindmuxai/brain.md">GitHub Trending</source>
+      <guid isPermaLink="false">0641592ec17db4624ff41b83b1b2e347</guid>
+    </item>
     <item>
       <title>Reyzowter/Hello-Agents — 🤖 처음부터 AI 에이전트 시스템 구축 — 기초부터</title>
       <link>https://github.com/Reyzowter/Hello-Agents</link>

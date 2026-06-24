@@ -5,9 +5,27 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/community.xml</link>
     <description>💬 Community — PyTorch Korea discussions</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 24 Jun 2026 09:01:17 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 13:20:36 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Swift-Agent-Skills: Claude Code와 Codex용 Swift 개발 AI 에이전트 스킬 모음</title>
+      <link>https://discuss.pytorch.kr/t/swift-agent-skills-claude-code-codex-swift-ai/10840</link>
+      <description>Swift-Agent-Skills 소개 Claude Code, Codex, Cursor 같은 AI 코딩 도구로 Swift와 Apple 플랫폼 앱을 만들 때, 에이전트가 늘 SwiftUI의 최신 패턴이나 Swift 동시성(Concurrency)의 함정, SwiftData의 모델링 규칙을 알고 있는 것은 아닙니다.</description>
+      <pubDate>Wed, 24 Jun 2026 10:30:40 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/swift-agent-skills-claude-code-codex-swift-ai/10840">PyTorch Korea</source>
+      <guid isPermaLink="false">a3c40ea18279a22b1a018382afd6fbce</guid>
+    </item>
+    <item>
+      <title>Awesome Autoresearch: 자율 개선 루프와 연구 에이전트를 모은 큐레이션 저장소</title>
+      <link>https://discuss.pytorch.kr/t/awesome-autoresearch/10826</link>
+      <description>Awesome Autoresearch 소개 Awesome Autoresearch는 자율적으로 돌아가는 개선 루프(autonomous improvement loop)와 연구 에이전트, 그리고 그로부터 갈라져 나온 파생 프로젝트를 한곳에 모아 분류한 큐레이션 인덱스입니다.</description>
+      <pubDate>Wed, 24 Jun 2026 12:30:42 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/awesome-autoresearch/10826">PyTorch Korea</source>
+      <guid isPermaLink="false">76f52f1a5b742ea3bec2db26c1a9b8fb</guid>
+    </item>
     <item>
       <title>밑바닥부터 언어 모델을 구현하는 스탠퍼드의 CS336 수업의 첫번째 과제에 대한 공식 저장소</title>
       <link>https://discuss.pytorch.kr/t/cs336/10835</link>
