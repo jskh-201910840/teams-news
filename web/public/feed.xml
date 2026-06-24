@@ -5,9 +5,54 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 24 Jun 2026 20:47:57 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 23:35:26 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>benchflow-ai/awesome-evals — AI 에이전트 구축 및 평가를 위한 최고의 리소스를 선별한 비BS 라이브러리 — 논문, 블로그</title>
+      <link>https://github.com/benchflow-ai/awesome-evals</link>
+      <description>논문, 블로그, 강연, 도구, 벤치마크 등 AI 에이전트 구축 및 평가를 위한 최고의 리소스로 구성된 선별된 비BS 라이브러리입니다. BenchFlow에서 관리합니다.</description>
+      <pubDate>Wed, 24 Jun 2026 17:22:18 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/benchflow-ai/awesome-evals">GitHub Trending</source>
+      <guid isPermaLink="false">e942f3f8c1f0089ec23e7d3c1037b482</guid>
+    </item>
+    <item>
+      <title>agentic-stack: 코딩 에이전트 도구를 바꿔도 메모리와 스킬을 유지하는 이식형 브레인</title>
+      <link>https://discuss.pytorch.kr/t/agentic-stack/10829</link>
+      <description>agentic-stack 소개 코딩 에이전트를 쓰다 보면 도구를 갈아탈 일이 자주 생깁니다. Claude Code로 작업하다가 Cursor로 옮기고, 다시 터미널 기반 도구로 넘어가는 식입니다. 문제는 도구를 바꾸는 순간 그동안 쌓인 컨텍스트가 초기화된다는 점입니다.</description>
+      <pubDate>Wed, 24 Jun 2026 21:30:32 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/agentic-stack/10829">PyTorch Korea</source>
+      <guid isPermaLink="false">157454d243ca81155b7f4f0f87a58733</guid>
+    </item>
+    <item>
+      <title>"AI도 제로트러스트 대상...행위주체에 포함해야"</title>
+      <link>https://zdnet.co.kr/view/?no=20260624214317</link>
+      <description>[지디넷코리아]"기업망에 접근하는 모든 행위주체를 신뢰하지 않고 지속적으로 검증한다는 '제로트러스트'에서 말하는 행위주체에 AI 에이전트도 포함해야 합니다.</description>
+      <pubDate>Wed, 24 Jun 2026 22:58:48 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260624214317">ZDNet Korea</source>
+      <guid isPermaLink="false">b3e7f148ee54b371f7d857232d1fbdde</guid>
+    </item>
+    <item>
+      <title>AGORA: Agentic Workplace 문서 추론을 위한 아카이브 기반 벤치마크</title>
+      <link>https://huggingface.co/papers/2606.24526</link>
+      <description>대규모 언어 모델은 다양한 문서 컬렉션에 대한 증거 검색 및 합성과 관련된 아카이브 기반 추론 작업에서 문제에 직면하며 성능은 도메인에 따라 크게 다릅니다.</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.24526">Hugging Face Papers</source>
+      <guid isPermaLink="false">50ccaed5cf587dcb275c2f98844968ba</guid>
+    </item>
+    <item>
+      <title>의미론적 브라우징: 이미지 생성을 위한 제어 가능한 다양성</title>
+      <link>https://huggingface.co/papers/2606.23679</link>
+      <description>텍스트-이미지 모델은 의미 있는 의미 결정을 기반으로 이미지 변형의 구조화된 탐색을 가능하게 하는 의미 검색 기능을 통해 제어된 다양성으로 향상됩니다.</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.23679">Hugging Face Papers</source>
+      <guid isPermaLink="false">9a9032789365c94855f5cd015d07af4a</guid>
+    </item>
     <item>
       <title>TileKernels: DeepSeek AI가 공개한, LLM 연산을 위한 고성능 TileLang 기반 GPU 커널 라이브러리</title>
       <link>https://discuss.pytorch.kr/t/tilekernels-deepseek-ai-llm-tilelang-gpu/9878</link>
@@ -412,51 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.24112">Hugging Face Papers</source>
       <guid isPermaLink="false">d9327c18d4f1a25f079c6dfd2f58cf8e</guid>
-    </item>
-    <item>
-      <title>“산화갈륨 전력반도체 소부장 생태계 강화”…韓-美 산·학·연 협력 다진다</title>
-      <link>https://www.etnews.com/20260624000118</link>
-      <description>차세대 초광대역갭(UWBG) 전력반도체 핵심 소재인 산화갈륨(Ga₂O₃) 분야 기술 도약을 위해 한국과 미국 산·학·연이 국경을 넘어 상호 연구개발(R&amp;D) 협력의 발판을 마련했다.</description>
-      <pubDate>Wed, 24 Jun 2026 10:31:42 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260624000118">전자신문 IT</source>
-      <guid isPermaLink="false">cd4df43950ac6a3051020c816a5596bd</guid>
-    </item>
-    <item>
-      <title>BMW코리아, 압도적 존재감 강조한 '7시리즈 블랙 트림' 출시</title>
-      <link>https://www.etnews.com/20260624000106</link>
-      <description>BMW코리아가 플래그십 세단 7시리즈의 외장 곳곳에 블랙 하이글로스 디자인 요소를 적용해 상품성을 높인 신규 블랙 트림을 출시했다. 블랙 트림은 'BMW 740i xDrive M 스포츠 리미티드'와 'BMW 740d xDrive M 스포츠' 두 가지 모델이다.</description>
-      <pubDate>Wed, 24 Jun 2026 10:23:31 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260624000106">전자신문 IT</source>
-      <guid isPermaLink="false">cf0c7a2d18123fae2087a3c6713341b0</guid>
-    </item>
-    <item>
-      <title>로컬 축소를 사용하여 불확실성 하에서 마이크로그리드를 최적으로 제어하는 ​​효율적인 방법</title>
-      <link>https://huggingface.co/papers/2606.12345</link>
-      <description>강력한 마이크로그리드 크기 조정 및 전력 스케줄링을 위한 두 가지 수학적 공식이 제안되고 비교됩니다. 하나는 이진 변수와 big-M 제약 조건을 사용하고 다른 하나는 S를 사용한 연속 비선형 프로그래밍을 사용합니다.</description>
-      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.12345">Hugging Face Papers</source>
-      <guid isPermaLink="false">ed9e3d732890fd78391907ad5a910386</guid>
-    </item>
-    <item>
-      <title>포스텍, 세계 최고 수준 강도·연성 조합 갖춘 3D 프린팅용 초고강도 철계 합금 개발</title>
-      <link>https://www.etnews.com/20260624000010</link>
-      <description>국내 연구팀이 오랫동안 풀리지 않던 금속 강도와 연성의 딜레마를 해결할 새로운 초고강도 철계 합금 기술을 개발했다. 고성능 금속 부품의 3D프린팅 활용 범위를 넓히는 계기가 될 것으로 기대된다.</description>
-      <pubDate>Wed, 24 Jun 2026 08:14:35 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260624000010">전자신문 IT</source>
-      <guid isPermaLink="false">02ec46ba0d05f1d66f784ff170fa31b8</guid>
-    </item>
-    <item>
-      <title>FlowR2A: 다중 모드 운전 계획을 위한 행동 보상 분배 학습</title>
-      <link>https://huggingface.co/papers/2606.24231</link>
-      <description>FlowR2A는 보상 조건 동작 분포를 학습하는 흐름 일치 디코더를 통해 조밀한 보상 감독과 동적 제안 생성을 결합하여 다중 모드 운전 계획의 긴장을 해결합니다.</description>
-      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.24231">Hugging Face Papers</source>
-      <guid isPermaLink="false">3d6404777dc0aee04027e2c4438d141a</guid>
     </item>
   </channel>
 </rss>

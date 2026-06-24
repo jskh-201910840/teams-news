@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 24 Jun 2026 20:47:57 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 23:35:26 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>"AI도 제로트러스트 대상...행위주체에 포함해야"</title>
+      <link>https://zdnet.co.kr/view/?no=20260624214317</link>
+      <description>[지디넷코리아]"기업망에 접근하는 모든 행위주체를 신뢰하지 않고 지속적으로 검증한다는 '제로트러스트'에서 말하는 행위주체에 AI 에이전트도 포함해야 합니다.</description>
+      <pubDate>Wed, 24 Jun 2026 22:58:48 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260624214317">ZDNet Korea</source>
+      <guid isPermaLink="false">b3e7f148ee54b371f7d857232d1fbdde</guid>
+    </item>
     <item>
       <title>DCP 예비 7곳 출범...최종 5곳 4년간 200억 지원</title>
       <link>https://zdnet.co.kr/view/?no=20260624183231</link>
@@ -448,15 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260623000315">전자신문 IT</source>
       <guid isPermaLink="false">ac5edb5ee6e409e11e199e2ecee283b8</guid>
-    </item>
-    <item>
-      <title>[바이오 USA]K바이오, 글로벌 고객·파트너 확보 총력전</title>
-      <link>https://www.etnews.com/20260623000310</link>
-      <description>세계 최대 제약바이오 박람회 '바이오 인터내셔널 컨벤션 2026(바이오 USA 2026)'이 22일(현지시간) 미국 캘리포니아주 샌디에이고 컨벤션센터에서 막을 올렸다. 나흘간 세계 70여개국 약 2만명 관계자가 모여 기술을 알리고 협력을 타진한다. 한국 기업은 생산 능력과 인공지능(AI) 역량 등을 앞세워 신규 수주와 협업 파트너 확대에 나선다.</description>
-      <pubDate>Tue, 23 Jun 2026 14:15:55 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260623000310">전자신문 IT</source>
-      <guid isPermaLink="false">ca45b9027c7265e89e91138af4b69dd1</guid>
     </item>
   </channel>
 </rss>
