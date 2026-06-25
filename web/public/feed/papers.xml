@@ -5,9 +5,36 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/papers.xml</link>
     <description>📄 Papers — AI research from Hugging Face Daily Papers</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 25 Jun 2026 16:45:20 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 19:46:32 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>ReNIO: LLM 정책 기반 증류에 대한 부정적인 궤적 중요성 재가중화</title>
+      <link>https://huggingface.co/papers/2606.23104</link>
+      <description>ReNIO는 토큰 수준 확률 비율을 기반으로 부정적인 궤적에 가중치를 다시 부여하고 수학 및 코드 생성 작업의 추론 성능을 향상시켜 언어 모델에 대한 정책 기반 증류를 향상시킵니다.</description>
+      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.23104">Hugging Face Papers</source>
+      <guid isPermaLink="false">4e0394da24a8a4c93b5b7b397f3f6ce6</guid>
+    </item>
+    <item>
+      <title>개방형 LLM의 제약 세금: 구조화된 출력 제약 조건 하에서 도구 호출 억제에 대한 실증적 연구</title>
+      <link>https://huggingface.co/papers/2606.25605</link>
+      <description>도구 억제는 JSON 스키마 제약 조건과 도구 호출이 함께 활성화될 때 발생하며, 문법 준수 문제로 인해 개방형 모델이 스키마 준수를 유지함에도 불구하고 도구를 호출하지 못하게 합니다.</description>
+      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.25605">Hugging Face Papers</source>
+      <guid isPermaLink="false">1750f81975c328d340a6470939e21d88</guid>
+    </item>
+    <item>
+      <title>한 번 증류하면 평생 적응: 지속적인 테스트 시간 적응을 위한 데이터 세트 증류 탐색</title>
+      <link>https://huggingface.co/papers/2606.20196</link>
+      <description>DO-ALL은 소스 데이터를 유지하지 않고도 안정적인 장기 모델 성능을 위한 합성 앵커를 생성하기 위해 데이터세트 증류를 사용하는 테스트 시간 적응 프레임워크입니다.</description>
+      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.20196">Hugging Face Papers</source>
+      <guid isPermaLink="false">be4b1e117968628bd66a7805d13f2df8</guid>
+    </item>
     <item>
       <title>ShutterMuse: MLLM을 사용한 캡처 시간 사진 촬영 지침</title>
       <link>https://huggingface.co/papers/2606.25763</link>
@@ -430,33 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.12345">Hugging Face Papers</source>
       <guid isPermaLink="false">ed9e3d732890fd78391907ad5a910386</guid>
-    </item>
-    <item>
-      <title>FlowR2A: 다중 모드 운전 계획을 위한 행동 보상 분배 학습</title>
-      <link>https://huggingface.co/papers/2606.24231</link>
-      <description>FlowR2A는 보상 조건 동작 분포를 학습하는 흐름 일치 디코더를 통해 조밀한 보상 감독과 동적 제안 생성을 결합하여 다중 모드 운전 계획의 긴장을 해결합니다.</description>
-      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.24231">Hugging Face Papers</source>
-      <guid isPermaLink="false">3d6404777dc0aee04027e2c4438d141a</guid>
-    </item>
-    <item>
-      <title>보상 공학을 넘어서: 장기 상황 강화 학습을 위한 데이터 레시피</title>
-      <link>https://huggingface.co/papers/2606.18831</link>
-      <description>선별된 데이터 세트와 최소한의 GRPO 설정을 사용하는 데이터 중심 접근 방식은 대규모 언어 모델의 장기 컨텍스트 추론을 크게 향상시켜 이전 강화 학습 방법보다 성능이 뛰어납니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.18831">Hugging Face Papers</source>
-      <guid isPermaLink="false">9fab566363ce919bbef5d79f239e0cd8</guid>
-    </item>
-    <item>
-      <title>FLUX3D: 확산 정렬된 희소 표현을 사용한 고충실도 3D 가우스 생성</title>
-      <link>https://huggingface.co/papers/2606.24874</link>
-      <description>FLUX3D는 특수 아키텍처 및 주의 메커니즘을 통해 표현 학습 및 교차 모달 정렬을 개선하여 이미지-3D 가우스 스플래팅 생성의 제한 사항을 해결합니다.</description>
-      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.24874">Hugging Face Papers</source>
-      <guid isPermaLink="false">68d9a507123878b0c0d7cdb8b78863f4</guid>
     </item>
   </channel>
 </rss>

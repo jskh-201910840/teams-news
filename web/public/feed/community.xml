@@ -5,9 +5,27 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/community.xml</link>
     <description>💬 Community — PyTorch Korea discussions</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 25 Jun 2026 16:45:20 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 19:46:32 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Qwen-AgentWorld: 에이전트 환경을 시뮬레이션하는 언어 세계 모델 연구 (feat. Qwen)</title>
+      <link>https://discuss.pytorch.kr/t/qwen-agentworld-feat-qwen/10909</link>
+      <description>Qwen-AgentWorld 소개 체스를 잘 두는 사람은 말을 옮기기 전에 머릿속으로 몇 수 앞을 미리 둬봅니다. "여기에 두면 상대가 이렇게 받을 테고, 그러면 내 비숍이 위험해지겠지"라고 시뮬레이션한 뒤, 더 나은 수를 고르는 것입니다.</description>
+      <pubDate>Thu, 25 Jun 2026 17:30:45 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/qwen-agentworld-feat-qwen/10909">PyTorch Korea</source>
+      <guid isPermaLink="false">641bf744be4b8112b5cf3744f8e177b4</guid>
+    </item>
+    <item>
+      <title>Unlimited OCR: KV 캐시를 고정해 수십 페이지를 한 번에 인식하는 장문 OCR에 대한 연구 (feat. Baidu)</title>
+      <link>https://discuss.pytorch.kr/t/unlimited-ocr-kv-ocr-feat-baidu/10908</link>
+      <description>Unlimited OCR 소개 사람은 책 수백 페이지를 처음부터 끝까지 베껴 쓰는 동안, 한 글자를 적을 때마다 이미 적은 모든 문장을 다시 훑어보지 않습니다. 원본의 지금 보는 부분과 방금 적은 몇 글자만 곁눈질하며 진도를 확인할 뿐입니다. 신기하게도 우리는 1페이지를 필사할 때나 100페이지째를 필사할 때나 속도가 크게 느려지지 않습니다.</description>
+      <pubDate>Thu, 25 Jun 2026 18:30:50 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/unlimited-ocr-kv-ocr-feat-baidu/10908">PyTorch Korea</source>
+      <guid isPermaLink="false">ead822ba1886aba34c6de5027b0479b4</guid>
+    </item>
     <item>
       <title>OpenAI와 Broadcom이 공개한 첫 자체 LLM 추론 전용 칩 Jalapeño (feat. Celestica)</title>
       <link>https://discuss.pytorch.kr/t/openai-broadcom-llm-jalapeno-feat-celestica/10925</link>

@@ -5,9 +5,135 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 25 Jun 2026 16:45:20 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 19:46:32 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Qwen-AgentWorld: 에이전트 환경을 시뮬레이션하는 언어 세계 모델 연구 (feat. Qwen)</title>
+      <link>https://discuss.pytorch.kr/t/qwen-agentworld-feat-qwen/10909</link>
+      <description>Qwen-AgentWorld 소개 체스를 잘 두는 사람은 말을 옮기기 전에 머릿속으로 몇 수 앞을 미리 둬봅니다. "여기에 두면 상대가 이렇게 받을 테고, 그러면 내 비숍이 위험해지겠지"라고 시뮬레이션한 뒤, 더 나은 수를 고르는 것입니다.</description>
+      <pubDate>Thu, 25 Jun 2026 17:30:45 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/qwen-agentworld-feat-qwen/10909">PyTorch Korea</source>
+      <guid isPermaLink="false">641bf744be4b8112b5cf3744f8e177b4</guid>
+    </item>
+    <item>
+      <title>a-Fig/Accordion — 🏆 AI Hackathon 2026 @ UC Berkeley 개발자를 위한 지능형 컨텍스트 관리</title>
+      <link>https://github.com/a-Fig/Accordion</link>
+      <description>🏆 AI Hackathon 2026 @ UC Berkeley 개발자를 위한 지능형 컨텍스트 관리</description>
+      <pubDate>Thu, 25 Jun 2026 17:55:18 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/a-Fig/Accordion">GitHub Trending</source>
+      <guid isPermaLink="false">54a02ba106a6b55cfd303e7b29e95aef</guid>
+    </item>
+    <item>
+      <title>Unlimited OCR: KV 캐시를 고정해 수십 페이지를 한 번에 인식하는 장문 OCR에 대한 연구 (feat. Baidu)</title>
+      <link>https://discuss.pytorch.kr/t/unlimited-ocr-kv-ocr-feat-baidu/10908</link>
+      <description>Unlimited OCR 소개 사람은 책 수백 페이지를 처음부터 끝까지 베껴 쓰는 동안, 한 글자를 적을 때마다 이미 적은 모든 문장을 다시 훑어보지 않습니다. 원본의 지금 보는 부분과 방금 적은 몇 글자만 곁눈질하며 진도를 확인할 뿐입니다. 신기하게도 우리는 1페이지를 필사할 때나 100페이지째를 필사할 때나 속도가 크게 느려지지 않습니다.</description>
+      <pubDate>Thu, 25 Jun 2026 18:30:50 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/unlimited-ocr-kv-ocr-feat-baidu/10908">PyTorch Korea</source>
+      <guid isPermaLink="false">ead822ba1886aba34c6de5027b0479b4</guid>
+    </item>
+    <item>
+      <title>[플로우 AX 페스타] 플로우, 까다로운 공공 환경에서 AX 표준으로</title>
+      <link>https://www.etnews.com/20260625000271</link>
+      <description>국내 주요 공공기관과 민간 기업이 '플로우 AX 페스타 2026'에서 협업 툴 '플로우'를 기반으로 구현한 인공지능 전환(AX) 성공 사례를 공유했다. 단순한 디지털 전환(DX)을 넘어, 인공지능(AI)이 업무 과정을 직접 수행하고 최적화하는 지능형 업무 환경으로의 실질적인 로드맵을 제시했다. 한국가스공사는 보안과 혁신이라는 상충하는 과제를 '하이브리드 AI 모델'로 해결했다.</description>
+      <pubDate>Thu, 25 Jun 2026 17:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260625000271">전자신문 IT</source>
+      <guid isPermaLink="false">040fca809b0918717595a3672d1bb34a</guid>
+    </item>
+    <item>
+      <title>“단순 B2B SaaS의 시대는 끝났다”...플로우, 'AI 워크 에이전트' 승부수</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212121</link>
+      <description>AI 협업 플랫폼 \'플로우\' 운영사 마드라스체크(대표 이학준)는 25일 \'AX Festa 2026\'을 열고 \'AI 워크 에이전트\' 플랫폼으로 전환을 선언했다.지난 11년간 국내 협업툴 시장 1위를 지켜온 이학준 대표는 기존 B2B 서비스형소프트웨어(SaaS) 시장의 한계를 짚었다.이 대표는 \"대부분의 B2B SaaS 기업들이 방대한 데이터를 쌓고 있지만 그 가치의 90% 이상은…</description>
+      <pubDate>Thu, 25 Jun 2026 19:25:12 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212121">AI Times</source>
+      <guid isPermaLink="false">5ec86ccf60f0d5e98d2decc79775362b</guid>
+    </item>
+    <item>
+      <title>남부발전, SPC·KOSA 손잡고 에너지 AI시대 연다</title>
+      <link>https://zdnet.co.kr/view/?no=20260625180308</link>
+      <description>[지디넷코리아]한국남부발전(대표 김준동)은 25일 한국소프트웨어저작권협회(SPC), 한국소프트웨어산업협회(KOSA)와 ‘발전 분야 AI-READY 데이터 거버넌스 수립 및 안전한 데이터 레이크하우스 구축을 위한 업무협약(MOU)’을 체결했다.이날 협약은 세 기관이 인공지능(AI) 기반 디지털 전환에 맞춰 공공 데이터 활용에 필요한 안전성과 신뢰성·법적 안정성을 확보하고, AI 활용 기반을…</description>
+      <pubDate>Thu, 25 Jun 2026 18:03:08 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260625180308">ZDNet Korea</source>
+      <guid isPermaLink="false">040f55d628758c5f247017758f602a0d</guid>
+    </item>
+    <item>
+      <title>국민성장펀드, AI 전력망에 3700억 투입…에너지 인프라로 지원축 확장</title>
+      <link>https://www.etnews.com/20260625000425</link>
+      <description>국민성장펀드가 인공지능(AI) 데이터센터 전력 공급과 송전망, 반도체 소부장 분야에 3700억원 규모 자금지원 안건을 추가 승인했다. 지난달 AI 반도체와 데이터센터 등에 대규모 자금을 지원한 데 이어 첨단산업 성장의 병목으로 꼽히는 에너지 인프라 확충으로 지원 축을 넓혔다.</description>
+      <pubDate>Thu, 25 Jun 2026 18:02:41 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260625000425">전자신문 IT</source>
+      <guid isPermaLink="false">95398c09d5303b5024fc5c3c1cd662f3</guid>
+    </item>
+    <item>
+      <title>정부, 발전5사 통합준비반 꾸린다…내달 실무조직 출범</title>
+      <link>https://www.etnews.com/20260625000414</link>
+      <description>정부가 발전공기업 5사 통합을 위한 실무조직을 구성한다. 발전공기업 통폐합 연구용역 중간보고 이후 후속 작업에 속도를 내는 모습이다. 25일 기후에너지환경부에 따르면 한국남동발전·한국중부발전·한국서부발전·한국남부발전·한국동서발전에서 회사별 3명씩 모두 15명을 파견받아 7월 중 '통합준비반(가칭)'을 출범시키는 방안을 추진하고 있다.</description>
+      <pubDate>Thu, 25 Jun 2026 17:19:44 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260625000414">전자신문 IT</source>
+      <guid isPermaLink="false">ba691f35741285071b4c115eff01a50a</guid>
+    </item>
+    <item>
+      <title>ReNIO: LLM 정책 기반 증류에 대한 부정적인 궤적 중요성 재가중화</title>
+      <link>https://huggingface.co/papers/2606.23104</link>
+      <description>ReNIO는 토큰 수준 확률 비율을 기반으로 부정적인 궤적에 가중치를 다시 부여하고 수학 및 코드 생성 작업의 추론 성능을 향상시켜 언어 모델에 대한 정책 기반 증류를 향상시킵니다.</description>
+      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.23104">Hugging Face Papers</source>
+      <guid isPermaLink="false">4e0394da24a8a4c93b5b7b397f3f6ce6</guid>
+    </item>
+    <item>
+      <title>삼성, '하이브리드 본딩 우위' 정량 입증…HBM4E 열 관리 우세</title>
+      <link>https://www.etnews.com/20260625000266</link>
+      <description>삼성전자가 차세대 고대역폭메모리(HBM4E) 패키징에서 추구하는 고적층 전략의 기술적 우수성을 객관적으로 입증했다. 하이브리드 구리 접합(Hybrid Copper Bonding, HCB) 기술이 기존 열압착 접합(Thermo-Compression Bonding, TCB) 대비 열 관리 측면에서 뚜렷한 우위를 가진다는 정량적 연구 결과를 처음으로 발표했다.</description>
+      <pubDate>Thu, 25 Jun 2026 17:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260625000266">전자신문 IT</source>
+      <guid isPermaLink="false">52c293076ad3bbf9502a1fcddea4f6e7</guid>
+    </item>
+    <item>
+      <title>[플로우 AX 페스타] “대화만 하는 협업 툴 시대 끝”…플로우, AI '워크 에이전트'로 AX 지형 바꾼다</title>
+      <link>https://www.etnews.com/20260625000244</link>
+      <description>“데이터를 쌓기만 하거나, 사람끼리만 대화하는 협업 도구의 시대는 끝났습니다.” 이학준 마드라스체크 대표는 25일 서울 여의도에서 개최한 '플로우 AX 페스타 2026'에서 기존 협업 도구 시장의 미래를 이같이 진단했다.</description>
+      <pubDate>Thu, 25 Jun 2026 17:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260625000244">전자신문 IT</source>
+      <guid isPermaLink="false">9454751aa21297753042bac360da0bcd</guid>
+    </item>
+    <item>
+      <title>개방형 LLM의 제약 세금: 구조화된 출력 제약 조건 하에서 도구 호출 억제에 대한 실증적 연구</title>
+      <link>https://huggingface.co/papers/2606.25605</link>
+      <description>도구 억제는 JSON 스키마 제약 조건과 도구 호출이 함께 활성화될 때 발생하며, 문법 준수 문제로 인해 개방형 모델이 스키마 준수를 유지함에도 불구하고 도구를 호출하지 못하게 합니다.</description>
+      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.25605">Hugging Face Papers</source>
+      <guid isPermaLink="false">1750f81975c328d340a6470939e21d88</guid>
+    </item>
+    <item>
+      <title>한 번 증류하면 평생 적응: 지속적인 테스트 시간 적응을 위한 데이터 세트 증류 탐색</title>
+      <link>https://huggingface.co/papers/2606.20196</link>
+      <description>DO-ALL은 소스 데이터를 유지하지 않고도 안정적인 장기 모델 성능을 위한 합성 앵커를 생성하기 위해 데이터세트 증류를 사용하는 테스트 시간 적응 프레임워크입니다.</description>
+      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.20196">Hugging Face Papers</source>
+      <guid isPermaLink="false">be4b1e117968628bd66a7805d13f2df8</guid>
+    </item>
+    <item>
+      <title>Anthropic “Alibaba가 Claude AI 모델 역량을 불법 추출”</title>
+      <link>https://news.hada.io/topic?id=30820</link>
+      <description>미 상원 AI 청문회를 앞두고 Anthropic은 Alibaba 관련 활동이 자사를 겨냥한 동종 공격 중 최대 규모 였다고 주장함 핵심 방식은 더 강한 모델의 출력으로 약한 모델을 학습시키는 증류(distillation) 로, Anthropic은 중국이 Mythos Preview급 역량에 더 빨리 도달...</description>
+      <pubDate>Thu, 25 Jun 2026 19:36:25 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30820">GeekNews</source>
+      <guid isPermaLink="false">010806b666bbab96f9096c8318d9310c</guid>
+    </item>
     <item>
       <title>OpenAI와 Broadcom이 공개한 첫 자체 LLM 추론 전용 칩 Jalapeño (feat. Celestica)</title>
       <link>https://discuss.pytorch.kr/t/openai-broadcom-llm-jalapeno-feat-celestica/10925</link>
@@ -331,132 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260625000153">전자신문 IT</source>
       <guid isPermaLink="false">ac450aef820508e4d3950f4c38cd3a2e</guid>
-    </item>
-    <item>
-      <title>VeriEvol: 검증 가능한 Evol-Instruct를 통한 다중 모드 수학적 추론 확장</title>
-      <link>https://huggingface.co/papers/2606.23543</link>
-      <description>VeriEvol이라는 새로운 프레임워크는 분리된 2축 접근 방식을 통해 신뢰할 수 있는 보상 레이블을 보장함으로써 시각적 수학적 추론을 위한 강화 학습 확장 문제를 해결하는 새로운 프레임워크가 도입되었습니다.</description>
-      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.23543">Hugging Face Papers</source>
-      <guid isPermaLink="false">acdd6807e509a93cb0425e915cc012c6</guid>
-    </item>
-    <item>
-      <title>SKT, AI 자율 네트워크 레벨4 추진…차세대 OSS 전환 박차</title>
-      <link>https://www.etnews.com/20260625000120</link>
-      <description>SK텔레콤은 덴마크 코펜하겐에서 열린 TM 포럼 'DTW 이그나이트 2026'에서 글로벌 표준 기반 자율 네트워크 추진 전략을 공식 발표했다고 25일 밝혔다. TM 포럼은 전 세계 240여 개 통신사, IT 기업 및 소프트웨어 공급업체가 참여하는 글로벌 통신 산업 협회로, SKT는 이번 행사에서 포럼 표준에 맞춘 구체적인 네트워크 전략을 제시해 주목을 받았다.</description>
-      <pubDate>Thu, 25 Jun 2026 10:27:32 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260625000120">전자신문 IT</source>
-      <guid isPermaLink="false">5cf67d862e3fb37fab3ce41811e319fd</guid>
-    </item>
-    <item>
-      <title>문체부, AI 기반 해외 여론 모니터링 시스템 고도화 나서</title>
-      <link>https://zdnet.co.kr/view/?no=20260625105840</link>
-      <description>[지디넷코리아]문화체육관광부(문체부)가 해외 여론 동향을 조기에 파악하기 위한 정보시스템 구축에 나섰다.문체부는 해외 언론 보도 모니터링과 번역, 한국 관련 오류 시정, 인공지능(AI) 기반 외신 분석을 이어온 가운데 이번에는 이슈 확산 초기의 변화를 포착하는 ‘조기 알림’ 체계 구축을 추진한다.문체부는 ‘해외 여론 동향 조기 알림 체계 구축 사업’ 입찰을 25일 시작했다.</description>
-      <pubDate>Thu, 25 Jun 2026 11:02:24 +0900</pubDate>
-      <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260625105840">ZDNet Korea</source>
-      <guid isPermaLink="false">77cc176a8180183cd95449dccb7357d7</guid>
-    </item>
-    <item>
-      <title>살 빼는 약이 폭력성도 줄인다?…도파민 변화 완화해 충동 제어</title>
-      <link>https://www.etnews.com/20260624000338</link>
-      <description>비만과 당 조절 치료에 활용되는 GLP-1 계열 의약품이 체중 감소 효과를 넘어 공격적 성향을 완화할 가능성이 있다는 분석 결과가 제시됐다. 17일(현지시간) 뉴욕포스트는 최근 학술 저널 크리미놀로지(Criminology)에 게재된 연구 내용을 인용해 이 같은 내용을 전했다.</description>
-      <pubDate>Thu, 25 Jun 2026 08:40:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260624000338">전자신문 IT</source>
-      <guid isPermaLink="false">685755cbe4050478e24845aed9a5317c</guid>
-    </item>
-    <item>
-      <title>Causal-rCM: 스트리밍 비디오 생성 및 대화형 세계 모델에서 자동 회귀 확산 증류를 위한 통합된 Teacher-Forcing 및 Self-Forcing 개방형 레시피</title>
-      <link>https://huggingface.co/papers/2606.25473</link>
-      <description>자동회귀 비디오 확산은 인과 훈련 패러다임을 통해 확산 증류 프레임워크를 실시간 스트리밍 생성으로 확장하여 빠른 수렴과 대화형으로 최첨단 성능을 달성합니다.</description>
-      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.25473">Hugging Face Papers</source>
-      <guid isPermaLink="false">91bf6eeae6c88420ef835d4edb48b5de</guid>
-    </item>
-    <item>
-      <title>WordArt 기반 장면 텍스트 인식 향상: 데이터 세트 및 방법</title>
-      <link>https://huggingface.co/papers/2606.24484</link>
-      <description>불규칙한 텍스트 레이아웃에 대한 데이터 다양성과 모델 유연성을 개선하여 예술적 텍스트 인식 문제를 해결하기 위해 대규모 합성 데이터 세트와 특수 모델 아키텍처가 도입되었습니다.</description>
-      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.24484">Hugging Face Papers</source>
-      <guid isPermaLink="false">66adccd05f8cc2e037a4d82e1d2712bb</guid>
-    </item>
-    <item>
-      <title>마이크론, 3분기 매출 전년比 4.5배↑…AI 메모리 수요 둔화 우려 불식</title>
-      <link>https://www.etnews.com/20260625000004</link>
-      <description>미국 메모리 반도체 업체 마이크론이 시장 예상치를 크게 웃도는 실적과 전망을 내놓으며 인공지능(AI) 반도체 수요 둔화 우려를 불식시켰다. 마이크론은 24일(현지시각) 회계연도 2026년 3분기(5월 28일 종료) 매출이 414억5600만달러(약 63조8000억원)를 기록했다고 밝혔다. 전분기(238억6000만달러)와 전년 동기(93억100만달러) 대비 약 2배, 4배 증가했다.</description>
-      <pubDate>Thu, 25 Jun 2026 05:51:13 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260625000004">전자신문 IT</source>
-      <guid isPermaLink="false">513e71182fc026c604650087b21c7189</guid>
-    </item>
-    <item>
-      <title>KV 캐시 양자화를 위한 RoPE 인식 비트 할당</title>
-      <link>https://huggingface.co/papers/2606.24033</link>
-      <description>Block-GTQ는 적응형 비트 분배 및 팩형 캐시 제공을 통해 주의 정확도와 다운스트림 성능을 향상시키는 키 캐시 양자화를 위한 RoPE 인식 비트 할당 방법을 도입합니다.</description>
-      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.24033">Hugging Face Papers</source>
-      <guid isPermaLink="false">da9d33ad3bae53aeefe5789f225e3c62</guid>
-    </item>
-    <item>
-      <title>MEMPROBE: 숨겨진 사용자 상태 복구를 통해 장기 에이전트 메모리 조사</title>
-      <link>https://huggingface.co/papers/2606.24595</link>
-      <description>LLM 에이전트의 장기 메모리는 메모리 복구 벤치마크 테스트인 MEMPROBE에서 입증된 것처럼 에이전트 메모리에서 구조화된 사용자 상태를 재구성하여 감사 가능한 상호 작용 후 아티팩트로 평가되어야 합니다.</description>
-      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.24595">Hugging Face Papers</source>
-      <guid isPermaLink="false">0978767d2f7ce7d520759d79e79bbb2a</guid>
-    </item>
-    <item>
-      <title>金총리, 다보스서 “韓 'AI 기본사회'·'글로벌 허브' 주도”</title>
-      <link>https://www.etnews.com/20260625000003</link>
-      <description>김민석 국무총리는 24일(현지시간) 중국 다롄에서 열린 하계 다보스포럼에 참석해 특별 연설을 하고 한국의 혁신경제와 인공지능(AI) 대전환 비전을 전 세계에 제시했다. 김 총리는 이날 오후 세계경제포럼(WEF) 알로이스 츠빙기 임시 이사장의 사회로 진행된 연설에서 포럼 주제인 '대규모 혁신'에 발맞춘 한국의 정책 청사진을 소개했다.</description>
-      <pubDate>Thu, 25 Jun 2026 00:35:37 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260625000003">전자신문 IT</source>
-      <guid isPermaLink="false">a2cde15d0b93be6d75f54339f4ff4922</guid>
-    </item>
-    <item>
-      <title>EBench: 일반 모바일 조작 정책의 기본 진단</title>
-      <link>https://huggingface.co/papers/2606.18239</link>
-      <description>EBench는 다양한 작업과 차원에 걸쳐 일반 모바일 조작 정책을 평가하기 위한 포괄적인 시뮬레이션 벤치마크로, 국가 간 고유한 기능 프로필과 일반화 패턴을 보여줍니다.</description>
-      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.18239">Hugging Face Papers</source>
-      <guid isPermaLink="false">444e8a0343743bde3bbba00fcc98a3a9</guid>
-    </item>
-    <item>
-      <title>TryOnCrafter: 렌더링 가능한 4D 체험 프록시를 통해 사실적인 비디오 가상 체험을 위한 카메라 궤적 해방</title>
-      <link>https://huggingface.co/papers/2606.26092</link>
-      <description>카메라 제어 가능 비디오 가상 시험 프레임워크는 전방향 보기를 위해 명시적인 인간-환경 분리 및 DiT 기반 비디오 생성 기능을 갖춘 4D 프록시를 사용합니다.</description>
-      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.26092">Hugging Face Papers</source>
-      <guid isPermaLink="false">23f037c5a05f645cd414810827d98ee9</guid>
-    </item>
-    <item>
-      <title>Code as Agent Harness — 코드를 에이전트의 실행 기반으로 보는 102페이지 서베이</title>
-      <link>https://news.hada.io/topic?id=30815</link>
-      <description>UIUC × Meta × Stanford 합작. 5월 arXiv에 올라온 서베이 논문인데, 관점이 꽤 재밌다. 핵심 주장 "코드는 더 이상 LLM이 생성하는 결과물이 아니다.</description>
-      <pubDate>Thu, 25 Jun 2026 11:49:09 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30815">GeekNews</source>
-      <guid isPermaLink="false">d00c1b8ea31bad45983bbd868058a3b2</guid>
-    </item>
-    <item>
-      <title>Code World Model Preparedness Report: Meta 32B 코드 모델 사전 안전성 평가</title>
-      <link>https://discuss.pytorch.kr/t/code-world-model-preparedness-report-meta-32b/10105</link>
-      <description>Code World Model Preparedness Report 소개 프론티어 모델 공개와 위험 평가의 딜레마 오픈 웨이트(Open-weight) 모델을 공개하는 일은 언제나 양면성을 가집니다. 한편으로는 연구자와 개발자 누구나 모델을 직접 들여다보고 개선할 수 있어 AI 생태계 전체의 발전을 가속화합니다.</description>
-      <pubDate>Thu, 25 Jun 2026 06:30:06 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/code-world-model-preparedness-report-meta-32b/10105">PyTorch Korea</source>
-      <guid isPermaLink="false">46700bfed7b718479f7c99c6d28e7c85</guid>
     </item>
   </channel>
 </rss>
