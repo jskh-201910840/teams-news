@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/papers.xml</link>
     <description>📄 Papers — AI research from Hugging Face Daily Papers</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 25 Jun 2026 19:46:32 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 22:21:27 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>중간 계층이 알고 있는 것: 엔트로피 역학에서 탈옥 감지</title>
+      <link>https://huggingface.co/papers/2606.25182</link>
+      <description>탈옥 공격은 정렬된 대규모 언어 모델의 취약점을 노출하여 유해한 의도가 출력 표현이 아닌 구조화된 중간 불확실성 역학에 인코딩되어 있음을 드러냅니다.</description>
+      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.25182">Hugging Face Papers</source>
+      <guid isPermaLink="false">689e1224628a636c6f3330a91693e8d8</guid>
+    </item>
     <item>
       <title>ReNIO: LLM 정책 기반 증류에 대한 부정적인 궤적 중요성 재가중화</title>
       <link>https://huggingface.co/papers/2606.23104</link>
@@ -448,15 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.24112">Hugging Face Papers</source>
       <guid isPermaLink="false">d9327c18d4f1a25f079c6dfd2f58cf8e</guid>
-    </item>
-    <item>
-      <title>로컬 축소를 사용하여 불확실성 하에서 마이크로그리드를 최적으로 제어하는 ​​효율적인 방법</title>
-      <link>https://huggingface.co/papers/2606.12345</link>
-      <description>강력한 마이크로그리드 크기 조정 및 전력 스케줄링을 위한 두 가지 수학적 공식이 제안되고 비교됩니다. 하나는 이진 변수와 big-M 제약 조건을 사용하고 다른 하나는 S를 사용한 연속 비선형 프로그래밍을 사용합니다.</description>
-      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.12345">Hugging Face Papers</source>
-      <guid isPermaLink="false">ed9e3d732890fd78391907ad5a910386</guid>
     </item>
   </channel>
 </rss>

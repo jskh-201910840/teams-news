@@ -5,9 +5,54 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 25 Jun 2026 19:46:32 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 22:21:27 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>구글 엔지니어 "GLM-5.2, 美 모델 증류 없이도 미토스급 간다"</title>
+      <link>https://zdnet.co.kr/view/?no=20260625205825</link>
+      <description>[지디넷코리아]중국 Z.ai(지푸AI)의 오픈소스 모델 GLM-5.2가 클로드 오퍼스(Claude Opus 4.8)에 필적하는 코딩 성능으로 주목받고 있다.</description>
+      <pubDate>Thu, 25 Jun 2026 20:58:25 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260625205825">ZDNet Korea</source>
+      <guid isPermaLink="false">42c352e12f8b122ee799cfebf24d85a6</guid>
+    </item>
+    <item>
+      <title>improve: 비싼 모델이 감사(Audit)하고 저렴한 모델이 실행할 계획을 만드는 에이전트 스킬</title>
+      <link>https://discuss.pytorch.kr/t/improve-audit/10892</link>
+      <description>improve 소개 코드베이스가 커질수록 "무엇을 고쳐야 하는가"를 판단하는 일과 "그것을 실제로 구현하는 일"은 점점 다른 종류의 작업이 됩니다. 앞쪽은 저장소 전체를 이해하고 무엇이 가치 있는지 가려내며 명세를 쓰는 깊은 판단의 영역이고, 뒤쪽은 명세가 분명하기만 하면 비교적 기계적인 작업입니다.</description>
+      <pubDate>Thu, 25 Jun 2026 20:30:10 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/improve-audit/10892">PyTorch Korea</source>
+      <guid isPermaLink="false">23677d504be7eee60ac9a30bdd201d3c</guid>
+    </item>
+    <item>
+      <title>SKT, SK하이닉스 美 'AI 컴퍼니'에 7384억원 투자…“신규 사업 기회 발굴”</title>
+      <link>https://www.etnews.com/20260625000429</link>
+      <description>SK텔레콤이 SK하이닉스가 미국에 설립한 인공지능(AI) 투자·솔루션 법인에 7384억원을 투자한다. AI 생태계에서 신규 사업 기회를 발굴하고, SK하이닉스와 AI 사업 협력을 확대한다. SK텔레콤은 미국 소재 계열회사인 SK 하이닉스 낸드 프로덕트 솔루션 신주 취득을 위한 출자 약정을 체결했다고 25일 공시했다.</description>
+      <pubDate>Thu, 25 Jun 2026 19:04:25 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260625000429">전자신문 IT</source>
+      <guid isPermaLink="false">0b3a6b1324de61d055092eaf2a5ebd85</guid>
+    </item>
+    <item>
+      <title>중간 계층이 알고 있는 것: 엔트로피 역학에서 탈옥 감지</title>
+      <link>https://huggingface.co/papers/2606.25182</link>
+      <description>탈옥 공격은 정렬된 대규모 언어 모델의 취약점을 노출하여 유해한 의도가 출력 표현이 아닌 구조화된 중간 불확실성 역학에 인코딩되어 있음을 드러냅니다.</description>
+      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.25182">Hugging Face Papers</source>
+      <guid isPermaLink="false">689e1224628a636c6f3330a91693e8d8</guid>
+    </item>
+    <item>
+      <title>Reid Hoffman “SpaceX는 AI 회사가 아니고, xAI는 완전한 난장판”</title>
+      <link>https://news.hada.io/topic?id=30823</link>
+      <description>Reid Hoffman은 SpaceX의 AI 행보를 시장가치로 AI 회사를 사들여 관련성을 확보하려는 전략 으로 해석했고, xAI는 기반 모델 구축에서 “완전한 난장판”이며 세 번째 재시작 상태라고 봄 xAI는 2026년 5월까지 원래 공동창업자 11명 전원 이 떠났고, Grok 모델은 A...</description>
+      <pubDate>Thu, 25 Jun 2026 21:12:39 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30823">GeekNews</source>
+      <guid isPermaLink="false">3b60aaa1ac28dc7e4f3c80fe4219e9ee</guid>
+    </item>
     <item>
       <title>Qwen-AgentWorld: 에이전트 환경을 시뮬레이션하는 언어 세계 모델 연구 (feat. Qwen)</title>
       <link>https://discuss.pytorch.kr/t/qwen-agentworld-feat-qwen/10909</link>
@@ -412,51 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.25996">Hugging Face Papers</source>
       <guid isPermaLink="false">6cb21561bbd6f3eaa9f18cfa8369ddbe</guid>
-    </item>
-    <item>
-      <title>IV-CoT: 구조 인식 텍스트-이미지 생성을 위한 암시적 시각적 사고 체인</title>
-      <link>https://huggingface.co/papers/2606.24849</link>
-      <description>암시적 시각적 사고 사슬은 스케치 감독을 통해 향상된 구조 인식 이미지 생성을 위해 시각적 조건을 구조적 및 의미론적 계단식으로 분해합니다.</description>
-      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.24849">Hugging Face Papers</source>
-      <guid isPermaLink="false">385d2778c9cc994d7059a61f457de2b4</guid>
-    </item>
-    <item>
-      <title>MiMoCode: 세션 간 영속 메모리를 갖춘 Xiaomi의 터미널 AI 코딩 에이전트</title>
-      <link>https://discuss.pytorch.kr/t/mimocode-xiaomi-ai/10664</link>
-      <description>MiMoCode 소개 MiMoCode는 터미널에서 동작하는 AI 코딩 어시스턴트로, Xiaomi의 MiMo 팀이 공개한 오픈소스 프로젝트입니다. 코드를 읽고 쓰며 명령을 실행하고 Git을 관리하는 일반적인 코딩 에이전트 기능에 더해, 세션이 바뀌어도 프로젝트에 대한 이해를 유지하는 영속 메모리 시스템을 갖춘 것이 가장 큰 특징입니다.</description>
-      <pubDate>Thu, 25 Jun 2026 12:30:58 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/mimocode-xiaomi-ai/10664">PyTorch Korea</source>
-      <guid isPermaLink="false">d27e73aacf4eba2f89697c81f3aed5bd</guid>
-    </item>
-    <item>
-      <title>마이크론, 또 최대 실적…매출 4배·영업익 15배 뛰었다</title>
-      <link>https://www.etnews.com/20260625000159</link>
-      <description>마이크론테크놀로지가 시장 예상치를 크게 웃도는 실적과 전망을 내놓으며 인공지능(AI) 반도체 수요를 재차 증명했다. 마이크론은 회계연도 2026년도 3분기(3월~5월) 매출과 영업이익이 전년 동기대비 각각 4배, 15배 급증했다고 24일(현지시간) 공시했다. 매출은 414억 5600만달러(약 63조 9000억원)로 전년 동기(93억 100만달러) 대비 4배 이상 급증했다.</description>
-      <pubDate>Thu, 25 Jun 2026 11:20:16 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260625000159">전자신문 IT</source>
-      <guid isPermaLink="false">fb29f09997cbc3b0a6e6500649763783</guid>
-    </item>
-    <item>
-      <title>에이전트 기반 메모리 시스템을 사용할 준비가 되었나요?</title>
-      <link>https://huggingface.co/papers/2606.24775</link>
-      <description>대규모 언어 모델 에이전트의 메모리 시스템은 성능 특성을 이해하고 여러 모듈과 워크로드에 걸쳐 체계적인 평가가 필요한 복잡한 데이터 관리 프레임워크로 발전했습니다.</description>
-      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.24775">Hugging Face Papers</source>
-      <guid isPermaLink="false">02a05340c27a873bb4cda61e29fa0d41</guid>
-    </item>
-    <item>
-      <title>젠스파크 “한국은 톱3 시장”…서울 오피스 세우고 공략 본격화</title>
-      <link>https://www.etnews.com/20260625000153</link>
-      <description>미국 인공지능(AI) 스타트업 젠스파크가 내달 신제품 출시와 함께 한국 시장 공략에 본격 나선다. 생성형 AI 활용도가 높고 생산성 향상 수요가 큰 한국을 핵심 시장으로 판단하고 서울 오피스를 설립해 고객 확대에 속도를 낸다.</description>
-      <pubDate>Thu, 25 Jun 2026 11:12:14 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260625000153">전자신문 IT</source>
-      <guid isPermaLink="false">ac450aef820508e4d3950f4c38cd3a2e</guid>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,36 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 25 Jun 2026 19:46:32 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 22:21:27 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>구글 엔지니어 "GLM-5.2, 美 모델 증류 없이도 미토스급 간다"</title>
+      <link>https://zdnet.co.kr/view/?no=20260625205825</link>
+      <description>[지디넷코리아]중국 Z.ai(지푸AI)의 오픈소스 모델 GLM-5.2가 클로드 오퍼스(Claude Opus 4.8)에 필적하는 코딩 성능으로 주목받고 있다.</description>
+      <pubDate>Thu, 25 Jun 2026 20:58:25 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260625205825">ZDNet Korea</source>
+      <guid isPermaLink="false">42c352e12f8b122ee799cfebf24d85a6</guid>
+    </item>
+    <item>
+      <title>SKT, SK하이닉스 美 'AI 컴퍼니'에 7384억원 투자…“신규 사업 기회 발굴”</title>
+      <link>https://www.etnews.com/20260625000429</link>
+      <description>SK텔레콤이 SK하이닉스가 미국에 설립한 인공지능(AI) 투자·솔루션 법인에 7384억원을 투자한다. AI 생태계에서 신규 사업 기회를 발굴하고, SK하이닉스와 AI 사업 협력을 확대한다. SK텔레콤은 미국 소재 계열회사인 SK 하이닉스 낸드 프로덕트 솔루션 신주 취득을 위한 출자 약정을 체결했다고 25일 공시했다.</description>
+      <pubDate>Thu, 25 Jun 2026 19:04:25 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260625000429">전자신문 IT</source>
+      <guid isPermaLink="false">0b3a6b1324de61d055092eaf2a5ebd85</guid>
+    </item>
+    <item>
+      <title>Reid Hoffman “SpaceX는 AI 회사가 아니고, xAI는 완전한 난장판”</title>
+      <link>https://news.hada.io/topic?id=30823</link>
+      <description>Reid Hoffman은 SpaceX의 AI 행보를 시장가치로 AI 회사를 사들여 관련성을 확보하려는 전략 으로 해석했고, xAI는 기반 모델 구축에서 “완전한 난장판”이며 세 번째 재시작 상태라고 봄 xAI는 2026년 5월까지 원래 공동창업자 11명 전원 이 떠났고, Grok 모델은 A...</description>
+      <pubDate>Thu, 25 Jun 2026 21:12:39 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30823">GeekNews</source>
+      <guid isPermaLink="false">3b60aaa1ac28dc7e4f3c80fe4219e9ee</guid>
+    </item>
     <item>
       <title>[플로우 AX 페스타] 플로우, 까다로운 공공 환경에서 AX 표준으로</title>
       <link>https://www.etnews.com/20260625000271</link>
@@ -430,33 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260624000283">전자신문 IT</source>
       <guid isPermaLink="false">968d268d76d990489d0e34adcfcede84</guid>
-    </item>
-    <item>
-      <title>“RISC-V AI 가속기 2031년 90.5억대…연평균 40% 성장”</title>
-      <link>https://www.etnews.com/20260624000277</link>
-      <description>반도체 설계자산(IP)의 '리눅스'라 불리는 RISC-V 기반 인공지능(AI) 가속기가 2031년까지 연평균 40% 이상 성장률을 보일 것이란 전망이 나왔다. 반도체 개발에 기본이 되는 IP 시장에서 '오픈소스' 바람이 거세졌다.</description>
-      <pubDate>Wed, 24 Jun 2026 16:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260624000277">전자신문 IT</source>
-      <guid isPermaLink="false">4d705c411ff1e129364b65f5df81799a</guid>
-    </item>
-    <item>
-      <title>'45톤 쇳덩이 0.1도까지 조정'… 포스코DX, '피지컬 AI'로 제조 자율화 가속</title>
-      <link>https://www.etnews.com/20260624000367</link>
-      <description>포스코DX가 제조 설비와 환경을 인지하고 자율적으로 제어하는 '피지컬 AI' 솔루션의 현장 적용을 본격화한다. 가상 시뮬레이션 기술과 현장 운영 기술(OT)을 결합해 설비 자율화를 실현함으로써, 단순 자동화 수준을 넘어선 '인텔리전트 팩토리' 전환에 속도를 낸다.</description>
-      <pubDate>Wed, 24 Jun 2026 15:00:37 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260624000367">전자신문 IT</source>
-      <guid isPermaLink="false">123296cfac8a1e7268edd08334ce623b</guid>
-    </item>
-    <item>
-      <title>MWC26 상하이 개막…中 '통신굴기' 생태계 확산 총력</title>
-      <link>https://www.etnews.com/20260624000335</link>
-      <description>아시아 최대 모바일 축제 'MWC26 상하이'가 막을 올렸다. 중국은 6G 이번 행사를 계기로 위성 등 차세대 통신 혁신 기술을 선보이는 한편 피지컬AI로 대변하는 'AI 굴기'를 가속화해 아시아지역 모바일 생태계 재편을 노린다. 세계이동통신사업자연합회(GSMA)는 24일(현지시간) 중국 상하이 신국제엑스포센터(SNIEC)에서 MWC26 상하이 개막을 알렸다.</description>
-      <pubDate>Wed, 24 Jun 2026 14:37:45 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260624000335">전자신문 IT</source>
-      <guid isPermaLink="false">63b3847a715fe6d54b18a1c58c6a50dc</guid>
     </item>
   </channel>
 </rss>

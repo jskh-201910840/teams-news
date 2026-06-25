@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/community.xml</link>
     <description>💬 Community — PyTorch Korea discussions</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 25 Jun 2026 19:46:32 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 22:21:27 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>improve: 비싼 모델이 감사(Audit)하고 저렴한 모델이 실행할 계획을 만드는 에이전트 스킬</title>
+      <link>https://discuss.pytorch.kr/t/improve-audit/10892</link>
+      <description>improve 소개 코드베이스가 커질수록 "무엇을 고쳐야 하는가"를 판단하는 일과 "그것을 실제로 구현하는 일"은 점점 다른 종류의 작업이 됩니다. 앞쪽은 저장소 전체를 이해하고 무엇이 가치 있는지 가려내며 명세를 쓰는 깊은 판단의 영역이고, 뒤쪽은 명세가 분명하기만 하면 비교적 기계적인 작업입니다.</description>
+      <pubDate>Thu, 25 Jun 2026 20:30:10 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/improve-audit/10892">PyTorch Korea</source>
+      <guid isPermaLink="false">23677d504be7eee60ac9a30bdd201d3c</guid>
+    </item>
     <item>
       <title>Qwen-AgentWorld: 에이전트 환경을 시뮬레이션하는 언어 세계 모델 연구 (feat. Qwen)</title>
       <link>https://discuss.pytorch.kr/t/qwen-agentworld-feat-qwen/10909</link>
