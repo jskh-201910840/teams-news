@@ -5,9 +5,126 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 25 Jun 2026 12:43:59 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 16:45:20 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>170개 언어 지원하는 문서 분석 모델 ‘미스트랄 OCR 4’ 출시</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212108</link>
+      <description>미스트랄 AI가 170개 언어를 지원하는 차세대 문서 인식 모델 ‘미스트랄 OCR 4(Mistral OCR 4)’를 공개했다.</description>
+      <pubDate>Thu, 25 Jun 2026 16:00:53 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212108">AI Times</source>
+      <guid isPermaLink="false">cec0433ea1135ee934c266067069ed44</guid>
+    </item>
+    <item>
+      <title>구글 AI 두뇌 유출 비상…'제미나이' 개발 중추 2명도 빠진다</title>
+      <link>https://www.etnews.com/20260625000298</link>
+      <description>구글의 핵심 인공지능(AI) 인재가 경쟁사로 잇따라 유출되고 있다. 24일(현지시간) 블룸버그에 따르면 구글 AI 제미나이 개발에 중추적인 역할을 했던 구글의 고위 연구자 '조나스 애들러'와 '알렉산더 프리첼'이 앤트로픽으로 이직할 예정이다. 애들러는 AI 코딩 분야에서 일했고 프리첼은 AI 시스템의 학습 영역을 맡아왔다.</description>
+      <pubDate>Thu, 25 Jun 2026 14:13:36 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260625000298">전자신문 IT</source>
+      <guid isPermaLink="false">f2a129b02c74e1b167ff2cdd7b1727b0</guid>
+    </item>
+    <item>
+      <title>LG CNS, 에이전틱 AI 적용한 ERP 테스트 솔루션 공개…글로벌 시장 공략 본격화</title>
+      <link>https://zdnet.co.kr/view/?no=20260625155443</link>
+      <description>[지디넷코리아]LG CNS가 에이전틱 인공지능(AI) 기반 전사적자원관리(ERP) 테스트 자동화 솔루션을 앞세워 글로벌 시장 확대에 나선다.LG CNS는 SAP ERP 환경에 특화된 테스트 자동화 솔루션 '퍼펙트윈 ERP 에디션(PerfectWIN ERP Edition)'에 에이전틱 AI 기능을 적용한 신규 버전을 출시했다고 밝혔다.퍼펙트윈 ERP 에디션은 기업이 기존 ERP를 SAP 최신…</description>
+      <pubDate>Thu, 25 Jun 2026 15:54:54 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260625155443">ZDNet Korea</source>
+      <guid isPermaLink="false">2fd2adce5e8c75b8d376ba712f1fdef2</guid>
+    </item>
+    <item>
+      <title>'스스로 생각하는 냉장고·청소기' 만든다 …정부, 국산 칩에 900억 승부수</title>
+      <link>https://www.etnews.com/20260625000263</link>
+      <description>정부가 클라우드·인터넷 연결 없이 가전기기 자체에서 인공지능(AI) 연산을 처리하는 온디바이스AI반도체 국산화에 약 900억원을 투입한다. 삼성전자·LG전자·구글·아마존 등 국내외 빅테크가 스마트홈 생태계 선점 경쟁을 가속화하는 가운데, 국산 칩셋·플랫폼 확보로 기술 종속을 벗어나겠다는 전략이다.</description>
+      <pubDate>Thu, 25 Jun 2026 16:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260625000263">전자신문 IT</source>
+      <guid isPermaLink="false">26b8c0551fd22932b87229c6295ceb09</guid>
+    </item>
+    <item>
+      <title>[부트캠프, 인재양성의 산실]〈4〉유준 가천대 부트캠프사업단장 “기업은 AI 서비스 설계·운영할 수 있는 인재 원한다”</title>
+      <link>https://www.etnews.com/20260625000165</link>
+      <description>“기업에서는 코딩 잘하는 개발자보다 AI 서비스를 만들 수 있는 인재를 필요로 합니다.” 유준 가천대 AI부트캠프사업단장은 최근 기업이 원하는 AI 인재상에 대해 이같이 말했다. 생성형 인공지능(AI) 열풍이 거세지만 산업 현장의 요구는 더욱 구체적이다. 기업들은 최신 AI 모델을 이해하는 데 그치지 않고 이를 활용해 서비스를 설계·개발하고 운영할 수 있는 실무형 인재를 찾고 있다.</description>
+      <pubDate>Thu, 25 Jun 2026 12:41:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260625000165">전자신문 IT</source>
+      <guid isPermaLink="false">2fa5c2615c5553f5ed36253cb503b321</guid>
+    </item>
+    <item>
+      <title>[홈&amp;테크]장난감은 피하고, 아이는 반긴다…삼성전자 '비스포크 AI 스팀'</title>
+      <link>https://www.etnews.com/20260625000187</link>
+      <description>아이 방은 언제나 전쟁터다. 아침에 청소를 해도 저녁이면 다시 그대로다. 바닥에는 자잘한 레고블럭부터 1cm 안팎의 미니어처 식기, 털실뭉치 따위가 늘 굴러 다닌다.</description>
+      <pubDate>Thu, 25 Jun 2026 16:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260625000187">전자신문 IT</source>
+      <guid isPermaLink="false">7041ffc37097ac81b824394f51c49a01</guid>
+    </item>
+    <item>
+      <title>패션업계, 정보보호 고도화 잰걸음…“생성형 AI, 데이터 경영 확산 대응”</title>
+      <link>https://www.etnews.com/20260625000223</link>
+      <description>유통·패션업계가 정보보호 고도화에 속도를 내고 있다. 패션 플랫폼 의존도 심화와 인공지능(AI) 기술 활용 확대 등으로 정보기술(IT) 역량 관리가 중요해진 영향이다. 수많은 고객 데이터를 보유한 기업·개인간거래(B2C) 특성을 고려해 보다 적극적인 보안 투자를 실시해야 한다는 목소리도 나온다.</description>
+      <pubDate>Thu, 25 Jun 2026 15:37:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260625000223">전자신문 IT</source>
+      <guid isPermaLink="false">ba3e9492090bfe0e6059f70d12421346</guid>
+    </item>
+    <item>
+      <title>韓美, 피지컬 AI 협력 본격화…실리콘밸리서 3억불 상담·7건 계약</title>
+      <link>https://www.etnews.com/20260625000241</link>
+      <description>한미 양국이 피지컬 인공지능(AI) 협력에 나섰다. 우리 혁신 기업들은 엔비디아와 테슬라, 구글, 아마존 등 미국 빅테크와 3억달러 규모 비즈니스 상담과 7건의 공급·프로젝트 계약을 체결했다.</description>
+      <pubDate>Thu, 25 Jun 2026 14:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260625000241">전자신문 IT</source>
+      <guid isPermaLink="false">80205928a4ca50632cdff4060023e425</guid>
+    </item>
+    <item>
+      <title>PBS 폐지 안착 속도…출연연 인건비 전액 지원·신규수탁 제한</title>
+      <link>https://www.etnews.com/20260625000123</link>
+      <description>정부가 과학기술계 최대 현안인 정부출연연구기관(출연연)의 연구과제중심제도(PBS) 폐지의 후속 이행 방안을 확정하고, 연구자 인건비 전액 지원과 국가 임무 중심 연구체계 전환을 본격 추진한다. 연구자가 과제 수주 경쟁에서 벗어나 국가 전략 연구에 집중할 수 있는 환경을 조성한다는 취지다.</description>
+      <pubDate>Thu, 25 Jun 2026 14:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260625000123">전자신문 IT</source>
+      <guid isPermaLink="false">daebc90e9f0f8f91295f33e4e725033a</guid>
+    </item>
+    <item>
+      <title>'미토스 쇼크'에 수출입은행, 대외금융망 방어 강화</title>
+      <link>https://www.etnews.com/20260625000252</link>
+      <description>한국수출입은행이 인공지능(AI) 기반 지능형 사이버 공격에 대응하기 위한 보안체계 고도화에 나서는 것으로 확인됐다. 이메일 사칭 공격, 계정 탈취, 단말 침투, 내부망 이동, 암호화 트래픽에 숨은 공격까지 통합 탐지·차단하는 방어망을 갖추는 것이 핵심이다. 25일 금융권에 따르면 수출입은행은 최근 선제적 방어체계 구축에 착수했다.</description>
+      <pubDate>Thu, 25 Jun 2026 13:53:24 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260625000252">전자신문 IT</source>
+      <guid isPermaLink="false">62f5096e03f841a921e326795c6debfa</guid>
+    </item>
+    <item>
+      <title>종잇장 두께로 차세대 통신 전 대역 흡수…차세대 6G·자율주행 전자파 잡는다</title>
+      <link>https://www.etnews.com/20260625000232</link>
+      <description>국내 연구진이 단 하나의 얇고 가벼운 소재로 차세대 통신 대역 전체 전자파를 완벽히 흡수할 수 있는 기술을 확보했다. 한국연구재단은 이호림·박병진 한국재료연구원 박사 연구팀이 0.5㎜ 두께로도 35~330㎓에 이르는 초광대역 밀리미터파 전자파를 모두 흡수하는 그래디언트(Gradient) 전자기 소재를 개발했다고 25일 밝혔다.</description>
+      <pubDate>Thu, 25 Jun 2026 13:43:51 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260625000232">전자신문 IT</source>
+      <guid isPermaLink="false">cd39a1d79b6ec5edd73b616c001d38b9</guid>
+    </item>
+    <item>
+      <title>한성숙 청문회 첫날부터 여야 격돌…“증인 없는 맹탕 청문회” “정쟁 위한 과도한 요구”</title>
+      <link>https://www.etnews.com/20260625000229</link>
+      <description>민간 출신 첫 국무총리 후보자인 한성숙 후보자는 25일 인사청문회에서 “변화에 가장 능동적인 혁신형 총리, 성과로 증명하는 일 중심의 총리가 되겠다”며 “과감한 AI 대전환을 통해 경제 구조 전환을 이끌고 미래세대의 성장과 사회적 약자를 위한 따뜻한 울타리를 만드는 데 총력을 다하겠다”면서 인공지능(AI) 대전환을 통한 경제구조 혁신을 약속했다.</description>
+      <pubDate>Thu, 25 Jun 2026 13:42:44 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260625000229">전자신문 IT</source>
+      <guid isPermaLink="false">c137862d015814470732f459ac554c93</guid>
+    </item>
+    <item>
+      <title>이해의 기쁨과 힘</title>
+      <link>https://news.hada.io/topic?id=30818</link>
+      <description>소프트웨어를 깊이 이해하면 도구에 끌려가지 않고, 자신이 책임지는 시스템에 대한 통제와 소유권 을 가질 수 있음 검색과 LLM은 빠른 답을 주지만, 설명할 수 없는 해법을 복사하는 습관은 수정 능력과 핵심 역량 을 약화시킬 수 있음 일회성 스크립트나 ...</description>
+      <pubDate>Thu, 25 Jun 2026 16:04:52 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30818">GeekNews</source>
+      <guid isPermaLink="false">a3b0fbb955a6d21680d2edf3a8ce1fa2</guid>
+    </item>
     <item>
       <title>"AI 경량화 기술 우주로 간다"...노타, 우주의약 제조 플랫폼 개발 합류</title>
       <link>https://www.aitimes.com/news/articleView.html?idxno=212091</link>
@@ -340,123 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260624000010">전자신문 IT</source>
       <guid isPermaLink="false">02ec46ba0d05f1d66f784ff170fa31b8</guid>
-    </item>
-    <item>
-      <title>유엔 사무총장 “AI 기업들, 환경 영향 공개해야”…'AI 환경투명성' 제안</title>
-      <link>https://www.etnews.com/20260624000004</link>
-      <description>안토니우 구테흐스 유엔 사무총장은 23일(현시지간) 글로벌 인공지능(AI) 기업들에 사업 활동이 환경에 미치는 영향에 관한 정보를 공개하라고 촉구했다. 구테흐스 총장은 이날 영국에서 열린 '런던 기후 행동 주간' 연설을 통해 'AI 환경 투명성 이니셔티브'를 제안하면서 “모든 주요 AI 기업이 자사 시스템의 전체 환경 영향을 측정해 공개하기를 촉구한다”고 밝혔다.</description>
-      <pubDate>Wed, 24 Jun 2026 07:16:56 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260624000004">전자신문 IT</source>
-      <guid isPermaLink="false">a9e514bde7b993b032d1e600a9c55d38</guid>
-    </item>
-    <item>
-      <title>Moebius: 0.2B 이미지 인페인팅 모델로 10B급 성능 달성</title>
-      <link>https://news.hada.io/topic?id=30770</link>
-      <description>Moebius 는 10B급 산업용 이미지 인페인팅 모델의 높은 계산 비용을 줄이기 위한 0.22B 파라미터 경량 프레임워크임 LλMI 블록 은 Local-λ와 Interactive-λ 모듈로 공간 문맥과 전역 의미 정보를 고정 크기 선형 행렬에 압축해 계산 부담을 낮춤 학습은</description>
-      <pubDate>Wed, 24 Jun 2026 08:40:12 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30770">GeekNews</source>
-      <guid isPermaLink="false">27a6d5cdfd0f722b8a92bdbe9933b939</guid>
-    </item>
-    <item>
-      <title>[6월23일] "토큰 아끼지 마라"...새로운 AI 경쟁력은 '추론 투자'</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=212009</link>
-      <description>최근 몇주 동안 국내외 AI 업계에서는 토큰 효율화에 대한 이야기가 많이 등장했습니다. 무턱대고 AI 사용량을 늘리는 것보다 ROI(투자수익률)와 연결되도록 효율적으로 사용하자는 말입니다.</description>
-      <pubDate>Wed, 24 Jun 2026 06:05:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=212009">AI Times</source>
-      <guid isPermaLink="false">b4e96ba366088f32c53ef158165c093b</guid>
-    </item>
-    <item>
-      <title>슈퍼마이크로, 융합형 HPC, AI 인프라용 네이티브 FP64 성능의 NVIDIA Vera Rubin NVL4 엔드투엔드 DCBBS 블루프린트 공급</title>
-      <link>https://zdnet.co.kr/view/?no=20260624041004</link>
-      <description>[지디넷코리아] 액체 냉각 랙에 NVIDIA Rubin GPU 최대 1152개, NVIDIA Vera CPU 최대 576개가 들어가는 토털 솔루션 — 3.2MW 스케일러블 유닛이 AI 워크로드와 FP64 시뮬레이션에 필요한 차세대 성능을 제공하며, 규모 무관 모든 연구 클러스터로 확장 가능 DLC-2 직접 액체 냉각이 스케일러블 유닛당 인로우 CDU 3개와 콜드 플레이트, 매니폴드 및 SM…</description>
-      <pubDate>Wed, 24 Jun 2026 04:10:04 +0900</pubDate>
-      <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260624041004">ZDNet Korea</source>
-      <guid isPermaLink="false">81de7caae9516f86a4cd36c79838f04c</guid>
-    </item>
-    <item>
-      <title>“사람의 손동작·압력까지 기록”…로봇 학습용 장갑 개발</title>
-      <link>https://www.etnews.com/20260623000443</link>
-      <description>미국 카네기멜런대학교 연구진이 사람의 손 움직임과 물체를 누르는 힘까지 동시에 기록하는 웨어러블 장갑 '아트 글러브'를 개발했습니다. 이 장갑은 손가락 관절의 움직임과 손이 닿는 위치, 압력의 세기를 실시간으로 측정해 로봇 학습 데이터로 활용할 수 있도록 설계됐습니다. 장갑에는 16개의 센서 패널과 22개의 관절 추적 장치, 2048개의 촉각 센서가 탑재됐으며 초당 120회 데이터를 수집합…</description>
-      <pubDate>Wed, 24 Jun 2026 06:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260623000443">전자신문 IT</source>
-      <guid isPermaLink="false">54f92064130591004fc2d80f891647b6</guid>
-    </item>
-    <item>
-      <title>모유에서 화학물질 검출…“아기 호르몬 체계·성장 과정 영향 줄 수 있어”</title>
-      <link>https://www.etnews.com/20260623000405</link>
-      <description>모유는 영아에게 가장 적합한 영양 공급원으로 평가받지만 모유 안에 포함된 일부 화학물질이 아기의 호르몬 체계에 영향을 줄 가능성이 있다는 연구 결과가 공개됐다. 20일(현지시간) 뉴욕포스트에 따르면 최근 이탈리아와 미국 연구팀이 각각 진행한 연구에서 산모들의 모유에서 여러 종류의 내분비계 교란 물질(EDCs)이 확인됐다.</description>
-      <pubDate>Wed, 24 Jun 2026 06:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260623000405">전자신문 IT</source>
-      <guid isPermaLink="false">5c563849b89c65244065787c8ae49be3</guid>
-    </item>
-    <item>
-      <title>Show GN: AI 에이전트를 내 걸로 만드는 방법</title>
-      <link>https://news.hada.io/topic?id=30768</link>
-      <description>AI 코딩 에이전트랑 매일 작업하는 개발자라면 이 기분 안다. 어제 분명히 우리가 같이 정한 컨벤션인데, 새 세션 열면 백지다. 내가 TypeScript에서 항상 interface 말고 type 쓰는 거, PR 리뷰에서 저 패턴 별로라고 했던 거, 지난주에 겨우 잡은 그 버그의 근본 원인 — 전부 처음 듣는 이</description>
-      <pubDate>Wed, 24 Jun 2026 06:55:53 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30768">GeekNews</source>
-      <guid isPermaLink="false">c6783bac40e0878c56ee34a12774c6e0</guid>
-    </item>
-    <item>
-      <title>Claude Code의 “Extended Thinking” 출력 텍스트는 실제 추론이 아님</title>
-      <link>https://news.hada.io/topic?id=30766</link>
-      <description>Claude Code는 세션을 디스크에 기록하지만, 로컬 로그의 thinking block 에는 실제 추론 텍스트 대신 600자 길이의 signature 만 남아 있었음 Claude의 추론은 signature로 암호화 되며, 키는 Anthropic이 보유하고 사용자 기기에는 전달되지 않음 ...</description>
-      <pubDate>Wed, 24 Jun 2026 02:35:11 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30766">GeekNews</source>
-      <guid isPermaLink="false">f65d38c3dfec54b5efe1065e6e216802</guid>
-    </item>
-    <item>
-      <title>팀스파르타 “교육·구축·컨설팅까지…AX ‘엔드투엔드’ 책임진다”</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=212031</link>
-      <description>“팀스파르타는 AI를 실제 업무 흐름에 반영해 성과를 낼 수 있도록 전 과정을 지원합니다. 대부분의 글로벌 기업에서도 갖추지 못한 역량이라는 점에서, 가능성과 차별점을 긍정적으로 평가해 합류를 결정하게 됐습니다.”팀스파르타는 2019년부터 코딩 교육 서비스 ‘스파르타코딩클럽’으로 잘 알려져 있다. 이제는 교육 역량을 활용해 기업과 개인의 AX를 담당하고 있다.</description>
-      <pubDate>Wed, 24 Jun 2026 02:00:23 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=212031">AI Times</source>
-      <guid isPermaLink="false">c178e4d8ed0bc030a4548942333fa9d6</guid>
-    </item>
-    <item>
-      <title>트라이넷엑스 라이브 네트워크, 글로벌 헬스케어 전반의 의사결정 등급 근거를 확장하며 환자 수 3억 명 돌파</title>
-      <link>https://zdnet.co.kr/view/?no=20260623231002</link>
-      <description>[지디넷코리아] 이번 이정표는 가속화되는 국제적 성장을 반영하며 제약 회사, 학술 연구자, 의료 제공자, 헬스테크 혁신가들에게 신뢰할 수 있고 임상적으로 풍부하며 세계적 대표성을 가진 최신 실세계 데이터에 대한 접근을 제공한다.</description>
-      <pubDate>Tue, 23 Jun 2026 23:10:02 +0900</pubDate>
-      <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260623231002">ZDNet Korea</source>
-      <guid isPermaLink="false">c9b030638b315394718b0703c3cf21c8</guid>
-    </item>
-    <item>
-      <title>“뭘 사든 돈 번다”…반도체가 끌어올린 증시, 대만 '빚투 열풍' 한국보다 더하다</title>
-      <link>https://www.etnews.com/20260623000448</link>
-      <description>세계 최대 반도체 파운드리 기업 TSMC를 중심으로 한 인공지능(AI) 열풍이 대만 증시를 끌어올리면서 투자 과열 우려가 커지고 있다. 주가 상승에 베팅한 개인투자자들의 '빚투(빚내서 투자)'가 급증한 데 이어 국채 투자 자금까지 증시로 이동하고 있다는 분석이 제기된다. 23일(현지시간) 블룸버그통신에 따르면 대만에서는 AI 관련 기술주를 중심으로 투자 열기가 전 세대에 걸쳐 확산되고 있다.</description>
-      <pubDate>Tue, 23 Jun 2026 21:40:03 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260623000448">전자신문 IT</source>
-      <guid isPermaLink="false">b2f737a217f326f0cc6113fb276f52bb</guid>
-    </item>
-    <item>
-      <title>알리바바, 비디오 생성 모델 ‘해피호스 1.1’ 출시...기업용 API 시장 정조준</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=212011</link>
-      <description>알리바바는 22일(현지시간) 차세대 비디오 생성 모델 \'해피호스 1.1(HappyHorse)\'을 정식 출시하고, 기업 고객과 개발자를 위한 전체 API를 공개했다.연구용 데모나 소비자용 서비스가 아닌, 기업용 소프트웨어 스택에 직접 통합할 수 있도록 설계된 API 제품이다.</description>
-      <pubDate>Tue, 23 Jun 2026 19:11:10 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=212011">AI Times</source>
-      <guid isPermaLink="false">c91796e33638d26dc93d181e61e74611</guid>
-    </item>
-    <item>
-      <title>김광집 스튜디오메타케이 대표 "AI로 제작비 90% 절감…STO로 콘텐츠 펀딩 혁명 이끌 것"</title>
-      <link>https://zdnet.co.kr/view/?no=20260623190922</link>
-      <description>[지디넷코리아]생성형 인공지능(AI)으로 콘텐츠 제작비를 최대 90% 절감하고, 필요한 제작비는 토큰증권STO)으로 조달하는 새로운 콘텐츠 제작 방식을 제언했다.김광집 스튜디오메타케이 대표는 23일 판교 경기창조경제혁신센터에서 열린 '제5회 대한민국 블록체인 웹3 게임 컨퍼런스'에서 '생성형 AI기반 프로덕션 시대의 IP 창출 전략'을 주제로 발표했다.김 대표는 고비용 구조와 투자 가뭄에…</description>
-      <pubDate>Tue, 23 Jun 2026 19:15:01 +0900</pubDate>
-      <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260623190922">ZDNet Korea</source>
-      <guid isPermaLink="false">95ed4f50e9f86ff340792f241bac7f4d</guid>
     </item>
   </channel>
 </rss>

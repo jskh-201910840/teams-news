@@ -5,9 +5,72 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/papers.xml</link>
     <description>📄 Papers — AI research from Hugging Face Daily Papers</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 25 Jun 2026 12:43:59 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 16:45:20 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>ShutterMuse: MLLM을 사용한 캡처 시간 사진 촬영 지침</title>
+      <link>https://huggingface.co/papers/2606.25763</link>
+      <description>연구원들은 이미지 캡처 중에 구성 지침과 포즈 권장 사항을 모두 제공하는 통합 다중 모드 모델과 함께 사진 지원을 위한 새로운 벤치마크 및 데이터 세트를 개발했습니다.</description>
+      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.25763">Hugging Face Papers</source>
+      <guid isPermaLink="false">50bc97dcc26db6a9bc73a96983d0794b</guid>
+    </item>
+    <item>
+      <title>낮은 권한으로도 충분한 경우: LLM 에이전트에서 과도한 권한이 부여된 도구 선택 조사</title>
+      <link>https://huggingface.co/papers/2606.20023</link>
+      <description>LLM 에이전트는 불필요하게 더 높은 권한 도구를 선택하는 경우가 많으며, 안전 정렬이 최소 권한 선택을 보장하지는 않지만 교육 후 방어는 성능을 희생하지 않고 과도한 권한 사용을 줄일 수 있습니다.</description>
+      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.20023">Hugging Face Papers</source>
+      <guid isPermaLink="false">c9cf26c8333c827c6b49868546f9fce8</guid>
+    </item>
+    <item>
+      <title>RL-Index: 검색 인덱스 추론을 위한 강화 학습</title>
+      <link>https://huggingface.co/papers/2606.16316</link>
+      <description>RL-Index는 검색 효율성을 향상하고 지연 시간을 줄이기 위해 LLM 생성 근거와 강화 학습을 사용하여 쿼리 시간에서 인덱싱 단계로 추론을 전환하는 에이전트 인덱싱 프레임워크를 도입합니다.</description>
+      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.16316">Hugging Face Papers</source>
+      <guid isPermaLink="false">5dc454f6ca09a2d1d200a1a64883f84f</guid>
+    </item>
+    <item>
+      <title>V-Zero: 세밀한 시각적 추론을 위한 대조 증거 게이팅을 사용한 Answer-Label-Free 온 정책 증류</title>
+      <link>https://huggingface.co/papers/2606.25319</link>
+      <description>V-Zero라는 시각적 추론을 위한 새로운 레이블 없는 프레임워크가 제시됩니다. 이 프레임워크는 대조 증거 게이팅을 사용하여 주석이 달린 답변 레이블을 요구하지 않고 세분화된 시각적 추론을 개선하여 더 빠른 속도를 달성합니다.</description>
+      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.25319">Hugging Face Papers</source>
+      <guid isPermaLink="false">cb2d7b65c3e1c2ccb13de1130494459d</guid>
+    </item>
+    <item>
+      <title>MVTrack4Gen: 4D 비디오 생성을 위한 기하학적 감독으로서의 다중 시점 추적</title>
+      <link>https://huggingface.co/papers/2606.26087</link>
+      <description>기하학적 일관성과 모션 충실도를 향상시키기 위해 다시점 추적 감독을 통해 모션 인식 확산 모델을 향상시키는 새로운 뷰 비디오 합성 방법입니다.</description>
+      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.26087">Hugging Face Papers</source>
+      <guid isPermaLink="false">93fbaeca25642e4c57433487c9596e30</guid>
+    </item>
+    <item>
+      <title>UnityShots: 경계 인식 게이팅을 사용한 메모리 기반 멀티샷 오디오-비디오 생성</title>
+      <link>https://huggingface.co/papers/2606.21661</link>
+      <description>UnityShots는 경계 조건 게이트가 있는 고정 크기의 장기 및 단기 메모리 슬롯을 사용하여 비디오 컷 전체에서 일관된 피사체 모양과 오디오를 유지하는 메모리 기반 오디오-비디오 생성 시스템입니다.</description>
+      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.21661">Hugging Face Papers</source>
+      <guid isPermaLink="false">da1938f7127d20743b9bd87fae233660</guid>
+    </item>
+    <item>
+      <title>CAVEWOMAN: 언어 입력 및 출력 압축 하에서 대규모 언어 모델이 작동하는 방식</title>
+      <link>https://huggingface.co/papers/2606.24083</link>
+      <description>2채널 평가에서는 출력 압축이 비용을 줄이는 반면 입력 압축은 비용을 증가시키고 모델과 데이터 세트 전체의 정확도를 저하시키는 것으로 나타났습니다.</description>
+      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.24083">Hugging Face Papers</source>
+      <guid isPermaLink="false">8ab5715f0cb3564d68d6bf806ec7a253</guid>
+    </item>
     <item>
       <title>NL2Code를 넘어서: 멀티모달 코드 인텔리전스에 대한 구조화된 조사</title>
       <link>https://huggingface.co/papers/2606.15932</link>
@@ -394,69 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.24874">Hugging Face Papers</source>
       <guid isPermaLink="false">68d9a507123878b0c0d7cdb8b78863f4</guid>
-    </item>
-    <item>
-      <title>로봇 조작을 위한 세계 가치 모델</title>
-      <link>https://huggingface.co/papers/2606.24742</link>
-      <description>World Value Model은 세계 모델과 가치 추정을 결합하여 정확한 작업 진행 평가를 제공하고 혼합 품질 데이터로부터 로봇 정책 학습을 개선합니다.</description>
-      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.24742">Hugging Face Papers</source>
-      <guid isPermaLink="false">6ec249785b74d3782407cfbc2b6a4d6b</guid>
-    </item>
-    <item>
-      <title>Lift4D: 현장에서 4D 재구성을 위한 단일 뷰 3D 추정 조화</title>
-      <link>https://huggingface.co/papers/2606.23688</link>
-      <description>Lift4D는 단일 뷰 3D 재구성의 시간적 일관성을 변형 가능한 3D 가우스 스플래팅 및 뷰 조건 확산 이전에 결합하여 동적 재구성을 수행하는 테스트 시간 최적화 프레임워크를 제공합니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.23688">Hugging Face Papers</source>
-      <guid isPermaLink="false">e7596882fc9f81b2c15c6f831b4c9f3b</guid>
-    </item>
-    <item>
-      <title>TROPT: 개별 텍스트 최적화를 통합하고 발전시키기 위한 개방형 프레임워크</title>
-      <link>https://huggingface.co/papers/2606.23496</link>
-      <description>다양한 도메인과 애플리케이션에 걸쳐 최적화 전략의 개발 및 실행을 표준화하는 개별 텍스트 트리거 최적화를 위한 통합 오픈 소스 프레임워크입니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.23496">Hugging Face Papers</source>
-      <guid isPermaLink="false">f842e9680bccc86617abfce13f233798</guid>
-    </item>
-    <item>
-      <title>ShotcreteDepth: Shotcrete 건설 환경에서 강력한 로봇 깊이 인식을 위한 바이모달 데이터세트</title>
-      <link>https://huggingface.co/papers/2606.23152</link>
-      <description>까다로운 환경 조건에서 스테레오 RGB와 LiDAR 데이터를 결합한 이중 모드 구성 도메인 데이터세트가 자율 시스템 인식 연구를 위해 도입되었습니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.23152">Hugging Face Papers</source>
-      <guid isPermaLink="false">4787292e18425750fd12393ba51121bb</guid>
-    </item>
-    <item>
-      <title>Mahalanobis 코사인 유사성과 선형 프로브 비교</title>
-      <link>https://huggingface.co/papers/2606.19603</link>
-      <description>Mahalanobis 코사인 유사성은 분포 외 성능 측정항목과 밀접한 상관관계가 있는 선형 프로브를 비교하기 위한 이론적 기반 방법을 제공합니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.19603">Hugging Face Papers</source>
-      <guid isPermaLink="false">0cd7892793a211f95d683f12d8064276</guid>
-    </item>
-    <item>
-      <title>에이전트가 너무 빨리 커밋하는 경우: LLM 에이전트의 조기 커밋 진단</title>
-      <link>https://huggingface.co/papers/2606.22936</link>
-      <description>장거리 LLM 에이전트의 조기 약속은 에이전트가 대안을 고려하지 않고 초기 해석을 방어하는 조용한 실패로 이어지며 숨겨진 상태 수렴은 트래픽에 대한 조기 진단 역할을 합니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.22936">Hugging Face Papers</source>
-      <guid isPermaLink="false">3b8bea8886953e474effcd8655f04ea8</guid>
-    </item>
-    <item>
-      <title>Go-with-the-Track: 포인트 추적을 통한 비디오 합성 및 모션 제어</title>
-      <link>https://huggingface.co/papers/2606.20891</link>
-      <description>Go-with-the-Track은 공간 인식 인코딩 및 비디오 확산 변환기가 포함된 포인트 트랙 임베딩을 사용하여 비디오 생성 시 모션 제어 및 참조 이미지 합성을 통합합니다.</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.20891">Hugging Face Papers</source>
-      <guid isPermaLink="false">c14543b47331e5d12a0a5e5bde98be10</guid>
     </item>
   </channel>
 </rss>

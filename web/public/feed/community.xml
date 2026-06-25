@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/community.xml</link>
     <description>💬 Community — PyTorch Korea discussions</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 25 Jun 2026 12:43:59 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 16:45:20 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>OpenAI와 Broadcom이 공개한 첫 자체 LLM 추론 전용 칩 Jalapeño (feat. Celestica)</title>
+      <link>https://discuss.pytorch.kr/t/openai-broadcom-llm-jalapeno-feat-celestica/10925</link>
+      <description>Jalapeño 소개 OpenAI 와 Broadcom (NASDAQ: AVGO)이 OpenAI의 첫 자체 추론 가속기 Jalapeño(할라페뇨) 를 공개했습니다. OpenAI는 이 칩을 자사 첫 "지능 프로세서(Intelligence Processor)"로 부르며, 대규모 언어 모델(Large Language Model, LLM) 추론을 위해 백지 상태에서 새로 설계한 가속기라고 설명합니다.</description>
+      <pubDate>Thu, 25 Jun 2026 16:30:28 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/openai-broadcom-llm-jalapeno-feat-celestica/10925">PyTorch Korea</source>
+      <guid isPermaLink="false">8b65ce1afa56b6d4977322882c67f834</guid>
+    </item>
     <item>
       <title>LLM 에이전트 간 통신 프로토콜 기술 분류 체계: MCP, A2A 등 9개 프로토콜에 대한 연구</title>
       <link>https://discuss.pytorch.kr/t/llm-mcp-a2a-9/10893</link>
