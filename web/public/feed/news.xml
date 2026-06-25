@@ -5,9 +5,45 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 26 Jun 2026 04:07:44 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 06:46:25 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>[6월25일] "모델이 하네스를 먹어 치울 것"...구글이 본 AI 경쟁의 다음 단계</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212092</link>
+      <description>AI 업계는 지난 2년 동안 에이전트를 새로운 경쟁의 중심으로 여겨 왔습니다. 특히, 최근에는 대형언어모델(LLM) 자체보다 이를 활용해 외부 도구를 연결하고, 여러 작업을 오케스트레이션하며, 실제 업무를 수행하는 에이전트 계층이 새로운 가치를 만들 것이라는 목소리가 커졌습니다.하지만 구글 딥마인드의 로건 킬패트릭 AI 스튜디오 책임자는 최근 팟캐스트에서 이 같은 통념에 의문을 제기했습니다.</description>
+      <pubDate>Fri, 26 Jun 2026 06:15:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212092">AI Times</source>
+      <guid isPermaLink="false">bbb23853c155f4099cd53c8c130be1d5</guid>
+    </item>
+    <item>
+      <title>6백만원대 저가형 휴머노이드 로봇 등장…유니트리 'R1'</title>
+      <link>https://www.etnews.com/20260625000421</link>
+      <description>중국 로봇 기업 유니트리 로보틱스가 저가형 휴머노이드 로봇 R1의 출고가를 약 769만원에서 679만원으로 인하하고, 예약 판매에서 즉시 구매 가능한 방식으로 전환했습니다. R1은 약 25kg급 경량 휴머노이드 로봇으로 멀티모달 LLM 기반 AI 시스템이 탑재됐으며 26개 관절을 갖추고 있습니다.</description>
+      <pubDate>Fri, 26 Jun 2026 06:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260625000421">전자신문 IT</source>
+      <guid isPermaLink="false">70def60f12f46194263ac4d02d7b4bae</guid>
+    </item>
+    <item>
+      <title>심혈관 건강 안 좋은 임신부, 아이 발달 지연 가능성 높다</title>
+      <link>https://www.etnews.com/20260625000394</link>
+      <description>임신 기간 여성의 건강 상태와 신체적 변화가 아이의 성장과 발달에 장기간 영향을 미칠 수 있다는 연구 결과가 나왔다. 23일(현지시간) 뉴욕포스트에 따르면 미국 노스웰헬스 카츠 여성건강연구소의 에벨리나 그레이버 박사는 “임신 중 발생한 일은 출산과 함께 사라지는 것이 아니다”며 “그 시기의 건강 상태는 산모는 물론 자녀의 미래에도 지속적인 영향을 남길 수 있다”고 말했다.</description>
+      <pubDate>Fri, 26 Jun 2026 06:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260625000394">전자신문 IT</source>
+      <guid isPermaLink="false">7e8b8f3db2777df24f0b6aece382d637</guid>
+    </item>
+    <item>
+      <title>AI 투자자들이 주목한 젠스파크…"엔터프라이즈 시장 바꿀 기업"</title>
+      <link>https://zdnet.co.kr/view/?no=20260626013347</link>
+      <description>[지디넷코리아][팔로알토(미국)=한정호 기자] 인공지능(AI) 에이전트가 실제 기업 업무를 수행하는 단계로 진화하면서 'AI 워크스페이스' 플랫폼을 서비스하는 젠스파크가 주목을 받고 있다.</description>
+      <pubDate>Fri, 26 Jun 2026 01:39:42 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260626013347">ZDNet Korea</source>
+      <guid isPermaLink="false">31f1c2e6e5494bda200cd45b17d09a03</guid>
+    </item>
     <item>
       <title>Krea 2: 오픈 가중치 12B 이미지 모델 기술 보고서</title>
       <link>https://news.hada.io/topic?id=30825</link>
@@ -421,42 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260624000281">전자신문 IT</source>
       <guid isPermaLink="false">a107a5f6d7d120dfdcf1182a4376cd88</guid>
-    </item>
-    <item>
-      <title>삼성전자 “AI 모듈러 홈, 3년 후 1만호 공급 목표”…아파트·빌딩으로 확장</title>
-      <link>https://www.etnews.com/20260624000245</link>
-      <description>삼성전자가 인공지능(AI) 모듈러 홈 사업을 단독주택 이외 아파트·공공주택·빌딩 등 다양한 영역으로 확장한다. 3년 후 AI 모듈러 홈 1만호 공급을 목표로 수립했다. 삼성전자는 24일 경기 화성시에 위치한 '삼성 AI 모듈러 홈' 쇼룸 행사에서 이같은 청사진을 공개했다.</description>
-      <pubDate>Wed, 24 Jun 2026 17:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260624000245">전자신문 IT</source>
-      <guid isPermaLink="false">4beff2d494fc229bc1bf8ce5338d763b</guid>
-    </item>
-    <item>
-      <title>딥시크, ‘하네스’ 팀 조직… 글로벌 AI 에이전트 시장 선점 가속화</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=212059</link>
-      <description>딥시크가 급성장하는 AI 에이전트 시장 공략에 속도를 내고 있다.</description>
-      <pubDate>Wed, 24 Jun 2026 16:18:36 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=212059">AI Times</source>
-      <guid isPermaLink="false">424d2cece028f3d2f262701993e372cb</guid>
-    </item>
-    <item>
-      <title>“AI 검색을 넘어 업무 자동화로”…젠스파크 'AI 워크스페이스' 청사진</title>
-      <link>https://www.etnews.com/20260624000272</link>
-      <description>미국 인공지능(AI) 스타트업 젠스파크가 '질문에 답하는 AI'를 넘어 '스스로 일을 끝내는 AI'를 핵심 비전으로 제시했다. 생성형 AI 시장이 챗봇 중심에서 자율형 에이전트 경쟁으로 전환되는 가운데, AI 모델 자체보다 사용자가 실제 업무 결과물을 얻을 수 있는 워크스페이스 경쟁력이 향후 AI 시장 성패를 가를 것이라는 설명이다.</description>
-      <pubDate>Wed, 24 Jun 2026 14:04:24 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260624000272">전자신문 IT</source>
-      <guid isPermaLink="false">f76a08dccd5062ee5446605a2263a8f6</guid>
-    </item>
-    <item>
-      <title>NH농협은행 예금 만기 조회 더 쉬워진다…웹케시, AI 기업뱅킹 구축</title>
-      <link>https://zdnet.co.kr/view/?no=20260624161604</link>
-      <description>[지디넷코리아]웹케시가 국내 시중은행 최초로 NH농협은행에 기업용 '에이전트 뱅킹'을 구축하며 금융권 인공지능(AI) 전환 시장 선점에 나선다.웹케시는 NH농협은행과 'AI 에이전트 기반 조회 서비스' 구축 계약을 체결하고 개발에 착수했다고 24일 밝혔다. 이번 사업은 NH농협은행이 추진하는 '에이전틱 AI 미래형 기업 풀뱅킹' 구축을 위한 3단계 로드맵의 첫 단계다.</description>
-      <pubDate>Wed, 24 Jun 2026 16:17:24 +0900</pubDate>
-      <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260624161604">ZDNet Korea</source>
-      <guid isPermaLink="false">ae02bd2c3c90356136d672587c451ac2</guid>
     </item>
   </channel>
 </rss>

@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-26T04:07:44.866421+09:00",
-  "total": 400,
+  "generated_at": "2026-06-26T06:46:24.997852+09:00",
+  "total": 406,
   "sources": [
     {
       "slug": "huggingface",
       "name": "Hugging Face Papers",
-      "count": 163
+      "count": 165
     },
     {
       "slug": "etnews",
       "name": "전자신문 IT",
-      "count": 90
+      "count": 92
     },
     {
       "slug": "pytorch-korea",
@@ -26,7 +26,7 @@
     {
       "slug": "zdnet-korea",
       "name": "ZDNet Korea",
-      "count": 21
+      "count": 22
     },
     {
       "slug": "geeknews",
@@ -36,7 +36,7 @@
     {
       "slug": "aitimes",
       "name": "AI Times",
-      "count": 15
+      "count": 16
     },
     {
       "slug": "naver-d2",
@@ -48,12 +48,12 @@
     {
       "id": "papers",
       "title": "📄 Papers",
-      "count": 163
+      "count": 165
     },
     {
       "id": "news",
       "title": "📰 News",
-      "count": 150
+      "count": 154
     },
     {
       "id": "community",
@@ -67,8 +67,8 @@
     }
   ],
   "date_counts": {
-    "2026-06-26": 2,
-    "2026-06-25": 79,
+    "2026-06-26": 6,
+    "2026-06-25": 81,
     "2026-06-24": 77,
     "2026-06-23": 99,
     "2026-06-22": 48,

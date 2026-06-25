@@ -5,9 +5,63 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 26 Jun 2026 04:07:44 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 06:46:25 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>[6월25일] "모델이 하네스를 먹어 치울 것"...구글이 본 AI 경쟁의 다음 단계</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212092</link>
+      <description>AI 업계는 지난 2년 동안 에이전트를 새로운 경쟁의 중심으로 여겨 왔습니다. 특히, 최근에는 대형언어모델(LLM) 자체보다 이를 활용해 외부 도구를 연결하고, 여러 작업을 오케스트레이션하며, 실제 업무를 수행하는 에이전트 계층이 새로운 가치를 만들 것이라는 목소리가 커졌습니다.하지만 구글 딥마인드의 로건 킬패트릭 AI 스튜디오 책임자는 최근 팟캐스트에서 이 같은 통념에 의문을 제기했습니다.</description>
+      <pubDate>Fri, 26 Jun 2026 06:15:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212092">AI Times</source>
+      <guid isPermaLink="false">bbb23853c155f4099cd53c8c130be1d5</guid>
+    </item>
+    <item>
+      <title>6백만원대 저가형 휴머노이드 로봇 등장…유니트리 'R1'</title>
+      <link>https://www.etnews.com/20260625000421</link>
+      <description>중국 로봇 기업 유니트리 로보틱스가 저가형 휴머노이드 로봇 R1의 출고가를 약 769만원에서 679만원으로 인하하고, 예약 판매에서 즉시 구매 가능한 방식으로 전환했습니다. R1은 약 25kg급 경량 휴머노이드 로봇으로 멀티모달 LLM 기반 AI 시스템이 탑재됐으며 26개 관절을 갖추고 있습니다.</description>
+      <pubDate>Fri, 26 Jun 2026 06:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260625000421">전자신문 IT</source>
+      <guid isPermaLink="false">70def60f12f46194263ac4d02d7b4bae</guid>
+    </item>
+    <item>
+      <title>심혈관 건강 안 좋은 임신부, 아이 발달 지연 가능성 높다</title>
+      <link>https://www.etnews.com/20260625000394</link>
+      <description>임신 기간 여성의 건강 상태와 신체적 변화가 아이의 성장과 발달에 장기간 영향을 미칠 수 있다는 연구 결과가 나왔다. 23일(현지시간) 뉴욕포스트에 따르면 미국 노스웰헬스 카츠 여성건강연구소의 에벨리나 그레이버 박사는 “임신 중 발생한 일은 출산과 함께 사라지는 것이 아니다”며 “그 시기의 건강 상태는 산모는 물론 자녀의 미래에도 지속적인 영향을 남길 수 있다”고 말했다.</description>
+      <pubDate>Fri, 26 Jun 2026 06:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260625000394">전자신문 IT</source>
+      <guid isPermaLink="false">7e8b8f3db2777df24f0b6aece382d637</guid>
+    </item>
+    <item>
+      <title>AI 투자자들이 주목한 젠스파크…"엔터프라이즈 시장 바꿀 기업"</title>
+      <link>https://zdnet.co.kr/view/?no=20260626013347</link>
+      <description>[지디넷코리아][팔로알토(미국)=한정호 기자] 인공지능(AI) 에이전트가 실제 기업 업무를 수행하는 단계로 진화하면서 'AI 워크스페이스' 플랫폼을 서비스하는 젠스파크가 주목을 받고 있다.</description>
+      <pubDate>Fri, 26 Jun 2026 01:39:42 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260626013347">ZDNet Korea</source>
+      <guid isPermaLink="false">31f1c2e6e5494bda200cd45b17d09a03</guid>
+    </item>
+    <item>
+      <title>물리학 질문 장면 그래프: 텍스트-비디오 생성의 물리적 타당성에 대한 세밀한 평가</title>
+      <link>https://huggingface.co/papers/2606.25306</link>
+      <description>비전 언어 모델 기반의 계층적 질문 그래프 프레임워크는 세분화된 위반 감지 및 인간 상관 관계 검증을 통해 비디오 생성 모델의 물리적 법칙 준수 여부를 평가합니다.</description>
+      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.25306">Hugging Face Papers</source>
+      <guid isPermaLink="false">e129d363188b7fe2d3b2c628c705f3e1</guid>
+    </item>
+    <item>
+      <title>Thinking Token이 안전에 도움이 되나요?</title>
+      <link>https://huggingface.co/papers/2606.25013</link>
+      <description>연구에 따르면 추론 모델의 안전 결과는 심의가 나타나지만 최종 응답에 실질적으로 영향을 미치지 않는 초기 숨겨진 표현과 현재의 안전 개입을 통해 예측할 수 있는 것으로 나타났습니다.</description>
+      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.25013">Hugging Face Papers</source>
+      <guid isPermaLink="false">07ad957eb29e88035ad084791945ec98</guid>
+    </item>
     <item>
       <title>GraeLefix/GITVERSE — 🔍 모든 코드베이스를 빌드 프롬프트로 리버스 엔지니어링 — 아키텍처 분석, ASCII 청사진 및 A</title>
       <link>https://github.com/GraeLefix/GITVERSE</link>
@@ -403,60 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260625000241">전자신문 IT</source>
       <guid isPermaLink="false">80205928a4ca50632cdff4060023e425</guid>
-    </item>
-    <item>
-      <title>PBS 폐지 안착 속도…출연연 인건비 전액 지원·신규수탁 제한</title>
-      <link>https://www.etnews.com/20260625000123</link>
-      <description>정부가 과학기술계 최대 현안인 정부출연연구기관(출연연)의 연구과제중심제도(PBS) 폐지의 후속 이행 방안을 확정하고, 연구자 인건비 전액 지원과 국가 임무 중심 연구체계 전환을 본격 추진한다. 연구자가 과제 수주 경쟁에서 벗어나 국가 전략 연구에 집중할 수 있는 환경을 조성한다는 취지다.</description>
-      <pubDate>Thu, 25 Jun 2026 14:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260625000123">전자신문 IT</source>
-      <guid isPermaLink="false">daebc90e9f0f8f91295f33e4e725033a</guid>
-    </item>
-    <item>
-      <title>'미토스 쇼크'에 수출입은행, 대외금융망 방어 강화</title>
-      <link>https://www.etnews.com/20260625000252</link>
-      <description>한국수출입은행이 인공지능(AI) 기반 지능형 사이버 공격에 대응하기 위한 보안체계 고도화에 나서는 것으로 확인됐다. 이메일 사칭 공격, 계정 탈취, 단말 침투, 내부망 이동, 암호화 트래픽에 숨은 공격까지 통합 탐지·차단하는 방어망을 갖추는 것이 핵심이다. 25일 금융권에 따르면 수출입은행은 최근 선제적 방어체계 구축에 착수했다.</description>
-      <pubDate>Thu, 25 Jun 2026 13:53:24 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260625000252">전자신문 IT</source>
-      <guid isPermaLink="false">62f5096e03f841a921e326795c6debfa</guid>
-    </item>
-    <item>
-      <title>CAVEWOMAN: 언어 입력 및 출력 압축 하에서 대규모 언어 모델이 작동하는 방식</title>
-      <link>https://huggingface.co/papers/2606.24083</link>
-      <description>2채널 평가에서는 출력 압축이 비용을 줄이는 반면 입력 압축은 비용을 증가시키고 모델과 데이터 세트 전체의 정확도를 저하시키는 것으로 나타났습니다.</description>
-      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.24083">Hugging Face Papers</source>
-      <guid isPermaLink="false">8ab5715f0cb3564d68d6bf806ec7a253</guid>
-    </item>
-    <item>
-      <title>종잇장 두께로 차세대 통신 전 대역 흡수…차세대 6G·자율주행 전자파 잡는다</title>
-      <link>https://www.etnews.com/20260625000232</link>
-      <description>국내 연구진이 단 하나의 얇고 가벼운 소재로 차세대 통신 대역 전체 전자파를 완벽히 흡수할 수 있는 기술을 확보했다. 한국연구재단은 이호림·박병진 한국재료연구원 박사 연구팀이 0.5㎜ 두께로도 35~330㎓에 이르는 초광대역 밀리미터파 전자파를 모두 흡수하는 그래디언트(Gradient) 전자기 소재를 개발했다고 25일 밝혔다.</description>
-      <pubDate>Thu, 25 Jun 2026 13:43:51 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260625000232">전자신문 IT</source>
-      <guid isPermaLink="false">cd39a1d79b6ec5edd73b616c001d38b9</guid>
-    </item>
-    <item>
-      <title>한성숙 청문회 첫날부터 여야 격돌…“증인 없는 맹탕 청문회” “정쟁 위한 과도한 요구”</title>
-      <link>https://www.etnews.com/20260625000229</link>
-      <description>민간 출신 첫 국무총리 후보자인 한성숙 후보자는 25일 인사청문회에서 “변화에 가장 능동적인 혁신형 총리, 성과로 증명하는 일 중심의 총리가 되겠다”며 “과감한 AI 대전환을 통해 경제 구조 전환을 이끌고 미래세대의 성장과 사회적 약자를 위한 따뜻한 울타리를 만드는 데 총력을 다하겠다”면서 인공지능(AI) 대전환을 통한 경제구조 혁신을 약속했다.</description>
-      <pubDate>Thu, 25 Jun 2026 13:42:44 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260625000229">전자신문 IT</source>
-      <guid isPermaLink="false">c137862d015814470732f459ac554c93</guid>
-    </item>
-    <item>
-      <title>이해의 기쁨과 힘</title>
-      <link>https://news.hada.io/topic?id=30818</link>
-      <description>소프트웨어를 깊이 이해하면 도구에 끌려가지 않고, 자신이 책임지는 시스템에 대한 통제와 소유권 을 가질 수 있음 검색과 LLM은 빠른 답을 주지만, 설명할 수 없는 해법을 복사하는 습관은 수정 능력과 핵심 역량 을 약화시킬 수 있음 일회성 스크립트나 ...</description>
-      <pubDate>Thu, 25 Jun 2026 16:04:52 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30818">GeekNews</source>
-      <guid isPermaLink="false">a3b0fbb955a6d21680d2edf3a8ce1fa2</guid>
     </item>
   </channel>
 </rss>

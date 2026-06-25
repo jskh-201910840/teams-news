@@ -5,9 +5,27 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/papers.xml</link>
     <description>📄 Papers — AI research from Hugging Face Daily Papers</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 26 Jun 2026 04:07:44 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 06:46:25 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>물리학 질문 장면 그래프: 텍스트-비디오 생성의 물리적 타당성에 대한 세밀한 평가</title>
+      <link>https://huggingface.co/papers/2606.25306</link>
+      <description>비전 언어 모델 기반의 계층적 질문 그래프 프레임워크는 세분화된 위반 감지 및 인간 상관 관계 검증을 통해 비디오 생성 모델의 물리적 법칙 준수 여부를 평가합니다.</description>
+      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.25306">Hugging Face Papers</source>
+      <guid isPermaLink="false">e129d363188b7fe2d3b2c628c705f3e1</guid>
+    </item>
+    <item>
+      <title>Thinking Token이 안전에 도움이 되나요?</title>
+      <link>https://huggingface.co/papers/2606.25013</link>
+      <description>연구에 따르면 추론 모델의 안전 결과는 심의가 나타나지만 최종 응답에 실질적으로 영향을 미치지 않는 초기 숨겨진 표현과 현재의 안전 개입을 통해 예측할 수 있는 것으로 나타났습니다.</description>
+      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.25013">Hugging Face Papers</source>
+      <guid isPermaLink="false">07ad957eb29e88035ad084791945ec98</guid>
+    </item>
     <item>
       <title>계획은 지속되지 않습니다: 컨텍스트 관리가 LLM 에이전트에 대한 로드 베어링인 이유</title>
       <link>https://huggingface.co/papers/2606.22953</link>
@@ -439,24 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.19926">Hugging Face Papers</source>
       <guid isPermaLink="false">932cabd8c38077a728dc2eb796b200af</guid>
-    </item>
-    <item>
-      <title>텍스트-이미지 모델은 유도주의적 터키인가요? 인과 추론을 위한 반사실적 벤치마크</title>
-      <link>https://huggingface.co/papers/2606.24548</link>
-      <description>텍스트-이미지 모델은 인과 추론보다는 밀접하게 결합된 시각적-텍스트 패턴에 의존하고 패턴 일치 이상의 제한된 이해를 보여주기 때문에 반사실적 장면을 생성하지 못합니다.</description>
-      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.24548">Hugging Face Papers</source>
-      <guid isPermaLink="false">1e28af8cfdb53c2a2755f263e00ba198</guid>
-    </item>
-    <item>
-      <title>MobileForge: 계층적 피드백 기반 정책 최적화를 통해 모바일 GUI 에이전트를 위한 주석 없는 적응</title>
-      <link>https://huggingface.co/papers/2606.19930</link>
-      <description>MobileForge는 실제 앱 상호 작용 기반과 계층적 피드백 기반 정책 최적화를 결합하여 주석 없는 학습을 통해 모바일 GUI 에이전트의 효율적인 적응을 가능하게 합니다.</description>
-      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.19930">Hugging Face Papers</source>
-      <guid isPermaLink="false">d7405498ad41a326b60ada551ee01143</guid>
     </item>
   </channel>
 </rss>
