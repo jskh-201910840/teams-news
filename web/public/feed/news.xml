@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 27 Jun 2026 03:54:12 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 05:52:08 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>오픈AI, 최고 성능 ‘GPT-5.6’ 3종 공개..."정부 요청으로 제한적 출시"</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212175</link>
+      <description>오픈AI가 지능과 비용 측면에서 한 단계 진화한 차세대 모델 제품군 \'GPT-5.6\' 시리즈를 선보였다.</description>
+      <pubDate>Sat, 27 Jun 2026 05:25:24 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212175">AI Times</source>
+      <guid isPermaLink="false">5c7ecff51052312569f982a3b3e30164</guid>
+    </item>
     <item>
       <title>Show HN: OpenKnowledge – Obsidian/Notion의 오픈소스 AI 우선 대안</title>
       <link>https://news.hada.io/topic?id=30860</link>
@@ -448,15 +457,6 @@
       <category>news</category>
       <source url="https://www.aitimes.com/news/articleView.html?idxno=212091">AI Times</source>
       <guid isPermaLink="false">9a40e205da54addc193ab75b0cafe8ad</guid>
-    </item>
-    <item>
-      <title>SKT 독자 AI 모델, 철강·자동차 부품 공장 들어간다…제조업 AX 첫발</title>
-      <link>https://www.etnews.com/20260625000055</link>
-      <description>SK텔레콤이 자체 개발한 독자 인공지능(AI) 파운데이션 모델을 제조 현장에 적용하고 제조 AI 전환(AX)을 본격 지원한다. SK텔레콤은 철강 제조기업 KG스틸, 자동차 부품 제조기업 코넥과 각각 독자 AI 파운데이션 모델 기반 AI 에이전트 현장 실증 추진을 위한 전략적 업무협약(MOU)을 체결했다. 이번 협력은 SK텔레콤의 독자 AI 파운데이션 모델을 제조업에 적용하는 첫 사례다.</description>
-      <pubDate>Thu, 25 Jun 2026 09:29:41 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260625000055">전자신문 IT</source>
-      <guid isPermaLink="false">73b5dff8c4bf600f22599474ca200162</guid>
     </item>
   </channel>
 </rss>

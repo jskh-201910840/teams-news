@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 27 Jun 2026 03:54:12 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 05:52:08 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>오픈AI, 최고 성능 ‘GPT-5.6’ 3종 공개..."정부 요청으로 제한적 출시"</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212175</link>
+      <description>오픈AI가 지능과 비용 측면에서 한 단계 진화한 차세대 모델 제품군 \'GPT-5.6\' 시리즈를 선보였다.</description>
+      <pubDate>Sat, 27 Jun 2026 05:25:24 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212175">AI Times</source>
+      <guid isPermaLink="false">5c7ecff51052312569f982a3b3e30164</guid>
+    </item>
     <item>
       <title>Show HN: OpenKnowledge – Obsidian/Notion의 오픈소스 AI 우선 대안</title>
       <link>https://news.hada.io/topic?id=30860</link>
@@ -448,15 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.24551">Hugging Face Papers</source>
       <guid isPermaLink="false">bcfa1d78992ff98a9b3d283f1f9c2c45</guid>
-    </item>
-    <item>
-      <title>로봇 제어를 위한 상황별 세계 모델링</title>
-      <link>https://huggingface.co/papers/2606.26025</link>
-      <description>ICWM을 사용하면 로봇 정책이 자체 생성된 상호 작용에서 시스템 변수를 추론할 수 있으므로 시스템 식별을 상황 내 적응으로 처리하여 매개변수 업데이트 없이 새로운 구성에 적응할 수 있습니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.26025">Hugging Face Papers</source>
-      <guid isPermaLink="false">fd68a0b36e2453517ac8566ff5d6810c</guid>
     </item>
   </channel>
 </rss>
