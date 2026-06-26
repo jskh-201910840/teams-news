@@ -5,9 +5,36 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/community.xml</link>
     <description>💬 Community — PyTorch Korea discussions</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 26 Jun 2026 16:56:28 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 19:55:10 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>agentic-ai-prompt-research: 에이전트형 AI 코딩 도구의 프롬프트 구조를 재구성한 연구</title>
+      <link>https://discuss.pytorch.kr/t/agentic-ai-prompt-research-ai/10728</link>
+      <description>agentic-ai-prompt-research 소개 Claude Code 같은 에이전트형 AI 코딩 어시스턴트는 한 번의 요청을 처리하기 위해 시스템 프롬프트를 조립하고, 여러 하위 에이전트를 조율하고, 도구 호출을 자동으로 승인할지 판단합니다. 이 과정의 상당 부분은 사용자에게 보이지 않습니다.</description>
+      <pubDate>Fri, 26 Jun 2026 17:30:45 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/agentic-ai-prompt-research-ai/10728">PyTorch Korea</source>
+      <guid isPermaLink="false">86a580a81af6fa95eea26e7aab9fc010</guid>
+    </item>
+    <item>
+      <title>OpenHanako: 기억과 인격을 가진 멀티 에이전트 개인 AI 어시스턴트 데스크톱 앱</title>
+      <link>https://discuss.pytorch.kr/t/openhanako-ai/10371</link>
+      <description>OpenHanako 소개 OpenHanako는 코드 편집기 안에 갇혀 있는 AI 에이전트를 일상 컴퓨터 사용 환경 전체로 끌어내기 위한 데스크톱 앱입니다. 명령줄에 익숙하지 않은 사용자도 그래픽 인터페이스로 에이전트와 대화하고 파일을 다루며 웹을 검색할 수 있도록, Electron 기반의 단일 애플리케이션으로 패키지된 점이 특징입니다.</description>
+      <pubDate>Fri, 26 Jun 2026 19:30:08 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/openhanako-ai/10371">PyTorch Korea</source>
+      <guid isPermaLink="false">90f9d82ccd84c75aca04d38192710e75</guid>
+    </item>
+    <item>
+      <title>뉴로모픽(neuromorphic) 컴퓨팅 선언문: 메모리 물리학이 지배하는 Post-von Neumann 시대현실 문제 제기</title>
+      <link>https://discuss.pytorch.kr/t/neuromorphic-post-von-neumann/10948</link>
+      <description>출처: The Neuromorphic Manifesto: - by Hellbound 현재 생성 AI는 수조 개 파라미터로 폭발적으로 성장하면서 에너지 위기를 초래하고 있습니다. von Neumann 아키텍처(프로세서와 메모리가 분리된 구조)는 데이터 이동에 막대한 전력을 소모해 데이터센터가 전력망을 갉아먹고 지구를 태우는 상황입니다. 이는 지속 불가능합니다.</description>
+      <pubDate>Fri, 26 Jun 2026 18:06:44 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/neuromorphic-post-von-neumann/10948">PyTorch Korea</source>
+      <guid isPermaLink="false">0dc77b022c379d02798869c8645ccef3</guid>
+    </item>
     <item>
       <title>BuilderIO/skills: 코딩 에이전트를 위한 작고 조합 가능한 스킬 모음</title>
       <link>https://discuss.pytorch.kr/t/builderio-skills/10894</link>
@@ -430,15 +457,6 @@
       <category>community</category>
       <source url="https://discuss.pytorch.kr/t/om1-ai/10786">PyTorch Korea</source>
       <guid isPermaLink="false">3212e3451aae02b8b1382e9f191ef6f7</guid>
-    </item>
-    <item>
-      <title>Qwen-RobotWorld: 자연어를 행동 인터페이스로 삼은 임바디드 월드 모델 (feat. Qwen Team)</title>
-      <link>https://discuss.pytorch.kr/t/qwen-robotworld-feat-qwen-team/10793</link>
-      <description>Qwen-RobotWorld 소개 로봇을 학습시킬 때 가장 비싼 자원은 무엇일까요? GPU도, 모델 파라미터도 아닌 실제 세계의 경험 입니다. 사람은 컵을 잡다가 떨어뜨리고, 물을 따르다 넘치는 과정을 일상에서 수없이 겪으며 물리 법칙을 체득하지만, 로봇은 이런 경험 하나하나를 사람이 직접 원격 조작(teleoperation)으로 수집하거나 실제 하드웨어를 위험하게 굴려가며 모아야 합니다.</description>
-      <pubDate>Fri, 19 Jun 2026 16:30:09 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/qwen-robotworld-feat-qwen-team/10793">PyTorch Korea</source>
-      <guid isPermaLink="false">f2954bbba3798f0121bd88e55be9fa58</guid>
     </item>
   </channel>
 </rss>

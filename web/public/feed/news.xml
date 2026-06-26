@@ -5,9 +5,27 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 26 Jun 2026 16:56:28 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 19:55:10 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>앤트로픽, 'AI 비용 과다 청구' 논란…"실패한 작업도 돈 받았다"</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212155</link>
+      <description>생성 AI 서비스 이용이 빠르게 확산되는 가운데 일부 기업 고객들이 앤트로픽과 오픈AI의 AI 서비스 이용 요금을 실제 사용량보다 더 많이 청구받았다는 주장이 제기됐다.</description>
+      <pubDate>Fri, 26 Jun 2026 18:15:15 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212155">AI Times</source>
+      <guid isPermaLink="false">e9607392848063c3b08dfad8cdf00a27</guid>
+    </item>
+    <item>
+      <title>"AI가 알아서 학습"…아이벡스, 고객 20여곳 확보</title>
+      <link>https://zdnet.co.kr/view/?no=20260626162428</link>
+      <description>[지디넷코리아]산업용 피지컬 인공지능(AI) 기업 아이벡스가 스스로 재학습하는 인공지능(AI) 솔루션으로 고객 확보에 속도를 낸다. 현재 확보한 고객은 20여곳이다. 아이벡스는 AI와 산업용 로봇을 결합해 제품 이상 유무를 파악하고, 정밀 공정을 수행하는 솔루션을 제공한다.</description>
+      <pubDate>Fri, 26 Jun 2026 18:39:40 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260626162428">ZDNet Korea</source>
+      <guid isPermaLink="false">1c00980630abe83d299281dd8e27fd06</guid>
+    </item>
     <item>
       <title>AI 3대 강국·R&amp;D 200조 투자…제6차 과기기본계획 확정</title>
       <link>https://www.etnews.com/20260626000186</link>
@@ -439,24 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260625000003">전자신문 IT</source>
       <guid isPermaLink="false">a2cde15d0b93be6d75f54339f4ff4922</guid>
-    </item>
-    <item>
-      <title>Code as Agent Harness — 코드를 에이전트의 실행 기반으로 보는 102페이지 서베이</title>
-      <link>https://news.hada.io/topic?id=30815</link>
-      <description>UIUC × Meta × Stanford 합작. 5월 arXiv에 올라온 서베이 논문인데, 관점이 꽤 재밌다. 핵심 주장 "코드는 더 이상 LLM이 생성하는 결과물이 아니다.</description>
-      <pubDate>Thu, 25 Jun 2026 11:49:09 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30815">GeekNews</source>
-      <guid isPermaLink="false">d00c1b8ea31bad45983bbd868058a3b2</guid>
-    </item>
-    <item>
-      <title>‘AI 협업시대’ 앤트로픽이 공개한 ‘클로드 태그’</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=212071</link>
-      <description>AI타임스 조예주 기자 joyejuoffice@aitimes.com</description>
-      <pubDate>Thu, 25 Jun 2026 07:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=212071">AI Times</source>
-      <guid isPermaLink="false">fb9c7fa2494356fb1caccb5115c014e1</guid>
     </item>
   </channel>
 </rss>
