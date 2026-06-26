@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-27T05:52:08.572238+09:00",
-  "total": 462,
+  "generated_at": "2026-06-27T07:16:22.334663+09:00",
+  "total": 465,
   "sources": [
     {
       "slug": "huggingface",
       "name": "Hugging Face Papers",
-      "count": 189
+      "count": 190
     },
     {
       "slug": "etnews",
@@ -31,12 +31,12 @@
     {
       "slug": "geeknews",
       "name": "GeekNews",
-      "count": 23
+      "count": 24
     },
     {
       "slug": "aitimes",
       "name": "AI Times",
-      "count": 20
+      "count": 21
     },
     {
       "slug": "naver-d2",
@@ -48,12 +48,12 @@
     {
       "id": "papers",
       "title": "📄 Papers",
-      "count": 189
+      "count": 190
     },
     {
       "id": "news",
       "title": "📰 News",
-      "count": 174
+      "count": 176
     },
     {
       "id": "community",
@@ -67,8 +67,8 @@
     }
   ],
   "date_counts": {
-    "2026-06-27": 2,
-    "2026-06-26": 57,
+    "2026-06-27": 4,
+    "2026-06-26": 58,
     "2026-06-25": 83,
     "2026-06-24": 78,
     "2026-06-23": 99,

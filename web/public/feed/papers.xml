@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/papers.xml</link>
     <description>📄 Papers — AI research from Hugging Face Daily Papers</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 27 Jun 2026 05:52:08 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 07:16:22 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>교육 후 무시되는 무료 점심: LLM 에이전트를 위한 발전 이점</title>
+      <link>https://huggingface.co/papers/2606.26080</link>
+      <description>훈련 후 강화 학습은 진행 이점이라는 암묵적 이점 함수를 도출함으로써 전용 보상 모델 훈련 없이도 언어 모델에 대한 효과적인 단계 수준 채점을 가능하게 합니다.</description>
+      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.26080">Hugging Face Papers</source>
+      <guid isPermaLink="false">d1f2cdd1ae2a978d123a71caed14f41a</guid>
+    </item>
     <item>
       <title>LISA: 시각적 조건 제어 가능 생성을 위한 가능성 점수 정렬</title>
       <link>https://huggingface.co/papers/2606.27192</link>
@@ -448,15 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.25996">Hugging Face Papers</source>
       <guid isPermaLink="false">6cb21561bbd6f3eaa9f18cfa8369ddbe</guid>
-    </item>
-    <item>
-      <title>IV-CoT: 구조 인식 텍스트-이미지 생성을 위한 암시적 시각적 사고 체인</title>
-      <link>https://huggingface.co/papers/2606.24849</link>
-      <description>암시적 시각적 사고 사슬은 스케치 감독을 통해 향상된 구조 인식 이미지 생성을 위해 시각적 조건을 구조적 및 의미론적 계단식으로 분해합니다.</description>
-      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.24849">Hugging Face Papers</source>
-      <guid isPermaLink="false">385d2778c9cc994d7059a61f457de2b4</guid>
     </item>
   </channel>
 </rss>

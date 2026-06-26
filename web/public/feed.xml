@@ -5,9 +5,36 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 27 Jun 2026 05:52:08 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 07:16:22 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>교육 후 무시되는 무료 점심: LLM 에이전트를 위한 발전 이점</title>
+      <link>https://huggingface.co/papers/2606.26080</link>
+      <description>훈련 후 강화 학습은 진행 이점이라는 암묵적 이점 함수를 도출함으로써 전용 보상 모델 훈련 없이도 언어 모델에 대한 효과적인 단계 수준 채점을 가능하게 합니다.</description>
+      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.26080">Hugging Face Papers</source>
+      <guid isPermaLink="false">d1f2cdd1ae2a978d123a71caed14f41a</guid>
+    </item>
+    <item>
+      <title>[AI 이슈트렌드] 월드컵 충격패 속 마이크론·스페이스X 증시 변동성 주목</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212172</link>
+      <description>AI타임스와 이스트에이드의 6월 넷째 주(6월19일~25일) 이슈 분석 결과, 메모리 반도체 기업 실적 발표와 주요 증시, 월드컵 조별리그 결과 등이 상위권을 차지했다.이번 주 검색량 1위 키워드는 \'마이크론 실적 발표(4.70%)\'가 차지했다.</description>
+      <pubDate>Sat, 27 Jun 2026 05:50:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212172">AI Times</source>
+      <guid isPermaLink="false">47db58197816645f92bfe4d72a710c14</guid>
+    </item>
+    <item>
+      <title>Apple, 고급형 M6 Mac 칩 건너뛰고 AI 중심 M7 라인으로 전환 예정</title>
+      <link>https://news.hada.io/topic?id=30862</link>
+      <description>Apple은 Mac용 자체 실리콘 전략을 조정해 다음 최상위 프로세서 를 AI 중심 M7 세대로 앞당기려 함 현재 M5 시리즈 를 쓰는 가운데, 보급형 Mac용 기본 M6 프로세서는 이르면 올해 공개될 계획임 기존 세대 흐름과 달리 고급형 M6 버전 은...</description>
+      <pubDate>Sat, 27 Jun 2026 06:36:13 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30862">GeekNews</source>
+      <guid isPermaLink="false">1fbd55fbc2beae52d8039abb26d64b1b</guid>
+    </item>
     <item>
       <title>오픈AI, 최고 성능 ‘GPT-5.6’ 3종 공개..."정부 요청으로 제한적 출시"</title>
       <link>https://www.aitimes.com/news/articleView.html?idxno=212175</link>
@@ -430,33 +457,6 @@
       <category>news</category>
       <source url="https://zdnet.co.kr/view/?no=20260626105518">ZDNet Korea</source>
       <guid isPermaLink="false">934c3d8ef908743f89f51e9e3c1f9ee9</guid>
-    </item>
-    <item>
-      <title>애플, 고성능 M6 건너뛰고 ‘온디바이스 AI 특화’ M7 칩 체제 조기 전환</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=212132</link>
-      <description>애플이 맥(Mac)용 자체 칩 전략을 대대적으로 개편한다.</description>
-      <pubDate>Fri, 26 Jun 2026 11:57:57 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=212132">AI Times</source>
-      <guid isPermaLink="false">511bbb280cf06b6763c4d930d4331716</guid>
-    </item>
-    <item>
-      <title>GridVQA-X: 다중 모드 설명 방법을 평가하기 위한 프레임워크</title>
-      <link>https://huggingface.co/papers/2606.14740</link>
-      <description>GridVQA-X는 다중 모드 모델의 교차 모드 지름길과 실제 공간 관계 추론을 구별하여 교차 모드 설명 가능성을 평가하는 진단 프레임워크를 도입합니다.</description>
-      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.14740">Hugging Face Papers</source>
-      <guid isPermaLink="false">92303fff46fd914c57d995414819a1e3</guid>
-    </item>
-    <item>
-      <title>GUI 대 CLI: 화면 전용 및 기술 중재 컴퓨터 사용 에이전트의 실행 병목 현상</title>
-      <link>https://huggingface.co/papers/2606.24551</link>
-      <description>컴퓨터 사용 에이전트는 그래픽 인터페이스나 프로그래밍 방식 명령 인터페이스를 통해 소프트웨어 작업을 실행할 수 있지만 기존 평가에서는 작업, 초기 상태 등의 차이로 상호 작용 양식을 혼동합니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.24551">Hugging Face Papers</source>
-      <guid isPermaLink="false">bcfa1d78992ff98a9b3d283f1f9c2c45</guid>
     </item>
   </channel>
 </rss>
