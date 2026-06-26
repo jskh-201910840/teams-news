@@ -5,9 +5,36 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/papers.xml</link>
     <description>📄 Papers — AI research from Hugging Face Daily Papers</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 26 Jun 2026 22:14:37 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 01:20:44 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>LISA: 시각적 조건 제어 가능 생성을 위한 가능성 점수 정렬</title>
+      <link>https://huggingface.co/papers/2606.27192</link>
+      <description>점수 기반 생성 모델링은 측면 네트워크가 조건부 제어에 가능성 점수를 제공하여 가능성 점수 정렬 정규화를 통해 훈련 효율성을 향상시킨다는 것을 보여줍니다.</description>
+      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.27192">Hugging Face Papers</source>
+      <guid isPermaLink="false">977202b63c7a410b9f1471458e9ebca8</guid>
+    </item>
+    <item>
+      <title>EO-WM: 확률론적 지구 관측 예측을 위한 물리적 정보를 바탕으로 한 세계 모델</title>
+      <link>https://huggingface.co/papers/2606.27277</link>
+      <description>EO-WM은 다중 스펙트럼 지구 관측 예측을 위한 비디오 확산 변환기로, 물리적 정보에 기반한 조건화 프레임워크를 통합하여 지표면 역학에서 날씨로 인한 불확실성을 더 잘 포착합니다.…</description>
+      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.27277">Hugging Face Papers</source>
+      <guid isPermaLink="false">1053b1532d73147a452f65a4e90cd6db</guid>
+    </item>
+    <item>
+      <title>장기간 추론을 위한 정보 인식 KV 캐시 압축</title>
+      <link>https://huggingface.co/papers/2606.26875</link>
+      <description>InfoKV는 주의 가중치와 함께 정보 이론 신호를 통합하여 LLM의 장기 컨텍스트 추론을 향상시키는 엔트로피 인식 KV 캐시 압축 프레임워크입니다.</description>
+      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.26875">Hugging Face Papers</source>
+      <guid isPermaLink="false">7b322cb91ebefd9eb09d746a2d4b204b</guid>
+    </item>
     <item>
       <title>도전 과제 실행: 익숙한 환경을 넘어 에이전트의 기능 재평가</title>
       <link>https://huggingface.co/papers/2606.14397</link>
@@ -430,33 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.24849">Hugging Face Papers</source>
       <guid isPermaLink="false">385d2778c9cc994d7059a61f457de2b4</guid>
-    </item>
-    <item>
-      <title>에이전트 기반 메모리 시스템을 사용할 준비가 되었나요?</title>
-      <link>https://huggingface.co/papers/2606.24775</link>
-      <description>대규모 언어 모델 에이전트의 메모리 시스템은 성능 특성을 이해하고 여러 모듈과 워크로드에 걸쳐 체계적인 평가가 필요한 복잡한 데이터 관리 프레임워크로 발전했습니다.</description>
-      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.24775">Hugging Face Papers</source>
-      <guid isPermaLink="false">02a05340c27a873bb4cda61e29fa0d41</guid>
-    </item>
-    <item>
-      <title>VeriEvol: 검증 가능한 Evol-Instruct를 통한 다중 모드 수학적 추론 확장</title>
-      <link>https://huggingface.co/papers/2606.23543</link>
-      <description>VeriEvol이라는 새로운 프레임워크는 분리된 2축 접근 방식을 통해 신뢰할 수 있는 보상 레이블을 보장함으로써 시각적 수학적 추론을 위한 강화 학습 확장 문제를 해결하는 새로운 프레임워크가 도입되었습니다.</description>
-      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.23543">Hugging Face Papers</source>
-      <guid isPermaLink="false">acdd6807e509a93cb0425e915cc012c6</guid>
-    </item>
-    <item>
-      <title>Causal-rCM: 스트리밍 비디오 생성 및 대화형 세계 모델에서 자동 회귀 확산 증류를 위한 통합된 Teacher-Forcing 및 Self-Forcing 개방형 레시피</title>
-      <link>https://huggingface.co/papers/2606.25473</link>
-      <description>자동회귀 비디오 확산은 인과 훈련 패러다임을 통해 확산 증류 프레임워크를 실시간 스트리밍 생성으로 확장하여 빠른 수렴과 대화형으로 최첨단 성능을 달성합니다.</description>
-      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.25473">Hugging Face Papers</source>
-      <guid isPermaLink="false">91bf6eeae6c88420ef835d4edb48b5de</guid>
     </item>
   </channel>
 </rss>
