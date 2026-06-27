@@ -5,9 +5,27 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/community.xml</link>
     <description>💬 Community — PyTorch Korea discussions</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 27 Jun 2026 09:11:03 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 13:55:10 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>im-not-ai: 기존의 의미를 보존하면서, 'AI스러움'을 자연스럽게 다듬는 Claude Code 윤문 스킬</title>
+      <link>https://discuss.pytorch.kr/t/im-not-ai-ai-claude-code/10666</link>
+      <description>im-not-ai 소개 im-not-ai(Humanize KR)는 ChatGPT, Claude, Gemini 같은 AI가 쓴 한국어 글에서 'AI스러움'을 걷어내는 Claude Code 스킬입니다. 핵심 원칙은 내용을 한 글자도 건드리지 않고 문체와 리듬, 표현만 자연스러운 한국어로 되돌리는 것입니다. 사실·주장·수치·고유명사·직접 인용은 그대로 두고, 어색한 문장 구조만 수술적으로 고칩니…</description>
+      <pubDate>Sat, 27 Jun 2026 13:30:10 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/im-not-ai-ai-claude-code/10666">PyTorch Korea</source>
+      <guid isPermaLink="false">9bdb8892f9e6193e2e2a68954f0103f6</guid>
+    </item>
+    <item>
+      <title>OpenAI, GPT-5.6 Sol, Terra, Luna 프리뷰 공개: 새 네이밍 체계와 강화된 안전 스택</title>
+      <link>https://discuss.pytorch.kr/t/openai-gpt-5-6-sol-terra-luna/10955</link>
+      <description>GPT-5.6 Sol, Terra, Luna 소개 OpenAI 가 차세대 모델 제품군인 GPT-5.6 시리즈의 제한적 프리뷰(limited preview)를 시작했습니다. 이번 제품군은 세 개의 모델로 구성됩니다.</description>
+      <pubDate>Sat, 27 Jun 2026 09:30:10 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/openai-gpt-5-6-sol-terra-luna/10955">PyTorch Korea</source>
+      <guid isPermaLink="false">bf6960dbe883e67f74fb00625239fec6</guid>
+    </item>
     <item>
       <title>Elephant Agent: 개인 모델 중심의 자기 진화형 AI 에이전트와 호기심 기반 학습 루프</title>
       <link>https://discuss.pytorch.kr/t/elephant-agent-ai/10280</link>
@@ -439,24 +457,6 @@
       <category>community</category>
       <source url="https://discuss.pytorch.kr/t/voice-input-src-claude-code-macos/10788">PyTorch Korea</source>
       <guid isPermaLink="false">471e1e7a5ead9bf474d50d4751c55eaf</guid>
-    </item>
-    <item>
-      <title>Google, 피부 질환 이해를 돕는 AI 도구 연구 공개 (feat. JAMA Dermatology)</title>
-      <link>https://discuss.pytorch.kr/t/google-ai-feat-jama-dermatology/10765</link>
-      <description>피부 질환 정보를 이해한다는 것: 접근과 이해 사이의 간극 성인의 절반 이상 이 건강 정보를 얻기 위해 인터넷을 사용하고, 3명 중 1명 은 인공지능(AI)에 건강 관련 질문을 던집니다. 그러나 정보에 접근할 수 있다는 것이 곧 그 정보를 쉽게 이해 하거나 올바르게 해석 할 수 있다는 뜻은 아닙니다.</description>
-      <pubDate>Fri, 19 Jun 2026 20:30:49 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/google-ai-feat-jama-dermatology/10765">PyTorch Korea</source>
-      <guid isPermaLink="false">74b0e185761507473e1b7b4d1887c1d6</guid>
-    </item>
-    <item>
-      <title>시스템 취약점 탐색 능력으로 미 정부가 관련 LLM 모델의 외국인 사용중지 조치한 건에 대한 생각</title>
-      <link>https://discuss.pytorch.kr/t/llm/10810</link>
-      <description>번역하면 번역이 정말 이상해져 요약한 내용을 올립니다. 자세한 내용은 글 말미의 링크로 가보세요. 이 글 내용과 관련 있는 다른 글이 어제 날짜로 여기 올라와 있네요.</description>
-      <pubDate>Fri, 19 Jun 2026 17:25:08 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/llm/10810">PyTorch Korea</source>
-      <guid isPermaLink="false">000a978c43526a61a9e48d6f8e6725d1</guid>
     </item>
   </channel>
 </rss>

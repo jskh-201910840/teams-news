@@ -5,9 +5,36 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 27 Jun 2026 09:11:03 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 13:55:10 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>엔비디아, 'GLM-5.2' 4비트 양자화 모델 공개...“정확도 유지하며 용량 70% 절감”</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212178</link>
+      <description>엔비디아가 지푸 AI의 인기 오픈소스 대형언어모델(LLM) \'GLM-5.2\'를 자체 NVFP4(4비트) 양자화 기술로 최적화한 체크포인트를 공개했다.엔비디아는 26일(현지시간) 허깅페이스를 통해 \'GLM-5.2 NVFP4\'를 공개했다.</description>
+      <pubDate>Sat, 27 Jun 2026 13:21:23 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212178">AI Times</source>
+      <guid isPermaLink="false">0cd06f128258fca8b5dae4168bf58795</guid>
+    </item>
+    <item>
+      <title>美, 앤트로픽 '미토스5' 빗장 풀어…"100여 곳에 허용"</title>
+      <link>https://zdnet.co.kr/view/?no=20260627102714</link>
+      <description>[지디넷코리아]미국 정부가 앤트로픽의 최상위 인공지능(AI) 모델 '클로드 미토스5'에 대한 전면 수출 통제를 2주 만에 부분 완화했다.</description>
+      <pubDate>Sat, 27 Jun 2026 11:25:54 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260627102714">ZDNet Korea</source>
+      <guid isPermaLink="false">87b3c2725d9c2047fe8fc443c5f24859</guid>
+    </item>
+    <item>
+      <title>&amp;#039;기획 하네스(planning harness)&amp;#039;로 완성하는 상세기획 워크플로우 자동화</title>
+      <link>https://news.hada.io/topic?id=30870</link>
+      <description>기획자들이 AI를 활용할 때 상위기획은 잘 자동화하면서도 상세기획에서는 여전히 수작업으로 고생하는 문제를 다루고 있음. 주변 개발자의 조언으로 '기획 하네스(Planning Harness)' 개념을 도입해 이를 해결한 사례 중심의 내용. 기획 하네스(planning harness)란?</description>
+      <pubDate>Sat, 27 Jun 2026 10:03:14 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30870">GeekNews</source>
+      <guid isPermaLink="false">f2e3ea9aaaa91350a24501b970be8805</guid>
+    </item>
     <item>
       <title>‘뇌’ 신호로 로봇 제어하는 플랫폼 개발 나선 카이스트</title>
       <link>https://www.aitimes.com/news/articleView.html?idxno=212174</link>
@@ -430,33 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260625000241">전자신문 IT</source>
       <guid isPermaLink="false">80205928a4ca50632cdff4060023e425</guid>
-    </item>
-    <item>
-      <title>PBS 폐지 안착 속도…출연연 인건비 전액 지원·신규수탁 제한</title>
-      <link>https://www.etnews.com/20260625000123</link>
-      <description>정부가 과학기술계 최대 현안인 정부출연연구기관(출연연)의 연구과제중심제도(PBS) 폐지의 후속 이행 방안을 확정하고, 연구자 인건비 전액 지원과 국가 임무 중심 연구체계 전환을 본격 추진한다. 연구자가 과제 수주 경쟁에서 벗어나 국가 전략 연구에 집중할 수 있는 환경을 조성한다는 취지다.</description>
-      <pubDate>Thu, 25 Jun 2026 14:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260625000123">전자신문 IT</source>
-      <guid isPermaLink="false">daebc90e9f0f8f91295f33e4e725033a</guid>
-    </item>
-    <item>
-      <title>'미토스 쇼크'에 수출입은행, 대외금융망 방어 강화</title>
-      <link>https://www.etnews.com/20260625000252</link>
-      <description>한국수출입은행이 인공지능(AI) 기반 지능형 사이버 공격에 대응하기 위한 보안체계 고도화에 나서는 것으로 확인됐다. 이메일 사칭 공격, 계정 탈취, 단말 침투, 내부망 이동, 암호화 트래픽에 숨은 공격까지 통합 탐지·차단하는 방어망을 갖추는 것이 핵심이다. 25일 금융권에 따르면 수출입은행은 최근 선제적 방어체계 구축에 착수했다.</description>
-      <pubDate>Thu, 25 Jun 2026 13:53:24 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260625000252">전자신문 IT</source>
-      <guid isPermaLink="false">62f5096e03f841a921e326795c6debfa</guid>
-    </item>
-    <item>
-      <title>종잇장 두께로 차세대 통신 전 대역 흡수…차세대 6G·자율주행 전자파 잡는다</title>
-      <link>https://www.etnews.com/20260625000232</link>
-      <description>국내 연구진이 단 하나의 얇고 가벼운 소재로 차세대 통신 대역 전체 전자파를 완벽히 흡수할 수 있는 기술을 확보했다. 한국연구재단은 이호림·박병진 한국재료연구원 박사 연구팀이 0.5㎜ 두께로도 35~330㎓에 이르는 초광대역 밀리미터파 전자파를 모두 흡수하는 그래디언트(Gradient) 전자기 소재를 개발했다고 25일 밝혔다.</description>
-      <pubDate>Thu, 25 Jun 2026 13:43:51 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260625000232">전자신문 IT</source>
-      <guid isPermaLink="false">cd39a1d79b6ec5edd73b616c001d38b9</guid>
     </item>
   </channel>
 </rss>

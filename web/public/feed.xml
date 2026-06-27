@@ -5,9 +5,63 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 27 Jun 2026 09:11:03 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 13:55:10 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>im-not-ai: 기존의 의미를 보존하면서, 'AI스러움'을 자연스럽게 다듬는 Claude Code 윤문 스킬</title>
+      <link>https://discuss.pytorch.kr/t/im-not-ai-ai-claude-code/10666</link>
+      <description>im-not-ai 소개 im-not-ai(Humanize KR)는 ChatGPT, Claude, Gemini 같은 AI가 쓴 한국어 글에서 'AI스러움'을 걷어내는 Claude Code 스킬입니다. 핵심 원칙은 내용을 한 글자도 건드리지 않고 문체와 리듬, 표현만 자연스러운 한국어로 되돌리는 것입니다. 사실·주장·수치·고유명사·직접 인용은 그대로 두고, 어색한 문장 구조만 수술적으로 고칩니…</description>
+      <pubDate>Sat, 27 Jun 2026 13:30:10 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/im-not-ai-ai-claude-code/10666">PyTorch Korea</source>
+      <guid isPermaLink="false">9bdb8892f9e6193e2e2a68954f0103f6</guid>
+    </item>
+    <item>
+      <title>엔비디아, 'GLM-5.2' 4비트 양자화 모델 공개...“정확도 유지하며 용량 70% 절감”</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212178</link>
+      <description>엔비디아가 지푸 AI의 인기 오픈소스 대형언어모델(LLM) \'GLM-5.2\'를 자체 NVFP4(4비트) 양자화 기술로 최적화한 체크포인트를 공개했다.엔비디아는 26일(현지시간) 허깅페이스를 통해 \'GLM-5.2 NVFP4\'를 공개했다.</description>
+      <pubDate>Sat, 27 Jun 2026 13:21:23 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212178">AI Times</source>
+      <guid isPermaLink="false">0cd06f128258fca8b5dae4168bf58795</guid>
+    </item>
+    <item>
+      <title>OpenAI, GPT-5.6 Sol, Terra, Luna 프리뷰 공개: 새 네이밍 체계와 강화된 안전 스택</title>
+      <link>https://discuss.pytorch.kr/t/openai-gpt-5-6-sol-terra-luna/10955</link>
+      <description>GPT-5.6 Sol, Terra, Luna 소개 OpenAI 가 차세대 모델 제품군인 GPT-5.6 시리즈의 제한적 프리뷰(limited preview)를 시작했습니다. 이번 제품군은 세 개의 모델로 구성됩니다.</description>
+      <pubDate>Sat, 27 Jun 2026 09:30:10 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/openai-gpt-5-6-sol-terra-luna/10955">PyTorch Korea</source>
+      <guid isPermaLink="false">bf6960dbe883e67f74fb00625239fec6</guid>
+    </item>
+    <item>
+      <title>美, 앤트로픽 '미토스5' 빗장 풀어…"100여 곳에 허용"</title>
+      <link>https://zdnet.co.kr/view/?no=20260627102714</link>
+      <description>[지디넷코리아]미국 정부가 앤트로픽의 최상위 인공지능(AI) 모델 '클로드 미토스5'에 대한 전면 수출 통제를 2주 만에 부분 완화했다.</description>
+      <pubDate>Sat, 27 Jun 2026 11:25:54 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260627102714">ZDNet Korea</source>
+      <guid isPermaLink="false">87b3c2725d9c2047fe8fc443c5f24859</guid>
+    </item>
+    <item>
+      <title>ABACUS: 이미지 개수 이해 및 생성 연결을 위한 통합 기반 모델 적용</title>
+      <link>https://huggingface.co/papers/2606.23835</link>
+      <description>ABACUS는 혁신적인 공간 접지, 경계 인식 계산 정책 및 자기 비판적 학습 전략을 통해 객체 계산 및 관련 작업을 수행하는 통합 비전 언어 모델입니다.</description>
+      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.23835">Hugging Face Papers</source>
+      <guid isPermaLink="false">49b4e621dd41352968028829ff5ed538</guid>
+    </item>
+    <item>
+      <title>&amp;#039;기획 하네스(planning harness)&amp;#039;로 완성하는 상세기획 워크플로우 자동화</title>
+      <link>https://news.hada.io/topic?id=30870</link>
+      <description>기획자들이 AI를 활용할 때 상위기획은 잘 자동화하면서도 상세기획에서는 여전히 수작업으로 고생하는 문제를 다루고 있음. 주변 개발자의 조언으로 '기획 하네스(Planning Harness)' 개념을 도입해 이를 해결한 사례 중심의 내용. 기획 하네스(planning harness)란?</description>
+      <pubDate>Sat, 27 Jun 2026 10:03:14 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30870">GeekNews</source>
+      <guid isPermaLink="false">f2e3ea9aaaa91350a24501b970be8805</guid>
+    </item>
     <item>
       <title>‘뇌’ 신호로 로봇 제어하는 플랫폼 개발 나선 카이스트</title>
       <link>https://www.aitimes.com/news/articleView.html?idxno=212174</link>
@@ -403,60 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.27313">Hugging Face Papers</source>
       <guid isPermaLink="false">e42a027cecf7a092c19e6e70e6f83046</guid>
-    </item>
-    <item>
-      <title>다단계 도구 사용 강화 학습이 붕괴되는 이유와 감독 신호로 이를 해결하는 방법</title>
-      <link>https://huggingface.co/papers/2606.26027</link>
-      <description>연구에서는 다양한 감독 신호 및 훈련 전략이 도구 사용 작업에서 대규모 언어 모델의 안정성과 성능을 어떻게 향상시키고 치명적인 붕괴 및 형식 오류와 같은 문제를 해결하는지 조사합니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.26027">Hugging Face Papers</source>
-      <guid isPermaLink="false">2a3dcf0b6aa15d5c18d549e79043a948</guid>
-    </item>
-    <item>
-      <title>Qwen-Image-Agent: 실제 이미지 생성에서 컨텍스트 격차 해소</title>
-      <link>https://huggingface.co/papers/2606.26907</link>
-      <description>Qwen-Image-Agent라는 통합 에이전트 프레임워크는 계획, 추론, 검색, 분석을 통해 완전한 생성 컨텍스트를 점진적으로 구성함으로써 텍스트-이미지 생성의 컨텍스트 격차를 해결하기 위해 제안되었습니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.26907">Hugging Face Papers</source>
-      <guid isPermaLink="false">7b32063c660f15daa4888e3cea2ea5d8</guid>
-    </item>
-    <item>
-      <title>OpenBioRQ: 에이전트를 위한 미해결 생의학 연구 문제</title>
-      <link>https://huggingface.co/papers/2606.21959</link>
-      <description>새로운 생물의학 벤치마크는 답변 키가 없는 미해결 연구 질문을 테스트하여 출처를 확인하고 잘못된 인용을 방지하는 에이전트 모델의 능력을 평가하고 검색 기반 연구에서 중대한 실패를 드러냅니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.21959">Hugging Face Papers</source>
-      <guid isPermaLink="false">516c6b02c969124da99d32af3c900c33</guid>
-    </item>
-    <item>
-      <title>강력한 비디오 이해를 위한 신뢰도 인식 도구 오케스트레이션</title>
-      <link>https://huggingface.co/papers/2606.26904</link>
-      <description>Robust-TO는 보정된 증거 가중치를 통해 현실적인 교란 하에서 정확성을 향상시키는 에이전트 프레임워크에 프레임별 신뢰성을 통합하여 비디오 추론의 맹목적인 신뢰 문제를 해결합니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.26904">Hugging Face Papers</source>
-      <guid isPermaLink="false">c7c7a0c6794377354a14512d94430494</guid>
-    </item>
-    <item>
-      <title>DanceOPD: 정책에 따른 생성 필드 증류</title>
-      <link>https://huggingface.co/papers/2606.27377</link>
-      <description>DanceOPD라는 새로운 정책 기반 생성 필드 증류 프레임워크는 기능별 기능을 통해 흐름 일치 모델에서 텍스트-이미지 생성, 로컬 편집 및 글로벌 편집 기능을 통합하기 위해 제안되었습니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.27377">Hugging Face Papers</source>
-      <guid isPermaLink="false">65e09bd2d4b857a6b5bead51acb92221</guid>
-    </item>
-    <item>
-      <title>Hyper-Extract: 비정형 텍스트를 그래프와 하이퍼그래프로 바꾸는 LLM 지식 추출 프레임워크</title>
-      <link>https://discuss.pytorch.kr/t/hyper-extract-llm/10895</link>
-      <description>Hyper-Extract 소개 문서를 읽고 그 안의 개념과 관계를 사람이 일일이 정리하는 일은 오래 걸리고 일관성을 유지하기도 어렵습니다. LLM은 이 작업을 거들 수 있지만, 자유 형식 출력은 다시 정형화하기 까다롭고 매번 결과가 달라지기 쉽습니다.</description>
-      <pubDate>Fri, 26 Jun 2026 12:30:33 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/hyper-extract-llm/10895">PyTorch Korea</source>
-      <guid isPermaLink="false">452c7adba56f949307ce41fb0fad5341</guid>
     </item>
   </channel>
 </rss>
