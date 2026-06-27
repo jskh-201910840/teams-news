@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 27 Jun 2026 09:02:19 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 09:11:03 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>‘뇌’ 신호로 로봇 제어하는 플랫폼 개발 나선 카이스트</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212174</link>
+      <description>AI타임스 조예주 기자 joyejuoffice@aitimes.com</description>
+      <pubDate>Sat, 27 Jun 2026 06:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212174">AI Times</source>
+      <guid isPermaLink="false">20284ad05fdfb3419b6d05ba51a160ef</guid>
+    </item>
     <item>
       <title>교육 후 무시되는 무료 점심: LLM 에이전트를 위한 발전 이점</title>
       <link>https://huggingface.co/papers/2606.26080</link>
@@ -448,15 +457,6 @@
       <category>community</category>
       <source url="https://discuss.pytorch.kr/t/hyper-extract-llm/10895">PyTorch Korea</source>
       <guid isPermaLink="false">452c7adba56f949307ce41fb0fad5341</guid>
-    </item>
-    <item>
-      <title>[AI는 지금] 11조 실탄 쥔 中 딥시크, 조직 2배로 키운다</title>
-      <link>https://zdnet.co.kr/view/?no=20260626105518</link>
-      <description>[지디넷코리아]중국 인공지능(AI) 기업 딥시크가 대규모 자금조달을 계기로 조직 확대에 나섰다.</description>
-      <pubDate>Fri, 26 Jun 2026 12:11:09 +0900</pubDate>
-      <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260626105518">ZDNet Korea</source>
-      <guid isPermaLink="false">934c3d8ef908743f89f51e9e3c1f9ee9</guid>
     </item>
   </channel>
 </rss>

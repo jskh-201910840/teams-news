@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 27 Jun 2026 09:02:19 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 09:11:03 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>‘뇌’ 신호로 로봇 제어하는 플랫폼 개발 나선 카이스트</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212174</link>
+      <description>AI타임스 조예주 기자 joyejuoffice@aitimes.com</description>
+      <pubDate>Sat, 27 Jun 2026 06:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212174">AI Times</source>
+      <guid isPermaLink="false">20284ad05fdfb3419b6d05ba51a160ef</guid>
+    </item>
     <item>
       <title>[AI 이슈트렌드] 월드컵 충격패 속 마이크론·스페이스X 증시 변동성 주목</title>
       <link>https://www.aitimes.com/news/articleView.html?idxno=212172</link>
@@ -448,15 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260625000232">전자신문 IT</source>
       <guid isPermaLink="false">cd39a1d79b6ec5edd73b616c001d38b9</guid>
-    </item>
-    <item>
-      <title>한성숙 청문회 첫날부터 여야 격돌…“증인 없는 맹탕 청문회” “정쟁 위한 과도한 요구”</title>
-      <link>https://www.etnews.com/20260625000229</link>
-      <description>민간 출신 첫 국무총리 후보자인 한성숙 후보자는 25일 인사청문회에서 “변화에 가장 능동적인 혁신형 총리, 성과로 증명하는 일 중심의 총리가 되겠다”며 “과감한 AI 대전환을 통해 경제 구조 전환을 이끌고 미래세대의 성장과 사회적 약자를 위한 따뜻한 울타리를 만드는 데 총력을 다하겠다”면서 인공지능(AI) 대전환을 통한 경제구조 혁신을 약속했다.</description>
-      <pubDate>Thu, 25 Jun 2026 13:42:44 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260625000229">전자신문 IT</source>
-      <guid isPermaLink="false">c137862d015814470732f459ac554c93</guid>
     </item>
   </channel>
 </rss>
