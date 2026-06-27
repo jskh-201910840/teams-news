@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/trending.xml</link>
     <description>🔥 Trending — GitHub ML/AI repositories</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 27 Jun 2026 21:10:09 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 23:43:56 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>MADEVAL/HumanAI — 기계 생성 텍스트를 9개 언어로 사람이 쓴 것처럼 들리도록 다시 작성하는 AI 기술 - 5단계 파이</title>
+      <link>https://github.com/MADEVAL/HumanAI</link>
+      <description>기계 생성 텍스트를 9개 언어로 사람이 쓴 소리로 다시 작성하는 AI 기술 - 5단계 파이프라인: 정리 → 특이성 → 어조 → 리듬 → 교정.</description>
+      <pubDate>Fri, 26 Jun 2026 01:38:01 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/MADEVAL/HumanAI">GitHub Trending</source>
+      <guid isPermaLink="false">2b9d768195c654ab68886f71cd593958</guid>
+    </item>
     <item>
       <title>kevin333353/jobsmith — 針對台灣求職市場的開源多代理 AI 求職부조종사: 自動找職缺、履歷健檢、一鍵產生客製投遞包（履歷・求職信・side試準備・公主情報）與模擬面試。本機 Claude Code/Codex CLI 免</title>
       <link>https://github.com/kevin333353/jobsmith</link>

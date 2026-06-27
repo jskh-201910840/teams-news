@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 27 Jun 2026 21:10:09 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 23:43:56 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>MADEVAL/HumanAI — 기계 생성 텍스트를 9개 언어로 사람이 쓴 것처럼 들리도록 다시 작성하는 AI 기술 - 5단계 파이</title>
+      <link>https://github.com/MADEVAL/HumanAI</link>
+      <description>기계 생성 텍스트를 9개 언어로 사람이 쓴 소리로 다시 작성하는 AI 기술 - 5단계 파이프라인: 정리 → 특이성 → 어조 → 리듬 → 교정.</description>
+      <pubDate>Fri, 26 Jun 2026 01:38:01 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/MADEVAL/HumanAI">GitHub Trending</source>
+      <guid isPermaLink="false">2b9d768195c654ab68886f71cd593958</guid>
+    </item>
     <item>
       <title>Agent Reach: AI 에이전트가 소셜미디어와 웹을 읽게 해주는 CLI 도구</title>
       <link>https://discuss.pytorch.kr/t/agent-reach-ai-cli/10937</link>
@@ -448,15 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260626000093">전자신문 IT</source>
       <guid isPermaLink="false">8b6da9cc4223f0bbe0eba1bc2430bc50</guid>
-    </item>
-    <item>
-      <title>美 운전대 없는 차세대 로보택시 공개…주당 100대 생산 가능</title>
-      <link>https://www.etnews.com/20260625000427</link>
-      <description>아마존 자회사 죽스(Zoox)가 차세대 로보택시를 공개하고 대량 생산 단계 진입을 예고했습니다. 죽스는 테스트 및 초기 운영 과정에서 약 50만명의 탑승자 피드백을 반영해 차량 설계를 개선했다고 밝혔습니다. 이번 모델은 운전대와 페달이 없는 전용 자율주행 구조를 유지하면서 편의성과 양산성을 높인 점이 특징입니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:55:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260625000427">전자신문 IT</source>
-      <guid isPermaLink="false">dd3b24439ce85f13cb83798aaf9c90ff</guid>
     </item>
   </channel>
 </rss>

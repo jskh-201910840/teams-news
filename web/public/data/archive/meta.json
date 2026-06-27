@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-27T21:10:09.359793+09:00",
-  "total": 477,
+  "generated_at": "2026-06-27T23:43:56.705806+09:00",
+  "total": 478,
   "sources": [
     {
       "slug": "huggingface",
@@ -21,7 +21,7 @@
     {
       "slug": "github-trending",
       "name": "GitHub Trending",
-      "count": 47
+      "count": 48
     },
     {
       "slug": "zdnet-korea",
@@ -63,12 +63,12 @@
     {
       "id": "trending",
       "title": "🔥 Trending",
-      "count": 47
+      "count": 48
     }
   ],
   "date_counts": {
     "2026-06-27": 15,
-    "2026-06-26": 59,
+    "2026-06-26": 60,
     "2026-06-25": 83,
     "2026-06-24": 78,
     "2026-06-23": 99,
