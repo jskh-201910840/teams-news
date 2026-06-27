@@ -5,7 +5,7 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/full.xml</link>
     <description>Extended RSS with scores, sections, and engagement metrics for bot builders.</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 27 Jun 2026 09:02:18 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 08:58:19 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <item>
@@ -18,92 +18,92 @@
       <guid isPermaLink="false">bc9d9cdfdec7228df9d51ab37b906062</guid>
       <teams:source>Hugging Face Papers</teams:source>
       <teams:section>papers</teams:section>
-      <teams:score>25.75</teams:score>
+      <teams:score>26.39</teams:score>
       <teams:titleOriginal>OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning</teams:titleOriginal>
-      <teams:engagement label="Upvotes">33</teams:engagement>
+      <teams:engagement label="Upvotes">40</teams:engagement>
     </item>
     <item>
       <title>ViQ: 모든 해상도에서 텍스트 정렬된 시각적 양자화 표현</title>
       <link>https://huggingface.co/papers/2606.27313</link>
-      <description>ViQ는 의미론적 풍부함과 개별 표현의 세부 사항 보존 사이의 균형을 유지하는 시각적 양자화 프레임워크를 제공하여 기본 해상도 입력으로 효율적인 다중 모드 훈련을 가능하게 합니다.</description>
+      <description>ViQ는 의미론적 풍부함과 개별 표현의 세부 보존 사이의 균형을 유지하는 시각적 양자화 프레임워크를 제공하여 기본 해상도 입력으로 효율적인 다중 모드 훈련을 가능하게 합니다.</description>
       <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.27313">Hugging Face Papers</source>
       <guid isPermaLink="false">e42a027cecf7a092c19e6e70e6f83046</guid>
       <teams:source>Hugging Face Papers</teams:source>
       <teams:section>papers</teams:section>
-      <teams:score>24.1</teams:score>
+      <teams:score>25.23</teams:score>
       <teams:titleOriginal>ViQ: Text-Aligned Visual Quantized Representations at Any Resolution</teams:titleOriginal>
-      <teams:engagement label="Upvotes">34</teams:engagement>
+      <teams:engagement label="Upvotes">37</teams:engagement>
     </item>
     <item>
-      <title>‘뇌’ 신호로 로봇 제어하는 플랫폼 개발 나선 카이스트</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=212174</link>
-      <description>AI타임스 조예주 기자 joyejuoffice@aitimes.com</description>
-      <pubDate>Sat, 27 Jun 2026 06:00:00 +0900</pubDate>
+      <title>“우리 친구 아이가”… 지중해 향유고래들, 지역별 '사투리' 쓴다</title>
+      <link>https://www.etnews.com/20260625000402</link>
+      <description>지중해에 서식하는 향유고래들이 바다 동쪽과 서쪽으로 나뉘어 서로 다른 '방언(사투리)'을 사용한다는 사실이 밝혀졌다. 사람의 언어처럼 향유고래 역시 지역에 따라 소통 방식에 미세한 차이가 확인된 것이다. 24일(현지시간) 영국 가디언에 따르면 세인트앤드루스 대학교 루크 렌델 박사 연구팀은 최근 국제학술지 '왕립학회지 B'를 통해 지중해 향유고래들의 울음소리를 분석한 결과를 발표했다.</description>
+      <pubDate>Sun, 28 Jun 2026 06:00:00 +0900</pubDate>
       <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=212174">AI Times</source>
-      <guid isPermaLink="false">20284ad05fdfb3419b6d05ba51a160ef</guid>
-      <teams:source>AI Times</teams:source>
+      <source url="https://www.etnews.com/20260625000402">전자신문 IT</source>
+      <guid isPermaLink="false">a5ba49f524004071797c9a01a93e589c</guid>
+      <teams:source>전자신문 IT</teams:source>
       <teams:section>news</teams:section>
-      <teams:score>19.37</teams:score>
-      <teams:titleOriginal>‘뇌’ 신호로 로봇 제어하는 플랫폼 개발 나선 카이스트</teams:titleOriginal>
+      <teams:score>19.28</teams:score>
+      <teams:titleOriginal>“우리 친구 아이가”… 지중해 향유고래들, 지역별 '사투리' 쓴다</teams:titleOriginal>
       
     </item>
     <item>
-      <title>세인트 데이비드 메디컬 센터 산하 텍사스 심장 부정맥 연구소, 복합 심장 부정맥 국제 콘퍼런스 개최</title>
-      <link>https://zdnet.co.kr/view/?no=20260626231003</link>
-      <description>[지디넷코리아] EPLive 2026, 전 세계 정상급 심장 전기생리학 전문가 1600명 참가 오스틴, 텍사스, 2026년 6월 26일 /PRNewswire/ -- 세인트 데이비드 메디컬 센터(St.</description>
-      <pubDate>Fri, 26 Jun 2026 23:10:03 +0900</pubDate>
+      <title>GSMA MWC26 상하이, AI 경제와 6G 혁신으로 전 세계 참석자들의 호응 속에 폐막</title>
+      <link>https://zdnet.co.kr/view/?no=20260628011003</link>
+      <description>[지디넷코리아] 143개 국가 및 지역의 참석자들이 약 300명의 연사와 400곳 이상의 후원사, 전시업체 및 파트너와 함께 SNIEC에서 AI 시대 연결성의 미래 모색 상하이, 2026년 6월 28일 /PRNewswire/ -- MWC26 상하이(MWC26 Shanghai)가 AI 경제, 6G 혁신 등을 중심으로 3일간 진행된 콘퍼런스와 전시회를 마치고 폐막했다.</description>
+      <pubDate>Sun, 28 Jun 2026 01:10:03 +0900</pubDate>
       <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260626231003">ZDNet Korea</source>
-      <guid isPermaLink="false">cf67eb5296204adea163848273001130</guid>
+      <source url="https://zdnet.co.kr/view/?no=20260628011003">ZDNet Korea</source>
+      <guid isPermaLink="false">f415e70e28cf997dd2666188e8377d6a</guid>
       <teams:source>ZDNet Korea</teams:source>
       <teams:section>news</teams:section>
-      <teams:score>17.94</teams:score>
-      <teams:titleOriginal>세인트 데이비드 메디컬 센터 산하 텍사스 심장 부정맥 연구소, 복합 심장 부정맥 국제 콘퍼런스 개최</teams:titleOriginal>
+      <teams:score>18.17</teams:score>
+      <teams:titleOriginal>GSMA MWC26 상하이, AI 경제와 6G 혁신으로 전 세계 참석자들의 호응 속에 폐막</teams:titleOriginal>
       
     </item>
     <item>
       <title>benchflow-ai/awesome-evals — AI 에이전트 구축 및 평가를 위한 최고의 리소스를 선별한 비BS 라이브러리 — 논문, 블로그</title>
       <link>https://github.com/benchflow-ai/awesome-evals</link>
       <description>논문, 블로그, 강연, 도구, 벤치마크 등 AI 에이전트 구축 및 평가를 위한 최고의 리소스로 구성된 선별된 비BS 라이브러리입니다. BenchFlow에서 관리합니다.</description>
-      <pubDate>Sat, 27 Jun 2026 07:19:57 +0900</pubDate>
+      <pubDate>Sun, 28 Jun 2026 07:35:28 +0900</pubDate>
       <category>trending</category>
       <source url="https://github.com/benchflow-ai/awesome-evals">GitHub Trending</source>
       <guid isPermaLink="false">e942f3f8c1f0089ec23e7d3c1037b482</guid>
       <teams:source>GitHub Trending</teams:source>
       <teams:section>trending</teams:section>
-      <teams:score>40.11</teams:score>
+      <teams:score>40.68</teams:score>
       <teams:titleOriginal>benchflow-ai/awesome-evals — A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blog</teams:titleOriginal>
-      <teams:engagement label="Stars">460</teams:engagement>
+      <teams:engagement label="Stars">531</teams:engagement>
     </item>
     <item>
       <title>NotASithLord/peerd — 브라우저에 기본으로 제공되는 최초의 AI 에이전트입니다. 에이전트 loo를 실행하는 Chrome/Firefox 확장 프로그램</title>
       <link>https://github.com/NotASithLord/peerd</link>
       <description>최초의 AI 에이전트는 브라우저에 기본적으로 사용됩니다.</description>
-      <pubDate>Sat, 27 Jun 2026 02:40:56 +0900</pubDate>
+      <pubDate>Sun, 28 Jun 2026 08:53:25 +0900</pubDate>
       <category>trending</category>
       <source url="https://github.com/NotASithLord/peerd">GitHub Trending</source>
       <guid isPermaLink="false">f19219475ab87e83e2f84c2856f5acb9</guid>
       <teams:source>GitHub Trending</teams:source>
       <teams:section>trending</teams:section>
-      <teams:score>28.9</teams:score>
+      <teams:score>31.42</teams:score>
       <teams:titleOriginal>NotASithLord/peerd — The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loo</teams:titleOriginal>
-      <teams:engagement label="Stars">136</teams:engagement>
+      <teams:engagement label="Stars">193</teams:engagement>
     </item>
     <item>
-      <title>agentic-ai-prompt-research: 에이전트형 AI 코딩 도구의 프롬프트 구조를 재구성한 연구</title>
-      <link>https://discuss.pytorch.kr/t/agentic-ai-prompt-research-ai/10728</link>
-      <description>agentic-ai-prompt-research 소개 Claude Code 같은 에이전트형 AI 코딩 어시스턴트는 한 번의 요청을 처리하기 위해 시스템 프롬프트를 조립하고, 여러 하위 에이전트를 조율하고, 도구 호출을 자동으로 승인할지 판단합니다. 이 과정의 상당 부분은 사용자에게 보이지 않습니다.</description>
-      <pubDate>Fri, 26 Jun 2026 17:30:45 +0900</pubDate>
+      <title>SIA(Self-Improving AI): 하네스와 모델 가중치를 함께 진화시키는 자기 개선 AI 에이전트 루프에 대한 연구 (feat. Hexo Labs)</title>
+      <link>https://discuss.pytorch.kr/t/sia-self-improving-ai-ai-feat-hexo-labs/10950</link>
+      <description>SIA(Self-Improving AI) 연구 소개 새로운 분야를 처음 배우는 신입 엔지니어를 떠올려 봅시다. 처음에는 선배가 정리해 준 체크리스트와 도구 사용법을 따라 하며 일을 해냅니다. 시간이 지나면 더 나은 작업 순서나 자동화 스크립트를 스스로 만들어 외부 절차를 다듬습니다.</description>
+      <pubDate>Sun, 28 Jun 2026 08:30:23 +0900</pubDate>
       <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/agentic-ai-prompt-research-ai/10728">PyTorch Korea</source>
-      <guid isPermaLink="false">86a580a81af6fa95eea26e7aab9fc010</guid>
+      <source url="https://discuss.pytorch.kr/t/sia-self-improving-ai-ai-feat-hexo-labs/10950">PyTorch Korea</source>
+      <guid isPermaLink="false">34001fa24b69c8f29a7cd82787435ac6</guid>
       <teams:source>PyTorch Korea</teams:source>
       <teams:section>community</teams:section>
-      <teams:score>25.47</teams:score>
-      <teams:titleOriginal>agentic-ai-prompt-research: 에이전트형 AI 코딩 도구의 프롬프트 구조를 재구성한 연구</teams:titleOriginal>
+      <teams:score>25.9</teams:score>
+      <teams:titleOriginal>SIA(Self-Improving AI): 하네스와 모델 가중치를 함께 진화시키는 자기 개선 AI 에이전트 루프에 대한 연구 (feat. Hexo Labs)</teams:titleOriginal>
       
     </item>
   </channel>
