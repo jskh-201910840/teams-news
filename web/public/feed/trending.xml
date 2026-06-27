@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/trending.xml</link>
     <description>🔥 Trending — GitHub ML/AI repositories</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 28 Jun 2026 01:06:36 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 03:06:04 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>eli-labz/Godcoder — 데스크탑을 위한 로컬 우선 오픈 소스 코딩 에이전트입니다. 자신의 LLM 키를 가져오세요. 당신의 코드는 계속 켜져 있습니다</title>
+      <link>https://github.com/eli-labz/Godcoder</link>
+      <description>데스크탑을 위한 로컬 우선 오픈 소스 코딩 에이전트입니다. 자신의 LLM 키를 가져오세요. 귀하의 코드는 귀하의 컴퓨터에 남아 있으며 모델 제공자에게만 전달됩니다.</description>
+      <pubDate>Sat, 27 Jun 2026 13:15:17 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/eli-labz/Godcoder">GitHub Trending</source>
+      <guid isPermaLink="false">e737fc0ece5e2ee6d1535fce50e35703</guid>
+    </item>
     <item>
       <title>MADEVAL/AngleCraft — 7+2 저널리즘 앵글 유형을 사용하여 건조하고 전문적인 주제를 참여도가 높은 콘텐츠로 전환합니다. AI 스킬 f</title>
       <link>https://github.com/MADEVAL/AngleCraft</link>
@@ -448,15 +457,6 @@
       <category>trending</category>
       <source url="https://github.com/lucidrains/poly-attention">GitHub Trending</source>
       <guid isPermaLink="false">861544bc5bb6e899e487cd6ffd0f83e4</guid>
-    </item>
-    <item>
-      <title>catnip-ai-tech/MaineCoon — MaineCoon: Pursuing a Real-Time Audio-Visual Social World Model — technical report &amp; project links. </title>
-      <link>https://github.com/catnip-ai-tech/MaineCoon</link>
-      <description>MaineCoon: Pursuing a Real-Time Audio-Visual Social World Model — technical report &amp; project links. 🌐 https://mainecoon.tech/</description>
-      <pubDate>Thu, 18 Jun 2026 18:03:53 +0900</pubDate>
-      <category>trending</category>
-      <source url="https://github.com/catnip-ai-tech/MaineCoon">GitHub Trending</source>
-      <guid isPermaLink="false">f1e0aa256e55f20382d10110200a0b0a</guid>
     </item>
   </channel>
 </rss>

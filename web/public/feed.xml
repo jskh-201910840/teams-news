@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 28 Jun 2026 01:06:36 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 03:06:04 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>eli-labz/Godcoder — 데스크탑을 위한 로컬 우선 오픈 소스 코딩 에이전트입니다. 자신의 LLM 키를 가져오세요. 당신의 코드는 계속 켜져 있습니다</title>
+      <link>https://github.com/eli-labz/Godcoder</link>
+      <description>데스크탑을 위한 로컬 우선 오픈 소스 코딩 에이전트입니다. 자신의 LLM 키를 가져오세요. 귀하의 코드는 귀하의 컴퓨터에 남아 있으며 모델 제공자에게만 전달됩니다.</description>
+      <pubDate>Sat, 27 Jun 2026 13:15:17 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/eli-labz/Godcoder">GitHub Trending</source>
+      <guid isPermaLink="false">e737fc0ece5e2ee6d1535fce50e35703</guid>
+    </item>
     <item>
       <title>MADEVAL/AngleCraft — 7+2 저널리즘 앵글 유형을 사용하여 건조하고 전문적인 주제를 참여도가 높은 콘텐츠로 전환합니다. AI 스킬 f</title>
       <link>https://github.com/MADEVAL/AngleCraft</link>
@@ -448,15 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.16613">Hugging Face Papers</source>
       <guid isPermaLink="false">e4c9de6f25116b5eed4c667015e0530b</guid>
-    </item>
-    <item>
-      <title>NHN클라우드, AI 인프라 '글로벌 톱20' 진입…"국내 최고 성능"</title>
-      <link>https://zdnet.co.kr/view/?no=20260626155907</link>
-      <description>[지디넷코리아]NHN클라우드가 글로벌 슈퍼컴퓨터 생태계에서 인공지능(AI) 인프라 역량을 인정받았다.NHN클라우드는 AI 인프라 브랜드 'NHN 팩토리X'의 그래픽처리장치(GPU) 클러스터가 최근 공개된 '글로벌 슈퍼컴퓨터 톱500'에서 국내 가장 높은 순위로 이름을 올렸다고 26일 밝혔다.</description>
-      <pubDate>Fri, 26 Jun 2026 15:59:07 +0900</pubDate>
-      <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260626155907">ZDNet Korea</source>
-      <guid isPermaLink="false">40199d2c5e137083aaa0b3ddad17b72e</guid>
     </item>
   </channel>
 </rss>
