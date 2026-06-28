@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 28 Jun 2026 08:58:19 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 09:04:39 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>오픈 웨이트 LLM과 폐쇄형 LLM의 격차</title>
+      <link>https://news.hada.io/topic?id=30896</link>
+      <description>Artificial Analysis Intelligence Index에서는 오픈 웨이트 LLM 이 폐쇄형 LLM의 과거 성능을 따라잡는 시간이 2024년 여름부터 꾸준히 줄어드는 흐름을 보임 이 단일 지표에 추세선을 그으면 격차가 2026년 12월 3일 0개월이 되어, 오픈 모델이 지표상 최전선 폐쇄...</description>
+      <pubDate>Sun, 28 Jun 2026 08:35:27 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30896">GeekNews</source>
+      <guid isPermaLink="false">daf7b9308a2aa6afed93bd9cd4d79324</guid>
+    </item>
     <item>
       <title>“우리 친구 아이가”… 지중해 향유고래들, 지역별 '사투리' 쓴다</title>
       <link>https://www.etnews.com/20260625000402</link>
@@ -448,15 +457,6 @@
       <category>news</category>
       <source url="https://news.hada.io/topic?id=30820">GeekNews</source>
       <guid isPermaLink="false">010806b666bbab96f9096c8318d9310c</guid>
-    </item>
-    <item>
-      <title>170개 언어 지원하는 문서 분석 모델 ‘미스트랄 OCR 4’ 출시</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=212108</link>
-      <description>미스트랄 AI가 170개 언어를 지원하는 차세대 문서 인식 모델 ‘미스트랄 OCR 4(Mistral OCR 4)’를 공개했다.</description>
-      <pubDate>Thu, 25 Jun 2026 16:00:53 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=212108">AI Times</source>
-      <guid isPermaLink="false">cec0433ea1135ee934c266067069ed44</guid>
     </item>
   </channel>
 </rss>
