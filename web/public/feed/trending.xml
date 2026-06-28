@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/trending.xml</link>
     <description>🔥 Trending — GitHub ML/AI repositories</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 29 Jun 2026 02:14:51 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 04:23:17 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>wanshuiyin/Anti-Autoresearch — 자동 연구 논문을 액면 그대로 신뢰하지 마십시오. 리뷰어 측 무결성 포렌식(자체 일관성</title>
+      <link>https://github.com/wanshuiyin/Anti-Autoresearch</link>
+      <description>자동 연구 논문을 액면 그대로 신뢰하지 마십시오. 리뷰어 측 무결성 포렌식(자체 일관성 + 조작), 결정론적 평결.</description>
+      <pubDate>Sun, 28 Jun 2026 18:39:22 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/wanshuiyin/Anti-Autoresearch">GitHub Trending</source>
+      <guid isPermaLink="false">a2cf5307cabff98ea0877695f0fc60dc</guid>
+    </item>
     <item>
       <title>SparkyWen/qcue — 두 번째 두뇌 - 마음을 사로잡으세요</title>
       <link>https://github.com/SparkyWen/qcue</link>
@@ -448,15 +457,6 @@
       <category>trending</category>
       <source url="https://github.com/joeseesun/qiaomu-llm-mcp">GitHub Trending</source>
       <guid isPermaLink="false">8f1c8129e37c7434ef63b2e8c24476da</guid>
-    </item>
-    <item>
-      <title>Lekien082/AI-Photo-Background-Remover — An easy-to-use desktop utility powered by AI to automatically remove background from photos locally,</title>
-      <link>https://github.com/Lekien082/AI-Photo-Background-Remover</link>
-      <description>An easy-to-use desktop utility powered by AI to automatically remove background from photos locally, offline, and in high resolution.</description>
-      <pubDate>Mon, 15 Jun 2026 20:11:37 +0900</pubDate>
-      <category>trending</category>
-      <source url="https://github.com/Lekien082/AI-Photo-Background-Remover">GitHub Trending</source>
-      <guid isPermaLink="false">cfa50e6a1c3ef70a06326fc21e9bbbf5</guid>
     </item>
   </channel>
 </rss>

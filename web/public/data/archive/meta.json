@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-29T02:14:51.088427+09:00",
-  "total": 517,
+  "generated_at": "2026-06-29T04:23:17.905171+09:00",
+  "total": 519,
   "sources": [
     {
       "slug": "huggingface",
@@ -21,7 +21,7 @@
     {
       "slug": "github-trending",
       "name": "GitHub Trending",
-      "count": 54
+      "count": 55
     },
     {
       "slug": "zdnet-korea",
@@ -29,14 +29,14 @@
       "count": 34
     },
     {
-      "slug": "geeknews",
-      "name": "GeekNews",
+      "slug": "aitimes",
+      "name": "AI Times",
       "count": 29
     },
     {
-      "slug": "aitimes",
-      "name": "AI Times",
-      "count": 28
+      "slug": "geeknews",
+      "name": "GeekNews",
+      "count": 29
     },
     {
       "slug": "naver-d2",
@@ -48,7 +48,7 @@
     {
       "id": "news",
       "title": "📰 News",
-      "count": 212
+      "count": 213
     },
     {
       "id": "papers",
@@ -63,11 +63,12 @@
     {
       "id": "trending",
       "title": "🔥 Trending",
-      "count": 54
+      "count": 55
     }
   ],
   "date_counts": {
-    "2026-06-28": 34,
+    "2026-06-29": 1,
+    "2026-06-28": 35,
     "2026-06-27": 19,
     "2026-06-26": 60,
     "2026-06-25": 83,

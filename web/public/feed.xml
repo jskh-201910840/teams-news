@@ -5,9 +5,27 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 29 Jun 2026 02:14:51 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 04:23:17 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>wanshuiyin/Anti-Autoresearch — 자동 연구 논문을 액면 그대로 신뢰하지 마십시오. 리뷰어 측 무결성 포렌식(자체 일관성</title>
+      <link>https://github.com/wanshuiyin/Anti-Autoresearch</link>
+      <description>자동 연구 논문을 액면 그대로 신뢰하지 마십시오. 리뷰어 측 무결성 포렌식(자체 일관성 + 조작), 결정론적 평결.</description>
+      <pubDate>Sun, 28 Jun 2026 18:39:22 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/wanshuiyin/Anti-Autoresearch">GitHub Trending</source>
+      <guid isPermaLink="false">a2cf5307cabff98ea0877695f0fc60dc</guid>
+    </item>
+    <item>
+      <title>김준기 래블업 CTO “풀스택 AI 인프라로 GPU 한계 넘는다”</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212203</link>
+      <description>최근 국내 AI 시장에서 안정적이고 효율적인 GPU 공급을 내세운 서비스가 급증하고 있다.</description>
+      <pubDate>Mon, 29 Jun 2026 02:50:53 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212203">AI Times</source>
+      <guid isPermaLink="false">2d186ab00b529bcc7932b682326cbd0b</guid>
+    </item>
     <item>
       <title>SparkyWen/qcue — 두 번째 두뇌 - 마음을 사로잡으세요</title>
       <link>https://github.com/SparkyWen/qcue</link>
@@ -439,24 +457,6 @@
       <category>community</category>
       <source url="https://discuss.pytorch.kr/t/openai-gpt-5-6-sol-terra-luna/10955">PyTorch Korea</source>
       <guid isPermaLink="false">bf6960dbe883e67f74fb00625239fec6</guid>
-    </item>
-    <item>
-      <title>美, 앤트로픽 '미토스5' 빗장 풀어…"100여 곳에 허용"</title>
-      <link>https://zdnet.co.kr/view/?no=20260627102714</link>
-      <description>[지디넷코리아]미국 정부가 앤트로픽의 최상위 인공지능(AI) 모델 '클로드 미토스5'에 대한 전면 수출 통제를 2주 만에 부분 완화했다.</description>
-      <pubDate>Sat, 27 Jun 2026 11:25:54 +0900</pubDate>
-      <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260627102714">ZDNet Korea</source>
-      <guid isPermaLink="false">87b3c2725d9c2047fe8fc443c5f24859</guid>
-    </item>
-    <item>
-      <title>ABACUS: 이미지 개수 이해 및 생성 연결을 위한 통합 기반 모델 적용</title>
-      <link>https://huggingface.co/papers/2606.23835</link>
-      <description>ABACUS는 혁신적인 공간 접지, 경계 인식 계산 정책 및 자기 비판적 학습 전략을 통해 객체 계산 및 관련 작업을 수행하는 통합 비전 언어 모델입니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.23835">Hugging Face Papers</source>
-      <guid isPermaLink="false">49b4e621dd41352968028829ff5ed538</guid>
     </item>
   </channel>
 </rss>
