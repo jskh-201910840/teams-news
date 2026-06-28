@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-28T20:09:10.960743+09:00",
-  "total": 515,
+  "generated_at": "2026-06-28T22:50:23.356461+09:00",
+  "total": 516,
   "sources": [
     {
       "slug": "huggingface",
@@ -36,7 +36,7 @@
     {
       "slug": "aitimes",
       "name": "AI Times",
-      "count": 27
+      "count": 28
     },
     {
       "slug": "naver-d2",
@@ -48,7 +48,7 @@
     {
       "id": "news",
       "title": "📰 News",
-      "count": 211
+      "count": 212
     },
     {
       "id": "papers",
@@ -67,7 +67,7 @@
     }
   ],
   "date_counts": {
-    "2026-06-28": 32,
+    "2026-06-28": 33,
     "2026-06-27": 19,
     "2026-06-26": 60,
     "2026-06-25": 83,

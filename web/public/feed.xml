@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 28 Jun 2026 20:09:11 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 22:50:23 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>국내 AI 업계, 마누스 외면… "중국산 거부감보다 대체재 풍부"</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212196</link>
+      <description>AI 에이전트 서비스 마누스(Manus)가 최근 국내 진출을 검토 중인 것으로 알려졌다. 마누스는 지난해 출시 직후 뛰어난 성능으로 주목받았으며, 최근에는 메타의 인수 추진 과정에서 중국 정부가 이례적으로 \'거래 철회 명령\'을 내리며 미국과의 기술 갈등의 중심에 선 바 있다. 이 때문에 시장에서는 이를 ‘중국계 AI’로 인식하는 분위기가 짙다.</description>
+      <pubDate>Sun, 28 Jun 2026 21:08:34 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212196">AI Times</source>
+      <guid isPermaLink="false">4512d41a4b83d25d09dce46c1549a926</guid>
+    </item>
     <item>
       <title>LLM Wiki Newsroom: 신문사 편집국을 본뜬 멀티에이전트로 지식을 위키로 관리 (Claude Code 기반)</title>
       <link>https://discuss.pytorch.kr/t/llm-wiki-newsroom-claude-code/10966</link>
@@ -448,15 +457,6 @@
       <category>news</category>
       <source url="https://news.hada.io/topic?id=30870">GeekNews</source>
       <guid isPermaLink="false">f2e3ea9aaaa91350a24501b970be8805</guid>
-    </item>
-    <item>
-      <title>‘뇌’ 신호로 로봇 제어하는 플랫폼 개발 나선 카이스트</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=212174</link>
-      <description>AI타임스 조예주 기자 joyejuoffice@aitimes.com</description>
-      <pubDate>Sat, 27 Jun 2026 06:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=212174">AI Times</source>
-      <guid isPermaLink="false">20284ad05fdfb3419b6d05ba51a160ef</guid>
     </item>
   </channel>
 </rss>
