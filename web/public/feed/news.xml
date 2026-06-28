@@ -5,9 +5,144 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 28 Jun 2026 09:04:39 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 14:18:40 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>KAIST, AI의 '디지털 연령차별' 정량 분석...</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212190</link>
+      <description>한국과학기술원(KAIST) 연구진이 생성 AI의 답변에 내재된 연령 관련 고정관념을 정량적으로 분석해 규명했다.</description>
+      <pubDate>Sun, 28 Jun 2026 12:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212190">AI Times</source>
+      <guid isPermaLink="false">108832317ee21b2b801c20bbe704ecd6</guid>
+    </item>
+    <item>
+      <title>“모델 경쟁 다음은 사용자 경험 경쟁”…글로벌 VC가 젠스파크에 베팅한 이유</title>
+      <link>https://www.etnews.com/20260628000074</link>
+      <description>글로벌 벤처캐피털(VC)이 생성형 인공지능(AI)이 기존 엔터프라이즈 소프트웨어 시장을 뛰어넘는 거대한 변화를 만들고 있다며 AI 워크스페이스 기업 젠스파크의 성장 가능성을 높게 평가했다.</description>
+      <pubDate>Sun, 28 Jun 2026 12:10:55 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260628000074">전자신문 IT</source>
+      <guid isPermaLink="false">f7419fadcec62af3205dee2c4953ca27</guid>
+    </item>
+    <item>
+      <title>대흥정보, 주차장 넘어 '도시 모빌리티 플랫폼'으로…“2년내 IPO 추진”</title>
+      <link>https://www.etnews.com/20260626000133</link>
+      <description>대흥정보가 공공 스마트주차 시장에서 축적한 데이터를 기반으로 도시 모빌리티 데이터 플랫폼 기업으로 도약한다. 전국 27개 지자체에 공영주차장 통합운영 시스템을 구축한 경험을 바탕으로 인공지능(AI) 실내 주차 유도 서비스와 구독형 서비스형소프트웨어(SaaS) 모델을 확대하고, 2~3년 내 기업공개(IPO)도 추진한다.</description>
+      <pubDate>Sun, 28 Jun 2026 12:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260626000133">전자신문 IT</source>
+      <guid isPermaLink="false">848c2d2764be239397f83030b6db7c0a</guid>
+    </item>
+    <item>
+      <title>최첨단 AI에 깊어진 美 정부 개입…업계 우려 확산</title>
+      <link>https://www.etnews.com/20260628000064</link>
+      <description>미국 정부가 국가 안보를 명분으로 최첨단 인공지능(AI) 모델의 공개와 활용 범위를 직접 조율하면서 정부와 AI 기업 간 긴장이 이어지고 있다. 앤트로픽은 최신 모델의 제한적 제공을 재개하기로 했고, 오픈AI도 차세대 모델을 승인 고객에게 우선 제공하는 방안을 수용했다. 다만 업계에서는 정부 개입이 상시 관행으로 굳어져서는 안 된다는 지적도 나온다.</description>
+      <pubDate>Sun, 28 Jun 2026 11:37:37 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260628000064">전자신문 IT</source>
+      <guid isPermaLink="false">b8692c6174e5655616478d7dd04009ba</guid>
+    </item>
+    <item>
+      <title>MS·오픈AI·앤트로픽 “좋은 모델만으론 부족”…젠스파크와 AI 에이전트 동맹</title>
+      <link>https://www.etnews.com/20260628000061</link>
+      <description>“인공지능(AI) 모델 회사들이 엔진을 만든다면 젠스파크는 그 엔진을 얹은 자동차를 만들어 사용자를 목적지까지 데려가는 회사입니다.” (웬 상 젠스파크 최고운영책임자·COO) “오픈AI가 지능을 만들면 수많은 스타트업이 그 지능을 사용하는 애플리케이션을 만듭니다.</description>
+      <pubDate>Sun, 28 Jun 2026 11:13:18 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260628000061">전자신문 IT</source>
+      <guid isPermaLink="false">7cf69970226481bbcafe9e0016d7caae</guid>
+    </item>
+    <item>
+      <title>'3대 메가프로젝트' 대한민국 산업생태계 바꾼다…정부 전주기 지원체계에 성패 달려</title>
+      <link>https://www.etnews.com/20260628000078</link>
+      <description>인공지능(AI) 대전환 시대를 맞아 대한민국 산업 생태계가 기존 수도권을 넘어 '전략산업 다극화' 체제로 확장한다. 정부와 산업계는 29일 이를 뒷받침할 '대한민국 대도약 3대 메가프로젝트'를 발표한다. 반도체·인공지능(AI)·에너지를 중심으로, 호남권에만 1000조원 수준 대규모 투자가 예상된다.</description>
+      <pubDate>Sun, 28 Jun 2026 13:55:22 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260628000078">전자신문 IT</source>
+      <guid isPermaLink="false">cb7061b8bfa5e1b669f40b06a72a73e3</guid>
+    </item>
+    <item>
+      <title>[영화 속 AI윤리]  AI는 왜 인간을 해치면서도 ‘보호’한다고 말하는가</title>
+      <link>https://zdnet.co.kr/view/?no=20260628131540</link>
+      <description>[지디넷코리아]1. 기(起): 우리는 지금 같은 말을 하고 있는가?‘안전하다는 말은 무엇을 뜻하는가’라는 질문은 그 자체로 이미 하나의 함정이다. 왜냐하면 우리는 대개 그 단어가 충분히 명확하다고 믿으면서 사용하지만 정작 그 의미가 누구의 언어게임 안에서 작동하고 있는지는 묻지 않기 때문이다.</description>
+      <pubDate>Sun, 28 Jun 2026 13:15:40 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260628131540">ZDNet Korea</source>
+      <guid isPermaLink="false">f842b0d14cb14a36877caeb2975542c3</guid>
+    </item>
+    <item>
+      <title>“AI로 생산성 10배 향상”…AWS 등 빅테크, 개발인력 재편 본격화</title>
+      <link>https://www.etnews.com/20260628000073</link>
+      <description>인공지능(AI)이 코드 작성과 테스트·문서화 등 반복 업무를 빠르게 흡수하면서 빅테크 기업 개발조직 운영 방식이 바뀌고 있다. AI를 활용해 보다 적은 인원으로 더 많은 업무를 수행하며 개인당 생산성을 높이는 모양새다.</description>
+      <pubDate>Sun, 28 Jun 2026 12:10:38 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260628000073">전자신문 IT</source>
+      <guid isPermaLink="false">a93d4335a442bb06c29a647cc89cbed3</guid>
+    </item>
+    <item>
+      <title>[정유신의 핀테크스토리]스페이스X 이후, 월가가 우주 데이터와 AI에 베팅하는 이유</title>
+      <link>https://www.etnews.com/20260628000071</link>
+      <description>스페이스X 상장은 우주산업이 더 이상 정부 예산과 국가 프로젝트에만 의존하는 영역이 아님을 보여준다. 특히 상장 직후 스페이스X가 글로벌 시가총액 최상위권에 진입한 것은 단지 한 기업의 성공이 아니라, 우주 인프라와 데이터의 미래 가치에 대한 월가의 기대를 상징한다.</description>
+      <pubDate>Sun, 28 Jun 2026 12:06:51 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260628000071">전자신문 IT</source>
+      <guid isPermaLink="false">d1053ce78590a53b06a70e2bb137432f</guid>
+    </item>
+    <item>
+      <title>춘천 기업혁신파크, 의료데이터 기반 'AI 리빙랩' 구축 나선다</title>
+      <link>https://www.etnews.com/20260626000051</link>
+      <description>춘천 기업혁신파크가 지역 대학병원의 의료데이터를 기반으로 정밀의료 데이터 플랫폼을 구축하고 이를 활용한 AI 기반 의료·바이오 산업 생태계 조성에 나선다. 춘천 기업혁신파크는 지난 26일 강원대학교 미래도서관 대회의실에서 열린 제4차 바이오테크 혁신포럼에서 질환별 정밀의료 데이터 플랫폼 구축과 'AI 리빙랩(AI Living Lab)' 조성 구상을 제시했다.</description>
+      <pubDate>Sun, 28 Jun 2026 12:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260626000051">전자신문 IT</source>
+      <guid isPermaLink="false">e09a02a64658980102f6a892dea1ada2</guid>
+    </item>
+    <item>
+      <title>스페이스X, 내달 7일 나스닥100 편입</title>
+      <link>https://www.etnews.com/20260628000052</link>
+      <description>일론 머스크가 이끄는 우주·인공지능(AI) 기업 스페이스X가 내달 7일 기술주 중심의 나스닥 100 지수에 편입된다. 나스닥은 26일(현지시간) 공시를 통해 스페이스X가 내달 7일부터 나스닥 100 지수 구성 종목에 포함한다고 발표했다. 나스닥 100은 나스닥 시장에 상장된 비금융 기업 가운데 시가총액이 큰 100개 종목으로 구성되는 대표 지수다.</description>
+      <pubDate>Sun, 28 Jun 2026 10:47:45 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260628000052">전자신문 IT</source>
+      <guid isPermaLink="false">9700ab39b6e2c31746967bf50ad0ac52</guid>
+    </item>
+    <item>
+      <title>SK, 'K-AI 얼라이언스' 50개사로 확대…“글로벌 네트워크 강화”</title>
+      <link>https://www.etnews.com/20260628000049</link>
+      <description>SK가 주도해 결성한 인공지능(AI) 기업 연합체 'K-AI 얼라이언스'가 미국에서 글로벌 사업 기회를 모색했다. SK AI위원회는 K-AI 얼라이언스가 지난 26일 미국 실리콘밸리에서 '유나이트 2026'을 개최했다고 28일 밝혔다.</description>
+      <pubDate>Sun, 28 Jun 2026 10:30:41 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260628000049">전자신문 IT</source>
+      <guid isPermaLink="false">3fbcd0065987d22d8a86376b4351430b</guid>
+    </item>
+    <item>
+      <title>1분기 국내 프리미엄 폰 비중 70% 이상 고공행진 지속</title>
+      <link>https://www.etnews.com/20260626000098</link>
+      <description>올 1분기 국내 스마트폰 시장 프리미엄폰 비중이 70%를 넘어섰다. 제조사들이 수익성이 높은 플래그십과 고용량 모델 판매에 집중하고, 소비자도 교체 주기를 늘리는 대신 고가 제품을 선택하는데 따라 프리미엄폰 선호 형상이 대세로 자리잡고 있다.</description>
+      <pubDate>Sun, 28 Jun 2026 10:30:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260626000098">전자신문 IT</source>
+      <guid isPermaLink="false">09a747d4526cd87bcf2e574202a21841</guid>
+    </item>
+    <item>
+      <title>LG스마트코티지, B2B 맞춤형 20평대 신제품 출시</title>
+      <link>https://www.etnews.com/20260628000035</link>
+      <description>LG전자가 모듈러 주택 'LG스마트코티지' 제품군을 다각화한다. 20평대 모델 2종을 추가하고 가전과 IoT기기 등을 선택할 수 있도록 옵션 체계를 세분화했다. LG전자가 출시하는 20평대 단층형 모델은 'MONO Core 72(면적 72.9㎡, 약 22평)'와 'MONO Core 82(면적 82.1㎡, 약 24평)'다.</description>
+      <pubDate>Sun, 28 Jun 2026 10:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260628000035">전자신문 IT</source>
+      <guid isPermaLink="false">5ccd767407043dc60d31936346ad9f3b</guid>
+    </item>
+    <item>
+      <title>DSpark: Speculative decoding을 활용한 LLM 추론 가속화 [pdf]</title>
+      <link>https://news.hada.io/topic?id=30902</link>
+      <description>DSpark: 준자기회귀(semi-autoregressive) 생성과 신뢰도 스케줄링을 결합한 추측 디코딩(speculative decoding) 프레임워크 병렬 드래프터(parallel drafter) 가 한 번의 순전파로 긴 토큰 블록을 제안하지만 토큰 간 의존성 부재로 후반부 수락률 급감(acceptance decay)...</description>
+      <pubDate>Sun, 28 Jun 2026 09:35:01 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30902">GeekNews</source>
+      <guid isPermaLink="false">dffd5242e92898beb01037942838a21d</guid>
+    </item>
     <item>
       <title>오픈 웨이트 LLM과 폐쇄형 LLM의 격차</title>
       <link>https://news.hada.io/topic?id=30896</link>
@@ -322,141 +457,6 @@
       <category>news</category>
       <source url="https://www.aitimes.com/news/articleView.html?idxno=212092">AI Times</source>
       <guid isPermaLink="false">bbb23853c155f4099cd53c8c130be1d5</guid>
-    </item>
-    <item>
-      <title>6백만원대 저가형 휴머노이드 로봇 등장…유니트리 'R1'</title>
-      <link>https://www.etnews.com/20260625000421</link>
-      <description>중국 로봇 기업 유니트리 로보틱스가 저가형 휴머노이드 로봇 R1의 출고가를 약 769만원에서 679만원으로 인하하고, 예약 판매에서 즉시 구매 가능한 방식으로 전환했습니다. R1은 약 25kg급 경량 휴머노이드 로봇으로 멀티모달 LLM 기반 AI 시스템이 탑재됐으며 26개 관절을 갖추고 있습니다.</description>
-      <pubDate>Fri, 26 Jun 2026 06:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260625000421">전자신문 IT</source>
-      <guid isPermaLink="false">70def60f12f46194263ac4d02d7b4bae</guid>
-    </item>
-    <item>
-      <title>심혈관 건강 안 좋은 임신부, 아이 발달 지연 가능성 높다</title>
-      <link>https://www.etnews.com/20260625000394</link>
-      <description>임신 기간 여성의 건강 상태와 신체적 변화가 아이의 성장과 발달에 장기간 영향을 미칠 수 있다는 연구 결과가 나왔다. 23일(현지시간) 뉴욕포스트에 따르면 미국 노스웰헬스 카츠 여성건강연구소의 에벨리나 그레이버 박사는 “임신 중 발생한 일은 출산과 함께 사라지는 것이 아니다”며 “그 시기의 건강 상태는 산모는 물론 자녀의 미래에도 지속적인 영향을 남길 수 있다”고 말했다.</description>
-      <pubDate>Fri, 26 Jun 2026 06:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260625000394">전자신문 IT</source>
-      <guid isPermaLink="false">7e8b8f3db2777df24f0b6aece382d637</guid>
-    </item>
-    <item>
-      <title>AI 투자자들이 주목한 젠스파크…"엔터프라이즈 시장 바꿀 기업"</title>
-      <link>https://zdnet.co.kr/view/?no=20260626013347</link>
-      <description>[지디넷코리아][팔로알토(미국)=한정호 기자] 인공지능(AI) 에이전트가 실제 기업 업무를 수행하는 단계로 진화하면서 'AI 워크스페이스' 플랫폼을 서비스하는 젠스파크가 주목을 받고 있다.</description>
-      <pubDate>Fri, 26 Jun 2026 01:39:42 +0900</pubDate>
-      <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260626013347">ZDNet Korea</source>
-      <guid isPermaLink="false">31f1c2e6e5494bda200cd45b17d09a03</guid>
-    </item>
-    <item>
-      <title>Krea 2: 오픈 가중치 12B 이미지 모델 기술 보고서</title>
-      <link>https://news.hada.io/topic?id=30825</link>
-      <description>Krea 2는 하나의 polished default보다 창작 탐색 을 중시하는 이미지 생성 파운데이션 모델로, 모델 가중치와 추론을 permissive license로 공개함 학습 과정은 pretraining → midtraining → SFT → preference optimization → RL 로 이어지며, 데이터 큐레이션·...</description>
-      <pubDate>Fri, 26 Jun 2026 00:50:43 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30825">GeekNews</source>
-      <guid isPermaLink="false">92164caf682c6bf009ef0511ae0d01fc</guid>
-    </item>
-    <item>
-      <title>구글 엔지니어 "GLM-5.2, 美 모델 증류 없이도 미토스급 간다"</title>
-      <link>https://zdnet.co.kr/view/?no=20260625205825</link>
-      <description>[지디넷코리아]중국 Z.ai(지푸AI)의 오픈소스 모델 GLM-5.2가 클로드 오퍼스(Claude Opus 4.8)에 필적하는 코딩 성능으로 주목받고 있다.</description>
-      <pubDate>Thu, 25 Jun 2026 20:58:25 +0900</pubDate>
-      <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260625205825">ZDNet Korea</source>
-      <guid isPermaLink="false">42c352e12f8b122ee799cfebf24d85a6</guid>
-    </item>
-    <item>
-      <title>SKT, SK하이닉스 美 'AI 컴퍼니'에 7384억원 투자…“신규 사업 기회 발굴”</title>
-      <link>https://www.etnews.com/20260625000429</link>
-      <description>SK텔레콤이 SK하이닉스가 미국에 설립한 인공지능(AI) 투자·솔루션 법인에 7384억원을 투자한다. AI 생태계에서 신규 사업 기회를 발굴하고, SK하이닉스와 AI 사업 협력을 확대한다. SK텔레콤은 미국 소재 계열회사인 SK 하이닉스 낸드 프로덕트 솔루션 신주 취득을 위한 출자 약정을 체결했다고 25일 공시했다.</description>
-      <pubDate>Thu, 25 Jun 2026 19:04:25 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260625000429">전자신문 IT</source>
-      <guid isPermaLink="false">0b3a6b1324de61d055092eaf2a5ebd85</guid>
-    </item>
-    <item>
-      <title>Reid Hoffman “SpaceX는 AI 회사가 아니고, xAI는 완전한 난장판”</title>
-      <link>https://news.hada.io/topic?id=30823</link>
-      <description>Reid Hoffman은 SpaceX의 AI 행보를 시장가치로 AI 회사를 사들여 관련성을 확보하려는 전략 으로 해석했고, xAI는 기반 모델 구축에서 “완전한 난장판”이며 세 번째 재시작 상태라고 봄 xAI는 2026년 5월까지 원래 공동창업자 11명 전원 이 떠났고, Grok 모델은 A...</description>
-      <pubDate>Thu, 25 Jun 2026 21:12:39 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30823">GeekNews</source>
-      <guid isPermaLink="false">3b60aaa1ac28dc7e4f3c80fe4219e9ee</guid>
-    </item>
-    <item>
-      <title>[플로우 AX 페스타] 플로우, 까다로운 공공 환경에서 AX 표준으로</title>
-      <link>https://www.etnews.com/20260625000271</link>
-      <description>국내 주요 공공기관과 민간 기업이 '플로우 AX 페스타 2026'에서 협업 툴 '플로우'를 기반으로 구현한 인공지능 전환(AX) 성공 사례를 공유했다. 단순한 디지털 전환(DX)을 넘어, 인공지능(AI)이 업무 과정을 직접 수행하고 최적화하는 지능형 업무 환경으로의 실질적인 로드맵을 제시했다. 한국가스공사는 보안과 혁신이라는 상충하는 과제를 '하이브리드 AI 모델'로 해결했다.</description>
-      <pubDate>Thu, 25 Jun 2026 17:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260625000271">전자신문 IT</source>
-      <guid isPermaLink="false">040fca809b0918717595a3672d1bb34a</guid>
-    </item>
-    <item>
-      <title>“단순 B2B SaaS의 시대는 끝났다”...플로우, 'AI 워크 에이전트' 승부수</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=212121</link>
-      <description>AI 협업 플랫폼 \'플로우\' 운영사 마드라스체크(대표 이학준)는 25일 \'AX Festa 2026\'을 열고 \'AI 워크 에이전트\' 플랫폼으로 전환을 선언했다.지난 11년간 국내 협업툴 시장 1위를 지켜온 이학준 대표는 기존 B2B 서비스형소프트웨어(SaaS) 시장의 한계를 짚었다.이 대표는 \"대부분의 B2B SaaS 기업들이 방대한 데이터를 쌓고 있지만 그 가치의 90% 이상은…</description>
-      <pubDate>Thu, 25 Jun 2026 19:25:12 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=212121">AI Times</source>
-      <guid isPermaLink="false">5ec86ccf60f0d5e98d2decc79775362b</guid>
-    </item>
-    <item>
-      <title>남부발전, SPC·KOSA 손잡고 에너지 AI시대 연다</title>
-      <link>https://zdnet.co.kr/view/?no=20260625180308</link>
-      <description>[지디넷코리아]한국남부발전(대표 김준동)은 25일 한국소프트웨어저작권협회(SPC), 한국소프트웨어산업협회(KOSA)와 ‘발전 분야 AI-READY 데이터 거버넌스 수립 및 안전한 데이터 레이크하우스 구축을 위한 업무협약(MOU)’을 체결했다.이날 협약은 세 기관이 인공지능(AI) 기반 디지털 전환에 맞춰 공공 데이터 활용에 필요한 안전성과 신뢰성·법적 안정성을 확보하고, AI 활용 기반을…</description>
-      <pubDate>Thu, 25 Jun 2026 18:03:08 +0900</pubDate>
-      <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260625180308">ZDNet Korea</source>
-      <guid isPermaLink="false">040f55d628758c5f247017758f602a0d</guid>
-    </item>
-    <item>
-      <title>국민성장펀드, AI 전력망에 3700억 투입…에너지 인프라로 지원축 확장</title>
-      <link>https://www.etnews.com/20260625000425</link>
-      <description>국민성장펀드가 인공지능(AI) 데이터센터 전력 공급과 송전망, 반도체 소부장 분야에 3700억원 규모 자금지원 안건을 추가 승인했다. 지난달 AI 반도체와 데이터센터 등에 대규모 자금을 지원한 데 이어 첨단산업 성장의 병목으로 꼽히는 에너지 인프라 확충으로 지원 축을 넓혔다.</description>
-      <pubDate>Thu, 25 Jun 2026 18:02:41 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260625000425">전자신문 IT</source>
-      <guid isPermaLink="false">95398c09d5303b5024fc5c3c1cd662f3</guid>
-    </item>
-    <item>
-      <title>정부, 발전5사 통합준비반 꾸린다…내달 실무조직 출범</title>
-      <link>https://www.etnews.com/20260625000414</link>
-      <description>정부가 발전공기업 5사 통합을 위한 실무조직을 구성한다. 발전공기업 통폐합 연구용역 중간보고 이후 후속 작업에 속도를 내는 모습이다. 25일 기후에너지환경부에 따르면 한국남동발전·한국중부발전·한국서부발전·한국남부발전·한국동서발전에서 회사별 3명씩 모두 15명을 파견받아 7월 중 '통합준비반(가칭)'을 출범시키는 방안을 추진하고 있다.</description>
-      <pubDate>Thu, 25 Jun 2026 17:19:44 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260625000414">전자신문 IT</source>
-      <guid isPermaLink="false">ba691f35741285071b4c115eff01a50a</guid>
-    </item>
-    <item>
-      <title>삼성, '하이브리드 본딩 우위' 정량 입증…HBM4E 열 관리 우세</title>
-      <link>https://www.etnews.com/20260625000266</link>
-      <description>삼성전자가 차세대 고대역폭메모리(HBM4E) 패키징에서 추구하는 고적층 전략의 기술적 우수성을 객관적으로 입증했다. 하이브리드 구리 접합(Hybrid Copper Bonding, HCB) 기술이 기존 열압착 접합(Thermo-Compression Bonding, TCB) 대비 열 관리 측면에서 뚜렷한 우위를 가진다는 정량적 연구 결과를 처음으로 발표했다.</description>
-      <pubDate>Thu, 25 Jun 2026 17:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260625000266">전자신문 IT</source>
-      <guid isPermaLink="false">52c293076ad3bbf9502a1fcddea4f6e7</guid>
-    </item>
-    <item>
-      <title>[플로우 AX 페스타] “대화만 하는 협업 툴 시대 끝”…플로우, AI '워크 에이전트'로 AX 지형 바꾼다</title>
-      <link>https://www.etnews.com/20260625000244</link>
-      <description>“데이터를 쌓기만 하거나, 사람끼리만 대화하는 협업 도구의 시대는 끝났습니다.” 이학준 마드라스체크 대표는 25일 서울 여의도에서 개최한 '플로우 AX 페스타 2026'에서 기존 협업 도구 시장의 미래를 이같이 진단했다.</description>
-      <pubDate>Thu, 25 Jun 2026 17:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260625000244">전자신문 IT</source>
-      <guid isPermaLink="false">9454751aa21297753042bac360da0bcd</guid>
-    </item>
-    <item>
-      <title>Anthropic “Alibaba가 Claude AI 모델 역량을 불법 추출”</title>
-      <link>https://news.hada.io/topic?id=30820</link>
-      <description>미 상원 AI 청문회를 앞두고 Anthropic은 Alibaba 관련 활동이 자사를 겨냥한 동종 공격 중 최대 규모 였다고 주장함 핵심 방식은 더 강한 모델의 출력으로 약한 모델을 학습시키는 증류(distillation) 로, Anthropic은 중국이 Mythos Preview급 역량에 더 빨리 도달...</description>
-      <pubDate>Thu, 25 Jun 2026 19:36:25 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30820">GeekNews</source>
-      <guid isPermaLink="false">010806b666bbab96f9096c8318d9310c</guid>
     </item>
   </channel>
 </rss>

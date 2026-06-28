@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/trending.xml</link>
     <description>🔥 Trending — GitHub ML/AI repositories</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 28 Jun 2026 09:04:39 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 14:18:40 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>sums001/Deepseek-API — Deepseek 채팅을 OpenAI 호환 API로 리버스 엔지니어링했습니다. si를 통해 V4 및 R1 모델에 액세스</title>
+      <link>https://github.com/sums001/Deepseek-API</link>
+      <description>Deepseek 채팅을 OpenAI 호환 API로 리버스 엔지니어링했습니다. API 키나 청구 없이 간단한 REST 인터페이스를 통해 V4 및 R1 모델에 액세스하세요.</description>
+      <pubDate>Sat, 27 Jun 2026 22:56:21 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/sums001/Deepseek-API">GitHub Trending</source>
+      <guid isPermaLink="false">55b6c86e9c694facd9cfe1b990baa7ce</guid>
+    </item>
     <item>
       <title>eli-labz/Godcoder — 데스크탑을 위한 로컬 우선 오픈 소스 코딩 에이전트입니다. 자신의 LLM 키를 가져오세요. 당신의 코드는 계속 켜져 있습니다</title>
       <link>https://github.com/eli-labz/Godcoder</link>
@@ -448,15 +457,6 @@
       <category>trending</category>
       <source url="https://github.com/Lolner95/AIGX">GitHub Trending</source>
       <guid isPermaLink="false">44f46b61294e3d82f7be8f14d5bdd755</guid>
-    </item>
-    <item>
-      <title>lucidrains/poly-attention — Implementation of Poly-attention, a higher-order self-attention proposed by Chakrabarti et al. of Co</title>
-      <link>https://github.com/lucidrains/poly-attention</link>
-      <description>Implementation of Poly-attention, a higher-order self-attention proposed by Chakrabarti et al. of Columbia</description>
-      <pubDate>Sat, 20 Jun 2026 01:04:21 +0900</pubDate>
-      <category>trending</category>
-      <source url="https://github.com/lucidrains/poly-attention">GitHub Trending</source>
-      <guid isPermaLink="false">861544bc5bb6e899e487cd6ffd0f83e4</guid>
     </item>
   </channel>
 </rss>

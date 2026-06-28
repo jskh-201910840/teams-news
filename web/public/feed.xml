@@ -5,9 +5,162 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 28 Jun 2026 09:04:39 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 14:18:40 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>agentgateway: MCP와 A2A, LLM 트래픽을 하나로 묶는 AI 에이전트용 오픈소스 게이트웨이</title>
+      <link>https://discuss.pytorch.kr/t/agentgateway-mcp-a2a-llm-ai/10957</link>
+      <description>agentgateway 소개 AI 에이전트가 실제 업무에 투입되면서, 에이전트는 더 이상 혼자 동작하지 않습니다. 에이전트끼리 작업을 주고받고(agent-to-agent), 내부 시스템이나 도구를 호출하고(agent-to-tool), 외부 LLM에 추론을 요청합니다(agent-to-LLM).</description>
+      <pubDate>Sun, 28 Jun 2026 12:30:35 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/agentgateway-mcp-a2a-llm-ai/10957">PyTorch Korea</source>
+      <guid isPermaLink="false">aa62f798c46672fa81e5aab4921b3643</guid>
+    </item>
+    <item>
+      <title>KAIST, AI의 '디지털 연령차별' 정량 분석...</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212190</link>
+      <description>한국과학기술원(KAIST) 연구진이 생성 AI의 답변에 내재된 연령 관련 고정관념을 정량적으로 분석해 규명했다.</description>
+      <pubDate>Sun, 28 Jun 2026 12:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212190">AI Times</source>
+      <guid isPermaLink="false">108832317ee21b2b801c20bbe704ecd6</guid>
+    </item>
+    <item>
+      <title>“모델 경쟁 다음은 사용자 경험 경쟁”…글로벌 VC가 젠스파크에 베팅한 이유</title>
+      <link>https://www.etnews.com/20260628000074</link>
+      <description>글로벌 벤처캐피털(VC)이 생성형 인공지능(AI)이 기존 엔터프라이즈 소프트웨어 시장을 뛰어넘는 거대한 변화를 만들고 있다며 AI 워크스페이스 기업 젠스파크의 성장 가능성을 높게 평가했다.</description>
+      <pubDate>Sun, 28 Jun 2026 12:10:55 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260628000074">전자신문 IT</source>
+      <guid isPermaLink="false">f7419fadcec62af3205dee2c4953ca27</guid>
+    </item>
+    <item>
+      <title>대흥정보, 주차장 넘어 '도시 모빌리티 플랫폼'으로…“2년내 IPO 추진”</title>
+      <link>https://www.etnews.com/20260626000133</link>
+      <description>대흥정보가 공공 스마트주차 시장에서 축적한 데이터를 기반으로 도시 모빌리티 데이터 플랫폼 기업으로 도약한다. 전국 27개 지자체에 공영주차장 통합운영 시스템을 구축한 경험을 바탕으로 인공지능(AI) 실내 주차 유도 서비스와 구독형 서비스형소프트웨어(SaaS) 모델을 확대하고, 2~3년 내 기업공개(IPO)도 추진한다.</description>
+      <pubDate>Sun, 28 Jun 2026 12:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260626000133">전자신문 IT</source>
+      <guid isPermaLink="false">848c2d2764be239397f83030b6db7c0a</guid>
+    </item>
+    <item>
+      <title>최첨단 AI에 깊어진 美 정부 개입…업계 우려 확산</title>
+      <link>https://www.etnews.com/20260628000064</link>
+      <description>미국 정부가 국가 안보를 명분으로 최첨단 인공지능(AI) 모델의 공개와 활용 범위를 직접 조율하면서 정부와 AI 기업 간 긴장이 이어지고 있다. 앤트로픽은 최신 모델의 제한적 제공을 재개하기로 했고, 오픈AI도 차세대 모델을 승인 고객에게 우선 제공하는 방안을 수용했다. 다만 업계에서는 정부 개입이 상시 관행으로 굳어져서는 안 된다는 지적도 나온다.</description>
+      <pubDate>Sun, 28 Jun 2026 11:37:37 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260628000064">전자신문 IT</source>
+      <guid isPermaLink="false">b8692c6174e5655616478d7dd04009ba</guid>
+    </item>
+    <item>
+      <title>MS·오픈AI·앤트로픽 “좋은 모델만으론 부족”…젠스파크와 AI 에이전트 동맹</title>
+      <link>https://www.etnews.com/20260628000061</link>
+      <description>“인공지능(AI) 모델 회사들이 엔진을 만든다면 젠스파크는 그 엔진을 얹은 자동차를 만들어 사용자를 목적지까지 데려가는 회사입니다.” (웬 상 젠스파크 최고운영책임자·COO) “오픈AI가 지능을 만들면 수많은 스타트업이 그 지능을 사용하는 애플리케이션을 만듭니다.</description>
+      <pubDate>Sun, 28 Jun 2026 11:13:18 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260628000061">전자신문 IT</source>
+      <guid isPermaLink="false">7cf69970226481bbcafe9e0016d7caae</guid>
+    </item>
+    <item>
+      <title>sums001/Deepseek-API — Deepseek 채팅을 OpenAI 호환 API로 리버스 엔지니어링했습니다. si를 통해 V4 및 R1 모델에 액세스</title>
+      <link>https://github.com/sums001/Deepseek-API</link>
+      <description>Deepseek 채팅을 OpenAI 호환 API로 리버스 엔지니어링했습니다. API 키나 청구 없이 간단한 REST 인터페이스를 통해 V4 및 R1 모델에 액세스하세요.</description>
+      <pubDate>Sat, 27 Jun 2026 22:56:21 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/sums001/Deepseek-API">GitHub Trending</source>
+      <guid isPermaLink="false">55b6c86e9c694facd9cfe1b990baa7ce</guid>
+    </item>
+    <item>
+      <title>'3대 메가프로젝트' 대한민국 산업생태계 바꾼다…정부 전주기 지원체계에 성패 달려</title>
+      <link>https://www.etnews.com/20260628000078</link>
+      <description>인공지능(AI) 대전환 시대를 맞아 대한민국 산업 생태계가 기존 수도권을 넘어 '전략산업 다극화' 체제로 확장한다. 정부와 산업계는 29일 이를 뒷받침할 '대한민국 대도약 3대 메가프로젝트'를 발표한다. 반도체·인공지능(AI)·에너지를 중심으로, 호남권에만 1000조원 수준 대규모 투자가 예상된다.</description>
+      <pubDate>Sun, 28 Jun 2026 13:55:22 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260628000078">전자신문 IT</source>
+      <guid isPermaLink="false">cb7061b8bfa5e1b669f40b06a72a73e3</guid>
+    </item>
+    <item>
+      <title>[영화 속 AI윤리]  AI는 왜 인간을 해치면서도 ‘보호’한다고 말하는가</title>
+      <link>https://zdnet.co.kr/view/?no=20260628131540</link>
+      <description>[지디넷코리아]1. 기(起): 우리는 지금 같은 말을 하고 있는가?‘안전하다는 말은 무엇을 뜻하는가’라는 질문은 그 자체로 이미 하나의 함정이다. 왜냐하면 우리는 대개 그 단어가 충분히 명확하다고 믿으면서 사용하지만 정작 그 의미가 누구의 언어게임 안에서 작동하고 있는지는 묻지 않기 때문이다.</description>
+      <pubDate>Sun, 28 Jun 2026 13:15:40 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260628131540">ZDNet Korea</source>
+      <guid isPermaLink="false">f842b0d14cb14a36877caeb2975542c3</guid>
+    </item>
+    <item>
+      <title>“AI로 생산성 10배 향상”…AWS 등 빅테크, 개발인력 재편 본격화</title>
+      <link>https://www.etnews.com/20260628000073</link>
+      <description>인공지능(AI)이 코드 작성과 테스트·문서화 등 반복 업무를 빠르게 흡수하면서 빅테크 기업 개발조직 운영 방식이 바뀌고 있다. AI를 활용해 보다 적은 인원으로 더 많은 업무를 수행하며 개인당 생산성을 높이는 모양새다.</description>
+      <pubDate>Sun, 28 Jun 2026 12:10:38 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260628000073">전자신문 IT</source>
+      <guid isPermaLink="false">a93d4335a442bb06c29a647cc89cbed3</guid>
+    </item>
+    <item>
+      <title>[정유신의 핀테크스토리]스페이스X 이후, 월가가 우주 데이터와 AI에 베팅하는 이유</title>
+      <link>https://www.etnews.com/20260628000071</link>
+      <description>스페이스X 상장은 우주산업이 더 이상 정부 예산과 국가 프로젝트에만 의존하는 영역이 아님을 보여준다. 특히 상장 직후 스페이스X가 글로벌 시가총액 최상위권에 진입한 것은 단지 한 기업의 성공이 아니라, 우주 인프라와 데이터의 미래 가치에 대한 월가의 기대를 상징한다.</description>
+      <pubDate>Sun, 28 Jun 2026 12:06:51 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260628000071">전자신문 IT</source>
+      <guid isPermaLink="false">d1053ce78590a53b06a70e2bb137432f</guid>
+    </item>
+    <item>
+      <title>춘천 기업혁신파크, 의료데이터 기반 'AI 리빙랩' 구축 나선다</title>
+      <link>https://www.etnews.com/20260626000051</link>
+      <description>춘천 기업혁신파크가 지역 대학병원의 의료데이터를 기반으로 정밀의료 데이터 플랫폼을 구축하고 이를 활용한 AI 기반 의료·바이오 산업 생태계 조성에 나선다. 춘천 기업혁신파크는 지난 26일 강원대학교 미래도서관 대회의실에서 열린 제4차 바이오테크 혁신포럼에서 질환별 정밀의료 데이터 플랫폼 구축과 'AI 리빙랩(AI Living Lab)' 조성 구상을 제시했다.</description>
+      <pubDate>Sun, 28 Jun 2026 12:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260626000051">전자신문 IT</source>
+      <guid isPermaLink="false">e09a02a64658980102f6a892dea1ada2</guid>
+    </item>
+    <item>
+      <title>스페이스X, 내달 7일 나스닥100 편입</title>
+      <link>https://www.etnews.com/20260628000052</link>
+      <description>일론 머스크가 이끄는 우주·인공지능(AI) 기업 스페이스X가 내달 7일 기술주 중심의 나스닥 100 지수에 편입된다. 나스닥은 26일(현지시간) 공시를 통해 스페이스X가 내달 7일부터 나스닥 100 지수 구성 종목에 포함한다고 발표했다. 나스닥 100은 나스닥 시장에 상장된 비금융 기업 가운데 시가총액이 큰 100개 종목으로 구성되는 대표 지수다.</description>
+      <pubDate>Sun, 28 Jun 2026 10:47:45 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260628000052">전자신문 IT</source>
+      <guid isPermaLink="false">9700ab39b6e2c31746967bf50ad0ac52</guid>
+    </item>
+    <item>
+      <title>SK, 'K-AI 얼라이언스' 50개사로 확대…“글로벌 네트워크 강화”</title>
+      <link>https://www.etnews.com/20260628000049</link>
+      <description>SK가 주도해 결성한 인공지능(AI) 기업 연합체 'K-AI 얼라이언스'가 미국에서 글로벌 사업 기회를 모색했다. SK AI위원회는 K-AI 얼라이언스가 지난 26일 미국 실리콘밸리에서 '유나이트 2026'을 개최했다고 28일 밝혔다.</description>
+      <pubDate>Sun, 28 Jun 2026 10:30:41 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260628000049">전자신문 IT</source>
+      <guid isPermaLink="false">3fbcd0065987d22d8a86376b4351430b</guid>
+    </item>
+    <item>
+      <title>1분기 국내 프리미엄 폰 비중 70% 이상 고공행진 지속</title>
+      <link>https://www.etnews.com/20260626000098</link>
+      <description>올 1분기 국내 스마트폰 시장 프리미엄폰 비중이 70%를 넘어섰다. 제조사들이 수익성이 높은 플래그십과 고용량 모델 판매에 집중하고, 소비자도 교체 주기를 늘리는 대신 고가 제품을 선택하는데 따라 프리미엄폰 선호 형상이 대세로 자리잡고 있다.</description>
+      <pubDate>Sun, 28 Jun 2026 10:30:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260626000098">전자신문 IT</source>
+      <guid isPermaLink="false">09a747d4526cd87bcf2e574202a21841</guid>
+    </item>
+    <item>
+      <title>LG스마트코티지, B2B 맞춤형 20평대 신제품 출시</title>
+      <link>https://www.etnews.com/20260628000035</link>
+      <description>LG전자가 모듈러 주택 'LG스마트코티지' 제품군을 다각화한다. 20평대 모델 2종을 추가하고 가전과 IoT기기 등을 선택할 수 있도록 옵션 체계를 세분화했다. LG전자가 출시하는 20평대 단층형 모델은 'MONO Core 72(면적 72.9㎡, 약 22평)'와 'MONO Core 82(면적 82.1㎡, 약 24평)'다.</description>
+      <pubDate>Sun, 28 Jun 2026 10:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260628000035">전자신문 IT</source>
+      <guid isPermaLink="false">5ccd767407043dc60d31936346ad9f3b</guid>
+    </item>
+    <item>
+      <title>DSpark: Speculative decoding을 활용한 LLM 추론 가속화 [pdf]</title>
+      <link>https://news.hada.io/topic?id=30902</link>
+      <description>DSpark: 준자기회귀(semi-autoregressive) 생성과 신뢰도 스케줄링을 결합한 추측 디코딩(speculative decoding) 프레임워크 병렬 드래프터(parallel drafter) 가 한 번의 순전파로 긴 토큰 블록을 제안하지만 토큰 간 의존성 부재로 후반부 수락률 급감(acceptance decay)...</description>
+      <pubDate>Sun, 28 Jun 2026 09:35:01 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30902">GeekNews</source>
+      <guid isPermaLink="false">dffd5242e92898beb01037942838a21d</guid>
+    </item>
     <item>
       <title>SIA(Self-Improving AI): 하네스와 모델 가중치를 함께 진화시키는 자기 개선 AI 에이전트 루프에 대한 연구 (feat. Hexo Labs)</title>
       <link>https://discuss.pytorch.kr/t/sia-self-improving-ai-ai-feat-hexo-labs/10950</link>
@@ -304,159 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260626000354">전자신문 IT</source>
       <guid isPermaLink="false">94edecb47b5d5c9e62935402415dc914</guid>
-    </item>
-    <item>
-      <title>EO-WM: 확률론적 지구 관측 예측을 위한 물리적 정보를 바탕으로 한 세계 모델</title>
-      <link>https://huggingface.co/papers/2606.27277</link>
-      <description>EO-WM은 다중 스펙트럼 지구 관측 예측을 위한 비디오 확산 변환기로, 물리적 정보에 기반한 조건화 프레임워크를 통합하여 지표면 역학에서 날씨로 인한 불확실성을 더 잘 포착합니다.…</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.27277">Hugging Face Papers</source>
-      <guid isPermaLink="false">1053b1532d73147a452f65a4e90cd6db</guid>
-    </item>
-    <item>
-      <title>장기간 추론을 위한 정보 인식 KV 캐시 압축</title>
-      <link>https://huggingface.co/papers/2606.26875</link>
-      <description>InfoKV는 주의 가중치와 함께 정보 이론 신호를 통합하여 LLM의 장기 컨텍스트 추론을 향상시키는 엔트로피 인식 KV 캐시 압축 프레임워크입니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.26875">Hugging Face Papers</source>
-      <guid isPermaLink="false">7b322cb91ebefd9eb09d746a2d4b204b</guid>
-    </item>
-    <item>
-      <title>Nico의 데이터룸, Papermark 코드 도용 의혹 제기</title>
-      <link>https://news.hada.io/topic?id=30858</link>
-      <description>Nico의 데이터룸 제품 이 직접 만든 결과물이 아니라 Papermark의 오픈소스 및 엔터프라이즈 라이선스 코드에서 가져온 것 같다는 의혹이 공개됨 핵심 쟁점은 저작권과 라이선스 침해 여부이며, 문제 제기자는 제품을 즉시 내려야 한다고 요구함 이 사안은...</description>
-      <pubDate>Fri, 26 Jun 2026 23:35:05 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30858">GeekNews</source>
-      <guid isPermaLink="false">f1d070155d90869d488492b330a1caf4</guid>
-    </item>
-    <item>
-      <title>Elephant Agent: 개인 모델 중심의 자기 진화형 AI 에이전트와 호기심 기반 학습 루프</title>
-      <link>https://discuss.pytorch.kr/t/elephant-agent-ai/10280</link>
-      <description>Elephant Agent 소개 Elephant Agent는 "코끼리는 잊지 않는다" 라는 오랜 속담에서 출발한, Personal-Model-first 자기 진화형(self-evolving) AI 에이전트입니다. 이 프로젝트가 풀려고 하는 문제는 단순합니다. 대부분의 AI 어시스턴트는 매 대화에서 사용자가 처음부터 다시 설명하기를 기대합니다.</description>
-      <pubDate>Fri, 26 Jun 2026 21:30:45 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/elephant-agent-ai/10280">PyTorch Korea</source>
-      <guid isPermaLink="false">e5a01e48661a38f0d5346ead6654e459</guid>
-    </item>
-    <item>
-      <title>도전 과제 실행: 익숙한 환경을 넘어 에이전트의 기능 재평가</title>
-      <link>https://huggingface.co/papers/2606.14397</link>
-      <description>웹 기반 벤치마크는 까다로운 시나리오 전반에 걸쳐 에이전트 일반화를 평가하여 시간 인식, 그래픽 이해 및 3D에서 현재 에이전트 시스템과 인간 성능 사이의 상당한 격차를 드러냅니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.14397">Hugging Face Papers</source>
-      <guid isPermaLink="false">c2a599fe83f831ff1df65777d992d2a4</guid>
-    </item>
-    <item>
-      <title>KRISS-의무사 "군 의료영상 품질관리 체계 구축"</title>
-      <link>https://zdnet.co.kr/view/?no=20260626195528</link>
-      <description>[지디넷코리아]한국표준과학연구원(KRISS, 원장 이호성)은 26일 국군의무사령부(사령관 이상호)와 ‘군 의료영상 정량적 품질관리 체계 구축’을 위한 업무협약을 체결했다.KRISS 의료영상 측정표준 기술을 전국 군 병원 MRI(자기공명영상)·CT(컴퓨터단층촬영) 장비에 적용하고, 장비별 정량값의 차이를 체계적으로 측정·관리하기 위해 협약했다.KRISS는 ‘의료영상기기용 유수분비율 표준물질’…</description>
-      <pubDate>Fri, 26 Jun 2026 19:55:28 +0900</pubDate>
-      <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260626195528">ZDNet Korea</source>
-      <guid isPermaLink="false">a5e9fed5794af5ba8b97d3061d047308</guid>
-    </item>
-    <item>
-      <title>언어 모델 결합은 언제 도움이 됩니까? 67개 프론티어 모델 전반에 걸쳐 라우팅, 투표 및 에이전트 혼합에 대한 공동 실패 한도</title>
-      <link>https://huggingface.co/papers/2606.27288</link>
-      <description>다중 모델 시스템은 개별 상관 관계 또는 앙상블 전략에 관계없이 모든 모델이 동시에 실패하는 비율에 따라 결정되는 근본적인 정확도 한계에 직면합니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.27288">Hugging Face Papers</source>
-      <guid isPermaLink="false">6aec256b2a2a23f061f66e287be6b119</guid>
-    </item>
-    <item>
-      <title>AI에게 주도권을 빼앗기지 마세요 — 두 번의 자동화 실패에서 배운 것</title>
-      <link>https://news.hada.io/topic?id=30855</link>
-      <description>Claude Code로 자동매매 시스템과 블로그 자동발행을 직접 운영하다 겪은 두 번의 실패에서 출발한 글입니다. 자동매매: 매매 도메인 지식이 부족해 AI가 짠 코드를 검증하지 못했고, 결과는 0승 8패·자산 3% 손실 블로그 자동발행: 검수 없이 내보낸 부정확한 글로 독자 피드백을 받음 ...</description>
-      <pubDate>Fri, 26 Jun 2026 20:49:18 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30855">GeekNews</source>
-      <guid isPermaLink="false">efb2c347f6c68b9de5320ad9f7e6fdaa</guid>
-    </item>
-    <item>
-      <title>agentic-ai-prompt-research: 에이전트형 AI 코딩 도구의 프롬프트 구조를 재구성한 연구</title>
-      <link>https://discuss.pytorch.kr/t/agentic-ai-prompt-research-ai/10728</link>
-      <description>agentic-ai-prompt-research 소개 Claude Code 같은 에이전트형 AI 코딩 어시스턴트는 한 번의 요청을 처리하기 위해 시스템 프롬프트를 조립하고, 여러 하위 에이전트를 조율하고, 도구 호출을 자동으로 승인할지 판단합니다. 이 과정의 상당 부분은 사용자에게 보이지 않습니다.</description>
-      <pubDate>Fri, 26 Jun 2026 17:30:45 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/agentic-ai-prompt-research-ai/10728">PyTorch Korea</source>
-      <guid isPermaLink="false">86a580a81af6fa95eea26e7aab9fc010</guid>
-    </item>
-    <item>
-      <title>OpenHanako: 기억과 인격을 가진 멀티 에이전트 개인 AI 어시스턴트 데스크톱 앱</title>
-      <link>https://discuss.pytorch.kr/t/openhanako-ai/10371</link>
-      <description>OpenHanako 소개 OpenHanako는 코드 편집기 안에 갇혀 있는 AI 에이전트를 일상 컴퓨터 사용 환경 전체로 끌어내기 위한 데스크톱 앱입니다. 명령줄에 익숙하지 않은 사용자도 그래픽 인터페이스로 에이전트와 대화하고 파일을 다루며 웹을 검색할 수 있도록, Electron 기반의 단일 애플리케이션으로 패키지된 점이 특징입니다.</description>
-      <pubDate>Fri, 26 Jun 2026 19:30:08 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/openhanako-ai/10371">PyTorch Korea</source>
-      <guid isPermaLink="false">90f9d82ccd84c75aca04d38192710e75</guid>
-    </item>
-    <item>
-      <title>앤트로픽, 'AI 비용 과다 청구' 논란…"실패한 작업도 돈 받았다"</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=212155</link>
-      <description>생성 AI 서비스 이용이 빠르게 확산되는 가운데 일부 기업 고객들이 앤트로픽과 오픈AI의 AI 서비스 이용 요금을 실제 사용량보다 더 많이 청구받았다는 주장이 제기됐다.</description>
-      <pubDate>Fri, 26 Jun 2026 18:15:15 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=212155">AI Times</source>
-      <guid isPermaLink="false">e9607392848063c3b08dfad8cdf00a27</guid>
-    </item>
-    <item>
-      <title>"AI가 알아서 학습"…아이벡스, 고객 20여곳 확보</title>
-      <link>https://zdnet.co.kr/view/?no=20260626162428</link>
-      <description>[지디넷코리아]산업용 피지컬 인공지능(AI) 기업 아이벡스가 스스로 재학습하는 인공지능(AI) 솔루션으로 고객 확보에 속도를 낸다. 현재 확보한 고객은 20여곳이다. 아이벡스는 AI와 산업용 로봇을 결합해 제품 이상 유무를 파악하고, 정밀 공정을 수행하는 솔루션을 제공한다.</description>
-      <pubDate>Fri, 26 Jun 2026 18:39:40 +0900</pubDate>
-      <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260626162428">ZDNet Korea</source>
-      <guid isPermaLink="false">1c00980630abe83d299281dd8e27fd06</guid>
-    </item>
-    <item>
-      <title>뉴로모픽(neuromorphic) 컴퓨팅 선언문: 메모리 물리학이 지배하는 Post-von Neumann 시대현실 문제 제기</title>
-      <link>https://discuss.pytorch.kr/t/neuromorphic-post-von-neumann/10948</link>
-      <description>출처: The Neuromorphic Manifesto: - by Hellbound 현재 생성 AI는 수조 개 파라미터로 폭발적으로 성장하면서 에너지 위기를 초래하고 있습니다. von Neumann 아키텍처(프로세서와 메모리가 분리된 구조)는 데이터 이동에 막대한 전력을 소모해 데이터센터가 전력망을 갉아먹고 지구를 태우는 상황입니다. 이는 지속 불가능합니다.</description>
-      <pubDate>Fri, 26 Jun 2026 18:06:44 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/neuromorphic-post-von-neumann/10948">PyTorch Korea</source>
-      <guid isPermaLink="false">0dc77b022c379d02798869c8645ccef3</guid>
-    </item>
-    <item>
-      <title>PenghaoJiang/auto-paper-collecter — 📚🔭 개인 연구 레이더 — 최신 논문을 자동으로 수집하는 LLM 기반 도구</title>
-      <link>https://github.com/PenghaoJiang/auto-paper-collecter</link>
-      <description>📚🔭 개인 연구 레이더 — arXiv / Crossref / Semantic Scholar / GitHub / RSS에서 키워드에 대한 최신 논문을 자동 집계하는 LLM 기반 도구입니다.</description>
-      <pubDate>Fri, 26 Jun 2026 15:08:02 +0900</pubDate>
-      <category>trending</category>
-      <source url="https://github.com/PenghaoJiang/auto-paper-collecter">GitHub Trending</source>
-      <guid isPermaLink="false">4a1e5a3b95727af7e26327653ed2c233</guid>
-    </item>
-    <item>
-      <title>JetSpec: 병렬 트리 제도를 통해 추측 디코딩의 확장 한도 깨기</title>
-      <link>https://huggingface.co/papers/2606.18394</link>
-      <description>JetSpec은 효율적인 전방 초안 작성과 인과 조건 조정을 결합하여 다양한 벤치마크에서 LLM 추론 속도와 수용률을 향상시키는 추측적 디코딩 프레임워크입니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.18394">Hugging Face Papers</source>
-      <guid isPermaLink="false">94b45dad9f49f00798f8644ec164401d</guid>
-    </item>
-    <item>
-      <title>BuilderIO/skills: 코딩 에이전트를 위한 작고 조합 가능한 스킬 모음</title>
-      <link>https://discuss.pytorch.kr/t/builderio-skills/10894</link>
-      <description>BuilderIO/skills 소개 AI 코딩 에이전트에 더 많은 자율성을 주는 흐름이 자리 잡으면서, 에이전트의 행동을 규율하는 방식도 둘로 갈립니다. 하나는 모든 단계를 촘촘히 규정한 거대한 프로세스 프레임워크를 씌우는 것이고, 다른 하나는 판단이 중요한 지점에만 가벼운 규칙을 더해 모델이 스스로 생각할 여백을 남기는 것입니다.</description>
-      <pubDate>Fri, 26 Jun 2026 15:30:09 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/builderio-skills/10894">PyTorch Korea</source>
-      <guid isPermaLink="false">d9071a2025a65aad7fa391ee84d8043f</guid>
-    </item>
-    <item>
-      <title>cc-skills-golang: AI 코딩 에이전트를 위한 프로덕션 Go 개발 스킬 모음</title>
-      <link>https://discuss.pytorch.kr/t/cc-skills-golang-ai-go/10833</link>
-      <description>cc-skills-golang 소개 AI 코딩 에이전트는 범용 지식은 풍부하지만, 특정 언어의 관례나 프로덕션 환경에서 통하는 세부 규칙까지는 일관되게 지키지 못하는 경우가 많습니다. 이를 보완하는 방법이 에이전트 스킬(agent skill)입니다. 스킬은 코딩 도우미에 도메인별 전문성을 더하는 재사용 가능한 지시 모음으로, 필요할 때만 로드되어 컨텍스트를 불필요하게 채우지 않습니다.</description>
-      <pubDate>Fri, 26 Jun 2026 13:30:47 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/cc-skills-golang-ai-go/10833">PyTorch Korea</source>
-      <guid isPermaLink="false">79dc362218668e5b7f4f265b70a7e9ce</guid>
     </item>
   </channel>
 </rss>

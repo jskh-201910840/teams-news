@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/community.xml</link>
     <description>💬 Community — PyTorch Korea discussions</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 28 Jun 2026 09:04:39 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 14:18:40 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>agentgateway: MCP와 A2A, LLM 트래픽을 하나로 묶는 AI 에이전트용 오픈소스 게이트웨이</title>
+      <link>https://discuss.pytorch.kr/t/agentgateway-mcp-a2a-llm-ai/10957</link>
+      <description>agentgateway 소개 AI 에이전트가 실제 업무에 투입되면서, 에이전트는 더 이상 혼자 동작하지 않습니다. 에이전트끼리 작업을 주고받고(agent-to-agent), 내부 시스템이나 도구를 호출하고(agent-to-tool), 외부 LLM에 추론을 요청합니다(agent-to-LLM).</description>
+      <pubDate>Sun, 28 Jun 2026 12:30:35 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/agentgateway-mcp-a2a-llm-ai/10957">PyTorch Korea</source>
+      <guid isPermaLink="false">aa62f798c46672fa81e5aab4921b3643</guid>
+    </item>
     <item>
       <title>SIA(Self-Improving AI): 하네스와 모델 가중치를 함께 진화시키는 자기 개선 AI 에이전트 루프에 대한 연구 (feat. Hexo Labs)</title>
       <link>https://discuss.pytorch.kr/t/sia-self-improving-ai-ai-feat-hexo-labs/10950</link>
@@ -448,15 +457,6 @@
       <category>community</category>
       <source url="https://discuss.pytorch.kr/t/collaborator-ai/10704">PyTorch Korea</source>
       <guid isPermaLink="false">e68e6c5c21cbeb7144ce4f37dabbb04b</guid>
-    </item>
-    <item>
-      <title>LiteParse: 로컬에서 PDF와 문서를 빠르고 가볍게 파싱하는 오픈소스 도구</title>
-      <link>https://discuss.pytorch.kr/t/liteparse-pdf/10524</link>
-      <description>LiteParse 소개 문서를 LLM이나 RAG 파이프라인에 넣으려면, 먼저 PDF 같은 원본을 깨끗한 텍스트와 구조로 바꾸는 파싱 단계가 필요합니다. 이때 많은 파싱 도구가 클라우드 API나 별도의 LLM 기능에 의존하는데, LiteParse는 그런 의존성 없이 "fast and light" 만을 목표로 삼은 독립형 오픈소스 PDF 파싱 도구입니다.</description>
-      <pubDate>Sat, 20 Jun 2026 18:30:10 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/liteparse-pdf/10524">PyTorch Korea</source>
-      <guid isPermaLink="false">cc78c3336bd72f85cd460bfa0c7e3334</guid>
     </item>
   </channel>
 </rss>
