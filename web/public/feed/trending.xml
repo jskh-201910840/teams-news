@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/trending.xml</link>
     <description>🔥 Trending — GitHub ML/AI repositories</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 29 Jun 2026 06:03:39 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 08:04:37 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Emmimal/context-graph-benchmark — 다중 에이전트 LLM 시스템을 위한 순수 Python 구조 메모리 벤치마크 — 컨텍스트 그래프 대 벡터 RAG</title>
+      <link>https://github.com/Emmimal/context-graph-benchmark</link>
+      <description>다중 에이전트 LLM 시스템을 위한 순수 Python 구조 메모리 벤치마크 — 컨텍스트 그래프 vs 벡터 RAG vs 원시 기록 덤프, 5가지 시나리오, 18단계 쿼리, API 호출 없음.</description>
+      <pubDate>Sat, 27 Jun 2026 11:13:43 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/Emmimal/context-graph-benchmark">GitHub Trending</source>
+      <guid isPermaLink="false">2b23b841595b32b67bab0829fd8e6e71</guid>
+    </item>
     <item>
       <title>Aliu-AiRobot/ESEILANE — AI, LLM 및 GraphRAG용 고성능 지식 그래프 엔진 — 차세대 o를 위해 구축됨</title>
       <link>https://github.com/Aliu-AiRobot/ESEILANE</link>
@@ -448,15 +457,6 @@
       <category>trending</category>
       <source url="https://github.com/LichAmnesia/awesome-ad-video-prompts">GitHub Trending</source>
       <guid isPermaLink="false">e8a2a6131dc661b9956d12de3ee13d01</guid>
-    </item>
-    <item>
-      <title>moely-ai/claude-fable-5-prompt — A curated collection of Claude Fable 5 system prompts for developers and researchers. Discover more </title>
-      <link>https://github.com/moely-ai/claude-fable-5-prompt</link>
-      <description>A curated collection of Claude Fable 5 system prompts for developers and researchers. Discover more advanced prompt engineering tools at Moely AI.</description>
-      <pubDate>Mon, 15 Jun 2026 17:32:52 +0900</pubDate>
-      <category>trending</category>
-      <source url="https://github.com/moely-ai/claude-fable-5-prompt">GitHub Trending</source>
-      <guid isPermaLink="false">f62cba45dba18534587608e61f1261ad</guid>
     </item>
   </channel>
 </rss>

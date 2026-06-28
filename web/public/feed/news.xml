@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 29 Jun 2026 06:03:39 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 08:04:37 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>아시아 AI 스타트업들, Anthropic Mythos 대체 모델 출시</title>
+      <link>https://news.hada.io/topic?id=30915</link>
+      <description>미국 정부의 Mythos·Fable 5 접근 제한 이 길어지면서, 일본 Sakana AI와 중국 360이 각각 Fugu와 Tulongfeng/Yitianzhen으로 생긴 공백을 겨냥함 Sakana AI의 Fugu 는 Fable 5·Mythos Preview와 경쟁 가능한 모델로 소개되며, 여러 모델 API를 조율하는 에이전트용 ...</description>
+      <pubDate>Mon, 29 Jun 2026 07:44:13 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30915">GeekNews</source>
+      <guid isPermaLink="false">32da22943b5fc544f08c197ec96a3690</guid>
+    </item>
     <item>
       <title>김준기 래블업 CTO “풀스택 AI 인프라로 GPU 한계 넘는다”</title>
       <link>https://www.aitimes.com/news/articleView.html?idxno=212203</link>
@@ -448,15 +457,6 @@
       <category>news</category>
       <source url="https://zdnet.co.kr/view/?no=20260626162428">ZDNet Korea</source>
       <guid isPermaLink="false">1c00980630abe83d299281dd8e27fd06</guid>
-    </item>
-    <item>
-      <title>AI 3대 강국·R&amp;D 200조 투자…제6차 과기기본계획 확정</title>
-      <link>https://www.etnews.com/20260626000186</link>
-      <description>정부가 향후 5년간 200조원 이상을 연구개발(R&amp;D)에 투자하고 인공지능(AI) 3대 강국 도약을 목표로 한 국가 과학기술 청사진을 확정했다. 연구개발 행정 부담을 대폭 줄이고, 정부출연연구기관(출연연)의 연구과제중심제도(PBS) 폐지 후속 개편과 AI 대전환, 국가전략기술 육성 등을 통해 과학기술 혁신 체계를 전면 재편한다는 구상이다.</description>
-      <pubDate>Fri, 26 Jun 2026 13:12:24 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260626000186">전자신문 IT</source>
-      <guid isPermaLink="false">91a680df311018557324c4ee8aadcfdc</guid>
     </item>
   </channel>
 </rss>

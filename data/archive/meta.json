@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-29T06:03:39.851814+09:00",
-  "total": 520,
+  "generated_at": "2026-06-29T08:04:37.066827+09:00",
+  "total": 523,
   "sources": [
     {
       "slug": "huggingface",
@@ -16,12 +16,12 @@
     {
       "slug": "pytorch-korea",
       "name": "PyTorch Korea",
-      "count": 60
+      "count": 61
     },
     {
       "slug": "github-trending",
       "name": "GitHub Trending",
-      "count": 56
+      "count": 57
     },
     {
       "slug": "zdnet-korea",
@@ -29,13 +29,13 @@
       "count": 34
     },
     {
-      "slug": "aitimes",
-      "name": "AI Times",
-      "count": 29
-    },
-    {
       "slug": "geeknews",
       "name": "GeekNews",
+      "count": 30
+    },
+    {
+      "slug": "aitimes",
+      "name": "AI Times",
       "count": 29
     },
     {
@@ -48,7 +48,7 @@
     {
       "id": "news",
       "title": "📰 News",
-      "count": 213
+      "count": 214
     },
     {
       "id": "papers",
@@ -58,18 +58,18 @@
     {
       "id": "community",
       "title": "💬 Community",
-      "count": 60
+      "count": 61
     },
     {
       "id": "trending",
       "title": "🔥 Trending",
-      "count": 56
+      "count": 57
     }
   ],
   "date_counts": {
-    "2026-06-29": 2,
+    "2026-06-29": 4,
     "2026-06-28": 35,
-    "2026-06-27": 19,
+    "2026-06-27": 20,
     "2026-06-26": 60,
     "2026-06-25": 83,
     "2026-06-24": 78,

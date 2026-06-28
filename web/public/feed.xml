@@ -5,9 +5,36 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 29 Jun 2026 06:03:39 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 08:04:37 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Emmimal/context-graph-benchmark — 다중 에이전트 LLM 시스템을 위한 순수 Python 구조 메모리 벤치마크 — 컨텍스트 그래프 대 벡터 RAG</title>
+      <link>https://github.com/Emmimal/context-graph-benchmark</link>
+      <description>다중 에이전트 LLM 시스템을 위한 순수 Python 구조 메모리 벤치마크 — 컨텍스트 그래프 vs 벡터 RAG vs 원시 기록 덤프, 5가지 시나리오, 18단계 쿼리, API 호출 없음.</description>
+      <pubDate>Sat, 27 Jun 2026 11:13:43 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/Emmimal/context-graph-benchmark">GitHub Trending</source>
+      <guid isPermaLink="false">2b23b841595b32b67bab0829fd8e6e71</guid>
+    </item>
+    <item>
+      <title>[2026/06/22 ~ 28] 이번 주에 살펴볼 만한 AI/ML 논문 모음</title>
+      <link>https://discuss.pytorch.kr/t/2026-06-22-28-ai-ml/10959</link>
+      <description>[2026/06/22 ~ 28] 이번 주에 살펴볼 만한 AI/ML 논문 모음 PyTorchKR​ 이번 주에 선정된 10편의 논문들을 살펴본 결과, 에이전트의 자율성 증대와 피드백 기반의 최적화, 그리고 전문 영역으로의 깊숙한 침투라는 주요한 트렌드들을 발견할 수 있었습니다.</description>
+      <pubDate>Mon, 29 Jun 2026 06:30:16 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/2026-06-22-28-ai-ml/10959">PyTorch Korea</source>
+      <guid isPermaLink="false">4f1ac8a70b089c5502ac9faa80f0198c</guid>
+    </item>
+    <item>
+      <title>아시아 AI 스타트업들, Anthropic Mythos 대체 모델 출시</title>
+      <link>https://news.hada.io/topic?id=30915</link>
+      <description>미국 정부의 Mythos·Fable 5 접근 제한 이 길어지면서, 일본 Sakana AI와 중국 360이 각각 Fugu와 Tulongfeng/Yitianzhen으로 생긴 공백을 겨냥함 Sakana AI의 Fugu 는 Fable 5·Mythos Preview와 경쟁 가능한 모델로 소개되며, 여러 모델 API를 조율하는 에이전트용 ...</description>
+      <pubDate>Mon, 29 Jun 2026 07:44:13 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30915">GeekNews</source>
+      <guid isPermaLink="false">32da22943b5fc544f08c197ec96a3690</guid>
+    </item>
     <item>
       <title>Aliu-AiRobot/ESEILANE — AI, LLM 및 GraphRAG용 고성능 지식 그래프 엔진 — 차세대 o를 위해 구축됨</title>
       <link>https://github.com/Aliu-AiRobot/ESEILANE</link>
@@ -430,33 +457,6 @@
       <category>news</category>
       <source url="https://zdnet.co.kr/view/?no=20260627135408">ZDNet Korea</source>
       <guid isPermaLink="false">bb5fba9b2cb2450c245566af30f560a1</guid>
-    </item>
-    <item>
-      <title>미국, Anthropic의 Mythos AI를 ‘신뢰된’ 미국 조직에 공개 허용</title>
-      <link>https://news.hada.io/topic?id=30878</link>
-      <description>미국 정부가 Anthropic의 강력한 Claude Mythos 5 차단을 풀면서, 100곳이 넘는 미국 기관·대기업·정부기관이 접근할 수 있게 됨 2주 전 Mythos 수출통제 와 Mythos·Fable 5 중단으로 커졌던 Trump 행정부와 Anthropic의 대립이 이번 조치로 완화됨 상무장...</description>
-      <pubDate>Sat, 27 Jun 2026 16:34:59 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30878">GeekNews</source>
-      <guid isPermaLink="false">7cafc6baec07c1332f1ea4c7cfe63a91</guid>
-    </item>
-    <item>
-      <title>im-not-ai: 기존의 의미를 보존하면서, 'AI스러움'을 자연스럽게 다듬는 Claude Code 윤문 스킬</title>
-      <link>https://discuss.pytorch.kr/t/im-not-ai-ai-claude-code/10666</link>
-      <description>im-not-ai 소개 im-not-ai(Humanize KR)는 ChatGPT, Claude, Gemini 같은 AI가 쓴 한국어 글에서 'AI스러움'을 걷어내는 Claude Code 스킬입니다. 핵심 원칙은 내용을 한 글자도 건드리지 않고 문체와 리듬, 표현만 자연스러운 한국어로 되돌리는 것입니다. 사실·주장·수치·고유명사·직접 인용은 그대로 두고, 어색한 문장 구조만 수술적으로 고칩니…</description>
-      <pubDate>Sat, 27 Jun 2026 13:30:10 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/im-not-ai-ai-claude-code/10666">PyTorch Korea</source>
-      <guid isPermaLink="false">9bdb8892f9e6193e2e2a68954f0103f6</guid>
-    </item>
-    <item>
-      <title>엔비디아, 'GLM-5.2' 4비트 양자화 모델 공개...“정확도 유지하며 용량 70% 절감”</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=212178</link>
-      <description>엔비디아가 지푸 AI의 인기 오픈소스 대형언어모델(LLM) \'GLM-5.2\'를 자체 NVFP4(4비트) 양자화 기술로 최적화한 체크포인트를 공개했다.엔비디아는 26일(현지시간) 허깅페이스를 통해 \'GLM-5.2 NVFP4\'를 공개했다.</description>
-      <pubDate>Sat, 27 Jun 2026 13:21:23 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=212178">AI Times</source>
-      <guid isPermaLink="false">0cd06f128258fca8b5dae4168bf58795</guid>
     </item>
   </channel>
 </rss>
