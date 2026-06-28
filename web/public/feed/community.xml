@@ -5,9 +5,27 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/community.xml</link>
     <description>💬 Community — PyTorch Korea discussions</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 28 Jun 2026 17:55:38 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 20:09:11 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>LLM Wiki Newsroom: 신문사 편집국을 본뜬 멀티에이전트로 지식을 위키로 관리 (Claude Code 기반)</title>
+      <link>https://discuss.pytorch.kr/t/llm-wiki-newsroom-claude-code/10966</link>
+      <description>안드레 카파시의 LLM Wiki 개념( https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f )을 보고 개인적으로 스크랩하고 있는 신문 기사를 중심으로 몇달 간 돌려보고 있습니다. LLM한테 그때그때 모은 문서를 던져 주면 서로 연결된 위키로 정리하고, 문서를 하나 넣어도 관련 페이지들이 모두 같이 갱신 되게 하는 방식입니다.</description>
+      <pubDate>Sun, 28 Jun 2026 19:31:06 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/llm-wiki-newsroom-claude-code/10966">PyTorch Korea</source>
+      <guid isPermaLink="false">7a12dc0864d7cbb9309eab804537ce4e</guid>
+    </item>
+    <item>
+      <title>OpenMontage: AI 코딩 어시스턴트를 영상 제작 스튜디오로 바꾸는 에이전트 시스템</title>
+      <link>https://discuss.pytorch.kr/t/openmontage-ai/10938</link>
+      <description>OpenMontage 소개 OpenMontage는 AI 코딩 어시스턴트를 영상 제작 스튜디오로 바꾸는 에이전트 기반 영상 제작 시스템입니다. 만들고 싶은 영상을 자연어로 설명하면, 에이전트가 자료 조사부터 스크립트 작성, 에셋 생성, 편집, 최종 합성까지 전 과정을 진행합니다.</description>
+      <pubDate>Sun, 28 Jun 2026 19:30:45 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/openmontage-ai/10938">PyTorch Korea</source>
+      <guid isPermaLink="false">99335189d579dc6fb5239106ceb7d7ff</guid>
+    </item>
     <item>
       <title>Ornith-1.0: 스캐폴드를 스스로 학습하는 에이전트 코딩 LLM (feat. DeepReinforce)</title>
       <link>https://discuss.pytorch.kr/t/ornith-1-0-llm-feat-deepreinforce/10951</link>
@@ -439,24 +457,6 @@
       <category>community</category>
       <source url="https://discuss.pytorch.kr/t/2026-06-15-21-ai-ml/10844">PyTorch Korea</source>
       <guid isPermaLink="false">fbc7fe8a324c4aea2697ab548feb131f</guid>
-    </item>
-    <item>
-      <title>Liquid AI, 엣지용 350M 모델 LFM2.5와 다국어 검색 리트리버 LFM2.5 Retrievers 공개</title>
-      <link>https://discuss.pytorch.kr/t/liquid-ai-350m-lfm2-5-lfm2-5-retrievers/10808</link>
-      <description>LFM2.5와 LFM2.5 Retrievers 소개 Liquid AI 가 2026년 들어 엣지(edge) 환경을 겨냥한 소형 모델 제품군을 빠르게 확장하고 있습니다.</description>
-      <pubDate>Sun, 21 Jun 2026 18:30:12 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/liquid-ai-350m-lfm2-5-lfm2-5-retrievers/10808">PyTorch Korea</source>
-      <guid isPermaLink="false">bbb28f75b3f7430812cdcc0eec561404</guid>
-    </item>
-    <item>
-      <title>claude-peers: 여러 Claude Code 인스턴스가 서로 메시지를 주고받는 MCP 서버</title>
-      <link>https://discuss.pytorch.kr/t/claude-peers-claude-code-mcp/10755</link>
-      <description>claude-peers 소개 claude-peers는 같은 컴퓨터에서 실행 중인 여러 Claude Code 인스턴스가 서로를 발견하고 메시지를 주고받게 해 주는 MCP 서버입니다. 서로 다른 프로젝트에서 다섯 개의 세션을 띄워 작업할 때, 각 Claude가 다른 세션을 찾아 즉시 메시지를 보낼 수 있습니다.</description>
-      <pubDate>Sun, 21 Jun 2026 16:30:42 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/claude-peers-claude-code-mcp/10755">PyTorch Korea</source>
-      <guid isPermaLink="false">2ac38d66ac2bfe36edb93f42bd90d5a6</guid>
     </item>
   </channel>
 </rss>

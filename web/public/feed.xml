@@ -5,9 +5,81 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 28 Jun 2026 17:55:38 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 20:09:11 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>LLM Wiki Newsroom: 신문사 편집국을 본뜬 멀티에이전트로 지식을 위키로 관리 (Claude Code 기반)</title>
+      <link>https://discuss.pytorch.kr/t/llm-wiki-newsroom-claude-code/10966</link>
+      <description>안드레 카파시의 LLM Wiki 개념( https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f )을 보고 개인적으로 스크랩하고 있는 신문 기사를 중심으로 몇달 간 돌려보고 있습니다. LLM한테 그때그때 모은 문서를 던져 주면 서로 연결된 위키로 정리하고, 문서를 하나 넣어도 관련 페이지들이 모두 같이 갱신 되게 하는 방식입니다.</description>
+      <pubDate>Sun, 28 Jun 2026 19:31:06 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/llm-wiki-newsroom-claude-code/10966">PyTorch Korea</source>
+      <guid isPermaLink="false">7a12dc0864d7cbb9309eab804537ce4e</guid>
+    </item>
+    <item>
+      <title>OpenMontage: AI 코딩 어시스턴트를 영상 제작 스튜디오로 바꾸는 에이전트 시스템</title>
+      <link>https://discuss.pytorch.kr/t/openmontage-ai/10938</link>
+      <description>OpenMontage 소개 OpenMontage는 AI 코딩 어시스턴트를 영상 제작 스튜디오로 바꾸는 에이전트 기반 영상 제작 시스템입니다. 만들고 싶은 영상을 자연어로 설명하면, 에이전트가 자료 조사부터 스크립트 작성, 에셋 생성, 편집, 최종 합성까지 전 과정을 진행합니다.</description>
+      <pubDate>Sun, 28 Jun 2026 19:30:45 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/openmontage-ai/10938">PyTorch Korea</source>
+      <guid isPermaLink="false">99335189d579dc6fb5239106ceb7d7ff</guid>
+    </item>
+    <item>
+      <title>SK, K-AI 얼라이언스 판 키운다…투자자·빅테크 연결</title>
+      <link>https://zdnet.co.kr/view/?no=20260628183359</link>
+      <description>[지디넷코리아]SK그룹의 AI 기업 연합체인 ‘K-AI 얼라이언스’가 글로벌 협력 확대에 속도를 낸다.SK AI위원회는 K-AI 얼라이언스가 지난 26일 미국 실리콘밸리 멘로파크에서 연례 행사 ‘유나이트 2026’을 열었다고 밝혔다.</description>
+      <pubDate>Sun, 28 Jun 2026 18:33:59 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260628183359">ZDNet Korea</source>
+      <guid isPermaLink="false">96f9f1cee301fbbcd6cab7f30034f21a</guid>
+    </item>
+    <item>
+      <title>평범했던 회사원도 '억만장자' 만든 회사…직원 600명, 스톡옵션 '100억' 돈벼락</title>
+      <link>https://www.etnews.com/20260628000108</link>
+      <description>인공지능(AI) 투자 열풍으로 일본 메모리 반도체 기업 키옥시아의 기업가치가 급등하면서 스톡옵션을 받은 직원 수백 명이 거액의 자산가로 올라섰다.</description>
+      <pubDate>Sun, 28 Jun 2026 17:59:50 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260628000108">전자신문 IT</source>
+      <guid isPermaLink="false">5c735a9283989f460fa963fc8f9e86f9</guid>
+    </item>
+    <item>
+      <title>구윤철 “반도체·AI 초격차 승부처는 지방…범정부 총력 지원”</title>
+      <link>https://www.etnews.com/20260628000105</link>
+      <description>구윤철 경제부총리 겸 재정경제부 장관이 기업의 지방 투자 결정을 존중하고 정부가 전폭적으로 지원하겠다는 입장을 밝혔다. 반도체를 비롯한 첨단산업 경쟁력 확보를 위해 수도권 집중을 넘어 지방을 새로운 성장 거점으로 육성해야 한다고 강조했다.</description>
+      <pubDate>Sun, 28 Jun 2026 17:06:29 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260628000105">전자신문 IT</source>
+      <guid isPermaLink="false">9b0a3b371216352b8971bff5a8283485</guid>
+    </item>
+    <item>
+      <title>[뉴스줌인] 마켓플레이스로 글로벌 AI 에이전트 시장 선도</title>
+      <link>https://www.etnews.com/20260628000060</link>
+      <description>정부 지원으로 탄생할 민간 주도 '인공지능(AI) 에이전트 마켓플레이스'는 국내 생태계 활성화는 물론, 글로벌 AI 에이전트 시장을 선도할 거점으로 도약하는 것을 목표로 한다. 경쟁력 있는 다양한 AI 에이전트가 한곳에 모이는 허브로 자리매김할 예정인 만큼 해외 수요도 분명히 있을 거라는 게 정부와 공공·참여 검토 기업의 판단이다.</description>
+      <pubDate>Sun, 28 Jun 2026 16:01:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260628000060">전자신문 IT</source>
+      <guid isPermaLink="false">c4290f9132ed1e2ce509db756f4e5578</guid>
+    </item>
+    <item>
+      <title>모든 AI 에이전트 한곳에...'AI 마켓플레이스' 열린다</title>
+      <link>https://www.etnews.com/20260626000253</link>
+      <description>정부가 인공지능(AI) 에이전트 서비스와 관련 기술일 한곳에서 비교·거래할 수 있는 전용 마켓플레이스를 구축한다. 민간 주도 에이전틱 AI 생태계를 조성하겠다는 구상이다. 과학기술정보통신부와 한국지능정보사회진흥원(NIA)은 올해부터 내년까지 정부 출연금 56억원과 민간 매칭 투자를 통해 'AI 에이전트 마켓플레이스'를 구축한다고 28일 밝혔다.</description>
+      <pubDate>Sun, 28 Jun 2026 16:01:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260626000253">전자신문 IT</source>
+      <guid isPermaLink="false">c6cca8bedde92d1c67c04bfaf60a1ed4</guid>
+    </item>
+    <item>
+      <title>[바이오 USA]달아오른 AI 신약개발 기대감…K바이오 존재감 커졌다</title>
+      <link>https://www.etnews.com/20260626000152</link>
+      <description>세계 최대 제약바이오 박람회 '2026 바이오 인터내셔널 컨벤션(바이오 USA 2026)'의 화두 중 하나는 단연 인공지능(AI)이었다. AI 신약 개발은 수년 전만 해도 먼 미래 기술로 여겨졌지만 올해 바이오 USA에서 국내 기업들은 AI가 실현 가능한 기술로서 글로벌 제약사의 높은 관심을 확인했다고 입을 모았다.</description>
+      <pubDate>Sun, 28 Jun 2026 16:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260626000152">전자신문 IT</source>
+      <guid isPermaLink="false">a5dd32b512fa8f82929683190b1567d2</guid>
+    </item>
     <item>
       <title>딥시크, LLM 추론 속도 최대 85% 높이는 ‘D스파크’ 오픈소스 공개</title>
       <link>https://www.aitimes.com/news/articleView.html?idxno=212191</link>
@@ -385,78 +457,6 @@
       <category>news</category>
       <source url="https://www.aitimes.com/news/articleView.html?idxno=212174">AI Times</source>
       <guid isPermaLink="false">20284ad05fdfb3419b6d05ba51a160ef</guid>
-    </item>
-    <item>
-      <title>교육 후 무시되는 무료 점심: LLM 에이전트를 위한 발전 이점</title>
-      <link>https://huggingface.co/papers/2606.26080</link>
-      <description>훈련 후 강화 학습은 진행 이점이라는 암묵적 이점 함수를 도출함으로써 전용 보상 모델 훈련 없이도 언어 모델에 대한 효과적인 단계 수준 채점을 가능하게 합니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.26080">Hugging Face Papers</source>
-      <guid isPermaLink="false">d1f2cdd1ae2a978d123a71caed14f41a</guid>
-    </item>
-    <item>
-      <title>[AI 이슈트렌드] 월드컵 충격패 속 마이크론·스페이스X 증시 변동성 주목</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=212172</link>
-      <description>AI타임스와 이스트에이드의 6월 넷째 주(6월19일~25일) 이슈 분석 결과, 메모리 반도체 기업 실적 발표와 주요 증시, 월드컵 조별리그 결과 등이 상위권을 차지했다.이번 주 검색량 1위 키워드는 \'마이크론 실적 발표(4.70%)\'가 차지했다.</description>
-      <pubDate>Sat, 27 Jun 2026 05:50:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=212172">AI Times</source>
-      <guid isPermaLink="false">47db58197816645f92bfe4d72a710c14</guid>
-    </item>
-    <item>
-      <title>Apple, 고급형 M6 Mac 칩 건너뛰고 AI 중심 M7 라인으로 전환 예정</title>
-      <link>https://news.hada.io/topic?id=30862</link>
-      <description>Apple은 Mac용 자체 실리콘 전략을 조정해 다음 최상위 프로세서 를 AI 중심 M7 세대로 앞당기려 함 현재 M5 시리즈 를 쓰는 가운데, 보급형 Mac용 기본 M6 프로세서는 이르면 올해 공개될 계획임 기존 세대 흐름과 달리 고급형 M6 버전 은...</description>
-      <pubDate>Sat, 27 Jun 2026 06:36:13 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30862">GeekNews</source>
-      <guid isPermaLink="false">1fbd55fbc2beae52d8039abb26d64b1b</guid>
-    </item>
-    <item>
-      <title>오픈AI, 최고 성능 ‘GPT-5.6’ 3종 공개..."정부 요청으로 제한적 출시"</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=212175</link>
-      <description>오픈AI가 지능과 비용 측면에서 한 단계 진화한 차세대 모델 제품군 \'GPT-5.6\' 시리즈를 선보였다.</description>
-      <pubDate>Sat, 27 Jun 2026 05:25:24 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=212175">AI Times</source>
-      <guid isPermaLink="false">5c7ecff51052312569f982a3b3e30164</guid>
-    </item>
-    <item>
-      <title>Show HN: OpenKnowledge – Obsidian/Notion의 오픈소스 AI 우선 대안</title>
-      <link>https://news.hada.io/topic?id=30860</link>
-      <description>개인 노트, 지식 베이스, 스펙, LLM 위키를 위한 로컬 우선 WYSIWYG Markdown 편집기 이며 Claude, Codex 등 하네스와의 통합을 제공함 Markdown 파일 편집을 Google Doc이나 Notion 페이지 편집처럼 느끼게 하는 true WYSIWYG 편집 경험을 목표로 함 Clau...</description>
-      <pubDate>Sat, 27 Jun 2026 02:34:20 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30860">GeekNews</source>
-      <guid isPermaLink="false">720029b9b068df8611764dddde1e96c0</guid>
-    </item>
-    <item>
-      <title>kevin333353/jobsmith — 針對台灣求職市場的開源多代理 AI 求職부조종사: 自動找職缺、履歷健檢、一鍵產生客製投遞包（履歷・求職信・side試準備・公主情報）與模擬面試。本機 Claude Code/Codex CLI 免</title>
-      <link>https://github.com/kevin333353/jobsmith</link>
-      <description>針對台灣求職市場的開源多代理 AI 求職부조종사: 自動找職缺、履歷健檢、一鍵產生客製投遞包（履歷・求職信・side試準備・公主情報）與模擬面試。本機 Claude Code/Codex CLI 免API 키, 也可自備金鑰接 OpenAI 相容模型.</description>
-      <pubDate>Fri, 26 Jun 2026 15:45:39 +0900</pubDate>
-      <category>trending</category>
-      <source url="https://github.com/kevin333353/jobsmith">GitHub Trending</source>
-      <guid isPermaLink="false">0c32a6548dbb88b91e79d0f0349efe12</guid>
-    </item>
-    <item>
-      <title>todd866/codex-adversary — Claude Code 내부의 자동 적대 검토자로 Codex(GPT)를 모집합니다. — 생각의 다양성,</title>
-      <link>https://github.com/todd866/codex-adversary</link>
-      <description>Claude Code 내부의 자동 적대 검토자로 Codex(GPT)를 모집합니다. Claude가 주도하는 다양한 사고 방식입니다.</description>
-      <pubDate>Thu, 25 Jun 2026 07:30:14 +0900</pubDate>
-      <category>trending</category>
-      <source url="https://github.com/todd866/codex-adversary">GitHub Trending</source>
-      <guid isPermaLink="false">d32af245235918f4e9a74df6452d6bf5</guid>
-    </item>
-    <item>
-      <title>OpenDataBox/MemoryData — 메모리 확장 에이전트를 위한 통합 메모리 벤치마크 제품군</title>
-      <link>https://github.com/OpenDataBox/MemoryData</link>
-      <description>메모리 증강 에이전트를 위한 통합 메모리 벤치마크 제품군</description>
-      <pubDate>Wed, 24 Jun 2026 12:29:38 +0900</pubDate>
-      <category>trending</category>
-      <source url="https://github.com/OpenDataBox/MemoryData">GitHub Trending</source>
-      <guid isPermaLink="false">8aa1ea3b7087e64f409c52b7be1f666c</guid>
     </item>
   </channel>
 </rss>

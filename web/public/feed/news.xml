@@ -5,9 +5,63 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 28 Jun 2026 17:55:38 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 20:09:11 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>SK, K-AI 얼라이언스 판 키운다…투자자·빅테크 연결</title>
+      <link>https://zdnet.co.kr/view/?no=20260628183359</link>
+      <description>[지디넷코리아]SK그룹의 AI 기업 연합체인 ‘K-AI 얼라이언스’가 글로벌 협력 확대에 속도를 낸다.SK AI위원회는 K-AI 얼라이언스가 지난 26일 미국 실리콘밸리 멘로파크에서 연례 행사 ‘유나이트 2026’을 열었다고 밝혔다.</description>
+      <pubDate>Sun, 28 Jun 2026 18:33:59 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260628183359">ZDNet Korea</source>
+      <guid isPermaLink="false">96f9f1cee301fbbcd6cab7f30034f21a</guid>
+    </item>
+    <item>
+      <title>평범했던 회사원도 '억만장자' 만든 회사…직원 600명, 스톡옵션 '100억' 돈벼락</title>
+      <link>https://www.etnews.com/20260628000108</link>
+      <description>인공지능(AI) 투자 열풍으로 일본 메모리 반도체 기업 키옥시아의 기업가치가 급등하면서 스톡옵션을 받은 직원 수백 명이 거액의 자산가로 올라섰다.</description>
+      <pubDate>Sun, 28 Jun 2026 17:59:50 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260628000108">전자신문 IT</source>
+      <guid isPermaLink="false">5c735a9283989f460fa963fc8f9e86f9</guid>
+    </item>
+    <item>
+      <title>구윤철 “반도체·AI 초격차 승부처는 지방…범정부 총력 지원”</title>
+      <link>https://www.etnews.com/20260628000105</link>
+      <description>구윤철 경제부총리 겸 재정경제부 장관이 기업의 지방 투자 결정을 존중하고 정부가 전폭적으로 지원하겠다는 입장을 밝혔다. 반도체를 비롯한 첨단산업 경쟁력 확보를 위해 수도권 집중을 넘어 지방을 새로운 성장 거점으로 육성해야 한다고 강조했다.</description>
+      <pubDate>Sun, 28 Jun 2026 17:06:29 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260628000105">전자신문 IT</source>
+      <guid isPermaLink="false">9b0a3b371216352b8971bff5a8283485</guid>
+    </item>
+    <item>
+      <title>[뉴스줌인] 마켓플레이스로 글로벌 AI 에이전트 시장 선도</title>
+      <link>https://www.etnews.com/20260628000060</link>
+      <description>정부 지원으로 탄생할 민간 주도 '인공지능(AI) 에이전트 마켓플레이스'는 국내 생태계 활성화는 물론, 글로벌 AI 에이전트 시장을 선도할 거점으로 도약하는 것을 목표로 한다. 경쟁력 있는 다양한 AI 에이전트가 한곳에 모이는 허브로 자리매김할 예정인 만큼 해외 수요도 분명히 있을 거라는 게 정부와 공공·참여 검토 기업의 판단이다.</description>
+      <pubDate>Sun, 28 Jun 2026 16:01:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260628000060">전자신문 IT</source>
+      <guid isPermaLink="false">c4290f9132ed1e2ce509db756f4e5578</guid>
+    </item>
+    <item>
+      <title>모든 AI 에이전트 한곳에...'AI 마켓플레이스' 열린다</title>
+      <link>https://www.etnews.com/20260626000253</link>
+      <description>정부가 인공지능(AI) 에이전트 서비스와 관련 기술일 한곳에서 비교·거래할 수 있는 전용 마켓플레이스를 구축한다. 민간 주도 에이전틱 AI 생태계를 조성하겠다는 구상이다. 과학기술정보통신부와 한국지능정보사회진흥원(NIA)은 올해부터 내년까지 정부 출연금 56억원과 민간 매칭 투자를 통해 'AI 에이전트 마켓플레이스'를 구축한다고 28일 밝혔다.</description>
+      <pubDate>Sun, 28 Jun 2026 16:01:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260626000253">전자신문 IT</source>
+      <guid isPermaLink="false">c6cca8bedde92d1c67c04bfaf60a1ed4</guid>
+    </item>
+    <item>
+      <title>[바이오 USA]달아오른 AI 신약개발 기대감…K바이오 존재감 커졌다</title>
+      <link>https://www.etnews.com/20260626000152</link>
+      <description>세계 최대 제약바이오 박람회 '2026 바이오 인터내셔널 컨벤션(바이오 USA 2026)'의 화두 중 하나는 단연 인공지능(AI)이었다. AI 신약 개발은 수년 전만 해도 먼 미래 기술로 여겨졌지만 올해 바이오 USA에서 국내 기업들은 AI가 실현 가능한 기술로서 글로벌 제약사의 높은 관심을 확인했다고 입을 모았다.</description>
+      <pubDate>Sun, 28 Jun 2026 16:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260626000152">전자신문 IT</source>
+      <guid isPermaLink="false">a5dd32b512fa8f82929683190b1567d2</guid>
+    </item>
     <item>
       <title>딥시크, LLM 추론 속도 최대 85% 높이는 ‘D스파크’ 오픈소스 공개</title>
       <link>https://www.aitimes.com/news/articleView.html?idxno=212191</link>
@@ -403,60 +457,6 @@
       <category>news</category>
       <source url="https://www.aitimes.com/news/articleView.html?idxno=212167">AI Times</source>
       <guid isPermaLink="false">14a5dd3e8f469e8fb09cc5b9cb7b4696</guid>
-    </item>
-    <item>
-      <title>SK하닉 상승률 더 높은데 “최선호주 삼전”…코스피 15000 외친 JP모건, 왜?</title>
-      <link>https://www.etnews.com/20260626000093</link>
-      <description>글로벌 투자은행 JP모건이 인공지능(AI) 산업 성장과 반도체 업황 개선을 근거로 한국 증시에 대한 전망치를 대폭 상향 조정했다. 26일 금융투자업계에 따르면 JP모건은 이날 발표한 보고서에서 코스피 목표 범위를 기본 시나리오 1만2500, 강세장 시나리오 1만5000, 약세장 시나리오 8000으로 제시했다.</description>
-      <pubDate>Fri, 26 Jun 2026 10:32:55 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260626000093">전자신문 IT</source>
-      <guid isPermaLink="false">8b6da9cc4223f0bbe0eba1bc2430bc50</guid>
-    </item>
-    <item>
-      <title>美 운전대 없는 차세대 로보택시 공개…주당 100대 생산 가능</title>
-      <link>https://www.etnews.com/20260625000427</link>
-      <description>아마존 자회사 죽스(Zoox)가 차세대 로보택시를 공개하고 대량 생산 단계 진입을 예고했습니다. 죽스는 테스트 및 초기 운영 과정에서 약 50만명의 탑승자 피드백을 반영해 차량 설계를 개선했다고 밝혔습니다. 이번 모델은 운전대와 페달이 없는 전용 자율주행 구조를 유지하면서 편의성과 양산성을 높인 점이 특징입니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:55:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260625000427">전자신문 IT</source>
-      <guid isPermaLink="false">dd3b24439ce85f13cb83798aaf9c90ff</guid>
-    </item>
-    <item>
-      <title>Show GN: SongRyeon Core - LLM이 쓴 말과 코드가 검증한 정보를 분리하는 로컬 에이전트 런타임 실험</title>
-      <link>https://news.hada.io/topic?id=30854</link>
-      <description>안녕하세요. 코딩을 배우면서 AI 에이전트 런타임을 직접 실험하고 있는 정후입니다. SongRyeon Core는 “LLM이 말한 판단”과 “코드가 실제로 확인한 사실”을 분리해서 다루는 작은 로컬 우선(agent runtime) 실험입니다.</description>
-      <pubDate>Fri, 26 Jun 2026 15:28:52 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30854">GeekNews</source>
-      <guid isPermaLink="false">29d25e6bd2eaaab50a1afc5dede9e945</guid>
-    </item>
-    <item>
-      <title>[AI는 지금] 11조 실탄 쥔 中 딥시크, 조직 2배로 키운다</title>
-      <link>https://zdnet.co.kr/view/?no=20260626105518</link>
-      <description>[지디넷코리아]중국 인공지능(AI) 기업 딥시크가 대규모 자금조달을 계기로 조직 확대에 나섰다.</description>
-      <pubDate>Fri, 26 Jun 2026 12:11:09 +0900</pubDate>
-      <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260626105518">ZDNet Korea</source>
-      <guid isPermaLink="false">934c3d8ef908743f89f51e9e3c1f9ee9</guid>
-    </item>
-    <item>
-      <title>애플, 고성능 M6 건너뛰고 ‘온디바이스 AI 특화’ M7 칩 체제 조기 전환</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=212132</link>
-      <description>애플이 맥(Mac)용 자체 칩 전략을 대대적으로 개편한다.</description>
-      <pubDate>Fri, 26 Jun 2026 11:57:57 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=212132">AI Times</source>
-      <guid isPermaLink="false">511bbb280cf06b6763c4d930d4331716</guid>
-    </item>
-    <item>
-      <title>Ford, AI 품질검사 차질로 ‘gray beard’ 검사관 재고용</title>
-      <link>https://news.hada.io/topic?id=30843</link>
-      <description>Ford Motor Co.는 고질적인 품질 문제 를 줄이기 위해 “gray beard”로 불리는 베테랑 엔지니어들을 다시 불러 젊은 직원 교육과 AI 도구 보완에 투입함 지난 3년간 350명 의 베테랑 엔지니어를 채용했으며, 다수는 전직 Ford 직원이고 일부는 공급업체 출신임 ...</description>
-      <pubDate>Fri, 26 Jun 2026 10:05:49 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30843">GeekNews</source>
-      <guid isPermaLink="false">1ed72317bae71adfd9f853b02f172c0c</guid>
     </item>
   </channel>
 </rss>
