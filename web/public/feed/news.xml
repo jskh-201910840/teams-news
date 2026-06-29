@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 29 Jun 2026 23:06:24 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 02:39:08 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>에스위너스 'AIoT 기반 화주용 운송 품질 리포트' 론칭</title>
+      <link>https://www.etnews.com/20260629000187</link>
+      <description>화물 운송 전 과정을 한 눈에 파악할 수 있는 인공지능사물인터넷(AIoT)서비스가 나왔다. AIoT 컨테이너 관제 솔루션 전문기업 에스위너스(대표 최형림)는 자체 개발한 'AIoT 기반 화주용 운송 품질 리포트' 서비스를 국내 해운선사를 대상으로 공급한다고 30일 밝혔다.</description>
+      <pubDate>Tue, 30 Jun 2026 00:34:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260629000187">전자신문 IT</source>
+      <guid isPermaLink="false">a6b45c7096899f1322b63b010dab2bf8</guid>
+    </item>
     <item>
       <title>AI 기업들은 올해 694조원 썼다… AI 자본지출이 던진 ROI 질문</title>
       <link>https://zdnet.co.kr/view/?no=20260629222727</link>
@@ -448,15 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260628000052">전자신문 IT</source>
       <guid isPermaLink="false">9700ab39b6e2c31746967bf50ad0ac52</guid>
-    </item>
-    <item>
-      <title>SK, 'K-AI 얼라이언스' 50개사로 확대…“글로벌 네트워크 강화”</title>
-      <link>https://www.etnews.com/20260628000049</link>
-      <description>SK가 주도해 결성한 인공지능(AI) 기업 연합체 'K-AI 얼라이언스'가 미국에서 글로벌 사업 기회를 모색했다. SK AI위원회는 K-AI 얼라이언스가 지난 26일 미국 실리콘밸리에서 '유나이트 2026'을 개최했다고 28일 밝혔다.</description>
-      <pubDate>Sun, 28 Jun 2026 10:30:41 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260628000049">전자신문 IT</source>
-      <guid isPermaLink="false">3fbcd0065987d22d8a86376b4351430b</guid>
     </item>
   </channel>
 </rss>
