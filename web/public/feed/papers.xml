@@ -5,9 +5,45 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/papers.xml</link>
     <description>📄 Papers — AI research from Hugging Face Daily Papers</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 29 Jun 2026 18:27:58 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 23:06:24 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>MultiHashFormer: 해시 기반 생성 언어 모델</title>
+      <link>https://huggingface.co/papers/2606.28057</link>
+      <description>MultiHashFormer는 Transformer 프레임워크 내에서 해시 인코더 및 해시 디코더를 통해 처리된 해시 서명으로 토큰을 표현함으로써 언어 모델에서 해시 기반 자동 회귀를 가능하게 합니다.</description>
+      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.28057">Hugging Face Papers</source>
+      <guid isPermaLink="false">b952febd3da68bd56db9d643c179bc28</guid>
+    </item>
+    <item>
+      <title>픽셀 공간 자동회귀 이미지 생성을 위한 병렬 롤아웃 근사</title>
+      <link>https://huggingface.co/papers/2606.27978</link>
+      <description>PRA(병렬 롤아웃 근사)는 저차원 중간 상태와 병렬 훈련을 사용하여 품질과 효율성을 향상함으로써 픽셀 공간 자동 회귀 이미지 생성의 제한 사항을 해결합니다.</description>
+      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.27978">Hugging Face Papers</source>
+      <guid isPermaLink="false">6edb763a2a4c3265b718f44fd88f1172</guid>
+    </item>
+    <item>
+      <title>저자원 언어의 텍스트 해독을 위한 Tatoxa 시스템: 타타르어 사례</title>
+      <link>https://huggingface.co/papers/2606.26015</link>
+      <description>Tatoxa는 기존 LLM에 비해 뛰어난 성능을 보여주고 리소스가 적은 환경에서 언어 간 전송의 과제를 강조하는 타타르어용 최첨단 텍스트 해독 시스템입니다.</description>
+      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.26015">Hugging Face Papers</source>
+      <guid isPermaLink="false">615837990c1128f99dd138abd40a0695</guid>
+    </item>
+    <item>
+      <title>클러스터, 라우팅, 에스컬레이션: 비용 인식 LLM 서비스를 위한 계단식 프레임워크</title>
+      <link>https://huggingface.co/papers/2606.27457</link>
+      <description>클러스터링 및 품질 추정을 기반으로 쿼리를 적절한 모델로 라우팅하여 정확성과 비용의 균형을 맞추는 대규모 언어 모델을 배포하기 위한 계단식 접근 방식입니다.</description>
+      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.27457">Hugging Face Papers</source>
+      <guid isPermaLink="false">70d1ee0e49e911110919ed05e6289cd1</guid>
+    </item>
     <item>
       <title>말하는 동안 생각하기: 반응적이고 지능적인 대화 음성 에이전트를 위한 추론 시간 지식 전달</title>
       <link>https://huggingface.co/papers/2511.07397</link>
@@ -421,42 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.21215">Hugging Face Papers</source>
       <guid isPermaLink="false">233473986c7122258859830a6bf061eb</guid>
-    </item>
-    <item>
-      <title>Lite Any Stereo V2: 더욱 빠르고 강력해진 효율적인 제로샷 스테레오 매칭</title>
-      <link>https://huggingface.co/papers/2606.24457</link>
-      <description>Lite Any Stereo V2(LAS2)는 최적화된 아키텍처 및 트레이닝 전략을 통해 대기 시간을 크게 줄이면서 최첨단 정확도를 달성하는 효율적인 스테레오 매칭 접근 방식을 제공합니다.</description>
-      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.24457">Hugging Face Papers</source>
-      <guid isPermaLink="false">c42d2b8dc103576243ad4d616872b076</guid>
-    </item>
-    <item>
-      <title>PrivacyAlign: LLM 상담원을 위한 상황별 개인 정보 보호 조정</title>
-      <link>https://huggingface.co/papers/2606.21710</link>
-      <description>연구원들은 개인 정보 보호 판단에 대한 포괄적인 데이터 세트를 생성하고 주석 조건 보상 모델링을 사용하여 에이전트 행동을 개선함으로써 AI 에이전트를 개인 정보 보호 규범에 맞추기 위한 인간 중심 접근 방식을 개발합니다.</description>
-      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.21710">Hugging Face Papers</source>
-      <guid isPermaLink="false">01bcd7008a289ae91e780fe507137407</guid>
-    </item>
-    <item>
-      <title>중간 계층이 알고 있는 것: 엔트로피 역학에서 탈옥 감지</title>
-      <link>https://huggingface.co/papers/2606.25182</link>
-      <description>탈옥 공격은 정렬된 대규모 언어 모델의 취약점을 노출하여 유해한 의도가 출력 표현이 아닌 구조화된 중간 불확실성 역학에 인코딩되어 있음을 드러냅니다.</description>
-      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.25182">Hugging Face Papers</source>
-      <guid isPermaLink="false">689e1224628a636c6f3330a91693e8d8</guid>
-    </item>
-    <item>
-      <title>ReNIO: LLM 정책 기반 증류에 대한 부정적인 궤적 중요성 재가중화</title>
-      <link>https://huggingface.co/papers/2606.23104</link>
-      <description>ReNIO는 토큰 수준 확률 비율을 기반으로 부정적인 궤적에 가중치를 다시 부여하고 수학 및 코드 생성 작업의 추론 성능을 향상시켜 언어 모델에 대한 정책 기반 증류를 향상시킵니다.</description>
-      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.23104">Hugging Face Papers</source>
-      <guid isPermaLink="false">4e0394da24a8a4c93b5b7b397f3f6ce6</guid>
     </item>
   </channel>
 </rss>

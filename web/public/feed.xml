@@ -5,9 +5,81 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 29 Jun 2026 18:27:58 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 23:06:24 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>codebase-memory-mcp: 코드베이스를 지식 그래프로 인덱싱하는 코드 인텔리전스 MCP 서버 (및 기반 연구)</title>
+      <link>https://discuss.pytorch.kr/t/codebase-memory-mcp-mcp/10940</link>
+      <description>codebase-memory-mcp 소개 AI 코딩 에이전트에게 "이 함수를 수정하면 어디가 깨지나요?" 같은 질문을 던져 본 적이 있다면, 에이전트가 grep으로 함수 이름을 찾고, 매칭된 파일을 하나씩 열어 읽고, 다시 참조를 따라가며 같은 과정을 반복하는 모습을 보았을 것입니다.</description>
+      <pubDate>Mon, 29 Jun 2026 21:30:41 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/codebase-memory-mcp-mcp/10940">PyTorch Korea</source>
+      <guid isPermaLink="false">b77cc7218a91a221d61e1ead2dc11efc</guid>
+    </item>
+    <item>
+      <title>mercury-agent: 행동 전에 묻고 중요한 것을 기억하는 상시 구동 개인 AI 에이전트</title>
+      <link>https://discuss.pytorch.kr/t/mercury-agent-ai/10695</link>
+      <description>mercury-agent 소개 파일을 읽고, 명령을 실행하고, URL을 가져오는 일은 이제 대부분의 AI 에이전트가 할 수 있습니다. 문제는 그 대부분이 사용자에게 묻지 않고 조용히 실행한다는 점, 그리고 대화가 끝나면 방금 알게 된 사용자의 맥락을 잊어버린다는 점입니다. 개인용 에이전트를 상시 띄워 두고 쓰려면 이 두 가지가 특히 불편하게 다가옵니다.</description>
+      <pubDate>Mon, 29 Jun 2026 18:30:40 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/mercury-agent-ai/10695">PyTorch Korea</source>
+      <guid isPermaLink="false">f8e6e46906c8448fc86389dd7ca5bc4b</guid>
+    </item>
+    <item>
+      <title>AI 기업들은 올해 694조원 썼다… AI 자본지출이 던진 ROI 질문</title>
+      <link>https://zdnet.co.kr/view/?no=20260629222727</link>
+      <description>[지디넷코리아]6월 24일 미국 증시에서 기술주가 급락했다. 나스닥 종합지수는 2.21% 내린 25,587로 분기 최대 낙폭을 기록했고, S&amp;amp;P500도 1.44% 하락했다. 마이크론(Micron)은 장중 13%까지 내렸다가 일부 회복했다.</description>
+      <pubDate>Mon, 29 Jun 2026 22:27:27 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260629222727">ZDNet Korea</source>
+      <guid isPermaLink="false">c5d45fcdfd1a1ca24bf1f51557dc490b</guid>
+    </item>
+    <item>
+      <title>MultiHashFormer: 해시 기반 생성 언어 모델</title>
+      <link>https://huggingface.co/papers/2606.28057</link>
+      <description>MultiHashFormer는 Transformer 프레임워크 내에서 해시 인코더 및 해시 디코더를 통해 처리된 해시 서명으로 토큰을 표현함으로써 언어 모델에서 해시 기반 자동 회귀를 가능하게 합니다.</description>
+      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.28057">Hugging Face Papers</source>
+      <guid isPermaLink="false">b952febd3da68bd56db9d643c179bc28</guid>
+    </item>
+    <item>
+      <title>픽셀 공간 자동회귀 이미지 생성을 위한 병렬 롤아웃 근사</title>
+      <link>https://huggingface.co/papers/2606.27978</link>
+      <description>PRA(병렬 롤아웃 근사)는 저차원 중간 상태와 병렬 훈련을 사용하여 품질과 효율성을 향상함으로써 픽셀 공간 자동 회귀 이미지 생성의 제한 사항을 해결합니다.</description>
+      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.27978">Hugging Face Papers</source>
+      <guid isPermaLink="false">6edb763a2a4c3265b718f44fd88f1172</guid>
+    </item>
+    <item>
+      <title>저자원 언어의 텍스트 해독을 위한 Tatoxa 시스템: 타타르어 사례</title>
+      <link>https://huggingface.co/papers/2606.26015</link>
+      <description>Tatoxa는 기존 LLM에 비해 뛰어난 성능을 보여주고 리소스가 적은 환경에서 언어 간 전송의 과제를 강조하는 타타르어용 최첨단 텍스트 해독 시스템입니다.</description>
+      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.26015">Hugging Face Papers</source>
+      <guid isPermaLink="false">615837990c1128f99dd138abd40a0695</guid>
+    </item>
+    <item>
+      <title>클러스터, 라우팅, 에스컬레이션: 비용 인식 LLM 서비스를 위한 계단식 프레임워크</title>
+      <link>https://huggingface.co/papers/2606.27457</link>
+      <description>클러스터링 및 품질 추정을 기반으로 쿼리를 적절한 모델로 라우팅하여 정확성과 비용의 균형을 맞추는 대규모 언어 모델을 배포하기 위한 계단식 접근 방식입니다.</description>
+      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.27457">Hugging Face Papers</source>
+      <guid isPermaLink="false">70d1ee0e49e911110919ed05e6289cd1</guid>
+    </item>
+    <item>
+      <title>1960~2026년 메모리 가격의 역사</title>
+      <link>https://news.hada.io/topic?id=30939</link>
+      <description>Stanford DAM은 DRAM, NAND flash, HBM 의 장기 가격 흐름을 한 페이지에서 비교할 수 있게 정리해, 메모리 비용 하락과 AI용 고대역폭 메모리의 차이를 함께 볼 수 있게 함 핵심 지표는 시간에 따른 GB당 최저 가격 이며, DRAM은 Pre-DDR부터 DDR5까지 세대별 가격선...</description>
+      <pubDate>Mon, 29 Jun 2026 21:35:54 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30939">GeekNews</source>
+      <guid isPermaLink="false">aba7c74ea282fc093ba90137a05c4be6</guid>
+    </item>
     <item>
       <title>말하는 동안 생각하기: 반응적이고 지능적인 대화 음성 에이전트를 위한 추론 시간 지식 전달</title>
       <link>https://huggingface.co/papers/2511.07397</link>
@@ -385,78 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.28277">Hugging Face Papers</source>
       <guid isPermaLink="false">919cb70af8f1a09a5e7742c54f2bd434</guid>
-    </item>
-    <item>
-      <title>[단독]AI 교육 플랫폼 '엔트리' 공공 전환…내년 8월 서비스 목표</title>
-      <link>https://www.etnews.com/20260628000076</link>
-      <description>초·중·고교 인공지능(AI)·소프트웨어(SW) 실습교육에 활용되는 네이버의 민간 비영리 플랫폼 '엔트리'가 공공 운영체계로 전환된다. 학교 현장에서 안정적인 AI 실습 환경을 제공하기 위해서다. 28일 과학기술정보통신부가 이해민 조국혁신당 의원실에 제출한 자료에 따르면 정부는 초중등 AI 실습교육 플랫폼 구축 사업을 통해 엔트리를 공공기관으로 이전해 지속 운영하는 방안을 추진하고 있다.</description>
-      <pubDate>Sun, 28 Jun 2026 17:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260628000076">전자신문 IT</source>
-      <guid isPermaLink="false">eeb4503bb2a821b7010d8ab051ae9220</guid>
-    </item>
-    <item>
-      <title>SimFoundry: 정책 학습 및 평가를 위한 모듈식 자동화 장면 생성</title>
-      <link>https://huggingface.co/papers/2606.28276</link>
-      <description>SimFoundry는 자동화된 시뮬레이션 구성과 일반화 및 성능 예측을 향상시키는 다양한 장면 변형을 통해 제로샷 실제 로봇 정책 교육을 가능하게 합니다.</description>
-      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.28276">Hugging Face Papers</source>
-      <guid isPermaLink="false">b81a125b3ae95e8e25a131ee2facb117</guid>
-    </item>
-    <item>
-      <title>Emmimal/context-graph-benchmark — 다중 에이전트 LLM 시스템을 위한 순수 Python 구조 메모리 벤치마크 — 컨텍스트 그래프 대 벡터 RAG</title>
-      <link>https://github.com/Emmimal/context-graph-benchmark</link>
-      <description>다중 에이전트 LLM 시스템을 위한 순수 Python 구조 메모리 벤치마크 — 컨텍스트 그래프 vs 벡터 RAG vs 원시 기록 덤프, 5가지 시나리오, 18단계 쿼리, API 호출 없음.</description>
-      <pubDate>Sat, 27 Jun 2026 11:13:43 +0900</pubDate>
-      <category>trending</category>
-      <source url="https://github.com/Emmimal/context-graph-benchmark">GitHub Trending</source>
-      <guid isPermaLink="false">2b23b841595b32b67bab0829fd8e6e71</guid>
-    </item>
-    <item>
-      <title>[2026/06/22 ~ 28] 이번 주에 살펴볼 만한 AI/ML 논문 모음</title>
-      <link>https://discuss.pytorch.kr/t/2026-06-22-28-ai-ml/10959</link>
-      <description>[2026/06/22 ~ 28] 이번 주에 살펴볼 만한 AI/ML 논문 모음 PyTorchKR​ 이번 주에 선정된 10편의 논문들을 살펴본 결과, 에이전트의 자율성 증대와 피드백 기반의 최적화, 그리고 전문 영역으로의 깊숙한 침투라는 주요한 트렌드들을 발견할 수 있었습니다.</description>
-      <pubDate>Mon, 29 Jun 2026 06:30:16 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/2026-06-22-28-ai-ml/10959">PyTorch Korea</source>
-      <guid isPermaLink="false">4f1ac8a70b089c5502ac9faa80f0198c</guid>
-    </item>
-    <item>
-      <title>아시아 AI 스타트업들, Anthropic Mythos 대체 모델 출시</title>
-      <link>https://news.hada.io/topic?id=30915</link>
-      <description>미국 정부의 Mythos·Fable 5 접근 제한 이 길어지면서, 일본 Sakana AI와 중국 360이 각각 Fugu와 Tulongfeng/Yitianzhen으로 생긴 공백을 겨냥함 Sakana AI의 Fugu 는 Fable 5·Mythos Preview와 경쟁 가능한 모델로 소개되며, 여러 모델 API를 조율하는 에이전트용 ...</description>
-      <pubDate>Mon, 29 Jun 2026 07:44:13 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30915">GeekNews</source>
-      <guid isPermaLink="false">32da22943b5fc544f08c197ec96a3690</guid>
-    </item>
-    <item>
-      <title>Aliu-AiRobot/ESEILANE — AI, LLM 및 GraphRAG용 고성능 지식 그래프 엔진 — 차세대 o를 위해 구축됨</title>
-      <link>https://github.com/Aliu-AiRobot/ESEILANE</link>
-      <description>AI, LLM 및 GraphRAG용 고성능 지식 그래프 엔진은 차세대 지능형 애플리케이션용으로 구축되었습니다.</description>
-      <pubDate>Mon, 29 Jun 2026 04:29:47 +0900</pubDate>
-      <category>trending</category>
-      <source url="https://github.com/Aliu-AiRobot/ESEILANE">GitHub Trending</source>
-      <guid isPermaLink="false">cc7f6d23ea9cc18e6823107d5b482ef0</guid>
-    </item>
-    <item>
-      <title>wanshuiyin/Anti-Autoresearch — 자동 연구 논문을 액면 그대로 신뢰하지 마십시오. 리뷰어 측 무결성 포렌식(자체 일관성</title>
-      <link>https://github.com/wanshuiyin/Anti-Autoresearch</link>
-      <description>자동 연구 논문을 액면 그대로 신뢰하지 마십시오. 리뷰어 측 무결성 포렌식(자체 일관성 + 조작), 결정론적 평결.</description>
-      <pubDate>Sun, 28 Jun 2026 18:39:22 +0900</pubDate>
-      <category>trending</category>
-      <source url="https://github.com/wanshuiyin/Anti-Autoresearch">GitHub Trending</source>
-      <guid isPermaLink="false">a2cf5307cabff98ea0877695f0fc60dc</guid>
-    </item>
-    <item>
-      <title>김준기 래블업 CTO “풀스택 AI 인프라로 GPU 한계 넘는다”</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=212203</link>
-      <description>최근 국내 AI 시장에서 안정적이고 효율적인 GPU 공급을 내세운 서비스가 급증하고 있다.</description>
-      <pubDate>Mon, 29 Jun 2026 02:50:53 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=212203">AI Times</source>
-      <guid isPermaLink="false">2d186ab00b529bcc7932b682326cbd0b</guid>
     </item>
   </channel>
 </rss>

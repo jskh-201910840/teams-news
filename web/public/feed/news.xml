@@ -5,9 +5,27 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 29 Jun 2026 18:27:58 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 23:06:24 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>AI 기업들은 올해 694조원 썼다… AI 자본지출이 던진 ROI 질문</title>
+      <link>https://zdnet.co.kr/view/?no=20260629222727</link>
+      <description>[지디넷코리아]6월 24일 미국 증시에서 기술주가 급락했다. 나스닥 종합지수는 2.21% 내린 25,587로 분기 최대 낙폭을 기록했고, S&amp;amp;P500도 1.44% 하락했다. 마이크론(Micron)은 장중 13%까지 내렸다가 일부 회복했다.</description>
+      <pubDate>Mon, 29 Jun 2026 22:27:27 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260629222727">ZDNet Korea</source>
+      <guid isPermaLink="false">c5d45fcdfd1a1ca24bf1f51557dc490b</guid>
+    </item>
+    <item>
+      <title>1960~2026년 메모리 가격의 역사</title>
+      <link>https://news.hada.io/topic?id=30939</link>
+      <description>Stanford DAM은 DRAM, NAND flash, HBM 의 장기 가격 흐름을 한 페이지에서 비교할 수 있게 정리해, 메모리 비용 하락과 AI용 고대역폭 메모리의 차이를 함께 볼 수 있게 함 핵심 지표는 시간에 따른 GB당 최저 가격 이며, DRAM은 Pre-DDR부터 DDR5까지 세대별 가격선...</description>
+      <pubDate>Mon, 29 Jun 2026 21:35:54 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30939">GeekNews</source>
+      <guid isPermaLink="false">aba7c74ea282fc093ba90137a05c4be6</guid>
+    </item>
     <item>
       <title>[대한민국 3대 메가프로젝트]새만금·대경권 양대 축으로 AI로봇 글로벌 3강으로 키운다</title>
       <link>https://www.etnews.com/20260629000377</link>
@@ -439,24 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260628000049">전자신문 IT</source>
       <guid isPermaLink="false">3fbcd0065987d22d8a86376b4351430b</guid>
-    </item>
-    <item>
-      <title>1분기 국내 프리미엄 폰 비중 70% 이상 고공행진 지속</title>
-      <link>https://www.etnews.com/20260626000098</link>
-      <description>올 1분기 국내 스마트폰 시장 프리미엄폰 비중이 70%를 넘어섰다. 제조사들이 수익성이 높은 플래그십과 고용량 모델 판매에 집중하고, 소비자도 교체 주기를 늘리는 대신 고가 제품을 선택하는데 따라 프리미엄폰 선호 형상이 대세로 자리잡고 있다.</description>
-      <pubDate>Sun, 28 Jun 2026 10:30:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260626000098">전자신문 IT</source>
-      <guid isPermaLink="false">09a747d4526cd87bcf2e574202a21841</guid>
-    </item>
-    <item>
-      <title>LG스마트코티지, B2B 맞춤형 20평대 신제품 출시</title>
-      <link>https://www.etnews.com/20260628000035</link>
-      <description>LG전자가 모듈러 주택 'LG스마트코티지' 제품군을 다각화한다. 20평대 모델 2종을 추가하고 가전과 IoT기기 등을 선택할 수 있도록 옵션 체계를 세분화했다. LG전자가 출시하는 20평대 단층형 모델은 'MONO Core 72(면적 72.9㎡, 약 22평)'와 'MONO Core 82(면적 82.1㎡, 약 24평)'다.</description>
-      <pubDate>Sun, 28 Jun 2026 10:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260628000035">전자신문 IT</source>
-      <guid isPermaLink="false">5ccd767407043dc60d31936346ad9f3b</guid>
     </item>
   </channel>
 </rss>
