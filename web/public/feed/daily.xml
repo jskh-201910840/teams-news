@@ -5,71 +5,62 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/daily.xml</link>
     <description>Today's curated top 7 digest for Teams card.</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 28 Jun 2026 08:58:19 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 09:04:18 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <item>
-      <title>OPID: 에이전트 강화 학습을 위한 정책 기반 기술 증류</title>
-      <link>https://huggingface.co/papers/2606.26790</link>
-      <description>정책 기반 기술 증류 프레임워크는 완료된 궤적에서 밀집된 사후 관리 감독을 추출하여 언어 에이전트 교육 효율성과 성능을 향상시킵니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.26790">Hugging Face Papers</source>
-      <guid isPermaLink="false">bc9d9cdfdec7228df9d51ab37b906062</guid>
-    </item>
-    <item>
-      <title>ViQ: 모든 해상도에서 텍스트 정렬된 시각적 양자화 표현</title>
-      <link>https://huggingface.co/papers/2606.27313</link>
-      <description>ViQ는 의미론적 풍부함과 개별 표현의 세부 보존 사이의 균형을 유지하는 시각적 양자화 프레임워크를 제공하여 기본 해상도 입력으로 효율적인 다중 모드 훈련을 가능하게 합니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.27313">Hugging Face Papers</source>
-      <guid isPermaLink="false">e42a027cecf7a092c19e6e70e6f83046</guid>
-    </item>
-    <item>
-      <title>“우리 친구 아이가”… 지중해 향유고래들, 지역별 '사투리' 쓴다</title>
-      <link>https://www.etnews.com/20260625000402</link>
-      <description>지중해에 서식하는 향유고래들이 바다 동쪽과 서쪽으로 나뉘어 서로 다른 '방언(사투리)'을 사용한다는 사실이 밝혀졌다. 사람의 언어처럼 향유고래 역시 지역에 따라 소통 방식에 미세한 차이가 확인된 것이다. 24일(현지시간) 영국 가디언에 따르면 세인트앤드루스 대학교 루크 렌델 박사 연구팀은 최근 국제학술지 '왕립학회지 B'를 통해 지중해 향유고래들의 울음소리를 분석한 결과를 발표했다.</description>
-      <pubDate>Sun, 28 Jun 2026 06:00:00 +0900</pubDate>
+      <title>김준기 래블업 CTO “풀스택 AI 인프라로 GPU 한계 넘는다”</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212203</link>
+      <description>최근 국내 AI 시장에서 안정적이고 효율적인 GPU 공급을 내세운 서비스가 급증하고 있다.</description>
+      <pubDate>Mon, 29 Jun 2026 02:50:53 +0900</pubDate>
       <category>news</category>
-      <source url="https://www.etnews.com/20260625000402">전자신문 IT</source>
-      <guid isPermaLink="false">a5ba49f524004071797c9a01a93e589c</guid>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212203">AI Times</source>
+      <guid isPermaLink="false">2d186ab00b529bcc7932b682326cbd0b</guid>
     </item>
     <item>
-      <title>GSMA MWC26 상하이, AI 경제와 6G 혁신으로 전 세계 참석자들의 호응 속에 폐막</title>
-      <link>https://zdnet.co.kr/view/?no=20260628011003</link>
-      <description>[지디넷코리아] 143개 국가 및 지역의 참석자들이 약 300명의 연사와 400곳 이상의 후원사, 전시업체 및 파트너와 함께 SNIEC에서 AI 시대 연결성의 미래 모색 상하이, 2026년 6월 28일 /PRNewswire/ -- MWC26 상하이(MWC26 Shanghai)가 AI 경제, 6G 혁신 등을 중심으로 3일간 진행된 콘퍼런스와 전시회를 마치고 폐막했다.</description>
-      <pubDate>Sun, 28 Jun 2026 01:10:03 +0900</pubDate>
+      <title>"아이폰18 프로, 최대 30만원 오른다"</title>
+      <link>https://zdnet.co.kr/view/?no=20260629080640</link>
+      <description>[지디넷코리아]애플이 올가을 출시할 예정인 아이폰18 프로 가격이 최대 200달러(약 30만원) 인상될 수 있다는 전망이 나왔다고 IT매체 맥루머스가 최근 보도했다.시장조사기관 IDC는 앞서 애플이 아이폰18 프로 모델은 100달러(약 15만원), 기본 모델은 50달러(약 7만원) 오를 것으로 예상했다. 그런데 이 가격 인상폭이 더 커질 것이란 추가 전망이 나왔다.</description>
+      <pubDate>Mon, 29 Jun 2026 08:17:36 +0900</pubDate>
       <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260628011003">ZDNet Korea</source>
-      <guid isPermaLink="false">f415e70e28cf997dd2666188e8377d6a</guid>
+      <source url="https://zdnet.co.kr/view/?no=20260629080640">ZDNet Korea</source>
+      <guid isPermaLink="false">96914e39c893d1bae96833d0322c3ee9</guid>
     </item>
     <item>
       <title>benchflow-ai/awesome-evals — AI 에이전트 구축 및 평가를 위한 최고의 리소스를 선별한 비BS 라이브러리 — 논문, 블로그</title>
       <link>https://github.com/benchflow-ai/awesome-evals</link>
       <description>논문, 블로그, 강연, 도구, 벤치마크 등 AI 에이전트 구축 및 평가를 위한 최고의 리소스로 구성된 선별된 비BS 라이브러리입니다. BenchFlow에서 관리합니다.</description>
-      <pubDate>Sun, 28 Jun 2026 07:35:28 +0900</pubDate>
+      <pubDate>Sun, 28 Jun 2026 18:05:19 +0900</pubDate>
       <category>trending</category>
       <source url="https://github.com/benchflow-ai/awesome-evals">GitHub Trending</source>
       <guid isPermaLink="false">e942f3f8c1f0089ec23e7d3c1037b482</guid>
     </item>
     <item>
-      <title>NotASithLord/peerd — 브라우저에 기본으로 제공되는 최초의 AI 에이전트입니다. 에이전트 loo를 실행하는 Chrome/Firefox 확장 프로그램</title>
-      <link>https://github.com/NotASithLord/peerd</link>
-      <description>최초의 AI 에이전트는 브라우저에 기본적으로 사용됩니다.</description>
-      <pubDate>Sun, 28 Jun 2026 08:53:25 +0900</pubDate>
+      <title>eli-labz/Godcoder — 데스크탑을 위한 로컬 우선 오픈 소스 코딩 에이전트입니다. 자신의 LLM 키를 가져오세요. 당신의 코드는 계속 켜져 있습니다</title>
+      <link>https://github.com/eli-labz/Godcoder</link>
+      <description>데스크탑을 위한 로컬 우선 오픈 소스 코딩 에이전트입니다. 자신의 LLM 키를 가져오세요. 귀하의 코드는 귀하의 컴퓨터에 남아 있으며 모델 제공자에게만 전달됩니다.</description>
+      <pubDate>Mon, 29 Jun 2026 03:38:56 +0900</pubDate>
       <category>trending</category>
-      <source url="https://github.com/NotASithLord/peerd">GitHub Trending</source>
-      <guid isPermaLink="false">f19219475ab87e83e2f84c2856f5acb9</guid>
+      <source url="https://github.com/eli-labz/Godcoder">GitHub Trending</source>
+      <guid isPermaLink="false">e737fc0ece5e2ee6d1535fce50e35703</guid>
     </item>
     <item>
-      <title>SIA(Self-Improving AI): 하네스와 모델 가중치를 함께 진화시키는 자기 개선 AI 에이전트 루프에 대한 연구 (feat. Hexo Labs)</title>
-      <link>https://discuss.pytorch.kr/t/sia-self-improving-ai-ai-feat-hexo-labs/10950</link>
-      <description>SIA(Self-Improving AI) 연구 소개 새로운 분야를 처음 배우는 신입 엔지니어를 떠올려 봅시다. 처음에는 선배가 정리해 준 체크리스트와 도구 사용법을 따라 하며 일을 해냅니다. 시간이 지나면 더 나은 작업 순서나 자동화 스크립트를 스스로 만들어 외부 절차를 다듬습니다.</description>
-      <pubDate>Sun, 28 Jun 2026 08:30:23 +0900</pubDate>
+      <title>agentgateway: MCP와 A2A, LLM 트래픽을 하나로 묶는 AI 에이전트용 오픈소스 게이트웨이</title>
+      <link>https://discuss.pytorch.kr/t/agentgateway-mcp-a2a-llm-ai/10957</link>
+      <description>agentgateway 소개 AI 에이전트가 실제 업무에 투입되면서, 에이전트는 더 이상 혼자 동작하지 않습니다. 에이전트끼리 작업을 주고받고(agent-to-agent), 내부 시스템이나 도구를 호출하고(agent-to-tool), 외부 LLM에 추론을 요청합니다(agent-to-LLM).</description>
+      <pubDate>Sun, 28 Jun 2026 12:30:35 +0900</pubDate>
       <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/sia-self-improving-ai-ai-feat-hexo-labs/10950">PyTorch Korea</source>
-      <guid isPermaLink="false">34001fa24b69c8f29a7cd82787435ac6</guid>
+      <source url="https://discuss.pytorch.kr/t/agentgateway-mcp-a2a-llm-ai/10957">PyTorch Korea</source>
+      <guid isPermaLink="false">aa62f798c46672fa81e5aab4921b3643</guid>
+    </item>
+    <item>
+      <title>LLM Wiki Newsroom: 신문사 편집국을 본뜬 멀티에이전트로 지식을 위키로 관리 (Claude Code 기반)</title>
+      <link>https://discuss.pytorch.kr/t/llm-wiki-newsroom-claude-code/10966</link>
+      <description>안드레 카파시의 LLM Wiki 개념( https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f )을 보고 개인적으로 스크랩하고 있는 신문 기사를 중심으로 몇달 간 돌려보고 있습니다. LLM한테 그때그때 모은 문서를 던져 주면 서로 연결된 위키로 정리하고, 문서를 하나 넣어도 관련 페이지들이 모두 같이 갱신 되게 하는 방식입니다.</description>
+      <pubDate>Sun, 28 Jun 2026 19:31:06 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/llm-wiki-newsroom-claude-code/10966">PyTorch Korea</source>
+      <guid isPermaLink="false">7a12dc0864d7cbb9309eab804537ce4e</guid>
     </item>
   </channel>
 </rss>
