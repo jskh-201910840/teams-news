@@ -5,9 +5,36 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/community.xml</link>
     <description>💬 Community — PyTorch Korea discussions</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 30 Jun 2026 14:06:37 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 18:41:08 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>ELF: 임베딩 공간에 머무는 연속 확산 언어 모델(Continuous Diffusion Language Model)에 대한 연구</title>
+      <link>https://discuss.pytorch.kr/t/elf-continuous-diffusion-language-model/10215</link>
+      <description>ELF 소개 이미지와 영상 같은 연속(continuous) 데이터를 생성할 때, 오늘날 사실상의 표준은 확산 모델(Diffusion Model)과 플로 기반(flow-based) 모델입니다. 가우시안 노이즈에서 출발해 점진적으로 데이터를 복원하는 이 패러다임은 Stable Diffusion, FLUX, Sora 같은 모델의 토대가 되었습니다.</description>
+      <pubDate>Tue, 30 Jun 2026 17:30:02 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/elf-continuous-diffusion-language-model/10215">PyTorch Korea</source>
+      <guid isPermaLink="false">3169b74345467b2fc0b0837bdcb43996</guid>
+    </item>
+    <item>
+      <title>Mooncake: Kimi를 떠받치는 KVCache 중심 분리형 LLM 서빙 플랫폼</title>
+      <link>https://discuss.pytorch.kr/t/mooncake-kimi-kvcache-llm/10991</link>
+      <description>Mooncake 소개 Mooncake는 Moonshot AI의 LLM 서비스 Kimi 를 떠받치는 서빙 플랫폼으로, "KVCache를 중심에 둔 분리형 아키텍처(KVCache-centric Disaggregated Architecture)"를 핵심으로 삼습니다.</description>
+      <pubDate>Tue, 30 Jun 2026 18:30:37 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/mooncake-kimi-kvcache-llm/10991">PyTorch Korea</source>
+      <guid isPermaLink="false">992bfaeda7706ee93cd1045650f4103a</guid>
+    </item>
+    <item>
+      <title>[GN⁺] GTM(Go To Market)을 위한 AI가 성과를 내지 못한 이유 (그리고 해결 방법)</title>
+      <link>https://discuss.pytorch.kr/t/gn-gtm-go-to-market-ai/10990</link>
+      <description>GTM을 위한 AI가 성과를 내지 못한 이유 글 소개 이메일 작성, AI SDR, 인텐트 도구 등 다양한 AI를 도입한 GTM 팀 대부분이 기대만큼 영업 생산성, 파이프라인, 매출 향상을 체감하지 못하고 있음 AI에 계정 공략을 맡기면 "Acme가 SDR을 채용 중이고 작년 실주 건이 있으니 연락하라"는 식의 기술적으로 정확하지만 일반적인 메시지 만 생성, 구매자가 즉시 삭제하는 결과로 이…</description>
+      <pubDate>Tue, 30 Jun 2026 14:30:10 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/gn-gtm-go-to-market-ai/10990">PyTorch Korea</source>
+      <guid isPermaLink="false">3a24f5eca82f89eed838673d33d967b2</guid>
+    </item>
     <item>
       <title>SkillSpector: AI 에이전트 스킬을 설치 전에 검사하는 NVIDIA의 보안 스캐너</title>
       <link>https://discuss.pytorch.kr/t/skillspector-ai-nvidia/10986</link>
@@ -430,33 +457,6 @@
       <category>community</category>
       <source url="https://discuss.pytorch.kr/t/atlas-gic/10838">PyTorch Korea</source>
       <guid isPermaLink="false">7af4d9077b3732fb834db4a402187550</guid>
-    </item>
-    <item>
-      <title>Cursor plugins: Cursor 코딩 에이전트용 공식 플러그인 모음과 플러그인 명세</title>
-      <link>https://discuss.pytorch.kr/t/cursor-plugins-cursor/10841</link>
-      <description>Cursor plugins 소개 AI 코딩 에이전트를 팀의 작업 방식에 맞게 길들이려면, 에이전트가 따라야 할 규칙과 활용할 도구, 그리고 특정 작업을 더 잘 해내게 하는 지침을 한데 묶어 배포할 방법이 필요합니다. Cursor plugins는 이런 묶음을 표준화한 플러그인(plugin) 형식과, Cursor가 직접 만든 공식 플러그인을 함께 담은 저장소입니다.</description>
-      <pubDate>Tue, 23 Jun 2026 15:30:02 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/cursor-plugins-cursor/10841">PyTorch Korea</source>
-      <guid isPermaLink="false">8c892ad318068abb1caca103c3c6ab5c</guid>
-    </item>
-    <item>
-      <title>Agentic Resource Discovery(ARD): Google과 Microsoft 등이 함께 제안하는, 에이전트를 위한 개방형 자원 탐색 표준</title>
-      <link>https://discuss.pytorch.kr/t/agentic-resource-discovery-ard-google-microsoft/10847</link>
-      <description>Agentic Resource Discovery(ARD) 소개 오늘날 AI 에이전트는 더 이상 혼자 동작하지 않습니다. 하나의 작업을 끝내기 위해 외부 도구를 호출하고, 다른 팀이 만든 스킬을 빌려 오고, 때로는 또 다른 전문 에이전트에게 일을 넘깁니다.</description>
-      <pubDate>Tue, 23 Jun 2026 12:30:18 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/agentic-resource-discovery-ard-google-microsoft/10847">PyTorch Korea</source>
-      <guid isPermaLink="false">500efc126ab051521c22a5b6e244d3b6</guid>
-    </item>
-    <item>
-      <title>CADAM: 자연어로 3D CAD 모델을 만드는 오픈소스 text-to-CAD 웹 애플리케이션</title>
-      <link>https://discuss.pytorch.kr/t/cadam-3d-cad-text-to-cad/10814</link>
-      <description>CADAM 소개 기계 부품이나 시제품을 설계할 때 CAD 소프트웨어의 진입 장벽은 꽤 높습니다. 스케치, 구속 조건, 모델링 트리에 익숙해지기까지 시간이 걸리고, 치수 하나를 바꾸려면 어디를 수정해야 하는지 다시 찾아야 합니다. 머릿속에 만들고 싶은 형상이 분명해도 그것을 도구의 조작으로 옮기는 과정이 만만치 않습니다.</description>
-      <pubDate>Tue, 23 Jun 2026 10:30:49 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/cadam-3d-cad-text-to-cad/10814">PyTorch Korea</source>
-      <guid isPermaLink="false">787c3cdf7291f4b62b719d1179c50901</guid>
     </item>
   </channel>
 </rss>

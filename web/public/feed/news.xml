@@ -5,9 +5,108 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 30 Jun 2026 14:06:37 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 18:41:08 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>화웨이-차이나모바일 후베이, ‘AI 추론 가속 솔루션’ 상용망 검증</title>
+      <link>https://zdnet.co.kr/view/?no=20260630171105</link>
+      <description>[지디넷코리아]화웨이가 장문 AI 추론의 토큰 처리량을 최대 3.7배 끌어올리는 AI 추론 가속 솔루션을 중국 통신 업계 최초로 상용망에서 검증하는 데 성공했다.화웨이는 지난 24일부터 26일까지 중국 상하이에서 열린 'MWC 상하이 2026'에서 차이나모바일 후베이와 이같은 성과를 공개했다고 30일 밝혔다.솔루션은 화웨이 오션스토(OceanStor) A800 스토리지와 어센드 A3 슈퍼팟…</description>
+      <pubDate>Tue, 30 Jun 2026 17:41:49 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260630171105">ZDNet Korea</source>
+      <guid isPermaLink="false">9055343cd74112dbd4e073d92d638e25</guid>
+    </item>
+    <item>
+      <title>커서, iOS 모바일 앱 출시...스마트폰으로 AI 코딩 에이전트 실시간 제어</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212262</link>
+      <description>스페이스X에 인수된 커서가 iOS용 모바일 앱을 공개 베타로 출시하며 AI 코딩 에이전트를 스마트폰에서 직접 제어하는 시대를 열었다.</description>
+      <pubDate>Tue, 30 Jun 2026 18:18:05 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212262">AI Times</source>
+      <guid isPermaLink="false">89526f5a86b0d657b87e45281ee7a401</guid>
+    </item>
+    <item>
+      <title>인공지능정책센터 출범…AI 정책·기술 지원 맡는다</title>
+      <link>https://www.etnews.com/20260630000428</link>
+      <description>국가 인공지능(AI) 정책 수립과 법·제도 정비, AI 확산 영향 분석을 지원할 'AI정책센터'가 출범했다. AI 기본법 시행과 '글로벌 AI 3대 강국' 도약 목표에 맞춰 정책 전문성과 실행력을 높이는 역할을 맡는다. 30일 과학기술정보통신부와 한국지능정보사회진흥원(NIA)은 NIA 서울사무소에서 AI정책센터 개소식을 개최했다.</description>
+      <pubDate>Tue, 30 Jun 2026 17:54:32 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260630000428">전자신문 IT</source>
+      <guid isPermaLink="false">70bdb8c10cf3a441cbaeaafd8f9131ed</guid>
+    </item>
+    <item>
+      <title>박관호 위메이드 의장, 9200억원 메가딜... '미르' IP 중국계 자본 품으로</title>
+      <link>https://www.etnews.com/20260630000422</link>
+      <description>박관호 위메이드 이사회 의장이 약 9200억원 규모의 지분 매각 계약을 체결했다. 중국 게임·IT 생태계와 긴밀한 네트워크를 보유한 투자 플랫폼 네오펄스와 전략적 파트너십을 구축하며 AI 기반 게임 개발과 중국 시장 공략을 본격화한다. 위메이드는 30일 박 의장이 보유한 위메이드 지분을 네오펄스에 매각하는 주식매매계약(SPA)을 체결했다고 밝혔다.</description>
+      <pubDate>Tue, 30 Jun 2026 17:41:23 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260630000422">전자신문 IT</source>
+      <guid isPermaLink="false">32aeee3901090fdadeee14abc88746a8</guid>
+    </item>
+    <item>
+      <title>“기본급 6억에 주식 보상까지”…엔비디아 '우주 AI 데이터센터' 파격 채용</title>
+      <link>https://www.etnews.com/20260630000420</link>
+      <description>인공지능(AI) 반도체 시장을 장악하고 있는 엔비디아가 우주 공간에 AI 데이터센터를 구축하기 위한 핵심 인력 확보에 나서며 차세대 AI 인프라 경쟁에 뛰어들었다. AI 서비스 확산으로 데이터센터의 연산 수요가 폭발적으로 증가하면서 지상의 전력 부족과 부지 확보 문제가 심각해지는 가운데, 빅테크 기업들이 우주를 새로운 AI 인프라 공간으로 활용하려는 움직임을 본격화하는 모습이다.</description>
+      <pubDate>Tue, 30 Jun 2026 17:19:42 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260630000420">전자신문 IT</source>
+      <guid isPermaLink="false">0364e01c275217c0d192d16eb0bc668f</guid>
+    </item>
+    <item>
+      <title>韓 4700조 투자에도…TSMC 가진 대만 “경쟁 불가피해도 대체불가 위상은 확고”</title>
+      <link>https://www.etnews.com/20260630000419</link>
+      <description>한국 정부와 삼성전자, SK하이닉스 등이 총 4700조원 규모의 반도체·인공지능(AI) 투자 계획을 발표한 가운데 세계 최대 파운드리 기업 TSMC의 본거지인 대만에서 경계와 자신감이 동시에 나오고 있다.</description>
+      <pubDate>Tue, 30 Jun 2026 17:19:34 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260630000419">전자신문 IT</source>
+      <guid isPermaLink="false">398b5131aab7e3d0701b4acdef7fe60a</guid>
+    </item>
+    <item>
+      <title>우리은행, 클라우드 인프라 107대 확충…AI 개발 인프라 키운다</title>
+      <link>https://www.etnews.com/20260630000281</link>
+      <description>우리은행이 내부 업무시스템을 올릴 클라우드 인프라와 생성형 인공지능(AI) 개발지원 인프라를 확충하는 것으로 확인됐다. 개발자가 코딩·오류 수정·문서화 등에 AI를 활용할 수 있도록 H200 그래픽처리장치(GPU) 기반 전용 서버도 구축한다. 금융권 AI 경쟁이 개발 생산성과 내부 운영체계 고도화로 확산하고 있다.</description>
+      <pubDate>Tue, 30 Jun 2026 17:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260630000281">전자신문 IT</source>
+      <guid isPermaLink="false">e78cc6ce8efb82ef0ed883cfefeb4a04</guid>
+    </item>
+    <item>
+      <title>쿠팡, 상품명에 '네이버·무신사·테무' 언급 전면 금지…AI 쇼핑 정조준</title>
+      <link>https://www.etnews.com/20260630000325</link>
+      <description>쿠팡에서 판매하는 상품명에 알리익스프레스와 테무, 네이버 등 경쟁 플랫폼 명칭 사용이 전면 금지된다. 생성형 인공지능(AI) 기반 검색과 추천 서비스 경쟁이 본격화되는 가운데 쿠팡이 상품 데이터 표준화에 속도를 내는 것이라는 분석이 나온다. 30일 업계에 따르면 쿠팡은 최근 판매자들에게 7월 중 상품명과 대표 이미지와 관련한 새 정책을 시행한다고 안내했다.</description>
+      <pubDate>Tue, 30 Jun 2026 16:37:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260630000325">전자신문 IT</source>
+      <guid isPermaLink="false">07c0fdf2be2be8cbdc3d35679640be4c</guid>
+    </item>
+    <item>
+      <title>곽노정 SK하이닉스 사장 “서남권, 반도체 클러스터 최적 입지…1GW AI 데이터센터 구축”</title>
+      <link>https://www.etnews.com/20260630000362</link>
+      <description>곽노정 SK하이닉스 사장은 30일 “서남권 반도체 클러스터 생산기반을 구축해 급증하는 글로벌 메모리 수요에 대응하겠다”고 밝혔다. 곽 사장은 이날 광주에서 열린 '서남권 첨단산업 발전비전 국민보고회'에서 “서남권은 반도체 클러스터 조성에 필요한 입지 조건을 갖출 것으로 기대된다”며 이같이 말했다.</description>
+      <pubDate>Tue, 30 Jun 2026 15:40:10 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260630000362">전자신문 IT</source>
+      <guid isPermaLink="false">173a8443e978060af2ee80c9e326abe4</guid>
+    </item>
+    <item>
+      <title>애플, 보안 조기 업데이트…'AI 해킹' 위험 선제 대응</title>
+      <link>https://www.etnews.com/20260630000352</link>
+      <description>애플이 인공지능(AI) 사이버 보안 위험에 선제 대응하기 위해 보안 소프트웨어(SW) 조기 업데이트를 실시한다. 29일(현지시간) 로이터통신에 따르면 애플은 AI 기반 해킹 위험 최소화를 위해 차기 iOS 운용체계(OS) 26.6 버전에 일괄 배포할 계획이었던 보안 SW 업데이트를 앞당겨 배포하기로 했다.</description>
+      <pubDate>Tue, 30 Jun 2026 15:23:10 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260630000352">전자신문 IT</source>
+      <guid isPermaLink="false">66adc84f3146b49457316b905bf13281</guid>
+    </item>
+    <item>
+      <title>Show GN: AI한테 메일 맡기지 마라 — 인박스엔 비서가 아니라 &amp;#039;방화벽&amp;#039;이 필요하다 (오픈소스)</title>
+      <link>https://news.hada.io/topic?id=30972</link>
+      <description>요즘 "AI 이메일" 도구는 전부 같은 방향입니다. 메일마다 초안 깔고, "AI가 답장하래요" 배지 붙이고, 자동 전송 버튼 답니다. 결과는?</description>
+      <pubDate>Tue, 30 Jun 2026 18:24:47 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30972">GeekNews</source>
+      <guid isPermaLink="false">c4cf6c1eb0f9330fb11380e3a6e2ada6</guid>
+    </item>
     <item>
       <title>AI 에이전트 회사 차리기: 설립부터 어디서든 동기화까지</title>
       <link>https://d2.naver.com/helloworld/3897377</link>
@@ -358,105 +457,6 @@
       <category>news</category>
       <source url="https://news.hada.io/topic?id=30932">GeekNews</source>
       <guid isPermaLink="false">f75027940e8d83fd9562d24161d4d270</guid>
-    </item>
-    <item>
-      <title>[단독]AI 교육 플랫폼 '엔트리' 공공 전환…내년 8월 서비스 목표</title>
-      <link>https://www.etnews.com/20260628000076</link>
-      <description>초·중·고교 인공지능(AI)·소프트웨어(SW) 실습교육에 활용되는 네이버의 민간 비영리 플랫폼 '엔트리'가 공공 운영체계로 전환된다. 학교 현장에서 안정적인 AI 실습 환경을 제공하기 위해서다. 28일 과학기술정보통신부가 이해민 조국혁신당 의원실에 제출한 자료에 따르면 정부는 초중등 AI 실습교육 플랫폼 구축 사업을 통해 엔트리를 공공기관으로 이전해 지속 운영하는 방안을 추진하고 있다.</description>
-      <pubDate>Sun, 28 Jun 2026 17:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260628000076">전자신문 IT</source>
-      <guid isPermaLink="false">eeb4503bb2a821b7010d8ab051ae9220</guid>
-    </item>
-    <item>
-      <title>아시아 AI 스타트업들, Anthropic Mythos 대체 모델 출시</title>
-      <link>https://news.hada.io/topic?id=30915</link>
-      <description>미국 정부의 Mythos·Fable 5 접근 제한 이 길어지면서, 일본 Sakana AI와 중국 360이 각각 Fugu와 Tulongfeng/Yitianzhen으로 생긴 공백을 겨냥함 Sakana AI의 Fugu 는 Fable 5·Mythos Preview와 경쟁 가능한 모델로 소개되며, 여러 모델 API를 조율하는 에이전트용 ...</description>
-      <pubDate>Mon, 29 Jun 2026 07:44:13 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30915">GeekNews</source>
-      <guid isPermaLink="false">32da22943b5fc544f08c197ec96a3690</guid>
-    </item>
-    <item>
-      <title>김준기 래블업 CTO “풀스택 AI 인프라로 GPU 한계 넘는다”</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=212203</link>
-      <description>최근 국내 AI 시장에서 안정적이고 효율적인 GPU 공급을 내세운 서비스가 급증하고 있다.</description>
-      <pubDate>Mon, 29 Jun 2026 02:50:53 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=212203">AI Times</source>
-      <guid isPermaLink="false">2d186ab00b529bcc7932b682326cbd0b</guid>
-    </item>
-    <item>
-      <title>국내 AI 업계, 마누스 외면… "중국산 거부감보다 대체재 풍부"</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=212196</link>
-      <description>AI 에이전트 서비스 마누스(Manus)가 최근 국내 진출을 검토 중인 것으로 알려졌다. 마누스는 지난해 출시 직후 뛰어난 성능으로 주목받았으며, 최근에는 메타의 인수 추진 과정에서 중국 정부가 이례적으로 \'거래 철회 명령\'을 내리며 미국과의 기술 갈등의 중심에 선 바 있다. 이 때문에 시장에서는 이를 ‘중국계 AI’로 인식하는 분위기가 짙다.</description>
-      <pubDate>Sun, 28 Jun 2026 21:08:34 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=212196">AI Times</source>
-      <guid isPermaLink="false">4512d41a4b83d25d09dce46c1549a926</guid>
-    </item>
-    <item>
-      <title>SK, K-AI 얼라이언스 판 키운다…투자자·빅테크 연결</title>
-      <link>https://zdnet.co.kr/view/?no=20260628183359</link>
-      <description>[지디넷코리아]SK그룹의 AI 기업 연합체인 ‘K-AI 얼라이언스’가 글로벌 협력 확대에 속도를 낸다.SK AI위원회는 K-AI 얼라이언스가 지난 26일 미국 실리콘밸리 멘로파크에서 연례 행사 ‘유나이트 2026’을 열었다고 밝혔다.</description>
-      <pubDate>Sun, 28 Jun 2026 18:33:59 +0900</pubDate>
-      <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260628183359">ZDNet Korea</source>
-      <guid isPermaLink="false">96f9f1cee301fbbcd6cab7f30034f21a</guid>
-    </item>
-    <item>
-      <title>평범했던 회사원도 '억만장자' 만든 회사…직원 600명, 스톡옵션 '100억' 돈벼락</title>
-      <link>https://www.etnews.com/20260628000108</link>
-      <description>인공지능(AI) 투자 열풍으로 일본 메모리 반도체 기업 키옥시아의 기업가치가 급등하면서 스톡옵션을 받은 직원 수백 명이 거액의 자산가로 올라섰다.</description>
-      <pubDate>Sun, 28 Jun 2026 17:59:50 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260628000108">전자신문 IT</source>
-      <guid isPermaLink="false">5c735a9283989f460fa963fc8f9e86f9</guid>
-    </item>
-    <item>
-      <title>구윤철 “반도체·AI 초격차 승부처는 지방…범정부 총력 지원”</title>
-      <link>https://www.etnews.com/20260628000105</link>
-      <description>구윤철 경제부총리 겸 재정경제부 장관이 기업의 지방 투자 결정을 존중하고 정부가 전폭적으로 지원하겠다는 입장을 밝혔다. 반도체를 비롯한 첨단산업 경쟁력 확보를 위해 수도권 집중을 넘어 지방을 새로운 성장 거점으로 육성해야 한다고 강조했다.</description>
-      <pubDate>Sun, 28 Jun 2026 17:06:29 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260628000105">전자신문 IT</source>
-      <guid isPermaLink="false">9b0a3b371216352b8971bff5a8283485</guid>
-    </item>
-    <item>
-      <title>[뉴스줌인] 마켓플레이스로 글로벌 AI 에이전트 시장 선도</title>
-      <link>https://www.etnews.com/20260628000060</link>
-      <description>정부 지원으로 탄생할 민간 주도 '인공지능(AI) 에이전트 마켓플레이스'는 국내 생태계 활성화는 물론, 글로벌 AI 에이전트 시장을 선도할 거점으로 도약하는 것을 목표로 한다. 경쟁력 있는 다양한 AI 에이전트가 한곳에 모이는 허브로 자리매김할 예정인 만큼 해외 수요도 분명히 있을 거라는 게 정부와 공공·참여 검토 기업의 판단이다.</description>
-      <pubDate>Sun, 28 Jun 2026 16:01:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260628000060">전자신문 IT</source>
-      <guid isPermaLink="false">c4290f9132ed1e2ce509db756f4e5578</guid>
-    </item>
-    <item>
-      <title>모든 AI 에이전트 한곳에...'AI 마켓플레이스' 열린다</title>
-      <link>https://www.etnews.com/20260626000253</link>
-      <description>정부가 인공지능(AI) 에이전트 서비스와 관련 기술일 한곳에서 비교·거래할 수 있는 전용 마켓플레이스를 구축한다. 민간 주도 에이전틱 AI 생태계를 조성하겠다는 구상이다. 과학기술정보통신부와 한국지능정보사회진흥원(NIA)은 올해부터 내년까지 정부 출연금 56억원과 민간 매칭 투자를 통해 'AI 에이전트 마켓플레이스'를 구축한다고 28일 밝혔다.</description>
-      <pubDate>Sun, 28 Jun 2026 16:01:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260626000253">전자신문 IT</source>
-      <guid isPermaLink="false">c6cca8bedde92d1c67c04bfaf60a1ed4</guid>
-    </item>
-    <item>
-      <title>[바이오 USA]달아오른 AI 신약개발 기대감…K바이오 존재감 커졌다</title>
-      <link>https://www.etnews.com/20260626000152</link>
-      <description>세계 최대 제약바이오 박람회 '2026 바이오 인터내셔널 컨벤션(바이오 USA 2026)'의 화두 중 하나는 단연 인공지능(AI)이었다. AI 신약 개발은 수년 전만 해도 먼 미래 기술로 여겨졌지만 올해 바이오 USA에서 국내 기업들은 AI가 실현 가능한 기술로서 글로벌 제약사의 높은 관심을 확인했다고 입을 모았다.</description>
-      <pubDate>Sun, 28 Jun 2026 16:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260626000152">전자신문 IT</source>
-      <guid isPermaLink="false">a5dd32b512fa8f82929683190b1567d2</guid>
-    </item>
-    <item>
-      <title>딥시크, LLM 추론 속도 최대 85% 높이는 ‘D스파크’ 오픈소스 공개</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=212191</link>
-      <description>딥시크가 기존 모델의 응답 속도와 서비스 효율을 높이기 위한 최적화 기술을 선보였다. 여러 토큰을 먼저 생성한 뒤 문맥에 맞게 차례대로 보완하고, GPU 작업량에 따라 검증하는 토큰 수를 자동으로 조절해 추론 속도와 서비스 효율을 높였다.</description>
-      <pubDate>Sun, 28 Jun 2026 13:44:44 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=212191">AI Times</source>
-      <guid isPermaLink="false">177814387d44a74c728643ee77337c21</guid>
     </item>
   </channel>
 </rss>

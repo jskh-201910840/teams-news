@@ -5,9 +5,216 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 30 Jun 2026 14:06:37 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 18:41:08 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>ELF: 임베딩 공간에 머무는 연속 확산 언어 모델(Continuous Diffusion Language Model)에 대한 연구</title>
+      <link>https://discuss.pytorch.kr/t/elf-continuous-diffusion-language-model/10215</link>
+      <description>ELF 소개 이미지와 영상 같은 연속(continuous) 데이터를 생성할 때, 오늘날 사실상의 표준은 확산 모델(Diffusion Model)과 플로 기반(flow-based) 모델입니다. 가우시안 노이즈에서 출발해 점진적으로 데이터를 복원하는 이 패러다임은 Stable Diffusion, FLUX, Sora 같은 모델의 토대가 되었습니다.</description>
+      <pubDate>Tue, 30 Jun 2026 17:30:02 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/elf-continuous-diffusion-language-model/10215">PyTorch Korea</source>
+      <guid isPermaLink="false">3169b74345467b2fc0b0837bdcb43996</guid>
+    </item>
+    <item>
+      <title>비디오-MME-논리: 비디오 시간-논리 추론을 위한 제어된 진단 벤치마크</title>
+      <link>https://huggingface.co/papers/2606.27828</link>
+      <description>새로운 벤치마크는 단순한 객체 인식이 아닌 제어된 시간적 논리적 작업을 통해 동적 시각적 증거에 대해 추론하는 다중 모드 대형 언어 모델의 능력을 평가합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.27828">Hugging Face Papers</source>
+      <guid isPermaLink="false">ec7076d91519697489c1480f8d8967e4</guid>
+    </item>
+    <item>
+      <title>Mooncake: Kimi를 떠받치는 KVCache 중심 분리형 LLM 서빙 플랫폼</title>
+      <link>https://discuss.pytorch.kr/t/mooncake-kimi-kvcache-llm/10991</link>
+      <description>Mooncake 소개 Mooncake는 Moonshot AI의 LLM 서비스 Kimi 를 떠받치는 서빙 플랫폼으로, "KVCache를 중심에 둔 분리형 아키텍처(KVCache-centric Disaggregated Architecture)"를 핵심으로 삼습니다.</description>
+      <pubDate>Tue, 30 Jun 2026 18:30:37 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/mooncake-kimi-kvcache-llm/10991">PyTorch Korea</source>
+      <guid isPermaLink="false">992bfaeda7706ee93cd1045650f4103a</guid>
+    </item>
+    <item>
+      <title>화웨이-차이나모바일 후베이, ‘AI 추론 가속 솔루션’ 상용망 검증</title>
+      <link>https://zdnet.co.kr/view/?no=20260630171105</link>
+      <description>[지디넷코리아]화웨이가 장문 AI 추론의 토큰 처리량을 최대 3.7배 끌어올리는 AI 추론 가속 솔루션을 중국 통신 업계 최초로 상용망에서 검증하는 데 성공했다.화웨이는 지난 24일부터 26일까지 중국 상하이에서 열린 'MWC 상하이 2026'에서 차이나모바일 후베이와 이같은 성과를 공개했다고 30일 밝혔다.솔루션은 화웨이 오션스토(OceanStor) A800 스토리지와 어센드 A3 슈퍼팟…</description>
+      <pubDate>Tue, 30 Jun 2026 17:41:49 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260630171105">ZDNet Korea</source>
+      <guid isPermaLink="false">9055343cd74112dbd4e073d92d638e25</guid>
+    </item>
+    <item>
+      <title>커서, iOS 모바일 앱 출시...스마트폰으로 AI 코딩 에이전트 실시간 제어</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212262</link>
+      <description>스페이스X에 인수된 커서가 iOS용 모바일 앱을 공개 베타로 출시하며 AI 코딩 에이전트를 스마트폰에서 직접 제어하는 시대를 열었다.</description>
+      <pubDate>Tue, 30 Jun 2026 18:18:05 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212262">AI Times</source>
+      <guid isPermaLink="false">89526f5a86b0d657b87e45281ee7a401</guid>
+    </item>
+    <item>
+      <title>인공지능정책센터 출범…AI 정책·기술 지원 맡는다</title>
+      <link>https://www.etnews.com/20260630000428</link>
+      <description>국가 인공지능(AI) 정책 수립과 법·제도 정비, AI 확산 영향 분석을 지원할 'AI정책센터'가 출범했다. AI 기본법 시행과 '글로벌 AI 3대 강국' 도약 목표에 맞춰 정책 전문성과 실행력을 높이는 역할을 맡는다. 30일 과학기술정보통신부와 한국지능정보사회진흥원(NIA)은 NIA 서울사무소에서 AI정책센터 개소식을 개최했다.</description>
+      <pubDate>Tue, 30 Jun 2026 17:54:32 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260630000428">전자신문 IT</source>
+      <guid isPermaLink="false">70bdb8c10cf3a441cbaeaafd8f9131ed</guid>
+    </item>
+    <item>
+      <title>박관호 위메이드 의장, 9200억원 메가딜... '미르' IP 중국계 자본 품으로</title>
+      <link>https://www.etnews.com/20260630000422</link>
+      <description>박관호 위메이드 이사회 의장이 약 9200억원 규모의 지분 매각 계약을 체결했다. 중국 게임·IT 생태계와 긴밀한 네트워크를 보유한 투자 플랫폼 네오펄스와 전략적 파트너십을 구축하며 AI 기반 게임 개발과 중국 시장 공략을 본격화한다. 위메이드는 30일 박 의장이 보유한 위메이드 지분을 네오펄스에 매각하는 주식매매계약(SPA)을 체결했다고 밝혔다.</description>
+      <pubDate>Tue, 30 Jun 2026 17:41:23 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260630000422">전자신문 IT</source>
+      <guid isPermaLink="false">32aeee3901090fdadeee14abc88746a8</guid>
+    </item>
+    <item>
+      <title>“기본급 6억에 주식 보상까지”…엔비디아 '우주 AI 데이터센터' 파격 채용</title>
+      <link>https://www.etnews.com/20260630000420</link>
+      <description>인공지능(AI) 반도체 시장을 장악하고 있는 엔비디아가 우주 공간에 AI 데이터센터를 구축하기 위한 핵심 인력 확보에 나서며 차세대 AI 인프라 경쟁에 뛰어들었다. AI 서비스 확산으로 데이터센터의 연산 수요가 폭발적으로 증가하면서 지상의 전력 부족과 부지 확보 문제가 심각해지는 가운데, 빅테크 기업들이 우주를 새로운 AI 인프라 공간으로 활용하려는 움직임을 본격화하는 모습이다.</description>
+      <pubDate>Tue, 30 Jun 2026 17:19:42 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260630000420">전자신문 IT</source>
+      <guid isPermaLink="false">0364e01c275217c0d192d16eb0bc668f</guid>
+    </item>
+    <item>
+      <title>韓 4700조 투자에도…TSMC 가진 대만 “경쟁 불가피해도 대체불가 위상은 확고”</title>
+      <link>https://www.etnews.com/20260630000419</link>
+      <description>한국 정부와 삼성전자, SK하이닉스 등이 총 4700조원 규모의 반도체·인공지능(AI) 투자 계획을 발표한 가운데 세계 최대 파운드리 기업 TSMC의 본거지인 대만에서 경계와 자신감이 동시에 나오고 있다.</description>
+      <pubDate>Tue, 30 Jun 2026 17:19:34 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260630000419">전자신문 IT</source>
+      <guid isPermaLink="false">398b5131aab7e3d0701b4acdef7fe60a</guid>
+    </item>
+    <item>
+      <title>우리은행, 클라우드 인프라 107대 확충…AI 개발 인프라 키운다</title>
+      <link>https://www.etnews.com/20260630000281</link>
+      <description>우리은행이 내부 업무시스템을 올릴 클라우드 인프라와 생성형 인공지능(AI) 개발지원 인프라를 확충하는 것으로 확인됐다. 개발자가 코딩·오류 수정·문서화 등에 AI를 활용할 수 있도록 H200 그래픽처리장치(GPU) 기반 전용 서버도 구축한다. 금융권 AI 경쟁이 개발 생산성과 내부 운영체계 고도화로 확산하고 있다.</description>
+      <pubDate>Tue, 30 Jun 2026 17:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260630000281">전자신문 IT</source>
+      <guid isPermaLink="false">e78cc6ce8efb82ef0ed883cfefeb4a04</guid>
+    </item>
+    <item>
+      <title>[GN⁺] GTM(Go To Market)을 위한 AI가 성과를 내지 못한 이유 (그리고 해결 방법)</title>
+      <link>https://discuss.pytorch.kr/t/gn-gtm-go-to-market-ai/10990</link>
+      <description>GTM을 위한 AI가 성과를 내지 못한 이유 글 소개 이메일 작성, AI SDR, 인텐트 도구 등 다양한 AI를 도입한 GTM 팀 대부분이 기대만큼 영업 생산성, 파이프라인, 매출 향상을 체감하지 못하고 있음 AI에 계정 공략을 맡기면 "Acme가 SDR을 채용 중이고 작년 실주 건이 있으니 연락하라"는 식의 기술적으로 정확하지만 일반적인 메시지 만 생성, 구매자가 즉시 삭제하는 결과로 이…</description>
+      <pubDate>Tue, 30 Jun 2026 14:30:10 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/gn-gtm-go-to-market-ai/10990">PyTorch Korea</source>
+      <guid isPermaLink="false">3a24f5eca82f89eed838673d33d967b2</guid>
+    </item>
+    <item>
+      <title>쿠팡, 상품명에 '네이버·무신사·테무' 언급 전면 금지…AI 쇼핑 정조준</title>
+      <link>https://www.etnews.com/20260630000325</link>
+      <description>쿠팡에서 판매하는 상품명에 알리익스프레스와 테무, 네이버 등 경쟁 플랫폼 명칭 사용이 전면 금지된다. 생성형 인공지능(AI) 기반 검색과 추천 서비스 경쟁이 본격화되는 가운데 쿠팡이 상품 데이터 표준화에 속도를 내는 것이라는 분석이 나온다. 30일 업계에 따르면 쿠팡은 최근 판매자들에게 7월 중 상품명과 대표 이미지와 관련한 새 정책을 시행한다고 안내했다.</description>
+      <pubDate>Tue, 30 Jun 2026 16:37:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260630000325">전자신문 IT</source>
+      <guid isPermaLink="false">07c0fdf2be2be8cbdc3d35679640be4c</guid>
+    </item>
+    <item>
+      <title>인터리브 음성 언어 모델은 잠재적으로 텍스트에서 작동합니다.</title>
+      <link>https://huggingface.co/papers/2606.22473</link>
+      <description>인터리브된 음성-텍스트 언어 모델은 텍스트 토큰이 중간 계층에서 디코딩 가능해지고 음성 도메인 변환 전에 텍스트 기반 예측이 이어지는 암시적 전사 단계를 나타냅니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.22473">Hugging Face Papers</source>
+      <guid isPermaLink="false">0c809b5c7af1b4630739e2bbacb14d38</guid>
+    </item>
+    <item>
+      <title>ZooClaw-FashionSigLIP2: 강력한 패션 검색을 위한 증류된 미세 조정</title>
+      <link>https://huggingface.co/papers/2606.27708</link>
+      <description>패션 전문 비전 언어 모델은 지식 증류 및 가중치 보간을 통한 완전한 미세 조정을 통해 탁월한 검색 성능을 달성하며, 새로운 벤치마크에서 기존 방법을 능가하는 동시에…</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.27708">Hugging Face Papers</source>
+      <guid isPermaLink="false">89c15c6ef7a730d93343fe28775873f4</guid>
+    </item>
+    <item>
+      <title>손 동작 재구성을 위한 비디오 확산 모델의 놀라운 효율성</title>
+      <link>https://huggingface.co/papers/2606.30308</link>
+      <description>ViDiHand는 감지기나 최적화 없이 비디오 프레임에서 직접 4D 손 동작을 재구성하기 위해 핸드 오버레이 렌더링과 함께 사전 훈련된 비디오 확산 모델 표현을 사용합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.30308">Hugging Face Papers</source>
+      <guid isPermaLink="false">e1831b1df8b15e62d79d128372f8bc67</guid>
+    </item>
+    <item>
+      <title>정리 그래프: 형식 수학과 비공식 수학 연결</title>
+      <link>https://huggingface.co/papers/2606.25363</link>
+      <description>통합된 수학적 종속성 그래프는 arXiv 논문 및 Lean 프로젝트의 의미 임베딩 및 자동 추출을 통해 비공식 수학과 형식 수학을 연결합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.25363">Hugging Face Papers</source>
+      <guid isPermaLink="false">fe65901dc17843d5337cbc00406056b6</guid>
+    </item>
+    <item>
+      <title>곽노정 SK하이닉스 사장 “서남권, 반도체 클러스터 최적 입지…1GW AI 데이터센터 구축”</title>
+      <link>https://www.etnews.com/20260630000362</link>
+      <description>곽노정 SK하이닉스 사장은 30일 “서남권 반도체 클러스터 생산기반을 구축해 급증하는 글로벌 메모리 수요에 대응하겠다”고 밝혔다. 곽 사장은 이날 광주에서 열린 '서남권 첨단산업 발전비전 국민보고회'에서 “서남권은 반도체 클러스터 조성에 필요한 입지 조건을 갖출 것으로 기대된다”며 이같이 말했다.</description>
+      <pubDate>Tue, 30 Jun 2026 15:40:10 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260630000362">전자신문 IT</source>
+      <guid isPermaLink="false">173a8443e978060af2ee80c9e326abe4</guid>
+    </item>
+    <item>
+      <title>애플, 보안 조기 업데이트…'AI 해킹' 위험 선제 대응</title>
+      <link>https://www.etnews.com/20260630000352</link>
+      <description>애플이 인공지능(AI) 사이버 보안 위험에 선제 대응하기 위해 보안 소프트웨어(SW) 조기 업데이트를 실시한다. 29일(현지시간) 로이터통신에 따르면 애플은 AI 기반 해킹 위험 최소화를 위해 차기 iOS 운용체계(OS) 26.6 버전에 일괄 배포할 계획이었던 보안 SW 업데이트를 앞당겨 배포하기로 했다.</description>
+      <pubDate>Tue, 30 Jun 2026 15:23:10 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260630000352">전자신문 IT</source>
+      <guid isPermaLink="false">66adc84f3146b49457316b905bf13281</guid>
+    </item>
+    <item>
+      <title>대리인적 기권: 대리인은 조치를 취하는 대신 언제 중지해야 하는지 알고 있습니까?</title>
+      <link>https://huggingface.co/papers/2606.28733</link>
+      <description>에이전트 기권에는 AI 에이전트가 불확실성 하에서 상호 작용을 중단해야 하는 시기를 결정하는 것이 포함되며, 여러 환경과 작업 유형에 걸쳐 순차적인 의사 결정이 필요합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.28733">Hugging Face Papers</source>
+      <guid isPermaLink="false">b3eec78989dbfc67bf68aa290efa7d00</guid>
+    </item>
+    <item>
+      <title>액션에서 월드 모델링으로 이전 가능한 역학 사전 학습</title>
+      <link>https://huggingface.co/papers/2606.29501</link>
+      <description>행동 조건이 적용된 세계 모델링은 대규모 조작 데이터에 대한 사전 훈련을 통해 로봇 학습을 위한 이전 가능한 역학 사전을 가능하게 하며 시뮬레이터 기반 정책 평가와 비디오 행동 예측을 모두 지원합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.29501">Hugging Face Papers</source>
+      <guid isPermaLink="false">ed91c7f67f00d3a0a910a5853ba2e63f</guid>
+    </item>
+    <item>
+      <title>신약 발견을 넘어: 나노기술 분자 최적화(NMO) 벤치마크</title>
+      <link>https://huggingface.co/papers/2606.30170</link>
+      <description>NMO(나노기술 분자 최적화) 벤치마크는 새로운 생성 모델 접근법이 필요한 물리학 기반 분자 설계 과제를 소개하고, 약물 발견에 초점을 맞춘 측정 기준을 넘어 과학 연구를 가능하게 합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.30170">Hugging Face Papers</source>
+      <guid isPermaLink="false">d1342393580ded1585988dbc97aa1598</guid>
+    </item>
+    <item>
+      <title>FLISP를 사용한 대규모 터널 공대지 협업: 고속 LiDAR-IMU 동기화 경로 플래너</title>
+      <link>https://huggingface.co/papers/2606.25393</link>
+      <description>수력 발전 터널 검사는 인프라 무결성에 매우 중요하지만 수동 방법으로는 여전히 비효율적이고 위험합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.25393">Hugging Face Papers</source>
+      <guid isPermaLink="false">8ac4bc26cab147ef7abdb9f65732ae76</guid>
+    </item>
+    <item>
+      <title>Show GN: AI한테 메일 맡기지 마라 — 인박스엔 비서가 아니라 &amp;#039;방화벽&amp;#039;이 필요하다 (오픈소스)</title>
+      <link>https://news.hada.io/topic?id=30972</link>
+      <description>요즘 "AI 이메일" 도구는 전부 같은 방향입니다. 메일마다 초안 깔고, "AI가 답장하래요" 배지 붙이고, 자동 전송 버튼 답니다. 결과는?</description>
+      <pubDate>Tue, 30 Jun 2026 18:24:47 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30972">GeekNews</source>
+      <guid isPermaLink="false">c4cf6c1eb0f9330fb11380e3a6e2ada6</guid>
+    </item>
     <item>
       <title>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</title>
       <link>https://huggingface.co/papers/2606.30616</link>
@@ -250,213 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260630000052">전자신문 IT</source>
       <guid isPermaLink="false">6f8844b0a69821f949943deac998a2fc</guid>
-    </item>
-    <item>
-      <title>중요한 것에 집중: MoE 확산을 위한 핵심 활용 정확한 라우팅</title>
-      <link>https://huggingface.co/papers/2606.26938</link>
-      <description>SharpMoE는 명확한 잠재 기능을 사용하여 주요 토큰 식별을 안내하고 다단계 정의 중 정확한 컴퓨팅 할당을 위해 궤적 라우팅 손실을 사용하여 확산 모델의 라우팅 비효율성을 해결합니다.</description>
-      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.26938">Hugging Face Papers</source>
-      <guid isPermaLink="false">2aaf214e629935cd8c840d1cfd3e0aaa</guid>
-    </item>
-    <item>
-      <title>포스텍, 초박형 반도체 칩 10층 이상 적층… 상용 HBM 대비 4배 높은 집적 밀도 구현</title>
-      <link>https://www.etnews.com/20260630000015</link>
-      <description>국내 연구팀이 머리카락 굵기 5분의 1에 불과한 초박형 반도체 칩을 10층 이상 안정적으로 쌓는 기술을 개발했다. 포스텍(POSTECH)은 김석 기계공학과 교수, 통합과정 김우현 씨, 한국생산기술연구원 금호현 박사 연구팀이 칩을 옮기는 동시에 금속 접합까지 가능한 새로운 공정을 통해 상용화된 고성능 메모리보다 약 4배 높은 집적 밀도를 구현하는 데 성공했다고 30일 밝혔다.</description>
-      <pubDate>Tue, 30 Jun 2026 09:04:40 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260630000015">전자신문 IT</source>
-      <guid isPermaLink="false">cf5a7be9cf99acc1fc83e7133b9341c5</guid>
-    </item>
-    <item>
-      <title>모바일 3D 가우스 스플래팅을 위한 몬테카를로 에너지 집합</title>
-      <link>https://huggingface.co/papers/2606.30017</link>
-      <description>Flux-GS는 효율적인 조명 표현, 속성 조건 강화 및 다중 뷰 치밀화 전략을 통해 모바일 플랫폼에서 실시간 충실도가 높은 3D 가우스 스플래팅을 가능하게 합니다.</description>
-      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.30017">Hugging Face Papers</source>
-      <guid isPermaLink="false">82ed134b6fade79bd8885c944df7cd4a</guid>
-    </item>
-    <item>
-      <title>TUA-Bench: 범용 단말 사용 에이전트에 대한 벤치마크</title>
-      <link>https://huggingface.co/papers/2606.28480</link>
-      <description>TUA-Bench는 다양한 디지털 활동과 전문 워크플로우 전반에 걸쳐 범용 터미널 사용 에이전트를 평가하기 위한 포괄적인 벤치마크를 제시하여 현재 최전선 간의 상당한 성능 격차를 드러냅니다.</description>
-      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.28480">Hugging Face Papers</source>
-      <guid isPermaLink="false">6fe3d1d6deb3c54893d29fa7ccebb33d</guid>
-    </item>
-    <item>
-      <title>시계열 예측에 선형 모델이 얼마나 유용할 수 있습니까?</title>
-      <link>https://huggingface.co/papers/2606.27282</link>
-      <description>연구에 따르면 특히 컨텍스트 길이, 정규화 및 정규화의 전처리 최적화는 확장 모델보다 시계열 예측 정확도를 더 효과적으로 크게 향상시킬 수 있습니다.</description>
-      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.27282">Hugging Face Papers</source>
-      <guid isPermaLink="false">193636ca9dca5b3e811af6e8a7558d19</guid>
-    </item>
-    <item>
-      <title>SafePyramid: 상황 내 정책 가드레일을 위한 계층적 벤치마크</title>
-      <link>https://huggingface.co/papers/2606.29887</link>
-      <description>SafePyramid 벤치마크는 여러 도메인과 복잡성 수준에 걸쳐 상황에 맞는 정책 사양을 통해 안전 위반을 식별하는 가드레일 시스템의 능력을 평가합니다.</description>
-      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.29887">Hugging Face Papers</source>
-      <guid isPermaLink="false">8dead6758c6372147d3004bc9f4f421c</guid>
-    </item>
-    <item>
-      <title>DreamForge-World 0.1 미리보기: 저컴퓨팅 실시간 제어 가능 월드 모델</title>
-      <link>https://huggingface.co/papers/2606.30292</link>
-      <description>DreamForge-World 0.1 Preview는 잔여 작업 경로를 사용하여 비디오 생성 아키텍처를 조정하여 계산 요구 사항이 낮은 소비자 하드웨어에서 실시간 대화형 세계 시뮬레이션을 가능하게 합니다.</description>
-      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.30292">Hugging Face Papers</source>
-      <guid isPermaLink="false">269909f28c4a850419db3def64ff9f6e</guid>
-    </item>
-    <item>
-      <title>진 상자 운반에 30년형, 표현의 자유 위기</title>
-      <link>https://news.hada.io/topic?id=30968</link>
-      <description>Daniel “Des” Sanchez Estrada는 자신이 쓰지 않은 진(zine) 상자 를 옮긴 일로 연방 징역 30년을 선고받았고, Prairieland 사건 피고 8명에게 내려진 총 450년형의 일부가 됨 검찰은 Sanchez가 아내 Maricela Rueda 사건의 증거를 숨기려 했다 고 봤으며, Rueda는...</description>
-      <pubDate>Tue, 30 Jun 2026 13:36:39 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30968">GeekNews</source>
-      <guid isPermaLink="false">62b3c5f98eafd5c1bc48d72e2cdb00df</guid>
-    </item>
-    <item>
-      <title>하나의 전진이 둘을 이긴다: 정확하고 효율적인 GUI 접지를 위한 InnerZoom</title>
-      <link>https://huggingface.co/papers/2606.30084</link>
-      <description>InnerZoom은 레이어 간 증거를 연결하는 단일 전달 패스를 통해 디코더 레이어 전반에 걸쳐 대상 영역 인식을 유지함으로써 GUI 접지 문제를 해결하고, 비용 절감으로 최첨단 성능을 달성합니다.</description>
-      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.30084">Hugging Face Papers</source>
-      <guid isPermaLink="false">d2397ffcf2058988e8dbdf0bf4af9275</guid>
-    </item>
-    <item>
-      <title>AutoTTS: Test-Time Scaling 전략을 LLM 에이전트가 자동으로 발견하는 환경 기반 프레임워크에 대한 연구</title>
-      <link>https://discuss.pytorch.kr/t/autotts-test-time-scaling-llm/10487</link>
-      <description>AutoTTS 소개 새로운 보드게임을 처음 배울 때를 떠올려 봅시다. 우리는 보통 고수들이 정리해 둔 정석(定石)을 외우는 것에서 시작합니다. 하지만 진짜 실력은, 수많은 판을 직접 두면서 "여기서는 공격적으로, 저기서는 물러서야 한다"는 감각을 스스로 체득할 때 늘어납니다.</description>
-      <pubDate>Tue, 30 Jun 2026 08:30:00 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/autotts-test-time-scaling-llm/10487">PyTorch Korea</source>
-      <guid isPermaLink="false">0b0923766ac2c6897843a0bada6887dd</guid>
-    </item>
-    <item>
-      <title>Memora: 장기 작업을 위한 확장형 메모리 시스템</title>
-      <link>https://news.hada.io/topic?id=30956</link>
-      <description>요약 개요 목적 AI 에이전트가 대화·문서에서 필요한 정보를 자동으로 추출하고 장기적으로 저장·검색할 수 있도록 지원하는 메모리 프레임워크 핵심 설계 전체 원문인 Memory value 는 그대로</description>
-      <pubDate>Tue, 30 Jun 2026 09:13:12 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30956">GeekNews</source>
-      <guid isPermaLink="false">f0678be3581bf3ec56cc7db8ed9941e1</guid>
-    </item>
-    <item>
-      <title>[6월29일] '챗GPT' 비밀번호를 공유하면 안 되는 이유..."넷플릭스와는 달라"</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=212217</link>
-      <description>AI 챗봇의 대중화로 최근 국내외에서 챗GPT와 클로드, 제미나이 등의 유료 요금제 계정을 공유하는 사례가 늘고 있습니다.</description>
-      <pubDate>Tue, 30 Jun 2026 07:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=212217">AI Times</source>
-      <guid isPermaLink="false">9318293d2c00bca515ec4b8136c9c316</guid>
-    </item>
-    <item>
-      <title>베스타: 일반주의자의 구체화된 추론 모델</title>
-      <link>https://huggingface.co/papers/2606.20905</link>
-      <description>Vesta는 지역화, 공간 추론, 탐색 및 장기 수평 계획을 단일 기반 모델로 통합한 통합 구현된 일반 모델로, 두 벤치마크 테스트 모두에서 특수 모델보다 성능이 뛰어납니다.</description>
-      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.20905">Hugging Face Papers</source>
-      <guid isPermaLink="false">49e92b615684ba67e82fb2b22025d74b</guid>
-    </item>
-    <item>
-      <title>Qwen 3.6 27B는 로컬 개발의 최적 지점</title>
-      <link>https://news.hada.io/topic?id=30942</link>
-      <description>Qwen 3.6 27B 는 로컬 모델에 회의적이던 사용자에게도 범용 작업에서 의미 있는 선택지로 보이며, 35B A3B보다 느리지만 더 강력한 dense 모델로 추천됨 창작·코딩 테스트에서는 제약 조건 준수 가 강점으로 드러났고, OpenCode에서 pnpm 기반 육각형 ...</description>
-      <pubDate>Tue, 30 Jun 2026 07:23:42 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30942">GeekNews</source>
-      <guid isPermaLink="false">4f4391be53e2f742d2cd8403a54f97cd</guid>
-    </item>
-    <item>
-      <title>Supermemory: 대화에서 사실을 추출해 AI에 장기 기억을 부여하는 메모리 엔진</title>
-      <link>https://discuss.pytorch.kr/t/supermemory-ai/10661</link>
-      <description>Supermemory 소개 Supermemory는 대화가 끝날 때마다 맥락이 사라지는 문제를 풀기 위해, 대화에서 사실을 추출해 영속적으로 저장하는 AI 메모리 및 컨텍스트 엔진입니다. 대부분의 LLM 기반 도구는 한 세션이 끝나면 사용자가 누구인지, 무엇을 작업하고 있었는지를 잊어버립니다.</description>
-      <pubDate>Tue, 30 Jun 2026 06:30:50 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/supermemory-ai/10661">PyTorch Korea</source>
-      <guid isPermaLink="false">f9b095852aea86aacc689e1a849c1e5d</guid>
-    </item>
-    <item>
-      <title>CogniRoute: 옴니모달 모델에서 사회적 증거를 라우팅하는 방법 학습</title>
-      <link>https://huggingface.co/papers/2606.20970</link>
-      <description>CogniRoute는 인지 스키마 분해 및 경로 인식 강화 학습을 통해 다중 모달 추론을 향상시키는 소셜 비디오 질문 답변을 위한 스키마 기반 전문가 혼합 프레임워크입니다.</description>
-      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.20970">Hugging Face Papers</source>
-      <guid isPermaLink="false">da28dad3d229daf3af6c607c3a456170</guid>
-    </item>
-    <item>
-      <title>Gist 토큰을 통해 단순화된 Sparse Attention</title>
-      <link>https://huggingface.co/papers/2604.20920</link>
-      <description>SSA(Simplified Sparse Attention)는 사전 훈련 중 gist 토큰 기반 주의 마스킹을 통해 장기 컨텍스트 추론 비용을 줄여 아키텍처 수정 없이 추론 시 효율적인 청크 선택을 가능하게 합니다.</description>
-      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2604.20920">Hugging Face Papers</source>
-      <guid isPermaLink="false">aa21530c3d0a9721a44ef37151676dbe</guid>
-    </item>
-    <item>
-      <title>토큰나이저에 대한 갤럭시 가이드: 과학 기반 모델을 위한 벤치마크</title>
-      <link>https://huggingface.co/papers/2606.25610</link>
-      <description>천문 이미지에 대한 네 가지 토큰화 방법은 재구성 품질, 물리적 특성 예측 및 형태학적 보존에서 뚜렷한 강점을 보여 주지만 모든 작업에서 탁월한 단일 접근 방식은 없습니다.</description>
-      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.25610">Hugging Face Papers</source>
-      <guid isPermaLink="false">59e310be9e58517ac2822c8797b02169</guid>
-    </item>
-    <item>
-      <title>AgentOdyssey: 테스트 시간 연속 학습 에이전트를 위한 개방형 장거리 텍스트 게임 생성</title>
-      <link>https://huggingface.co/papers/2606.24893</link>
-      <description>AgentOdyssey는 절차적으로 생성된 텍스트 게임을 통해 테스트 시간 연속 학습 에이전트를 평가하고 연속적이고 장기적인 설정에서 학습, 기억, 탐색 및 계획 기능을 측정합니다.</description>
-      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.24893">Hugging Face Papers</source>
-      <guid isPermaLink="false">3b4d0d5c453c741666b9a185e90779b6</guid>
-    </item>
-    <item>
-      <title>Qwen-RobotManip 기술 보고서: 정렬을 통해 로봇 조작 기반 모델의 규모 잠금 해제</title>
-      <link>https://huggingface.co/papers/2606.17846</link>
-      <description>로봇 조작을 위한 Vision-Language-Action 기반 모델은 표현, 모션 및 행동 차원 전반에 걸친 통합 정렬을 통해 일반화를 달성하여 다양한 데이터에 대한 대규모 교육을 가능하게 합니다.</description>
-      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.17846">Hugging Face Papers</source>
-      <guid isPermaLink="false">4f75070dfd6b94113b1faa811c6c4f57</guid>
-    </item>
-    <item>
-      <title>Qwen-RobotNav 기술 보고서: 에이전트 탐색 시스템용으로 설계된 확장 가능한 탐색 모델</title>
-      <link>https://huggingface.co/papers/2606.18112</link>
-      <description>Qwen-RobotNav는 동적 작업 모드 및 관찰 매개변수를 활성화하는 매개변수화된 인터페이스를 갖춘 확장 가능한 탐색 모델로, 다중 작업 훈련 및 제로샷 생성을 통해 최첨단 성능을 달성합니다.</description>
-      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.18112">Hugging Face Papers</source>
-      <guid isPermaLink="false">33dba13ba5989f788fc9527dbf3d348a</guid>
-    </item>
-    <item>
-      <title>simonlin1212/investment-news — A주 투자자를 위해 만들어진 글로벌 산업 체인 정보 게시판 · A주 부문에 해당하는 12개의 주요 트랙(반도체/AI/로봇공학/신에너지 차량...), 100개 이상의 권위 있는 소스를 다루고 자신의 대규모 모델을 사용하여 중국어 "오늘의 핵심 사항"을 개선 + 매일 번역 · 완전 현지화,</title>
-      <link>https://github.com/simonlin1212/investment-news</link>
-      <description>A주 투자자를 위해 생성된 글로벌 산업 체인 정보 대시보드 · A주 부문(반도체/AI/로봇공학/신에너지 차량...)에 해당하는 12개의 주요 트랙, 100개 이상의 권위 있는 소스를 포함, 자체 대규모 모델을 사용하여 중국 "오늘의 핵심 사항" 추출 + 매일 번역 · 완전 로컬, 제로 API 키 · 중국 A주 부문 뒤에…</description>
-      <pubDate>Mon, 29 Jun 2026 22:11:57 +0900</pubDate>
-      <category>trending</category>
-      <source url="https://github.com/simonlin1212/investment-news">GitHub Trending</source>
-      <guid isPermaLink="false">7bf11e435f8b3c2dbcdaea9dc896adc5</guid>
-    </item>
-    <item>
-      <title>ardhaecosystem/synapse — Synapse — AI 에이전트를 위한 시간적 지식 그래프 메모리입니다. 자체 호스팅 FalkorDB + hippoc이 포함된 Graphiti</title>
-      <link>https://github.com/ardhaecosystem/synapse</link>
-      <description>Synapse — AI 에이전트를 위한 시간적 지식 그래프 메모리입니다. 해마 계층 메모리 관리 기능을 갖춘 자체 호스팅 FalkorDB + Graphiti.</description>
-      <pubDate>Sat, 27 Jun 2026 04:36:00 +0900</pubDate>
-      <category>trending</category>
-      <source url="https://github.com/ardhaecosystem/synapse">GitHub Trending</source>
-      <guid isPermaLink="false">839d585605987cbb24d35b6914b65204</guid>
     </item>
   </channel>
 </rss>

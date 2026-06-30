@@ -5,9 +5,90 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/papers.xml</link>
     <description>📄 Papers — AI research from Hugging Face Daily Papers</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 30 Jun 2026 14:06:37 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 18:41:08 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>비디오-MME-논리: 비디오 시간-논리 추론을 위한 제어된 진단 벤치마크</title>
+      <link>https://huggingface.co/papers/2606.27828</link>
+      <description>새로운 벤치마크는 단순한 객체 인식이 아닌 제어된 시간적 논리적 작업을 통해 동적 시각적 증거에 대해 추론하는 다중 모드 대형 언어 모델의 능력을 평가합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.27828">Hugging Face Papers</source>
+      <guid isPermaLink="false">ec7076d91519697489c1480f8d8967e4</guid>
+    </item>
+    <item>
+      <title>인터리브 음성 언어 모델은 잠재적으로 텍스트에서 작동합니다.</title>
+      <link>https://huggingface.co/papers/2606.22473</link>
+      <description>인터리브된 음성-텍스트 언어 모델은 텍스트 토큰이 중간 계층에서 디코딩 가능해지고 음성 도메인 변환 전에 텍스트 기반 예측이 이어지는 암시적 전사 단계를 나타냅니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.22473">Hugging Face Papers</source>
+      <guid isPermaLink="false">0c809b5c7af1b4630739e2bbacb14d38</guid>
+    </item>
+    <item>
+      <title>ZooClaw-FashionSigLIP2: 강력한 패션 검색을 위한 증류된 미세 조정</title>
+      <link>https://huggingface.co/papers/2606.27708</link>
+      <description>패션 전문 비전 언어 모델은 지식 증류 및 가중치 보간을 통한 완전한 미세 조정을 통해 탁월한 검색 성능을 달성하며, 새로운 벤치마크에서 기존 방법을 능가하는 동시에…</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.27708">Hugging Face Papers</source>
+      <guid isPermaLink="false">89c15c6ef7a730d93343fe28775873f4</guid>
+    </item>
+    <item>
+      <title>손 동작 재구성을 위한 비디오 확산 모델의 놀라운 효율성</title>
+      <link>https://huggingface.co/papers/2606.30308</link>
+      <description>ViDiHand는 감지기나 최적화 없이 비디오 프레임에서 직접 4D 손 동작을 재구성하기 위해 핸드 오버레이 렌더링과 함께 사전 훈련된 비디오 확산 모델 표현을 사용합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.30308">Hugging Face Papers</source>
+      <guid isPermaLink="false">e1831b1df8b15e62d79d128372f8bc67</guid>
+    </item>
+    <item>
+      <title>정리 그래프: 형식 수학과 비공식 수학 연결</title>
+      <link>https://huggingface.co/papers/2606.25363</link>
+      <description>통합된 수학적 종속성 그래프는 arXiv 논문 및 Lean 프로젝트의 의미 임베딩 및 자동 추출을 통해 비공식 수학과 형식 수학을 연결합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.25363">Hugging Face Papers</source>
+      <guid isPermaLink="false">fe65901dc17843d5337cbc00406056b6</guid>
+    </item>
+    <item>
+      <title>대리인적 기권: 대리인은 조치를 취하는 대신 언제 중지해야 하는지 알고 있습니까?</title>
+      <link>https://huggingface.co/papers/2606.28733</link>
+      <description>에이전트 기권에는 AI 에이전트가 불확실성 하에서 상호 작용을 중단해야 하는 시기를 결정하는 것이 포함되며, 여러 환경과 작업 유형에 걸쳐 순차적인 의사 결정이 필요합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.28733">Hugging Face Papers</source>
+      <guid isPermaLink="false">b3eec78989dbfc67bf68aa290efa7d00</guid>
+    </item>
+    <item>
+      <title>액션에서 월드 모델링으로 이전 가능한 역학 사전 학습</title>
+      <link>https://huggingface.co/papers/2606.29501</link>
+      <description>행동 조건이 적용된 세계 모델링은 대규모 조작 데이터에 대한 사전 훈련을 통해 로봇 학습을 위한 이전 가능한 역학 사전을 가능하게 하며 시뮬레이터 기반 정책 평가와 비디오 행동 예측을 모두 지원합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.29501">Hugging Face Papers</source>
+      <guid isPermaLink="false">ed91c7f67f00d3a0a910a5853ba2e63f</guid>
+    </item>
+    <item>
+      <title>신약 발견을 넘어: 나노기술 분자 최적화(NMO) 벤치마크</title>
+      <link>https://huggingface.co/papers/2606.30170</link>
+      <description>NMO(나노기술 분자 최적화) 벤치마크는 새로운 생성 모델 접근법이 필요한 물리학 기반 분자 설계 과제를 소개하고, 약물 발견에 초점을 맞춘 측정 기준을 넘어 과학 연구를 가능하게 합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.30170">Hugging Face Papers</source>
+      <guid isPermaLink="false">d1342393580ded1585988dbc97aa1598</guid>
+    </item>
+    <item>
+      <title>FLISP를 사용한 대규모 터널 공대지 협업: 고속 LiDAR-IMU 동기화 경로 플래너</title>
+      <link>https://huggingface.co/papers/2606.25393</link>
+      <description>수력 발전 터널 검사는 인프라 무결성에 매우 중요하지만 수동 방법으로는 여전히 비효율적이고 위험합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.25393">Hugging Face Papers</source>
+      <guid isPermaLink="false">8ac4bc26cab147ef7abdb9f65732ae76</guid>
+    </item>
     <item>
       <title>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</title>
       <link>https://huggingface.co/papers/2606.30616</link>
@@ -376,87 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.27163">Hugging Face Papers</source>
       <guid isPermaLink="false">a2af1d18c15a5f947f2933726294fa6b</guid>
-    </item>
-    <item>
-      <title>GBC: 다중 에이전트 시스템 최적화를 위한 그라데이션 기반 연결</title>
-      <link>https://huggingface.co/papers/2606.28187</link>
-      <description>그라데이션 기반 연결은 에이전트 상호 작용을 계산 그래프로 모델링하고 그라데이션 기반 가중치를 사용하여 특정 지점에서 오류 소스를 식별함으로써 다중 에이전트 시스템에서 세분화된 속성 및 최적화를 가능하게 합니다.</description>
-      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.28187">Hugging Face Papers</source>
-      <guid isPermaLink="false">2fa512911502ea79c0b74588f1f340d2</guid>
-    </item>
-    <item>
-      <title>Zero-Shot Sim-to-Real VLA 향상을 위한 객체 중심 잔여 RL</title>
-      <link>https://huggingface.co/papers/2606.18953</link>
-      <description>객체 중심 잔류 강화 학습 프레임워크는 시뮬레이션-실제 도전에도 불구하고 제로샷을 전송하는 시뮬레이션 교육 교정 정책을 통해 실제 비전-언어-행동 모델의 견고성을 향상시킵니다.</description>
-      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.18953">Hugging Face Papers</source>
-      <guid isPermaLink="false">4fc6ad83397c481d9395229ec1cbb398</guid>
-    </item>
-    <item>
-      <title>저채널 EEG 에이전트에 대한 경계 인식 컨텍스트 접지</title>
-      <link>https://huggingface.co/papers/2606.26519</link>
-      <description>NeuraDock 에이전트는 결정론적 EEG 처리 엔진과 언어 모델 인터페이스를 결합하여 로컬 데이터 보안을 유지하면서 정확한 하드웨어 인식 분석을 보장합니다.</description>
-      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.26519">Hugging Face Papers</source>
-      <guid isPermaLink="false">ec9777386130c3c5d581a229ea82547f</guid>
-    </item>
-    <item>
-      <title>SingGuard: 동적 추론을 갖춘 정책 적응형 다중 모드 LLM 가드레일</title>
-      <link>https://huggingface.co/papers/2606.22873</link>
-      <description>SingGuard는 빠른 속도에서 느린 속도의 추론 모드를 통해 자연어 규칙을 동적으로 적용하여 실시간 대화에서 안전성을 평가하는 정책 적응형 다중 모드 가드레일 시스템입니다.</description>
-      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.22873">Hugging Face Papers</source>
-      <guid isPermaLink="false">082c39fd68396d10754452cf44251ebe</guid>
-    </item>
-    <item>
-      <title>ProMSA: 지식 기반 시각적 질문 응답을 위한 프로그레시브 다중 모드 검색 에이전트</title>
-      <link>https://huggingface.co/papers/2606.27974</link>
-      <description>검색 전략을 적응적으로 선택하고 시퀀스 수준 강화 학습을 통해 최적화하는 지식 기반 시각적 질문 답변을 위한 진보적인 다중 모드 검색 에이전트입니다.</description>
-      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.27974">Hugging Face Papers</source>
-      <guid isPermaLink="false">dfee86f3eff24f96c0c9e1cf4812a7a3</guid>
-    </item>
-    <item>
-      <title>NormGuard: 흐름 일치 강화 학습에서 보상 보존 규범 제약 조건</title>
-      <link>https://huggingface.co/papers/2606.27771</link>
-      <description>훈련 후 강화 학습은 속도 표준 인플레이션을 통해 흐름 기반 생성기의 지각 품질을 저하시킵니다. 이는 봇을 유지하기 위해 추론 시간 수정이 아닌 훈련 시간 개입이 필요합니다.</description>
-      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.27771">Hugging Face Papers</source>
-      <guid isPermaLink="false">b32bc1aea6b526e4bbb0170a04d33160</guid>
-    </item>
-    <item>
-      <title>Ko-WideSearch: 웹 에이전트에 의한 철저한 집합 열거를 위한 한국어 범위 검색 벤치마크</title>
-      <link>https://huggingface.co/papers/2606.27595</link>
-      <description>한국의 웹 에이전트 벤치마크는 속성 테이블을 사용하여 엔터티 멤버십을 완전히 열거하도록 요구하여 검색 기능의 폭을 평가하고 정확한 세트 ID에도 불구하고 행 복구에서 일관된 실패를 나타냅니다.</description>
-      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.27595">Hugging Face Papers</source>
-      <guid isPermaLink="false">5fb652cca6e024f1ba0059145ab0345b</guid>
-    </item>
-    <item>
-      <title>잠재 사고의 형식화: LLM의 사고 표현에 대한 4가지 공리</title>
-      <link>https://huggingface.co/papers/2606.27378</link>
-      <description>공리적 평가 프레임워크는 여러 추론 작업에 걸쳐 LLM의 잠재적 사고 표현의 체계적 실패를 드러내고, 현재 표현이 기본적인 기능을 충족하지 못함을 보여줍니다.</description>
-      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.27378">Hugging Face Papers</source>
-      <guid isPermaLink="false">d20c99847a0b2ea096bf68f3ca83a096</guid>
-    </item>
-    <item>
-      <title>Qwen-Image-2.0-RL 기술 보고서</title>
-      <link>https://huggingface.co/papers/2606.27608</link>
-      <description>강화 학습 및 정책 기반 증류 접근 방식은 이미지 생성 및 편집 작업을 위한 확산 모델의 시각적 품질과 지침 따르기 기능을 향상합니다.</description>
-      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.27608">Hugging Face Papers</source>
-      <guid isPermaLink="false">68d6d1682c95a56bcf7802d7ff45ce1e</guid>
     </item>
   </channel>
 </rss>
