@@ -5,9 +5,27 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/community.xml</link>
     <description>💬 Community — PyTorch Korea discussions</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 30 Jun 2026 09:16:07 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 14:06:37 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>SkillSpector: AI 에이전트 스킬을 설치 전에 검사하는 NVIDIA의 보안 스캐너</title>
+      <link>https://discuss.pytorch.kr/t/skillspector-ai-nvidia/10986</link>
+      <description>SkillSpector 소개 Claude Code, Codex CLI, Gemini CLI 같은 코딩 에이전트는 "스킬(skill)"이라는 형태로 외부 지시문과 스크립트를 가져와 실행합니다. 문제는 이 스킬들이 대체로 암묵적 신뢰 를 받으며 거의 검증 없이 설치된다는 점입니다.</description>
+      <pubDate>Tue, 30 Jun 2026 12:30:52 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/skillspector-ai-nvidia/10986">PyTorch Korea</source>
+      <guid isPermaLink="false">fca4680ab94f114589bff2918e8ccdd7</guid>
+    </item>
+    <item>
+      <title>Awesome Claude Design: DESIGN.md 한 장으로 UI를 스캐폴딩하는 디자인 시스템 모음</title>
+      <link>https://discuss.pytorch.kr/t/awesome-claude-design-design-md-ui/10667</link>
+      <description>awesome-claude-design 소개 awesome-claude-design는 Claude Design에 그대로 넣을 수 있는 DESIGN.md 파일을 모아둔 큐레이션 모음집입니다.</description>
+      <pubDate>Tue, 30 Jun 2026 10:30:24 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/awesome-claude-design-design-md-ui/10667">PyTorch Korea</source>
+      <guid isPermaLink="false">208ed651f3345fc961d6de55015f441d</guid>
+    </item>
     <item>
       <title>AutoTTS: Test-Time Scaling 전략을 LLM 에이전트가 자동으로 발견하는 환경 기반 프레임워크에 대한 연구</title>
       <link>https://discuss.pytorch.kr/t/autotts-test-time-scaling-llm/10487</link>
@@ -439,24 +457,6 @@
       <category>community</category>
       <source url="https://discuss.pytorch.kr/t/cadam-3d-cad-text-to-cad/10814">PyTorch Korea</source>
       <guid isPermaLink="false">787c3cdf7291f4b62b719d1179c50901</guid>
-    </item>
-    <item>
-      <title>WaterCrawl: 웹 콘텐츠를 LLM이 바로 쓰는 데이터로 바꾸는 셀프호스트 크롤링 플랫폼</title>
-      <link>https://discuss.pytorch.kr/t/watercrawl-llm/10854</link>
-      <description>WaterCrawl 소개 LLM 기반 애플리케이션을 만들 때 가장 번거로운 단계 중 하나는 웹에 흩어진 정보를 모델이 읽을 수 있는 형태로 정리하는 일입니다. 일반적인 HTML 페이지에는 내비게이션 바, 광고, 푸터, 사이드바처럼 본문과 무관한 요소가 섞여 있어, 그대로 모델에 넣으면 토큰만 낭비하고 답변 품질도 떨어집니다.</description>
-      <pubDate>Tue, 23 Jun 2026 08:30:32 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/watercrawl-llm/10854">PyTorch Korea</source>
-      <guid isPermaLink="false">f6f0ecddd6d584800b379c4fe29a1eb9</guid>
-    </item>
-    <item>
-      <title>AgentSpace: 사람과 AI 에이전트가 한 팀으로 일하는 협업 워크스페이스 (feat. HKUDS)</title>
-      <link>https://discuss.pytorch.kr/t/agentspace-ai-feat-hkuds/10868</link>
-      <description>AgentSpace 소개 AgentSpace는 사람과 AI 에이전트가 하나의 워크스페이스에서 한 팀으로 일하도록 설계된 에이전트 협업 플랫폼입니다. 에이전트가 점점 똑똑해지고 있지만, 대부분의 에이전트 도구는 여전히 한 사람이 터미널 하나에서 단발성으로 쓰는 형태에 머물러 있습니다.</description>
-      <pubDate>Tue, 23 Jun 2026 06:30:09 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/agentspace-ai-feat-hkuds/10868">PyTorch Korea</source>
-      <guid isPermaLink="false">0a1e8bdeed4f56270dfda2a2e0ac8b45</guid>
     </item>
   </channel>
 </rss>

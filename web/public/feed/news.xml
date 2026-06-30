@@ -5,9 +5,90 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 30 Jun 2026 09:16:07 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 14:06:37 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>AI 에이전트 회사 차리기: 설립부터 어디서든 동기화까지</title>
+      <link>https://d2.naver.com/helloworld/3897377</link>
+      <description>네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 AI 에이전트로 나만의 회사를 차리고, 어디서 접속하든 같은 구성원이 같은 목표로 일하게 만든 이야기입니다. 발표 대상 AI 에이전트 활용에 관심있는 분들 목차 PROLOGUE — Claude Code, 매일 쓰는데 왜 매번 처음인가요?</description>
+      <pubDate>Tue, 30 Jun 2026 20:00:48 +0900</pubDate>
+      <category>news</category>
+      <source url="https://d2.naver.com/helloworld/3897377">NAVER D2</source>
+      <guid isPermaLink="false">656380f79e5f57c1a27e36432d336b10</guid>
+    </item>
+    <item>
+      <title>엔비디아가 끌어안은 그로크, 1조원 펀딩으로 ‘AI 추론 클라우드’ 가속</title>
+      <link>https://zdnet.co.kr/view/?no=20260630132159</link>
+      <description>[지디넷코리아]AI 추론(인퍼런스) 전용 클라우드 기업 그로크(Groq)가 6월 22일 6억 5,000만 달러(약 1조 원) 규모의 신규 성장 투자를 유치했다고 발표했다. 디스럽티브와 인피니텀이 투자를 주도했고, 기존 투자자 다수가 다시 자금을 보탰다. 회사는 이 돈을 추론 클라우드 사업 확장에 쓴다.이번 투자의 배경에는 엔비디아(NVIDIA)와의 거래가 있다.</description>
+      <pubDate>Tue, 30 Jun 2026 13:21:59 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260630132159">ZDNet Korea</source>
+      <guid isPermaLink="false">26beb90391bf89ac32924e8549d80020</guid>
+    </item>
+    <item>
+      <title>“등본 줘” 말 한마디면 끝…대화만으로 민원 해결하는 'AI 에이전트' 도입</title>
+      <link>https://www.etnews.com/20260630000115</link>
+      <description>정부가 음성 대화만으로 민원서류를 발급받을 수 있는 '인공지능(AI) 에이전트' 서비스를 연말께 도입한다. 단순한 정보 제공을 넘어 AI가 국민의 민원 업무를 직접 처리하는 '행정 비서'가 된다. 행정안전부는 30일 'AI정부24' 시범서비스 운영 결과를 분석하고, AI 기술을 접목한 차세대 민원 발급 서비스 도입 계획을 발표했다.</description>
+      <pubDate>Tue, 30 Jun 2026 14:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260630000115">전자신문 IT</source>
+      <guid isPermaLink="false">056d9443389c67c431c638fc4f6606e2</guid>
+    </item>
+    <item>
+      <title>SKT, 메가 프로젝트 15GW AI 데이터센터 구축 로드맵 공개</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212253</link>
+      <description>SK텔레콤(대표 정재헌)은 \'대한민국 대도약 3대 메가프로젝트 국민보고회\'에서 발표한 AI 데이터센터 구축 계획의 구체적인 내용을 공개했다.앞서 최태원 SK그룹 회장은 AI 데이터센터 프로젝트에 1000조원, 반도체 공급 확장 프로젝트에 1100조원 등 총 2100조원의 투자 계획을 발표한 바 있다.AI 데이터센터는 SKT를 주축으로 총 15기가와트(GW) 규모로 구축한다.</description>
+      <pubDate>Tue, 30 Jun 2026 12:44:52 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212253">AI Times</source>
+      <guid isPermaLink="false">861b276792407a7729024daf5cd1f7bd</guid>
+    </item>
+    <item>
+      <title>'기술사업화 허브' 강소특구, 서울 홍릉, 경북 포항, 인천 서구, 경남 진주 4곳 우수 등급</title>
+      <link>https://www.etnews.com/20260630000073</link>
+      <description>지역대학 등을 중심으로 기술사업화 생태계를 구축해 온 강소연구개발특구 가운데 서울 홍릉, 경북 포항, 인천 서구, 경남 진주가 지난해 투자유치와 해외시장 진출 등에서 두드러진 성과를 내며 최고 평가를 받았다.</description>
+      <pubDate>Tue, 30 Jun 2026 12:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260630000073">전자신문 IT</source>
+      <guid isPermaLink="false">182df390be7d37e1e6c20fed983d1d60</guid>
+    </item>
+    <item>
+      <title>“먹는 걸 바꾸면 뇌가 바뀐다”…치매 위험 확 줄이는 식단 정체는?</title>
+      <link>https://www.etnews.com/20260629000380</link>
+      <description>음식이 뇌 노화 속도에 큰 영향을 미치며, 특정 식단이 치매 위험을 크게 줄일 수 있다는 연구 결과가 나왔다. 25일(현지시간) 뉴욕포스트에 따르면 스웨덴 노화·돌봄 국가연구팀은 60세 이상 치매가 없는 성인 약 2000명을 대상으로 15년간 추적 조사해 식단과 치매 발병의 연관성을 분석했다.</description>
+      <pubDate>Tue, 30 Jun 2026 10:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260629000380">전자신문 IT</source>
+      <guid isPermaLink="false">414641380e7a6c113e9eafa6b775696c</guid>
+    </item>
+    <item>
+      <title>삼성전기, 글로벌 빅테크에 4500억 규모 AI 서버용 MLCC 공급</title>
+      <link>https://www.etnews.com/20260630000052</link>
+      <description>삼성전기가 글로벌 빅테크 기업과 약 4500억원 규모 인공지능(AI) 서버용 적층세라믹콘덴서(MLCC) 공급 계약을 체결했다고 30일 공시했다. 계약 기간은 2027년 1월 1일부터 2027년 12월 31일까지 1년간이다. MLCC는 전기를 저장했다가 반도체에 안정적으로 공급해 원활한 동작을 돕는 핵심 부품이다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:35:59 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260630000052">전자신문 IT</source>
+      <guid isPermaLink="false">6f8844b0a69821f949943deac998a2fc</guid>
+    </item>
+    <item>
+      <title>포스텍, 초박형 반도체 칩 10층 이상 적층… 상용 HBM 대비 4배 높은 집적 밀도 구현</title>
+      <link>https://www.etnews.com/20260630000015</link>
+      <description>국내 연구팀이 머리카락 굵기 5분의 1에 불과한 초박형 반도체 칩을 10층 이상 안정적으로 쌓는 기술을 개발했다. 포스텍(POSTECH)은 김석 기계공학과 교수, 통합과정 김우현 씨, 한국생산기술연구원 금호현 박사 연구팀이 칩을 옮기는 동시에 금속 접합까지 가능한 새로운 공정을 통해 상용화된 고성능 메모리보다 약 4배 높은 집적 밀도를 구현하는 데 성공했다고 30일 밝혔다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:04:40 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260630000015">전자신문 IT</source>
+      <guid isPermaLink="false">cf5a7be9cf99acc1fc83e7133b9341c5</guid>
+    </item>
+    <item>
+      <title>진 상자 운반에 30년형, 표현의 자유 위기</title>
+      <link>https://news.hada.io/topic?id=30968</link>
+      <description>Daniel “Des” Sanchez Estrada는 자신이 쓰지 않은 진(zine) 상자 를 옮긴 일로 연방 징역 30년을 선고받았고, Prairieland 사건 피고 8명에게 내려진 총 450년형의 일부가 됨 검찰은 Sanchez가 아내 Maricela Rueda 사건의 증거를 숨기려 했다 고 봤으며, Rueda는...</description>
+      <pubDate>Tue, 30 Jun 2026 13:36:39 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30968">GeekNews</source>
+      <guid isPermaLink="false">62b3c5f98eafd5c1bc48d72e2cdb00df</guid>
+    </item>
     <item>
       <title>Memora: 장기 작업을 위한 확장형 메모리 시스템</title>
       <link>https://news.hada.io/topic?id=30956</link>
@@ -376,87 +457,6 @@
       <category>news</category>
       <source url="https://www.aitimes.com/news/articleView.html?idxno=212191">AI Times</source>
       <guid isPermaLink="false">177814387d44a74c728643ee77337c21</guid>
-    </item>
-    <item>
-      <title>오픈AI·앤트로픽·MS와 함께…젠스파크, 'AI 워크스페이스' 생태계 키운다</title>
-      <link>https://zdnet.co.kr/view/?no=20260627023326</link>
-      <description>[지디넷코리아][팔로알토(미국)=한정호 기자] 미국 인공지능(AI) 스타트업 젠스파크가 오픈AI, 앤트로픽, 마이크로소프트(MS)와의 협력을 앞세워 'AI 워크스페이스' 생태계 확장에 나선다.</description>
-      <pubDate>Sun, 28 Jun 2026 15:01:03 +0900</pubDate>
-      <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260627023326">ZDNet Korea</source>
-      <guid isPermaLink="false">61cffe4d01beb672c7ef895afd0a8878</guid>
-    </item>
-    <item>
-      <title>KAIST, AI의 '디지털 연령차별' 정량 분석...</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=212190</link>
-      <description>한국과학기술원(KAIST) 연구진이 생성 AI의 답변에 내재된 연령 관련 고정관념을 정량적으로 분석해 규명했다.</description>
-      <pubDate>Sun, 28 Jun 2026 12:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=212190">AI Times</source>
-      <guid isPermaLink="false">108832317ee21b2b801c20bbe704ecd6</guid>
-    </item>
-    <item>
-      <title>“모델 경쟁 다음은 사용자 경험 경쟁”…글로벌 VC가 젠스파크에 베팅한 이유</title>
-      <link>https://www.etnews.com/20260628000074</link>
-      <description>글로벌 벤처캐피털(VC)이 생성형 인공지능(AI)이 기존 엔터프라이즈 소프트웨어 시장을 뛰어넘는 거대한 변화를 만들고 있다며 AI 워크스페이스 기업 젠스파크의 성장 가능성을 높게 평가했다.</description>
-      <pubDate>Sun, 28 Jun 2026 12:10:55 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260628000074">전자신문 IT</source>
-      <guid isPermaLink="false">f7419fadcec62af3205dee2c4953ca27</guid>
-    </item>
-    <item>
-      <title>대흥정보, 주차장 넘어 '도시 모빌리티 플랫폼'으로…“2년내 IPO 추진”</title>
-      <link>https://www.etnews.com/20260626000133</link>
-      <description>대흥정보가 공공 스마트주차 시장에서 축적한 데이터를 기반으로 도시 모빌리티 데이터 플랫폼 기업으로 도약한다. 전국 27개 지자체에 공영주차장 통합운영 시스템을 구축한 경험을 바탕으로 인공지능(AI) 실내 주차 유도 서비스와 구독형 서비스형소프트웨어(SaaS) 모델을 확대하고, 2~3년 내 기업공개(IPO)도 추진한다.</description>
-      <pubDate>Sun, 28 Jun 2026 12:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260626000133">전자신문 IT</source>
-      <guid isPermaLink="false">848c2d2764be239397f83030b6db7c0a</guid>
-    </item>
-    <item>
-      <title>최첨단 AI에 깊어진 美 정부 개입…업계 우려 확산</title>
-      <link>https://www.etnews.com/20260628000064</link>
-      <description>미국 정부가 국가 안보를 명분으로 최첨단 인공지능(AI) 모델의 공개와 활용 범위를 직접 조율하면서 정부와 AI 기업 간 긴장이 이어지고 있다. 앤트로픽은 최신 모델의 제한적 제공을 재개하기로 했고, 오픈AI도 차세대 모델을 승인 고객에게 우선 제공하는 방안을 수용했다. 다만 업계에서는 정부 개입이 상시 관행으로 굳어져서는 안 된다는 지적도 나온다.</description>
-      <pubDate>Sun, 28 Jun 2026 11:37:37 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260628000064">전자신문 IT</source>
-      <guid isPermaLink="false">b8692c6174e5655616478d7dd04009ba</guid>
-    </item>
-    <item>
-      <title>MS·오픈AI·앤트로픽 “좋은 모델만으론 부족”…젠스파크와 AI 에이전트 동맹</title>
-      <link>https://www.etnews.com/20260628000061</link>
-      <description>“인공지능(AI) 모델 회사들이 엔진을 만든다면 젠스파크는 그 엔진을 얹은 자동차를 만들어 사용자를 목적지까지 데려가는 회사입니다.” (웬 상 젠스파크 최고운영책임자·COO) “오픈AI가 지능을 만들면 수많은 스타트업이 그 지능을 사용하는 애플리케이션을 만듭니다.</description>
-      <pubDate>Sun, 28 Jun 2026 11:13:18 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260628000061">전자신문 IT</source>
-      <guid isPermaLink="false">7cf69970226481bbcafe9e0016d7caae</guid>
-    </item>
-    <item>
-      <title>'3대 메가프로젝트' 대한민국 산업생태계 바꾼다…정부 전주기 지원체계에 성패 달려</title>
-      <link>https://www.etnews.com/20260628000078</link>
-      <description>인공지능(AI) 대전환 시대를 맞아 대한민국 산업 생태계가 기존 수도권을 넘어 '전략산업 다극화' 체제로 확장한다. 정부와 산업계는 29일 이를 뒷받침할 '대한민국 대도약 3대 메가프로젝트'를 발표한다. 반도체·인공지능(AI)·에너지를 중심으로, 호남권에만 1000조원 수준 대규모 투자가 예상된다.</description>
-      <pubDate>Sun, 28 Jun 2026 13:55:22 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260628000078">전자신문 IT</source>
-      <guid isPermaLink="false">cb7061b8bfa5e1b669f40b06a72a73e3</guid>
-    </item>
-    <item>
-      <title>[영화 속 AI윤리]  AI는 왜 인간을 해치면서도 ‘보호’한다고 말하는가</title>
-      <link>https://zdnet.co.kr/view/?no=20260628131540</link>
-      <description>[지디넷코리아]1. 기(起): 우리는 지금 같은 말을 하고 있는가?‘안전하다는 말은 무엇을 뜻하는가’라는 질문은 그 자체로 이미 하나의 함정이다. 왜냐하면 우리는 대개 그 단어가 충분히 명확하다고 믿으면서 사용하지만 정작 그 의미가 누구의 언어게임 안에서 작동하고 있는지는 묻지 않기 때문이다.</description>
-      <pubDate>Sun, 28 Jun 2026 13:15:40 +0900</pubDate>
-      <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260628131540">ZDNet Korea</source>
-      <guid isPermaLink="false">f842b0d14cb14a36877caeb2975542c3</guid>
-    </item>
-    <item>
-      <title>“AI로 생산성 10배 향상”…AWS 등 빅테크, 개발인력 재편 본격화</title>
-      <link>https://www.etnews.com/20260628000073</link>
-      <description>인공지능(AI)이 코드 작성과 테스트·문서화 등 반복 업무를 빠르게 흡수하면서 빅테크 기업 개발조직 운영 방식이 바뀌고 있다. AI를 활용해 보다 적은 인원으로 더 많은 업무를 수행하며 개인당 생산성을 높이는 모양새다.</description>
-      <pubDate>Sun, 28 Jun 2026 12:10:38 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260628000073">전자신문 IT</source>
-      <guid isPermaLink="false">a93d4335a442bb06c29a647cc89cbed3</guid>
     </item>
   </channel>
 </rss>

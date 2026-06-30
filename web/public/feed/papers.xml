@@ -5,9 +5,234 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/papers.xml</link>
     <description>📄 Papers — AI research from Hugging Face Daily Papers</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 30 Jun 2026 09:16:07 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 14:06:37 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</title>
+      <link>https://huggingface.co/papers/2606.30616</link>
+      <description>35B 전문가 혼합 에이전트 모델인 Agents-A1은 3단계 교육 접근 방식을 통해 장거리 궤적 확장 및 이종 에이전트 능력 확장을 통해 1000조 매개변수 수준의 성능을 달성합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.30616">Hugging Face Papers</source>
+      <guid isPermaLink="false">c0bcbfb8e38eab77a77d229fdcb75248</guid>
+    </item>
+    <item>
+      <title>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</title>
+      <link>https://huggingface.co/papers/2606.29537</link>
+      <description>OSWorld 2.0은 에이전트 추론 및 작업 완료의 현재 한계를 드러내는 복잡한 실제 워크플로를 통해 컴퓨터 사용 에이전트를 평가하기 위한 포괄적인 벤치마크를 제시합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.29537">Hugging Face Papers</source>
+      <guid isPermaLink="false">faec301153c8d20a5b98b24851e30a96</guid>
+    </item>
+    <item>
+      <title>일반화된 키프레임 추출을 통해 VideoQA와 비디오 기반 에이전트 작업 연결</title>
+      <link>https://huggingface.co/papers/2606.29445</link>
+      <description>새로운 벤치마크는 비디오 콘텐츠를 이해하고 GUI 작업을 수행하는 다중 모드 대형 언어 모델의 능력을 평가하는 한편, 새로운 키프레임 추출 방법은 비디오 질문 응답 및 v…</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.29445">Hugging Face Papers</source>
+      <guid isPermaLink="false">f2583df121af257be0a4f31c0e8dcc90</guid>
+    </item>
+    <item>
+      <title>시각적 세계 모델링 평가의 롱테일 제거</title>
+      <link>https://huggingface.co/papers/2606.24256</link>
+      <description>현재의 시각적 세계 모델은 표준 벤치마크에서 현실성을 달성했음에도 불구하고 드물고 불규칙한 시나리오로 인해 어려움을 겪고 있는 일반적인 물리적 상호 작용을 넘어서는 제한된 일반화를 보여줍니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.24256">Hugging Face Papers</source>
+      <guid isPermaLink="false">fe7f3192e8d9b121fa3e9d51c95e0f1d</guid>
+    </item>
+    <item>
+      <title>암시적 걷기: 신경 장면 표현을 통한 대화형 세계 탐색</title>
+      <link>https://huggingface.co/papers/2606.30045</link>
+      <description>NeuWorld는 장면을 컴팩트한 신경 암시적 상태로 표현하고 궤적 조건 렌더링을 위한 확산 변환기와 함께 변환기 VAE를 사용하여 효율적인 대화형 비디오 생성을 가능하게 합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.30045">Hugging Face Papers</source>
+      <guid isPermaLink="false">9698fd7a50fdf464b9600d5b6f30f2cb</guid>
+    </item>
+    <item>
+      <title>AsyncOPD: 정책에 따른 증류는 얼마나 오래될 수 있습니까?</title>
+      <link>https://huggingface.co/papers/2606.24143</link>
+      <description>비동기식 정책 기반 증류는 학습자 업데이트에서 롤아웃 생성을 분리하여 학습 후 대규모 언어 모델의 학습 병목 현상을 해결합니다. 하지만 오래된 정책 데이터에 문제가 발생합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.24143">Hugging Face Papers</source>
+      <guid isPermaLink="false">e95bd095433a772cd8bc1ee618a078ec</guid>
+    </item>
+    <item>
+      <title>ReasoningLens: 대규모 추론 모델을 위한 계층적 시각화 및 진단 감사</title>
+      <link>https://huggingface.co/papers/2606.23404</link>
+      <description>ReasoningLens는 대규모 추론 모델의 복잡한 추론 체인에 대한 계층적 시각화 및 진단 감사를 제공하는 오픈 소스 프레임워크로, 다음을 통해 구조화된 분석 및 오류 감지를 가능하게 합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.23404">Hugging Face Papers</source>
+      <guid isPermaLink="false">492b8d1e752ef8078c16fcb7f9d08348</guid>
+    </item>
+    <item>
+      <title>LiveEdit: 실시간 확산 기반 스트리밍 비디오 편집을 향하여</title>
+      <link>https://huggingface.co/papers/2606.26740</link>
+      <description>새로운 스트리밍 비디오 편집 프레임워크는 3단계 증류 파이프라인과 AR 기반 마스크 캐시를 통해 안정적인 장수평 보존 및 실시간 응답성을 갖춘 인과적인 프레임별 편집을 가능하게 합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.26740">Hugging Face Papers</source>
+      <guid isPermaLink="false">b5a7283d4febc7f3f0d2ec0c77b105ba</guid>
+    </item>
+    <item>
+      <title>TACO: 에이전트 도구 사용을 위한 도구 강화 신용 최적화</title>
+      <link>https://huggingface.co/papers/2606.30251</link>
+      <description>TACO(Tool-Augmented Credit Optimization)는 이중 이점 채널을 통해 유용하거나 중복되거나 오해의 소지가 있는 코드 작업을 구별하여 다중 모드 에이전트 성능을 향상시킵니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.30251">Hugging Face Papers</source>
+      <guid isPermaLink="false">4ae1fcb243eae7b1a282239ef91984ca</guid>
+    </item>
+    <item>
+      <title>Nemotron-Labs-Diffusion-Image: 고해상도 이미지 합성을 위한 마스크된 이산 확산의 발전</title>
+      <link>https://huggingface.co/papers/2606.29814</link>
+      <description>새로운 메커니즘과 최적화를 통해 토큰 개선 및 훈련 효율성의 한계를 해결하는 텍스트-이미지 합성을 위한 마스킹된 이산 확산 모델입니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.29814">Hugging Face Papers</source>
+      <guid isPermaLink="false">4346bf1dbb6c3fc72a645e3cce6355db</guid>
+    </item>
+    <item>
+      <title>PolicyGuard: LLM 에이전트의 정책 준수를 위한 대화 기반 하위 에이전트 검증기</title>
+      <link>https://huggingface.co/papers/2606.29225</link>
+      <description>POLICYGUARD는 다중 턴 상호작용 전반에 걸쳐 상황별 추론과 대화별 피드백을 제공하여 LLM 에이전트 정책 준수를 향상시키는 하위 에이전트 검증 도구입니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.29225">Hugging Face Papers</source>
+      <guid isPermaLink="false">108f69dd108480fac8d615cf5d7f2487</guid>
+    </item>
+    <item>
+      <title>GUICrafter: 주석이 없는 대규모 스크린샷을 활용하는 약한 감독 GUI 에이전트</title>
+      <link>https://huggingface.co/papers/2606.29705</link>
+      <description>GUICrafter는 주석이 없는 스크린샷과 시각적 기반 및 강화 학습 보정을 위한 2단계 커리큘럼 학습 프레임워크를 사용하는 약한 지도 방식을 통해 GUI 에이전트 데이터 문제를 해결합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.29705">Hugging Face Papers</source>
+      <guid isPermaLink="false">8fe992be327c46da8fe7c32b825764a8</guid>
+    </item>
+    <item>
+      <title>ReFreeKV: 임계값 없는 KV 캐시 압축을 향하여</title>
+      <link>https://huggingface.co/papers/2502.16886</link>
+      <description>ReFreeKV는 다양한 환경에서 전체 캐시 성능을 유지하면서 압축 예산을 적응적으로 할당하는 임계값 없는 접근 방식을 도입하여 임계값 종속 KV 캐시 정리의 한계를 해결합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2502.16886">Hugging Face Papers</source>
+      <guid isPermaLink="false">337b6a2c14c4920d8257c6a57e63c6b1</guid>
+    </item>
+    <item>
+      <title>오르카: 세상은 당신의 마음 속에 있다</title>
+      <link>https://huggingface.co/papers/2606.30534</link>
+      <description>Orca는 다중 모드 데이터를 사용한 다음 상태 예측 모델링을 통해 통합된 세계 잠재 공간을 구축하고 전문화된 기준선에 비해 다운스트림 작업에서 우수한 성능을 보여줍니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.30534">Hugging Face Papers</source>
+      <guid isPermaLink="false">e6be5c46d8628804bdc0c861618e4486</guid>
+    </item>
+    <item>
+      <title>LLM 추론 추적의 인지 에피소드를 통해 해석 가능한 인간 항목 난이도 예측 가능</title>
+      <link>https://huggingface.co/papers/2606.28186</link>
+      <description>Epi2Diff 프레임워크는 LRM 추론 추적을 인지적 에피소드로 변환하여 기존 방법보다 더 정확하게 인간 항목 난이도를 예측합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.28186">Hugging Face Papers</source>
+      <guid isPermaLink="false">08fe6b54e3a4191e606d2a3857569593</guid>
+    </item>
+    <item>
+      <title>PoseShield: 인간의 자기 충돌 해결을 위한 신경 충돌 필드</title>
+      <link>https://huggingface.co/papers/2606.29686</link>
+      <description>PoseShield는 제한된 최적화 및 Eikonal 정규화를 통해 포즈 공간에 신경 충돌 제약 조건을 적용하여 SMPL 기반 인간 포즈 추정의 자체 충돌 문제를 해결합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.29686">Hugging Face Papers</source>
+      <guid isPermaLink="false">641b9d76ea772ed7962f84ecbc17de24</guid>
+    </item>
+    <item>
+      <title>신경 모집단 코드의 기하학적 안정성: 지역적 변화, 행동 관련성 및 회로 종속성</title>
+      <link>https://huggingface.co/papers/2606.29655</link>
+      <description>기하학적 안정성은 시험 전반에 걸쳐 쌍별 자극 거리의 일관성을 측정하여 시간적 안정성 및 디코딩 정확도와 다른 신경 표현의 뚜렷한 측면을 드러냅니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.29655">Hugging Face Papers</source>
+      <guid isPermaLink="false">7f102fa82e79ca1ca73cc1af17bde043</guid>
+    </item>
+    <item>
+      <title>MIMFflow: 엔드투엔드 이미지 생성을 위해 마스크된 이미지 모델링과 정규화 흐름 통합</title>
+      <link>https://huggingface.co/papers/2606.26016</link>
+      <description>MIMFlow는 정규화 흐름과 마스크된 이미지 모델링을 결합하여 픽셀 수준 세부 정보에서 의미론적 표현을 분리하여 생성 모델링을 개선하고 더 적은 수의 토큰으로 더 나은 성능을 달성합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.26016">Hugging Face Papers</source>
+      <guid isPermaLink="false">fbe5fd6985ebeab0aa6a67eed85445d8</guid>
+    </item>
+    <item>
+      <title>중요한 것에 집중: MoE 확산을 위한 핵심 활용 정확한 라우팅</title>
+      <link>https://huggingface.co/papers/2606.26938</link>
+      <description>SharpMoE는 명확한 잠재 기능을 사용하여 주요 토큰 식별을 안내하고 다단계 정의 중 정확한 컴퓨팅 할당을 위해 궤적 라우팅 손실을 사용하여 확산 모델의 라우팅 비효율성을 해결합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.26938">Hugging Face Papers</source>
+      <guid isPermaLink="false">2aaf214e629935cd8c840d1cfd3e0aaa</guid>
+    </item>
+    <item>
+      <title>모바일 3D 가우스 스플래팅을 위한 몬테카를로 에너지 집합</title>
+      <link>https://huggingface.co/papers/2606.30017</link>
+      <description>Flux-GS는 효율적인 조명 표현, 속성 조건 강화 및 다중 뷰 치밀화 전략을 통해 모바일 플랫폼에서 실시간 충실도가 높은 3D 가우스 스플래팅을 가능하게 합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.30017">Hugging Face Papers</source>
+      <guid isPermaLink="false">82ed134b6fade79bd8885c944df7cd4a</guid>
+    </item>
+    <item>
+      <title>TUA-Bench: 범용 단말 사용 에이전트에 대한 벤치마크</title>
+      <link>https://huggingface.co/papers/2606.28480</link>
+      <description>TUA-Bench는 다양한 디지털 활동과 전문 워크플로우 전반에 걸쳐 범용 터미널 사용 에이전트를 평가하기 위한 포괄적인 벤치마크를 제시하여 현재 최전선 간의 상당한 성능 격차를 드러냅니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.28480">Hugging Face Papers</source>
+      <guid isPermaLink="false">6fe3d1d6deb3c54893d29fa7ccebb33d</guid>
+    </item>
+    <item>
+      <title>시계열 예측에 선형 모델이 얼마나 유용할 수 있습니까?</title>
+      <link>https://huggingface.co/papers/2606.27282</link>
+      <description>연구에 따르면 특히 컨텍스트 길이, 정규화 및 정규화의 전처리 최적화는 확장 모델보다 시계열 예측 정확도를 더 효과적으로 크게 향상시킬 수 있습니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.27282">Hugging Face Papers</source>
+      <guid isPermaLink="false">193636ca9dca5b3e811af6e8a7558d19</guid>
+    </item>
+    <item>
+      <title>SafePyramid: 상황 내 정책 가드레일을 위한 계층적 벤치마크</title>
+      <link>https://huggingface.co/papers/2606.29887</link>
+      <description>SafePyramid 벤치마크는 여러 도메인과 복잡성 수준에 걸쳐 상황에 맞는 정책 사양을 통해 안전 위반을 식별하는 가드레일 시스템의 능력을 평가합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.29887">Hugging Face Papers</source>
+      <guid isPermaLink="false">8dead6758c6372147d3004bc9f4f421c</guid>
+    </item>
+    <item>
+      <title>DreamForge-World 0.1 미리보기: 저컴퓨팅 실시간 제어 가능 월드 모델</title>
+      <link>https://huggingface.co/papers/2606.30292</link>
+      <description>DreamForge-World 0.1 Preview는 잔여 작업 경로를 사용하여 비디오 생성 아키텍처를 조정하여 계산 요구 사항이 낮은 소비자 하드웨어에서 실시간 대화형 세계 시뮬레이션을 가능하게 합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.30292">Hugging Face Papers</source>
+      <guid isPermaLink="false">269909f28c4a850419db3def64ff9f6e</guid>
+    </item>
+    <item>
+      <title>하나의 전진이 둘을 이긴다: 정확하고 효율적인 GUI 접지를 위한 InnerZoom</title>
+      <link>https://huggingface.co/papers/2606.30084</link>
+      <description>InnerZoom은 레이어 간 증거를 연결하는 단일 전달 패스를 통해 디코더 레이어 전반에 걸쳐 대상 영역 인식을 유지함으로써 GUI 접지 문제를 해결하고, 비용 절감으로 최첨단 성능을 달성합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.30084">Hugging Face Papers</source>
+      <guid isPermaLink="false">d2397ffcf2058988e8dbdf0bf4af9275</guid>
+    </item>
     <item>
       <title>베스타: 일반주의자의 구체화된 추론 모델</title>
       <link>https://huggingface.co/papers/2606.20905</link>
@@ -232,231 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.27608">Hugging Face Papers</source>
       <guid isPermaLink="false">68d6d1682c95a56bcf7802d7ff45ce1e</guid>
-    </item>
-    <item>
-      <title>PhysisForcing: 로봇 조작을 위한 물리 강화 월드 시뮬레이터</title>
-      <link>https://huggingface.co/papers/2606.28128</link>
-      <description>PhysisForcing은 DiT 기반 프레임워크에서 픽셀 수준 궤적 정렬 및 의미 수준 관계 정렬 손실을 통해 물리적 일관성을 강화하여 구현된 비디오 생성을 향상합니다.</description>
-      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.28128">Hugging Face Papers</source>
-      <guid isPermaLink="false">4c0148736dc28a7dee42f441e1a6e0a0</guid>
-    </item>
-    <item>
-      <title>가교 작업으로서의 번역: 조작 기술을 인간에서 로봇으로 이전</title>
-      <link>https://huggingface.co/papers/2606.28133</link>
-      <description>시각-언어-동작과 결합된 초기 헤드-카메라 프레임의 상대 손목 변환을 기반으로 한 브리징 동작 표현을 사용하여 인간 조작 기술을 로봇에 보다 효과적으로 전달합니다.</description>
-      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.28133">Hugging Face Papers</source>
-      <guid isPermaLink="false">4ca2e71b77e5a6d7153046b06089d64c</guid>
-    </item>
-    <item>
-      <title>Google의 Paper Assistant 도구를 통한 과학적 검토 자동화를 향하여</title>
-      <link>https://huggingface.co/papers/2606.28277</link>
-      <description>PAT와 같은 AI 지원 과학 검토 시스템은 고급 추론 확장을 사용하여 인간의 감독을 유지하면서 수학적 오류를 식별하고 연구 품질을 향상시킵니다.</description>
-      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.28277">Hugging Face Papers</source>
-      <guid isPermaLink="false">919cb70af8f1a09a5e7742c54f2bd434</guid>
-    </item>
-    <item>
-      <title>SimFoundry: 정책 학습 및 평가를 위한 모듈식 자동화 장면 생성</title>
-      <link>https://huggingface.co/papers/2606.28276</link>
-      <description>SimFoundry는 자동화된 시뮬레이션 구성과 일반화 및 성능 예측을 향상시키는 다양한 장면 변형을 통해 제로샷 실제 로봇 정책 교육을 가능하게 합니다.</description>
-      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.28276">Hugging Face Papers</source>
-      <guid isPermaLink="false">b81a125b3ae95e8e25a131ee2facb117</guid>
-    </item>
-    <item>
-      <title>ABACUS: 이미지 개수 이해 및 생성 연결을 위한 통합 기반 모델 적용</title>
-      <link>https://huggingface.co/papers/2606.23835</link>
-      <description>ABACUS는 혁신적인 공간 접지, 경계 인식 계산 정책 및 자기 비판적 학습 전략을 통해 객체 계산 및 관련 작업을 수행하는 통합 비전 언어 모델입니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.23835">Hugging Face Papers</source>
-      <guid isPermaLink="false">49b4e621dd41352968028829ff5ed538</guid>
-    </item>
-    <item>
-      <title>교육 후 무시되는 무료 점심: LLM 에이전트를 위한 발전 이점</title>
-      <link>https://huggingface.co/papers/2606.26080</link>
-      <description>훈련 후 강화 학습은 진행 이점이라는 암묵적 이점 함수를 도출함으로써 전용 보상 모델 훈련 없이도 언어 모델에 대한 효과적인 단계 수준 채점을 가능하게 합니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.26080">Hugging Face Papers</source>
-      <guid isPermaLink="false">d1f2cdd1ae2a978d123a71caed14f41a</guid>
-    </item>
-    <item>
-      <title>LISA: 시각적 조건 제어 가능 생성을 위한 가능성 점수 정렬</title>
-      <link>https://huggingface.co/papers/2606.27192</link>
-      <description>점수 기반 생성 모델링은 측면 네트워크가 조건부 제어에 가능성 점수를 제공하여 가능성 점수 정렬 정규화를 통해 훈련 효율성을 향상시킨다는 것을 보여줍니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.27192">Hugging Face Papers</source>
-      <guid isPermaLink="false">977202b63c7a410b9f1471458e9ebca8</guid>
-    </item>
-    <item>
-      <title>EO-WM: 확률론적 지구 관측 예측을 위한 물리적 정보를 바탕으로 한 세계 모델</title>
-      <link>https://huggingface.co/papers/2606.27277</link>
-      <description>EO-WM은 다중 스펙트럼 지구 관측 예측을 위한 비디오 확산 변환기로, 물리적 정보에 기반한 조건화 프레임워크를 통합하여 지표면 역학에서 날씨로 인한 불확실성을 더 잘 포착합니다.…</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.27277">Hugging Face Papers</source>
-      <guid isPermaLink="false">1053b1532d73147a452f65a4e90cd6db</guid>
-    </item>
-    <item>
-      <title>장기간 추론을 위한 정보 인식 KV 캐시 압축</title>
-      <link>https://huggingface.co/papers/2606.26875</link>
-      <description>InfoKV는 주의 가중치와 함께 정보 이론 신호를 통합하여 LLM의 장기 컨텍스트 추론을 향상시키는 엔트로피 인식 KV 캐시 압축 프레임워크입니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.26875">Hugging Face Papers</source>
-      <guid isPermaLink="false">7b322cb91ebefd9eb09d746a2d4b204b</guid>
-    </item>
-    <item>
-      <title>도전 과제 실행: 익숙한 환경을 넘어 에이전트의 기능 재평가</title>
-      <link>https://huggingface.co/papers/2606.14397</link>
-      <description>웹 기반 벤치마크는 까다로운 시나리오 전반에 걸쳐 에이전트 일반화를 평가하여 시간 인식, 그래픽 이해 및 3D에서 현재 에이전트 시스템과 인간 성능 사이의 상당한 격차를 드러냅니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.14397">Hugging Face Papers</source>
-      <guid isPermaLink="false">c2a599fe83f831ff1df65777d992d2a4</guid>
-    </item>
-    <item>
-      <title>언어 모델 결합은 언제 도움이 됩니까? 67개 프론티어 모델 전반에 걸쳐 라우팅, 투표 및 에이전트 혼합에 대한 공동 실패 한도</title>
-      <link>https://huggingface.co/papers/2606.27288</link>
-      <description>다중 모델 시스템은 개별 상관 관계 또는 앙상블 전략에 관계없이 모든 모델이 동시에 실패하는 비율에 따라 결정되는 근본적인 정확도 한계에 직면합니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.27288">Hugging Face Papers</source>
-      <guid isPermaLink="false">6aec256b2a2a23f061f66e287be6b119</guid>
-    </item>
-    <item>
-      <title>JetSpec: 병렬 트리 제도를 통해 추측 디코딩의 확장 한도 깨기</title>
-      <link>https://huggingface.co/papers/2606.18394</link>
-      <description>JetSpec은 효율적인 전방 초안 작성과 인과 조건 조정을 결합하여 다양한 벤치마크에서 LLM 추론 속도와 수용률을 향상시키는 추측적 디코딩 프레임워크입니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.18394">Hugging Face Papers</source>
-      <guid isPermaLink="false">94b45dad9f49f00798f8644ec164401d</guid>
-    </item>
-    <item>
-      <title>검증의 지평: 코딩 에이전트 보상에 대한 묘책은 없습니다</title>
-      <link>https://huggingface.co/papers/2606.26300</link>
-      <description>AI 에이전트의 검증 문제는 프록시 신호를 인간의 의도와 일치시키는 어려움으로 인해 발생하며 생성 기능과 함께 진화하는 적응형 검증 시스템이 필요합니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.26300">Hugging Face Papers</source>
-      <guid isPermaLink="false">ca49759e3ee97f6f4bd92f56a70fca38</guid>
-    </item>
-    <item>
-      <title>훈련 후가 생물학적 추론 모델을 형성하는 방법</title>
-      <link>https://huggingface.co/papers/2606.16517</link>
-      <description>생물학적 추론 모델의 훈련 후 단계는 모델을 생물학적 언어와 일치시키는 지속적인 사전 훈련, 지도된 미세 조정을 통해 도메인 내 성능을 개선하지만 빨간색으로 일반화에 다르게 영향을 미칩니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.16517">Hugging Face Papers</source>
-      <guid isPermaLink="false">6a65ca19856a7e89eea3cff790432183</guid>
-    </item>
-    <item>
-      <title>CoffeeBench: 이기종 다중 에이전트 경제에서 장거리 LLM 에이전트 벤치마킹</title>
-      <link>https://huggingface.co/papers/2606.16613</link>
-      <description>CoffeeBench는 기업이 이익을 극대화하기 위해 90일 동안 상호 작용하는 다중 에이전트 경제 시뮬레이션에서 LLM 에이전트를 평가하여 다양한 모델 간의 의사소통 패턴과 성과의 차이를 드러냅니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.16613">Hugging Face Papers</source>
-      <guid isPermaLink="false">e4c9de6f25116b5eed4c667015e0530b</guid>
-    </item>
-    <item>
-      <title>세계 모델의 환각은 예측 가능하고 예방 가능합니다</title>
-      <link>https://huggingface.co/papers/2606.27326</link>
-      <description>세계 모델은 상태-행동 공간의 낮은 데이터 영역에서 환각을 나타내며, 이는 데이터 중심 신호 및 적용 범위 인식 샘플링 기술을 사용하여 감지하고 완화할 수 있습니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.27326">Hugging Face Papers</source>
-      <guid isPermaLink="false">2c704fea2a0ada9c391af737630ef3b5</guid>
-    </item>
-    <item>
-      <title>보상 모델의 이산화</title>
-      <link>https://huggingface.co/papers/2606.21795</link>
-      <description>강화 학습의 보상 모델은 똑같이 좋은 응답에 서로 다른 점수를 할당하는 과민성 문제로 인해 정책 학습이 좋지 않지만 이는 이산화를 통해 완화될 수 있습니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.21795">Hugging Face Papers</source>
-      <guid isPermaLink="false">891d2e7cb92cf5c0b41bbc681af93d7d</guid>
-    </item>
-    <item>
-      <title>OPID: 에이전트 강화 학습을 위한 정책 기반 기술 증류</title>
-      <link>https://huggingface.co/papers/2606.26790</link>
-      <description>정책 기반 기술 증류 프레임워크는 완료된 궤적에서 밀집된 사후 관리 감독을 추출하여 언어 에이전트 교육 효율성과 성능을 향상시킵니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.26790">Hugging Face Papers</source>
-      <guid isPermaLink="false">bc9d9cdfdec7228df9d51ab37b906062</guid>
-    </item>
-    <item>
-      <title>ViQ: 모든 해상도에서 텍스트 정렬된 시각적 양자화 표현</title>
-      <link>https://huggingface.co/papers/2606.27313</link>
-      <description>ViQ는 의미론적 풍부함과 개별 표현의 세부 보존 사이의 균형을 유지하는 시각적 양자화 프레임워크를 제공하여 기본 해상도 입력으로 효율적인 다중 모드 훈련을 가능하게 합니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.27313">Hugging Face Papers</source>
-      <guid isPermaLink="false">e42a027cecf7a092c19e6e70e6f83046</guid>
-    </item>
-    <item>
-      <title>다단계 도구 사용 강화 학습이 붕괴되는 이유와 감독 신호로 이를 해결하는 방법</title>
-      <link>https://huggingface.co/papers/2606.26027</link>
-      <description>연구에서는 다양한 감독 신호 및 훈련 전략이 도구 사용 작업에서 대규모 언어 모델의 안정성과 성능을 어떻게 향상시키고 치명적인 붕괴 및 형식 오류와 같은 문제를 해결하는지 조사합니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.26027">Hugging Face Papers</source>
-      <guid isPermaLink="false">2a3dcf0b6aa15d5c18d549e79043a948</guid>
-    </item>
-    <item>
-      <title>Qwen-Image-Agent: 실제 이미지 생성에서 컨텍스트 격차 해소</title>
-      <link>https://huggingface.co/papers/2606.26907</link>
-      <description>Qwen-Image-Agent라는 통합 에이전트 프레임워크는 계획, 추론, 검색, 분석을 통해 완전한 생성 컨텍스트를 점진적으로 구성함으로써 텍스트-이미지 생성의 컨텍스트 격차를 해결하기 위해 제안되었습니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.26907">Hugging Face Papers</source>
-      <guid isPermaLink="false">7b32063c660f15daa4888e3cea2ea5d8</guid>
-    </item>
-    <item>
-      <title>OpenBioRQ: 에이전트를 위한 미해결 생의학 연구 문제</title>
-      <link>https://huggingface.co/papers/2606.21959</link>
-      <description>새로운 생물의학 벤치마크는 답변 키가 없는 미해결 연구 질문을 테스트하여 출처를 확인하고 잘못된 인용을 방지하는 에이전트 모델의 능력을 평가하고 검색 기반 연구에서 중대한 실패를 드러냅니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.21959">Hugging Face Papers</source>
-      <guid isPermaLink="false">516c6b02c969124da99d32af3c900c33</guid>
-    </item>
-    <item>
-      <title>강력한 비디오 이해를 위한 신뢰도 인식 도구 오케스트레이션</title>
-      <link>https://huggingface.co/papers/2606.26904</link>
-      <description>Robust-TO는 보정된 증거 가중치를 통해 현실적인 교란 하에서 정확성을 향상시키는 에이전트 프레임워크에 프레임별 신뢰성을 통합하여 비디오 추론의 맹목적인 신뢰 문제를 해결합니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.26904">Hugging Face Papers</source>
-      <guid isPermaLink="false">c7c7a0c6794377354a14512d94430494</guid>
-    </item>
-    <item>
-      <title>DanceOPD: 정책에 따른 생성 필드 증류</title>
-      <link>https://huggingface.co/papers/2606.27377</link>
-      <description>DanceOPD라는 새로운 정책 기반 생성 필드 증류 프레임워크는 기능별 기능을 통해 흐름 일치 모델에서 텍스트-이미지 생성, 로컬 편집 및 글로벌 편집 기능을 통합하기 위해 제안되었습니다.</description>
-      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.27377">Hugging Face Papers</source>
-      <guid isPermaLink="false">65e09bd2d4b857a6b5bead51acb92221</guid>
-    </item>
-    <item>
-      <title>GridVQA-X: 다중 모드 설명 방법을 평가하기 위한 프레임워크</title>
-      <link>https://huggingface.co/papers/2606.14740</link>
-      <description>GridVQA-X는 다중 모드 모델의 교차 모드 지름길과 실제 공간 관계 추론을 구별하여 교차 모드 설명 가능성을 평가하는 진단 프레임워크를 도입합니다.</description>
-      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.14740">Hugging Face Papers</source>
-      <guid isPermaLink="false">92303fff46fd914c57d995414819a1e3</guid>
     </item>
   </channel>
 </rss>
