@@ -5,9 +5,27 @@
     <link>https://jskh-201910840.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 30 Jun 2026 09:00:20 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 09:16:07 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>AutoTTS: Test-Time Scaling 전략을 LLM 에이전트가 자동으로 발견하는 환경 기반 프레임워크에 대한 연구</title>
+      <link>https://discuss.pytorch.kr/t/autotts-test-time-scaling-llm/10487</link>
+      <description>AutoTTS 소개 새로운 보드게임을 처음 배울 때를 떠올려 봅시다. 우리는 보통 고수들이 정리해 둔 정석(定石)을 외우는 것에서 시작합니다. 하지만 진짜 실력은, 수많은 판을 직접 두면서 "여기서는 공격적으로, 저기서는 물러서야 한다"는 감각을 스스로 체득할 때 늘어납니다.</description>
+      <pubDate>Tue, 30 Jun 2026 08:30:00 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/autotts-test-time-scaling-llm/10487">PyTorch Korea</source>
+      <guid isPermaLink="false">0b0923766ac2c6897843a0bada6887dd</guid>
+    </item>
+    <item>
+      <title>Memora: 장기 작업을 위한 확장형 메모리 시스템</title>
+      <link>https://news.hada.io/topic?id=30956</link>
+      <description>요약 개요 목적 AI 에이전트가 대화·문서에서 필요한 정보를 자동으로 추출하고 장기적으로 저장·검색할 수 있도록 지원하는 메모리 프레임워크 핵심 설계 전체 원문인 Memory value 는 그대로</description>
+      <pubDate>Tue, 30 Jun 2026 09:13:12 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30956">GeekNews</source>
+      <guid isPermaLink="false">f0678be3581bf3ec56cc7db8ed9941e1</guid>
+    </item>
     <item>
       <title>[6월29일] '챗GPT' 비밀번호를 공유하면 안 되는 이유..."넷플릭스와는 달라"</title>
       <link>https://www.aitimes.com/news/articleView.html?idxno=212217</link>
@@ -439,24 +457,6 @@
       <category>community</category>
       <source url="https://discuss.pytorch.kr/t/1-prime-rl-0-6-0-feat-prime-intellect/10939">PyTorch Korea</source>
       <guid isPermaLink="false">046496ca0c75f56e91713c0bfa74e082</guid>
-    </item>
-    <item>
-      <title>SingGuard: 동적 추론을 갖춘 정책 적응형 다중 모드 LLM 가드레일</title>
-      <link>https://huggingface.co/papers/2606.22873</link>
-      <description>SingGuard는 빠른 속도에서 느린 속도의 추론 모드를 통해 자연어 규칙을 동적으로 적용하여 실시간 대화에서 안전성을 평가하는 정책 적응형 다중 모드 가드레일 시스템입니다.</description>
-      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.22873">Hugging Face Papers</source>
-      <guid isPermaLink="false">082c39fd68396d10754452cf44251ebe</guid>
-    </item>
-    <item>
-      <title>headroom: AI 에이전트가 읽는 토큰을 LLM 전에 최대 95% 줄이는 컨텍스트 압축 계층</title>
-      <link>https://discuss.pytorch.kr/t/headroom-ai-llm-95/10936</link>
-      <description>headroom 소개 headroom은 AI 에이전트가 읽는 모든 입력(도구 출력, 로그, RAG 청크, 파일, 대화 기록)을 LLM에 전달되기 전에 압축하는 컨텍스트 압축 계층입니다. 같은 답을 유지하면서 토큰만 줄이는 것을 목표로 하며, 저자들은 실제 에이전트 워크로드에서 60~95% 적은 토큰으로 동일한 결과를 얻었다고 보고합니다.</description>
-      <pubDate>Mon, 29 Jun 2026 11:30:52 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/headroom-ai-llm-95/10936">PyTorch Korea</source>
-      <guid isPermaLink="false">6ada47f1f3314b44084bf95fe6bd02c7</guid>
     </item>
   </channel>
 </rss>

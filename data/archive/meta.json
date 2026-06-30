@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-30T08:02:02.118561+09:00",
-  "total": 591,
+  "generated_at": "2026-06-30T09:16:07.440236+09:00",
+  "total": 593,
   "sources": [
     {
       "slug": "huggingface",
@@ -16,7 +16,7 @@
     {
       "slug": "pytorch-korea",
       "name": "PyTorch Korea",
-      "count": 68
+      "count": 69
     },
     {
       "slug": "github-trending",
@@ -31,7 +31,7 @@
     {
       "slug": "geeknews",
       "name": "GeekNews",
-      "count": 34
+      "count": 35
     },
     {
       "slug": "aitimes",
@@ -48,7 +48,7 @@
     {
       "id": "news",
       "title": "📰 News",
-      "count": 244
+      "count": 245
     },
     {
       "id": "papers",
@@ -58,7 +58,7 @@
     {
       "id": "community",
       "title": "💬 Community",
-      "count": 68
+      "count": 69
     },
     {
       "id": "trending",
@@ -67,7 +67,7 @@
     }
   ],
   "date_counts": {
-    "2026-06-30": 4,
+    "2026-06-30": 6,
     "2026-06-29": 66,
     "2026-06-28": 36,
     "2026-06-27": 21,

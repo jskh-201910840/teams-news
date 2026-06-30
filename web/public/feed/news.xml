@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 30 Jun 2026 09:00:20 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 09:16:07 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Memora: 장기 작업을 위한 확장형 메모리 시스템</title>
+      <link>https://news.hada.io/topic?id=30956</link>
+      <description>요약 개요 목적 AI 에이전트가 대화·문서에서 필요한 정보를 자동으로 추출하고 장기적으로 저장·검색할 수 있도록 지원하는 메모리 프레임워크 핵심 설계 전체 원문인 Memory value 는 그대로</description>
+      <pubDate>Tue, 30 Jun 2026 09:13:12 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=30956">GeekNews</source>
+      <guid isPermaLink="false">f0678be3581bf3ec56cc7db8ed9941e1</guid>
+    </item>
     <item>
       <title>[6월29일] '챗GPT' 비밀번호를 공유하면 안 되는 이유..."넷플릭스와는 달라"</title>
       <link>https://www.aitimes.com/news/articleView.html?idxno=212217</link>
@@ -448,15 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260628000073">전자신문 IT</source>
       <guid isPermaLink="false">a93d4335a442bb06c29a647cc89cbed3</guid>
-    </item>
-    <item>
-      <title>[정유신의 핀테크스토리]스페이스X 이후, 월가가 우주 데이터와 AI에 베팅하는 이유</title>
-      <link>https://www.etnews.com/20260628000071</link>
-      <description>스페이스X 상장은 우주산업이 더 이상 정부 예산과 국가 프로젝트에만 의존하는 영역이 아님을 보여준다. 특히 상장 직후 스페이스X가 글로벌 시가총액 최상위권에 진입한 것은 단지 한 기업의 성공이 아니라, 우주 인프라와 데이터의 미래 가치에 대한 월가의 기대를 상징한다.</description>
-      <pubDate>Sun, 28 Jun 2026 12:06:51 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260628000071">전자신문 IT</source>
-      <guid isPermaLink="false">d1053ce78590a53b06a70e2bb137432f</guid>
     </item>
   </channel>
 </rss>

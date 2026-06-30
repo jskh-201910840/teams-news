@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/community.xml</link>
     <description>💬 Community — PyTorch Korea discussions</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 30 Jun 2026 09:00:20 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 09:16:07 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>AutoTTS: Test-Time Scaling 전략을 LLM 에이전트가 자동으로 발견하는 환경 기반 프레임워크에 대한 연구</title>
+      <link>https://discuss.pytorch.kr/t/autotts-test-time-scaling-llm/10487</link>
+      <description>AutoTTS 소개 새로운 보드게임을 처음 배울 때를 떠올려 봅시다. 우리는 보통 고수들이 정리해 둔 정석(定石)을 외우는 것에서 시작합니다. 하지만 진짜 실력은, 수많은 판을 직접 두면서 "여기서는 공격적으로, 저기서는 물러서야 한다"는 감각을 스스로 체득할 때 늘어납니다.</description>
+      <pubDate>Tue, 30 Jun 2026 08:30:00 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/autotts-test-time-scaling-llm/10487">PyTorch Korea</source>
+      <guid isPermaLink="false">0b0923766ac2c6897843a0bada6887dd</guid>
+    </item>
     <item>
       <title>Supermemory: 대화에서 사실을 추출해 AI에 장기 기억을 부여하는 메모리 엔진</title>
       <link>https://discuss.pytorch.kr/t/supermemory-ai/10661</link>
@@ -448,15 +457,6 @@
       <category>community</category>
       <source url="https://discuss.pytorch.kr/t/agentspace-ai-feat-hkuds/10868">PyTorch Korea</source>
       <guid isPermaLink="false">0a1e8bdeed4f56270dfda2a2e0ac8b45</guid>
-    </item>
-    <item>
-      <title>MOSS-TTS-Local-Transformer-v1.5, 로컬 서빙에 최적화된 48kHz 스트리밍 TTS 모델 (feat. SGLang-Omni)</title>
-      <link>https://discuss.pytorch.kr/t/moss-tts-local-transformer-v1-5-48khz-tts-feat-sglang-omni/10836</link>
-      <description>MOSS-TTS-Local-Transformer-v1.5 소개 음성 합성(Text-to-Speech, TTS) 모델을 데모 스크립트로 한 번 돌려보는 것과, 그 모델을 여러 사용자의 요청이 동시에 쏟아지는 환경에서 안정적으로 서빙(serving) 하는 것은 전혀 다른 난이도의 문제입니다.</description>
-      <pubDate>Mon, 22 Jun 2026 16:30:05 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/moss-tts-local-transformer-v1-5-48khz-tts-feat-sglang-omni/10836">PyTorch Korea</source>
-      <guid isPermaLink="false">c08c2ad0a1b4f4cdb7fbb359035fc97f</guid>
     </item>
   </channel>
 </rss>
