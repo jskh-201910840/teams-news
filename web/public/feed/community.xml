@@ -5,9 +5,18 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/community.xml</link>
     <description>💬 Community — PyTorch Korea discussions</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 01 Jul 2026 05:06:41 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 07:16:32 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>BitRobot, 실제 가정의 500시간 휴머노이드 로봇 데이터셋 HIW-500 공개 (feat. Unitree)</title>
+      <link>https://discuss.pytorch.kr/t/bitrobot-500-hiw-500-feat-unitree/11010</link>
+      <description>HIW-500 소개 로봇이 사람처럼 집안일을 해내려면, 깨끗하게 정돈된 실험실이 아니라 매번 배치가 다르고 조명이 제각각이며 물건이 어질러진 실제 가정 에서의 경험을 학습해야 합니다. HIW-500(Humanoids In-the-Wild Dataset) 은 바로 이 격차를 메우기 위해 등장한 대규모 휴머노이드 로봇 학습 데이터셋입니다.</description>
+      <pubDate>Wed, 01 Jul 2026 06:30:34 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/bitrobot-500-hiw-500-feat-unitree/11010">PyTorch Korea</source>
+      <guid isPermaLink="false">c7a4b1131acf7235bba2cb1997dc8872</guid>
+    </item>
     <item>
       <title>Decepticon: 교전 규칙 안에서 실제 공격 체인을 수행하는 자율 레드팀 에이전트 프로젝트</title>
       <link>https://discuss.pytorch.kr/t/decepticon/10468</link>
@@ -448,15 +457,6 @@
       <category>community</category>
       <source url="https://discuss.pytorch.kr/t/deepclaude-claude-code-deepseek/10832">PyTorch Korea</source>
       <guid isPermaLink="false">1b9242b5b5f743ecdb6a37370891eb3e</guid>
-    </item>
-    <item>
-      <title>[GN⁺] Claude Code의 수석 디자이너가 AI로 빌드하는 방법</title>
-      <link>https://discuss.pytorch.kr/t/gn-claude-code-ai/10845</link>
-      <description>Claude Code의 수석 디자이너가 AI로 빌드하는 방법 글 소개 실제 제품 개발에서 클로드 코드를 어떻게 쓰는지, Excalidraw에 autocomplete 기능을 직접 추가하며 실전 워크플로우 를 시연 디자이너의 발표지만 내용은 거의 개발자 워크플로우에 가까우며, worktree로 여러 Claude 세션을 병렬 실행 하고, 기능 프로토타입을 만들고, 브라우저에서 검증하고, PR까지…</description>
-      <pubDate>Tue, 23 Jun 2026 19:30:44 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/gn-claude-code-ai/10845">PyTorch Korea</source>
-      <guid isPermaLink="false">63b81bbe893b3a6aea8253215847cbb5</guid>
     </item>
   </channel>
 </rss>

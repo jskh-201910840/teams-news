@@ -5,9 +5,27 @@
     <link>https://jskh-201910840.github.io/teams-news/feed/papers.xml</link>
     <description>📄 Papers — AI research from Hugging Face Daily Papers</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 01 Jul 2026 05:06:41 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 07:16:32 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>지연된 검증으로 인해 다중 에이전트 LLM 신념이 불안정해짐: 불안정성 임계값 및 최적의 교정자 배치</title>
+      <link>https://huggingface.co/papers/2606.27409</link>
+      <description>다중 에이전트 LLM 시스템의 검증이 지연되면 불안정성이 발생하여 변동이 발생할 수 있지만, 근거 있는 사실에 기반한 답변은 진실을 흡수 경계로 만들어 시스템을 안정화합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.27409">Hugging Face Papers</source>
+      <guid isPermaLink="false">10aafe1b462d78413e0f16d9e692a90d</guid>
+    </item>
+    <item>
+      <title>Drop-Then-Recovery: 비전-언어-액션 모델은 얼마나 중복됩니까?</title>
+      <link>https://huggingface.co/papers/2606.27755</link>
+      <description>연구에 따르면 비전-언어-액션 모델의 언어 백본은 로봇 조작 작업에 매우 중복되는 반면 비전 및 작업 경로는 더 중요하므로 의도적인 용량이 필요함을 시사합니다.</description>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.27755">Hugging Face Papers</source>
+      <guid isPermaLink="false">4528700ce30a9fa1ae0786435ae6ce2d</guid>
+    </item>
     <item>
       <title>검색 증강 검색을 통한 LLM 프로그램 최적화</title>
       <link>https://huggingface.co/papers/2501.18916</link>
@@ -439,24 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.20970">Hugging Face Papers</source>
       <guid isPermaLink="false">da28dad3d229daf3af6c607c3a456170</guid>
-    </item>
-    <item>
-      <title>Gist 토큰을 통해 단순화된 Sparse Attention</title>
-      <link>https://huggingface.co/papers/2604.20920</link>
-      <description>SSA(Simplified Sparse Attention)는 사전 훈련 중 gist 토큰 기반 주의 마스킹을 통해 장기 컨텍스트 추론 비용을 줄여 아키텍처 수정 없이 추론 시 효율적인 청크 선택을 가능하게 합니다.</description>
-      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2604.20920">Hugging Face Papers</source>
-      <guid isPermaLink="false">aa21530c3d0a9721a44ef37151676dbe</guid>
-    </item>
-    <item>
-      <title>토큰나이저에 대한 갤럭시 가이드: 과학 기반 모델을 위한 벤치마크</title>
-      <link>https://huggingface.co/papers/2606.25610</link>
-      <description>천문 이미지에 대한 네 가지 토큰화 방법은 재구성 품질, 물리적 특성 예측 및 형태학적 보존에서 뚜렷한 강점을 보여 주지만 모든 작업에서 탁월한 단일 접근 방식은 없습니다.</description>
-      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.25610">Hugging Face Papers</source>
-      <guid isPermaLink="false">59e310be9e58517ac2822c8797b02169</guid>
     </item>
   </channel>
 </rss>
