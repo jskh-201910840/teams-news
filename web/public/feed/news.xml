@@ -5,9 +5,18 @@
     <link>https://sukoji.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 02 Jul 2026 02:59:24 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 05:07:25 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>린스트랄 1.5</title>
+      <link>https://news.hada.io/topic?id=31016</link>
+      <description>Leanstral 1.5 는 Lean 4 형식 증명 엔지니어링에 맞춘 업데이트 모델로, 자동 정리 증명과 자동 형식화를 겨냥함 모델 규모는 총 119B 파라미터 와 6.5B 활성 파라미터 구성이며, 긴 증명·문서 맥락 처리를 전제로 함 제공 식별자는</description>
+      <pubDate>Thu, 02 Jul 2026 03:34:57 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=31016">GeekNews</source>
+      <guid isPermaLink="false">f6e8e41d9ca53678dc200c63057bf3b4</guid>
+    </item>
     <item>
       <title>검증하지 말고 파싱하라 — TypeScript처럼 원하지 않는 언어에서</title>
       <link>https://news.hada.io/topic?id=31013</link>
@@ -448,15 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260630000422">전자신문 IT</source>
       <guid isPermaLink="false">32aeee3901090fdadeee14abc88746a8</guid>
-    </item>
-    <item>
-      <title>“기본급 6억에 주식 보상까지”…엔비디아 '우주 AI 데이터센터' 파격 채용</title>
-      <link>https://www.etnews.com/20260630000420</link>
-      <description>인공지능(AI) 반도체 시장을 장악하고 있는 엔비디아가 우주 공간에 AI 데이터센터를 구축하기 위한 핵심 인력 확보에 나서며 차세대 AI 인프라 경쟁에 뛰어들었다. AI 서비스 확산으로 데이터센터의 연산 수요가 폭발적으로 증가하면서 지상의 전력 부족과 부지 확보 문제가 심각해지는 가운데, 빅테크 기업들이 우주를 새로운 AI 인프라 공간으로 활용하려는 움직임을 본격화하는 모습이다.</description>
-      <pubDate>Tue, 30 Jun 2026 17:19:42 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260630000420">전자신문 IT</source>
-      <guid isPermaLink="false">0364e01c275217c0d192d16eb0bc668f</guid>
     </item>
   </channel>
 </rss>

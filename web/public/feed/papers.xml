@@ -5,9 +5,27 @@
     <link>https://sukoji.github.io/teams-news/feed/papers.xml</link>
     <description>📄 Papers — AI research from Hugging Face Daily Papers</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 02 Jul 2026 02:59:24 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 05:07:25 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>선별: 에이전트 강화 학습을 위한 역할 유형 학점 할당</title>
+      <link>https://huggingface.co/papers/2606.32017</link>
+      <description>TRIAGE는 표준 GRPO 방법보다 더 미묘한 크레딧 할당을 제공하여 에이전트 강화 학습을 향상시키는 역할 유형 크레딧 할당 프레임워크를 도입합니다.</description>
+      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.32017">Hugging Face Papers</source>
+      <guid isPermaLink="false">a6bc56f2b3d13f02aa59f70d67a4077b</guid>
+    </item>
+    <item>
+      <title>SpheRoPE: 구형 RoPE를 사용한 제로 샷 최적화 없는 360 파노라마 생성</title>
+      <link>https://huggingface.co/papers/2606.32033</link>
+      <description>새로운 제로샷 프레임워크는 구형 RoPE 및 의미론적 왜곡 안내를 사용하여 360도 파노라마 생성을 위해 사전 훈련된 확산 변환기에 구형 사전을 주입하여 토폴로지 제약 조건을 극복합니다.</description>
+      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.32033">Hugging Face Papers</source>
+      <guid isPermaLink="false">a0b3e6888d8cbc278f398e953aa38554</guid>
+    </item>
     <item>
       <title>VLA는 기본 사항도 알고 있나요? 비전-언어-행동 모델에서 상식과 세계 지식 보유 측정</title>
       <link>https://huggingface.co/papers/2606.19297</link>
@@ -439,24 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.30410">Hugging Face Papers</source>
       <guid isPermaLink="false">a74cfbff87ac58bbfb3a94b9392b486c</guid>
-    </item>
-    <item>
-      <title>자유형 인터리브 텍스트 이미지 생성을 위한 조명 통합 다중 모드 모델</title>
-      <link>https://huggingface.co/papers/2606.30054</link>
-      <description>ILLUME-X는 향상된 데이터 효율성, 안정적인 훈련 프로세스 및 포괄적인 평가 지표를 통해 텍스트 이미지 생성을 향상시키는 통합 다중 모드 패러다임입니다.</description>
-      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.30054">Hugging Face Papers</source>
-      <guid isPermaLink="false">73e24261e3b0ebbe9e9b4753fd85ca63</guid>
-    </item>
-    <item>
-      <title>RaysUp: 기하학 인식 광선 표현을 통한 초경량 범용 기능 업샘플링</title>
-      <link>https://huggingface.co/papers/2606.22749</link>
-      <description>RaysUp은 향상된 효율성과 정확성으로 형상 인식 레이 도메인 기술을 사용하여 고해상도 기능을 재구성하는 경량의 작업 독립적 기능 업샘플링 프레임워크입니다.</description>
-      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.22749">Hugging Face Papers</source>
-      <guid isPermaLink="false">a3de63af0f16ba70a45d962ed0216c22</guid>
     </item>
   </channel>
 </rss>

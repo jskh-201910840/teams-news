@@ -5,9 +5,36 @@
     <link>https://sukoji.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 02 Jul 2026 02:59:24 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 05:07:25 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>선별: 에이전트 강화 학습을 위한 역할 유형 학점 할당</title>
+      <link>https://huggingface.co/papers/2606.32017</link>
+      <description>TRIAGE는 표준 GRPO 방법보다 더 미묘한 크레딧 할당을 제공하여 에이전트 강화 학습을 향상시키는 역할 유형 크레딧 할당 프레임워크를 도입합니다.</description>
+      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.32017">Hugging Face Papers</source>
+      <guid isPermaLink="false">a6bc56f2b3d13f02aa59f70d67a4077b</guid>
+    </item>
+    <item>
+      <title>SpheRoPE: 구형 RoPE를 사용한 제로 샷 최적화 없는 360 파노라마 생성</title>
+      <link>https://huggingface.co/papers/2606.32033</link>
+      <description>새로운 제로샷 프레임워크는 구형 RoPE 및 의미론적 왜곡 안내를 사용하여 360도 파노라마 생성을 위해 사전 훈련된 확산 변환기에 구형 사전을 주입하여 토폴로지 제약 조건을 극복합니다.</description>
+      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.32033">Hugging Face Papers</source>
+      <guid isPermaLink="false">a0b3e6888d8cbc278f398e953aa38554</guid>
+    </item>
+    <item>
+      <title>린스트랄 1.5</title>
+      <link>https://news.hada.io/topic?id=31016</link>
+      <description>Leanstral 1.5 는 Lean 4 형식 증명 엔지니어링에 맞춘 업데이트 모델로, 자동 정리 증명과 자동 형식화를 겨냥함 모델 규모는 총 119B 파라미터 와 6.5B 활성 파라미터 구성이며, 긴 증명·문서 맥락 처리를 전제로 함 제공 식별자는</description>
+      <pubDate>Thu, 02 Jul 2026 03:34:57 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=31016">GeekNews</source>
+      <guid isPermaLink="false">f6e8e41d9ca53678dc200c63057bf3b4</guid>
+    </item>
     <item>
       <title>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</title>
       <link>https://github.com/naberbabammm34343/llm-task-orchestrator</link>
@@ -430,33 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.08671">Hugging Face Papers</source>
       <guid isPermaLink="false">27d2f7a7b056194980b827138e3163ee</guid>
-    </item>
-    <item>
-      <title>M.AX-국민성장펀드, AI·로봇 등에 16조 공급…LS전선 첫 투자</title>
-      <link>https://www.etnews.com/20260701000430</link>
-      <description>'M.AX(제조 AI 대전환)-국민성장펀드' 첫 투자처는 LS전선이 낙점됐다. 정부는 인공지능(AI)과 로봇 등 '피지컬 AI' 생태계 확장을 위해 올해 16조원을 푼다는 계획이다.</description>
-      <pubDate>Wed, 01 Jul 2026 14:14:14 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260701000430">전자신문 IT</source>
-      <guid isPermaLink="false">18bc152634cc797daf93c8d03fc2a377</guid>
-    </item>
-    <item>
-      <title>삼성전자 AI로 5G망 속도 52% 높여…日 KDDI와 실증 성공</title>
-      <link>https://www.etnews.com/20260701000407</link>
-      <description>삼성전자가 일본 이동통신사 KDDI의 상용 5G 단독 모드(SA) 네트워크에 인공지능(AI) 기반 최적화 기술을 적용해 다운로드 속도를 최대 52% 높였다. 한국에서도 5G SA 상용화가 예정된 가운데, 획기적인 망 품질 개선이 이뤄질지 주목된다.</description>
-      <pubDate>Wed, 01 Jul 2026 14:03:15 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260701000407">전자신문 IT</source>
-      <guid isPermaLink="false">5c80504683e10a35a376bf7e04c84649</guid>
-    </item>
-    <item>
-      <title>프리미티브가 아닌 객체로서의 장면: 제시되지 않은 뷰에서 인스턴스 구조화된 3D 토큰화</title>
-      <link>https://huggingface.co/papers/2606.29513</link>
-      <description>피드포워드 프레임워크는 3D 장면을 다중 뷰 이미지에서 인스턴스 구조의 토큰 그룹으로 분해하여 3D 주석 없이 객체 수준에서 직접 재구성, 분할 및 조작을 가능하게 합니다.</description>
-      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.29513">Hugging Face Papers</source>
-      <guid isPermaLink="false">542958d7450dc066e8cd40c1157d24e5</guid>
     </item>
   </channel>
 </rss>
