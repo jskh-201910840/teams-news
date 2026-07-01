@@ -5,9 +5,81 @@
     <link>https://sukoji.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 02 Jul 2026 00:45:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 02:59:24 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</title>
+      <link>https://github.com/naberbabammm34343/llm-task-orchestrator</link>
+      <description>최고의 AI 라우터 2026: 빠른 코드를 위한 분할 Codex 및 복잡한 리팩토링을 위한 Claude</description>
+      <pubDate>Thu, 02 Jul 2026 01:13:10 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/naberbabammm34343/llm-task-orchestrator">GitHub Trending</source>
+      <guid isPermaLink="false">e4c15f6267e6e7fbaa4d1dfc08e4fe02</guid>
+    </item>
+    <item>
+      <title>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</title>
+      <link>https://github.com/charan820/PhantomCrowd-Simulacra</link>
+      <description>PhantomCrowd AI 마케팅 시뮬레이터 2026: 로컬 LLM을 통한 콘텐츠 확산 예측</description>
+      <pubDate>Thu, 02 Jul 2026 02:06:16 +0900</pubDate>
+      <category>trending</category>
+      <source url="https://github.com/charan820/PhantomCrowd-Simulacra">GitHub Trending</source>
+      <guid isPermaLink="false">a17191f0cdff4a345a8f249409142ccd</guid>
+    </item>
+    <item>
+      <title>VLA는 기본 사항도 알고 있나요? 비전-언어-행동 모델에서 상식과 세계 지식 보유 측정</title>
+      <link>https://huggingface.co/papers/2606.19297</link>
+      <description>Act2Answer 프로토콜은 에이전트가 물리적 행동을 통해 질문에 답하도록 하고 다양한 의미 범주에 걸쳐 지식 보유 및 일반화 패턴을 공개함으로써 구현된 비전-언어-행동 모델을 평가합니다.</description>
+      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.19297">Hugging Face Papers</source>
+      <guid isPermaLink="false">75992eece400958905cb4694c52ad05c</guid>
+    </item>
+    <item>
+      <title>우리는 전략을 측정하고 있습니까, 아니면 표현을 측정하고 있습니까? LLM 수학 추론의 표면 수준과 접근 수준 다양성 사이의 격차</title>
+      <link>https://huggingface.co/papers/2606.29985</link>
+      <description>LLM 수학적 추론의 접근 수준 다양성은 문제 해결 방법의 전략적 변화를 포착하여 표면 수준 다양성 측정 기준의 한계를 드러내고 직접 최적화에 대한 과제를 강조합니다.</description>
+      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.29985">Hugging Face Papers</source>
+      <guid isPermaLink="false">45738f0dc6c910cea2f7f1252e01df5f</guid>
+    </item>
+    <item>
+      <title>Play2Perfect: 정확한 조립을 위한 능숙한 플레이 사전 훈련에서 무엇이 중요합니까?</title>
+      <link>https://huggingface.co/papers/2606.26428</link>
+      <description>Play2Perfect라는 강화 학습 프레임워크는 먼저 다양한 개체와의 재미있는 상호 작용을 통해 일반적인 조작 기술을 학습한 다음 이를 적용하여 샘플 효율적인 로봇 조립 작업을 가능하게 합니다.</description>
+      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.26428">Hugging Face Papers</source>
+      <guid isPermaLink="false">ef2d57fe16b21438b575958ae597be1c</guid>
+    </item>
+    <item>
+      <title>계층적 실험주의 에이전트</title>
+      <link>https://huggingface.co/papers/2606.29315</link>
+      <description>HExA를 사용하면 교육이나 외부 감독 없이도 새로운 영역에서 적극적인 실험과 기술 학습을 통해 대규모 언어 모델을 개선할 수 있습니다.</description>
+      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.29315">Hugging Face Papers</source>
+      <guid isPermaLink="false">bada8a687cfa4f713c62f913d2661874</guid>
+    </item>
+    <item>
+      <title>SWE-INTERACT: SWE 벤치마크를 사용자 중심의 장거리 코딩 세션으로 재구성</title>
+      <link>https://huggingface.co/papers/2606.30573</link>
+      <description>SWE-Interact는 현실적인 다중 회전, 사용자 중심 소프트웨어 엔지니어링 시나리오에서 코딩 에이전트를 평가하는 테스트베드를 제시하여 단일 회전 성능과 대화형 작업 완료 사이의 상당한 격차를 드러냅니다.</description>
+      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.30573">Hugging Face Papers</source>
+      <guid isPermaLink="false">32de27b9173cf66c01922088cb3994d6</guid>
+    </item>
+    <item>
+      <title>검증하지 말고 파싱하라 — TypeScript처럼 원하지 않는 언어에서</title>
+      <link>https://news.hada.io/topic?id=31013</link>
+      <description>TypeScript 코드에 if (user.email) 같은 확인이 흩어지면, 이미 확인한 사실이 타입에 남지 않아 호출 스택 뒤쪽에서 같은 조건을 계속 의심하게 됨 파서는 원시 입력을 받아 더 좁은 타입 이나 실패 정보를 돌려주며, EmailAddress 처럼 검증된 사실을 프...</description>
+      <pubDate>Thu, 02 Jul 2026 02:04:15 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=31013">GeekNews</source>
+      <guid isPermaLink="false">b99f1e6c9acde1e8235ac4bf584f5db6</guid>
+    </item>
     <item>
       <title>MOPD: LLM 사후 교육의 역량 통합을 위한 다중 교사 온 정책 증류</title>
       <link>https://huggingface.co/papers/2606.30406</link>
@@ -385,78 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.29513">Hugging Face Papers</source>
       <guid isPermaLink="false">542958d7450dc066e8cd40c1157d24e5</guid>
-    </item>
-    <item>
-      <title>Soatok의 비공식 위협 모델 가이드</title>
-      <link>https://news.hada.io/topic?id=31003</link>
-      <description>위협 모델 은 보호 대상과 공격자를 적는 데서 끝나지 않고, 자산 간 관계·가정·일부러 제외한 위협까지 드러낼 때 설계 판단에 쓸 수 있음 좋은 모델은 자산을 목록이 아니라 그래프 로 보고, 컴포넌트의 입력·출력·의존성을 좁혀 가며 위험과 전제를 확인함 ...</description>
-      <pubDate>Wed, 01 Jul 2026 18:05:14 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=31003">GeekNews</source>
-      <guid isPermaLink="false">b37381530272ac1190182ce7b20c0547</guid>
-    </item>
-    <item>
-      <title>Dockerless: 코딩 에이전트를 위한 환경 없는 프로그램 검증자</title>
-      <link>https://huggingface.co/papers/2606.28436</link>
-      <description>Dockerless 환경이 필요 없는 에이전트 패치 검증기는 코드 패치 평가 정확도를 향상시키고 실행 기반 검증 비용 없이 효과적인 사후 교육을 가능하게 합니다.</description>
-      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.28436">Hugging Face Papers</source>
-      <guid isPermaLink="false">0dabf810fe6e9351d6bd44f7c3cb314b</guid>
-    </item>
-    <item>
-      <title>BlockPilot: 확산 기반 추측 디코딩을 위한 인스턴스 적응형 정책 학습</title>
-      <link>https://huggingface.co/papers/2606.31315</link>
-      <description>적응형 블록 크기 선택을 통한 추론적 디코딩은 미리 채워진 표현에서 최적의 블록 크기를 예측하여 추론 효율성을 향상시키고 최소한의 오버헤드로 상당한 속도 향상을 달성합니다.</description>
-      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.31315">Hugging Face Papers</source>
-      <guid isPermaLink="false">24eb1f332d966231fb0953d4df9fa206</guid>
-    </item>
-    <item>
-      <title>vLLM Semantic Router가 공개한, 모델 API 안에서 협업하는 마이크로 에이전트 (feat. Looper)</title>
-      <link>https://discuss.pytorch.kr/t/vllm-semantic-router-api-feat-looper/11005</link>
-      <description>vLLM Semantic Router의 마이크로 에이전트 소개 지금 업계의 시선은 대부분 "다음 프론티어 모델은 무엇인가"에 쏠려 있습니다. 그러나 vLLM 팀이 공개한 이번 글은 더 흥미로운 층위가 모델 앞단 에 있다고 말합니다. 바로 라우터(router) 입니다.</description>
-      <pubDate>Wed, 01 Jul 2026 12:30:24 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/vllm-semantic-router-api-feat-looper/11005">PyTorch Korea</source>
-      <guid isPermaLink="false">0b297c4298ba3fdc75f98150f4498238</guid>
-    </item>
-    <item>
-      <title>PhotoQuilt: 부트스트랩 타일 노이즈 제거를 통한 교육이 필요 없는 임의 해상도 포토 모자이크</title>
-      <link>https://huggingface.co/papers/2606.30968</link>
-      <description>PhotoQuilt는 전역 레이아웃 구성과 잠재 공간의 별도 타일 생성을 결합하여 고해상도 포토모자이크를 생성하는 교육이 필요 없는 프레임워크로, 균형에서 확산 모델의 한계를 극복합니다.</description>
-      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.30968">Hugging Face Papers</source>
-      <guid isPermaLink="false">1223a0ccafbab9cba2b3b2a80ed46263</guid>
-    </item>
-    <item>
-      <title>Xiaomi-GUI-0 기술 보고서</title>
-      <link>https://huggingface.co/papers/2606.31410</link>
-      <description>실제 장치 환경에서 훈련된 기본 다중 모드 GUI 에이전트는 기존 벤치마크 기반 접근 방식에 비해 뛰어난 성능과 안정성을 보여줍니다.</description>
-      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.31410">Hugging Face Papers</source>
-      <guid isPermaLink="false">55e1103d4e5ccb48d02155ae34ddfa76</guid>
-    </item>
-    <item>
-      <title>DOPD: 이중 정책 증류</title>
-      <link>https://huggingface.co/papers/2606.30626</link>
-      <description>DOPD는 장점 격차와 확률을 기반으로 교사와 학생 정책 간의 토큰 수준 감독을 동적으로 라우팅하여 정책 기반 증류의 특권 환상을 해결하고 능력 이전을 개선합니다.</description>
-      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.30626">Hugging Face Papers</source>
-      <guid isPermaLink="false">046264c30506cdc032806f6cc17a7077</guid>
-    </item>
-    <item>
-      <title>진화 미세 조정: 371개 최적화 작업 전반에 걸쳐 발견하는 방법 학습</title>
-      <link>https://huggingface.co/papers/2606.29082</link>
-      <description>진화적인 미세 조정을 통해 대규모 언어 모델은 검색 궤적을 통해 학습하고 수학적 추측 및 최적화에 대한 향상된 성능을 보여줌으로써 교차 작업 문제 해결 기능을 개발할 수 있습니다.</description>
-      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.29082">Hugging Face Papers</source>
-      <guid isPermaLink="false">6df7df006b530ba02402548b215a84ad</guid>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,18 @@
     <link>https://sukoji.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 02 Jul 2026 00:45:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 02:59:24 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>검증하지 말고 파싱하라 — TypeScript처럼 원하지 않는 언어에서</title>
+      <link>https://news.hada.io/topic?id=31013</link>
+      <description>TypeScript 코드에 if (user.email) 같은 확인이 흩어지면, 이미 확인한 사실이 타입에 남지 않아 호출 스택 뒤쪽에서 같은 조건을 계속 의심하게 됨 파서는 원시 입력을 받아 더 좁은 타입 이나 실패 정보를 돌려주며, EmailAddress 처럼 검증된 사실을 프...</description>
+      <pubDate>Thu, 02 Jul 2026 02:04:15 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=31013">GeekNews</source>
+      <guid isPermaLink="false">b99f1e6c9acde1e8235ac4bf584f5db6</guid>
+    </item>
     <item>
       <title>브랜드 인게이지먼트 네트워크, 카타네오 인수 완료</title>
       <link>https://zdnet.co.kr/view/?no=20260701231002</link>
@@ -448,15 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260630000420">전자신문 IT</source>
       <guid isPermaLink="false">0364e01c275217c0d192d16eb0bc668f</guid>
-    </item>
-    <item>
-      <title>韓 4700조 투자에도…TSMC 가진 대만 “경쟁 불가피해도 대체불가 위상은 확고”</title>
-      <link>https://www.etnews.com/20260630000419</link>
-      <description>한국 정부와 삼성전자, SK하이닉스 등이 총 4700조원 규모의 반도체·인공지능(AI) 투자 계획을 발표한 가운데 세계 최대 파운드리 기업 TSMC의 본거지인 대만에서 경계와 자신감이 동시에 나오고 있다.</description>
-      <pubDate>Tue, 30 Jun 2026 17:19:34 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260630000419">전자신문 IT</source>
-      <guid isPermaLink="false">398b5131aab7e3d0701b4acdef7fe60a</guid>
     </item>
   </channel>
 </rss>

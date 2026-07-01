@@ -5,9 +5,54 @@
     <link>https://sukoji.github.io/teams-news/feed/papers.xml</link>
     <description>📄 Papers — AI research from Hugging Face Daily Papers</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 02 Jul 2026 00:45:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 02:59:24 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>VLA는 기본 사항도 알고 있나요? 비전-언어-행동 모델에서 상식과 세계 지식 보유 측정</title>
+      <link>https://huggingface.co/papers/2606.19297</link>
+      <description>Act2Answer 프로토콜은 에이전트가 물리적 행동을 통해 질문에 답하도록 하고 다양한 의미 범주에 걸쳐 지식 보유 및 일반화 패턴을 공개함으로써 구현된 비전-언어-행동 모델을 평가합니다.</description>
+      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.19297">Hugging Face Papers</source>
+      <guid isPermaLink="false">75992eece400958905cb4694c52ad05c</guid>
+    </item>
+    <item>
+      <title>우리는 전략을 측정하고 있습니까, 아니면 표현을 측정하고 있습니까? LLM 수학 추론의 표면 수준과 접근 수준 다양성 사이의 격차</title>
+      <link>https://huggingface.co/papers/2606.29985</link>
+      <description>LLM 수학적 추론의 접근 수준 다양성은 문제 해결 방법의 전략적 변화를 포착하여 표면 수준 다양성 측정 기준의 한계를 드러내고 직접 최적화에 대한 과제를 강조합니다.</description>
+      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.29985">Hugging Face Papers</source>
+      <guid isPermaLink="false">45738f0dc6c910cea2f7f1252e01df5f</guid>
+    </item>
+    <item>
+      <title>Play2Perfect: 정확한 조립을 위한 능숙한 플레이 사전 훈련에서 무엇이 중요합니까?</title>
+      <link>https://huggingface.co/papers/2606.26428</link>
+      <description>Play2Perfect라는 강화 학습 프레임워크는 먼저 다양한 개체와의 재미있는 상호 작용을 통해 일반적인 조작 기술을 학습한 다음 이를 적용하여 샘플 효율적인 로봇 조립 작업을 가능하게 합니다.</description>
+      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.26428">Hugging Face Papers</source>
+      <guid isPermaLink="false">ef2d57fe16b21438b575958ae597be1c</guid>
+    </item>
+    <item>
+      <title>계층적 실험주의 에이전트</title>
+      <link>https://huggingface.co/papers/2606.29315</link>
+      <description>HExA를 사용하면 교육이나 외부 감독 없이도 새로운 영역에서 적극적인 실험과 기술 학습을 통해 대규모 언어 모델을 개선할 수 있습니다.</description>
+      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.29315">Hugging Face Papers</source>
+      <guid isPermaLink="false">bada8a687cfa4f713c62f913d2661874</guid>
+    </item>
+    <item>
+      <title>SWE-INTERACT: SWE 벤치마크를 사용자 중심의 장거리 코딩 세션으로 재구성</title>
+      <link>https://huggingface.co/papers/2606.30573</link>
+      <description>SWE-Interact는 현실적인 다중 회전, 사용자 중심 소프트웨어 엔지니어링 시나리오에서 코딩 에이전트를 평가하는 테스트베드를 제시하여 단일 회전 성능과 대화형 작업 완료 사이의 상당한 격차를 드러냅니다.</description>
+      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.30573">Hugging Face Papers</source>
+      <guid isPermaLink="false">32de27b9173cf66c01922088cb3994d6</guid>
+    </item>
     <item>
       <title>MOPD: LLM 사후 교육의 역량 통합을 위한 다중 교사 온 정책 증류</title>
       <link>https://huggingface.co/papers/2606.30406</link>
@@ -412,51 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.22749">Hugging Face Papers</source>
       <guid isPermaLink="false">a3de63af0f16ba70a45d962ed0216c22</guid>
-    </item>
-    <item>
-      <title>비디오-MME-논리: 비디오 시간-논리 추론을 위한 제어된 진단 벤치마크</title>
-      <link>https://huggingface.co/papers/2606.27828</link>
-      <description>새로운 벤치마크는 단순한 객체 인식이 아닌 제어된 시간적 논리적 작업을 통해 동적 시각적 증거에 대해 추론하는 다중 모드 대형 언어 모델의 능력을 평가합니다.</description>
-      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.27828">Hugging Face Papers</source>
-      <guid isPermaLink="false">ec7076d91519697489c1480f8d8967e4</guid>
-    </item>
-    <item>
-      <title>인터리브 음성 언어 모델은 잠재적으로 텍스트에서 작동합니다.</title>
-      <link>https://huggingface.co/papers/2606.22473</link>
-      <description>인터리브된 음성-텍스트 언어 모델은 텍스트 토큰이 중간 계층에서 디코딩 가능해지고 음성 도메인 변환 전에 텍스트 기반 예측이 이어지는 암시적 전사 단계를 나타냅니다.</description>
-      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.22473">Hugging Face Papers</source>
-      <guid isPermaLink="false">0c809b5c7af1b4630739e2bbacb14d38</guid>
-    </item>
-    <item>
-      <title>ZooClaw-FashionSigLIP2: 강력한 패션 검색을 위한 증류된 미세 조정</title>
-      <link>https://huggingface.co/papers/2606.27708</link>
-      <description>패션 전문 비전 언어 모델은 지식 증류 및 가중치 보간을 통한 완전한 미세 조정을 통해 탁월한 검색 성능을 달성하며, 새로운 벤치마크에서 기존 방법을 능가하는 동시에…</description>
-      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.27708">Hugging Face Papers</source>
-      <guid isPermaLink="false">89c15c6ef7a730d93343fe28775873f4</guid>
-    </item>
-    <item>
-      <title>손 동작 재구성을 위한 비디오 확산 모델의 놀라운 효율성</title>
-      <link>https://huggingface.co/papers/2606.30308</link>
-      <description>ViDiHand는 감지기나 최적화 없이 비디오 프레임에서 직접 4D 손 동작을 재구성하기 위해 핸드 오버레이 렌더링과 함께 사전 훈련된 비디오 확산 모델 표현을 사용합니다.</description>
-      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.30308">Hugging Face Papers</source>
-      <guid isPermaLink="false">e1831b1df8b15e62d79d128372f8bc67</guid>
-    </item>
-    <item>
-      <title>정리 그래프: 형식 수학과 비공식 수학 연결</title>
-      <link>https://huggingface.co/papers/2606.25363</link>
-      <description>통합된 수학적 종속성 그래프는 arXiv 논문 및 Lean 프로젝트의 의미 임베딩 및 자동 추출을 통해 비공식 수학과 형식 수학을 연결합니다.</description>
-      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.25363">Hugging Face Papers</source>
-      <guid isPermaLink="false">fe65901dc17843d5337cbc00406056b6</guid>
     </item>
   </channel>
 </rss>
