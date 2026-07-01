@@ -5,9 +5,72 @@
     <link>https://sukoji.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 01 Jul 2026 18:51:46 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 21:37:10 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>메이투안, 코딩 모델 '롱캣-2.0' 출시..."중국산 칩으로 고성능 달성"</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212307</link>
+      <description>중국 배달 플랫폼 메이투안이 총 1조6000억개의 매개변수를 갖춘 초대형 오픈소스 언어모델 \'롱캣(LongCat)-2.0\'을 공개했다. 특히 이 모델은 중국산 AI 전용 칩 5만개 이상으로 구성된 클러스터에서 사전학습부터 추론까지 전 과정을 완료한 것이 특징이다. 메이투안은 30일(현지시간) 깃허브와 허깅페이스를 통해 롱캣-2.0을 MIT 라이선스로 오픈소스 공개했다고 밝혔다.</description>
+      <pubDate>Wed, 01 Jul 2026 18:25:57 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212307">AI Times</source>
+      <guid isPermaLink="false">3d25b8c2e219fd92c9faf41da3b3ee7e</guid>
+    </item>
+    <item>
+      <title>LLM 에이전트의 절차적 메모리 관리: 제어, 적응 및 평가</title>
+      <link>https://huggingface.co/papers/2606.23127</link>
+      <description>절차적 메모리는 배포 전략에 영향을 미치는 다양한 일반화 기능을 통해 역할과 모델 간의 기술 이전을 통해 직장 작업에서 LLM 에이전트를 향상시킵니다.</description>
+      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.23127">Hugging Face Papers</source>
+      <guid isPermaLink="false">709f4de68ec0786908fa13ab3938c3cd</guid>
+    </item>
+    <item>
+      <title>eve: 파일시스템을 저작 인터페이스로 삼는 AI 에이전트 프레임워크 프로젝트 (feat. Vercel)</title>
+      <link>https://discuss.pytorch.kr/t/eve-ai-feat-vercel/10993</link>
+      <description>eve 소개 eve는 Vercel이 공개한, 지속성 있는(durable) AI 에이전트를 위한 파일시스템 우선(filesystem-first) 프레임워크입니다. 에이전트를 코드 깊숙한 곳의 추상화로 숨기는 대신, 에이전트의 핵심 능력을 약속된 위치의 평범한 파일과 폴더로 표현합니다. 그 결과 프로젝트를 들여다보고, 확장하고, 운영하기가 쉬워집니다.</description>
+      <pubDate>Wed, 01 Jul 2026 21:30:16 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/eve-ai-feat-vercel/10993">PyTorch Korea</source>
+      <guid isPermaLink="false">d7d18b5e1caef9b36caef502a87c4c7c</guid>
+    </item>
+    <item>
+      <title>QVal: 장거리 LLM 에이전트에 대한 밀집된 감독 신호를 저렴하게 평가</title>
+      <link>https://huggingface.co/papers/2606.32034</link>
+      <description>방법 점수가 Q 값과 얼마나 잘 일치하는지 측정하여 장거리 LLM 에이전트 작업에서 밀집된 감독 신호를 평가하기 위해 QVal이라는 테스트베드가 도입되어 다양한 감독 앱을 공정하게 비교할 수 있습니다.</description>
+      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.32034">Hugging Face Papers</source>
+      <guid isPermaLink="false">1f07512ad0fcfaeddc04c58aed9643f5</guid>
+    </item>
+    <item>
+      <title>삼성, 갤럭시A18 4G에 미디어텍 AP 사용...5G는 퀄컴</title>
+      <link>https://zdnet.co.kr/view/?no=20260701182415</link>
+      <description>[지디넷코리아]삼성전자가 올해 하반기 출시 예정인 저가폰 갤럭시A18의 4G 모델 AP에 미디어텍, 5G 모델 AP에 퀄컴 제품을 사용할 예정인 것으로 1일 파악됐다. 전작인 갤럭시A17에선 4G 모델 AP에 미디어텍 헬리오 G99, 5G 모델 AP에 삼성전자 엑시노스 1330을 적용한 바 있다.갤럭시A1 시리즈는 리지드 유기발광다이오드(OLED)를 적용하는 저가 모델이다.</description>
+      <pubDate>Wed, 01 Jul 2026 18:58:04 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260701182415">ZDNet Korea</source>
+      <guid isPermaLink="false">1c29edd405dcf3c2a984d540779c3796</guid>
+    </item>
+    <item>
+      <title>FlexiSLM: 동적이며 제어 가능한 프레임 속도 음성 언어 모델</title>
+      <link>https://huggingface.co/papers/2606.31247</link>
+      <description>유연한 음성 언어 모델(FlexiSLM)은 음성 입력 및 출력을 위한 동적 프레임 속도 기능을 도입하여 고정 프레임 속도 모델보다 우수한 성능을 달성하는 동시에 제어 가능한 추론 속도를 지원합니다.</description>
+      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.31247">Hugging Face Papers</source>
+      <guid isPermaLink="false">bb26f4e6d59846e1c88ddd477d7bc012</guid>
+    </item>
+    <item>
+      <title>Show GN: Branch of Thought – Claude·ChatGPT 대화의 숨은 분기를 그래프로 보여주는 크롬 확장</title>
+      <link>https://news.hada.io/topic?id=31007</link>
+      <description>Claude나 ChatGPT에서 메시지를 편집하면, 대화가 조용히 새로운 분기로 갈라집니다. 그런데 이전 대화는 작은 ‹ 2/3 › 화살표 뒤로 묻혀버려서, 돌아가고 싶은 분기를 자꾸 놓치게 되더군요. 그게 불편해서 직접 만들었습니다.</description>
+      <pubDate>Wed, 01 Jul 2026 20:29:15 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=31007">GeekNews</source>
+      <guid isPermaLink="false">c8b8722f419568e3148b1f69a75a22b6</guid>
+    </item>
     <item>
       <title>agentsview: 모든 AI 코딩 에이전트의 세션을 로컬에서 검색하고 분석하는 도구</title>
       <link>https://discuss.pytorch.kr/t/agentsview-ai/10992</link>
@@ -394,69 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260701000191">전자신문 IT</source>
       <guid isPermaLink="false">0d667b21061febf3cfabb700ccb794dc</guid>
-    </item>
-    <item>
-      <title>BrainJanus: 뇌, 시각, 언어 전반에 걸친 이해와 생성을 위한 통합 모델</title>
-      <link>https://huggingface.co/papers/2606.30319</link>
-      <description>BrainJanus는 공유 Omni 공간을 통해 뇌, 시각 및 언어를 통합한 최초의 통합 뇌 모델을 나타내며 토큰화된 표현을 통해 신경 활동과 감각 자극 간의 양방향 매핑을 가능하게 합니다.</description>
-      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.30319">Hugging Face Papers</source>
-      <guid isPermaLink="false">8b6149cbe6964e28d468096e4b568ee6</guid>
-    </item>
-    <item>
-      <title>LUMOS: 접근성 기반 AI 에이전트를 위한 시맨틱 운영 체제 계층</title>
-      <link>https://huggingface.co/papers/2606.30697</link>
-      <description>LUMOS는 운영 체제 메타데이터를 기계가 읽을 수 있는 형식으로 변환하는 의미론적 상호 작용 계층을 제공하여 AI 에이전트가 기존의 시각적인 방식보다 컴퓨터 인터페이스와 더 효율적으로 상호 작용할 수 있도록 합니다.</description>
-      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.30697">Hugging Face Papers</source>
-      <guid isPermaLink="false">9e2b7a8b6c231e6474feb6bda74613cf</guid>
-    </item>
-    <item>
-      <title>MemLearner: 비디오 세계 모델에 대한 컨텍스트 메모리 쿼리 방법 학습</title>
-      <link>https://huggingface.co/papers/2606.31734</link>
-      <description>MemLearner는 쿼리 토큰과 함께 학습 기반 적응형 컨텍스트 쿼리를 사용하여 폐색 및 동적 객체가 있는 긴 비디오 시퀀스에서 장면 일관성과 메모리를 향상함으로써 비디오 세계 모델을 개선합니다.</description>
-      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.31734">Hugging Face Papers</source>
-      <guid isPermaLink="false">239e34625dd7ead22622bab00c577350</guid>
-    </item>
-    <item>
-      <title>AVTok: 전체적인 오디오-비디오 생성을 위한 1D 통합 토큰화</title>
-      <link>https://huggingface.co/papers/2606.30811</link>
-      <description>AVTok은 공유 인코더-디코더 및 모달별 쿼리와 함께 듀얼 스트림 변환기 아키텍처를 사용하여 컴팩트한 1차원 잠재 표현을 생성하는 오디오-비디오 생성을 위한 통합 토크나이저입니다.</description>
-      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.30811">Hugging Face Papers</source>
-      <guid isPermaLink="false">e0b3dbde11f47d2da125069522c96ca6</guid>
-    </item>
-    <item>
-      <title>제네시스, '2027 GV70' '그래파이트 패키지' 출시</title>
-      <link>https://www.etnews.com/20260701000152</link>
-      <description>제네시스가 럭셔리 중형 SUV GV70의 연식 변경 모델 '2027 GV70'와 신규 디자인 패키지 'GV70 그래파이트 패키지'를 1일 출시했다. 2027 GV70는 고객 선호를 반영해 상품성을 강화했다. 기존 18인치 휠을 삭제하고 19인치 휠을 기본 적용하고, 새로운 외장 색상 '트롬소 그린'을 추가해 선택의 폭을 넓혔다.</description>
-      <pubDate>Wed, 01 Jul 2026 10:05:06 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260701000152">전자신문 IT</source>
-      <guid isPermaLink="false">ef7b34791649698c272eda7edc06a760</guid>
-    </item>
-    <item>
-      <title>기아, 'The 2027 타스만' '오픈베드' 계약 개시…3399만 원부터</title>
-      <link>https://www.etnews.com/20260701000147</link>
-      <description>기아가 정통 픽업트럭 타스만 연식변경 모델 'The 2027 타스만'과 특화 모델 '더 기아 타스만 오픈베드'의 계약을 1일부터 시작한다. 2027 타스만은 고객 선호 사양을 기본 적용한 '베스트 셀렉션' 트림을 신설했다. 베스트 셀렉션 트림에는 서라운드 뷰 모니터, 원격 스마트 주차 보조, 전자식 4WD 시스템, 차동기어 잠금장치 등이 기본 탑재됐다.</description>
-      <pubDate>Wed, 01 Jul 2026 10:01:21 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260701000147">전자신문 IT</source>
-      <guid isPermaLink="false">399596d89ae1781fbbce0dc69503502a</guid>
-    </item>
-    <item>
-      <title>코스피, 美 기술주 훈풍에 1%대 상승 출발</title>
-      <link>https://www.etnews.com/20260701000093</link>
-      <description>코스피가 미국 기술주 강세와 반도체 투자심리 개선에 힘입어 1일 장 초반 상승 출발했다. 분기·반기말 리밸런싱 부담이 일단락된 가운데 미국 증시에서 인공지능(AI)과 반도체주가 강세를 보인 점이 국내 증시에도 우호적으로 작용했다. 1일 오전 9시 13분 기준 67.36포인트(0.79%) 오른 8543.84를 기록했다.</description>
-      <pubDate>Wed, 01 Jul 2026 09:25:40 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260701000093">전자신문 IT</source>
-      <guid isPermaLink="false">c8c3dc138f1832693f50a99d936ad567</guid>
     </item>
   </channel>
 </rss>

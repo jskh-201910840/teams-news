@@ -5,9 +5,36 @@
     <link>https://sukoji.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 01 Jul 2026 18:51:46 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 21:37:10 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>메이투안, 코딩 모델 '롱캣-2.0' 출시..."중국산 칩으로 고성능 달성"</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212307</link>
+      <description>중국 배달 플랫폼 메이투안이 총 1조6000억개의 매개변수를 갖춘 초대형 오픈소스 언어모델 \'롱캣(LongCat)-2.0\'을 공개했다. 특히 이 모델은 중국산 AI 전용 칩 5만개 이상으로 구성된 클러스터에서 사전학습부터 추론까지 전 과정을 완료한 것이 특징이다. 메이투안은 30일(현지시간) 깃허브와 허깅페이스를 통해 롱캣-2.0을 MIT 라이선스로 오픈소스 공개했다고 밝혔다.</description>
+      <pubDate>Wed, 01 Jul 2026 18:25:57 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212307">AI Times</source>
+      <guid isPermaLink="false">3d25b8c2e219fd92c9faf41da3b3ee7e</guid>
+    </item>
+    <item>
+      <title>삼성, 갤럭시A18 4G에 미디어텍 AP 사용...5G는 퀄컴</title>
+      <link>https://zdnet.co.kr/view/?no=20260701182415</link>
+      <description>[지디넷코리아]삼성전자가 올해 하반기 출시 예정인 저가폰 갤럭시A18의 4G 모델 AP에 미디어텍, 5G 모델 AP에 퀄컴 제품을 사용할 예정인 것으로 1일 파악됐다. 전작인 갤럭시A17에선 4G 모델 AP에 미디어텍 헬리오 G99, 5G 모델 AP에 삼성전자 엑시노스 1330을 적용한 바 있다.갤럭시A1 시리즈는 리지드 유기발광다이오드(OLED)를 적용하는 저가 모델이다.</description>
+      <pubDate>Wed, 01 Jul 2026 18:58:04 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260701182415">ZDNet Korea</source>
+      <guid isPermaLink="false">1c29edd405dcf3c2a984d540779c3796</guid>
+    </item>
+    <item>
+      <title>Show GN: Branch of Thought – Claude·ChatGPT 대화의 숨은 분기를 그래프로 보여주는 크롬 확장</title>
+      <link>https://news.hada.io/topic?id=31007</link>
+      <description>Claude나 ChatGPT에서 메시지를 편집하면, 대화가 조용히 새로운 분기로 갈라집니다. 그런데 이전 대화는 작은 ‹ 2/3 › 화살표 뒤로 묻혀버려서, 돌아가고 싶은 분기를 자꾸 놓치게 되더군요. 그게 불편해서 직접 만들었습니다.</description>
+      <pubDate>Wed, 01 Jul 2026 20:29:15 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=31007">GeekNews</source>
+      <guid isPermaLink="false">c8b8722f419568e3148b1f69a75a22b6</guid>
+    </item>
     <item>
       <title>코그니션, 멀티모델 기반 '데빈 퓨전' 공개...페이블 5 성능에 운영비 35% 절감</title>
       <link>https://www.aitimes.com/news/articleView.html?idxno=212328</link>
@@ -430,33 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260630000362">전자신문 IT</source>
       <guid isPermaLink="false">173a8443e978060af2ee80c9e326abe4</guid>
-    </item>
-    <item>
-      <title>애플, 보안 조기 업데이트…'AI 해킹' 위험 선제 대응</title>
-      <link>https://www.etnews.com/20260630000352</link>
-      <description>애플이 인공지능(AI) 사이버 보안 위험에 선제 대응하기 위해 보안 소프트웨어(SW) 조기 업데이트를 실시한다. 29일(현지시간) 로이터통신에 따르면 애플은 AI 기반 해킹 위험 최소화를 위해 차기 iOS 운용체계(OS) 26.6 버전에 일괄 배포할 계획이었던 보안 SW 업데이트를 앞당겨 배포하기로 했다.</description>
-      <pubDate>Tue, 30 Jun 2026 15:23:10 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260630000352">전자신문 IT</source>
-      <guid isPermaLink="false">66adc84f3146b49457316b905bf13281</guid>
-    </item>
-    <item>
-      <title>Show GN: AI한테 메일 맡기지 마라 — 인박스엔 비서가 아니라 &amp;#039;방화벽&amp;#039;이 필요하다 (오픈소스)</title>
-      <link>https://news.hada.io/topic?id=30972</link>
-      <description>요즘 "AI 이메일" 도구는 전부 같은 방향입니다. 메일마다 초안 깔고, "AI가 답장하래요" 배지 붙이고, 자동 전송 버튼 답니다. 결과는?</description>
-      <pubDate>Tue, 30 Jun 2026 18:24:47 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30972">GeekNews</source>
-      <guid isPermaLink="false">c4cf6c1eb0f9330fb11380e3a6e2ada6</guid>
-    </item>
-    <item>
-      <title>AI 에이전트 회사 차리기: 설립부터 어디서든 동기화까지</title>
-      <link>https://d2.naver.com/helloworld/3897377</link>
-      <description>네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 AI 에이전트로 나만의 회사를 차리고, 어디서 접속하든 같은 구성원이 같은 목표로 일하게 만든 이야기입니다. 발표 대상 AI 에이전트 활용에 관심있는 분들 목차 PROLOGUE — Claude Code, 매일 쓰는데 왜 매번 처음인가요?</description>
-      <pubDate>Tue, 30 Jun 2026 20:00:48 +0900</pubDate>
-      <category>news</category>
-      <source url="https://d2.naver.com/helloworld/3897377">NAVER D2</source>
-      <guid isPermaLink="false">656380f79e5f57c1a27e36432d336b10</guid>
     </item>
   </channel>
 </rss>

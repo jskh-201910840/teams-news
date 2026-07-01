@@ -5,9 +5,36 @@
     <link>https://sukoji.github.io/teams-news/feed/papers.xml</link>
     <description>📄 Papers — AI research from Hugging Face Daily Papers</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 01 Jul 2026 18:51:46 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 21:37:10 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>LLM 에이전트의 절차적 메모리 관리: 제어, 적응 및 평가</title>
+      <link>https://huggingface.co/papers/2606.23127</link>
+      <description>절차적 메모리는 배포 전략에 영향을 미치는 다양한 일반화 기능을 통해 역할과 모델 간의 기술 이전을 통해 직장 작업에서 LLM 에이전트를 향상시킵니다.</description>
+      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.23127">Hugging Face Papers</source>
+      <guid isPermaLink="false">709f4de68ec0786908fa13ab3938c3cd</guid>
+    </item>
+    <item>
+      <title>QVal: 장거리 LLM 에이전트에 대한 밀집된 감독 신호를 저렴하게 평가</title>
+      <link>https://huggingface.co/papers/2606.32034</link>
+      <description>방법 점수가 Q 값과 얼마나 잘 일치하는지 측정하여 장거리 LLM 에이전트 작업에서 밀집된 감독 신호를 평가하기 위해 QVal이라는 테스트베드가 도입되어 다양한 감독 앱을 공정하게 비교할 수 있습니다.</description>
+      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.32034">Hugging Face Papers</source>
+      <guid isPermaLink="false">1f07512ad0fcfaeddc04c58aed9643f5</guid>
+    </item>
+    <item>
+      <title>FlexiSLM: 동적이며 제어 가능한 프레임 속도 음성 언어 모델</title>
+      <link>https://huggingface.co/papers/2606.31247</link>
+      <description>유연한 음성 언어 모델(FlexiSLM)은 음성 입력 및 출력을 위한 동적 프레임 속도 기능을 도입하여 고정 프레임 속도 모델보다 우수한 성능을 달성하는 동시에 제어 가능한 추론 속도를 지원합니다.</description>
+      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
+      <category>papers</category>
+      <source url="https://huggingface.co/papers/2606.31247">Hugging Face Papers</source>
+      <guid isPermaLink="false">bb26f4e6d59846e1c88ddd477d7bc012</guid>
+    </item>
     <item>
       <title>GEAR: 이미지 합성을 위한 안내된 엔드투엔드 자동 회귀</title>
       <link>https://huggingface.co/papers/2606.32039</link>
@@ -430,33 +457,6 @@
       <category>papers</category>
       <source url="https://huggingface.co/papers/2606.25393">Hugging Face Papers</source>
       <guid isPermaLink="false">8ac4bc26cab147ef7abdb9f65732ae76</guid>
-    </item>
-    <item>
-      <title>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</title>
-      <link>https://huggingface.co/papers/2606.30616</link>
-      <description>35B 전문가 혼합 에이전트 모델인 Agents-A1은 3단계 교육 접근 방식을 통해 장거리 궤적 확장 및 이종 에이전트 능력 확장을 통해 1000조 매개변수 수준의 성능을 달성합니다.</description>
-      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.30616">Hugging Face Papers</source>
-      <guid isPermaLink="false">c0bcbfb8e38eab77a77d229fdcb75248</guid>
-    </item>
-    <item>
-      <title>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</title>
-      <link>https://huggingface.co/papers/2606.29537</link>
-      <description>OSWorld 2.0은 에이전트 추론 및 작업 완료의 현재 한계를 드러내는 복잡한 실제 워크플로를 통해 컴퓨터 사용 에이전트를 평가하기 위한 포괄적인 벤치마크를 제시합니다.</description>
-      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.29537">Hugging Face Papers</source>
-      <guid isPermaLink="false">faec301153c8d20a5b98b24851e30a96</guid>
-    </item>
-    <item>
-      <title>일반화된 키프레임 추출을 통해 VideoQA와 비디오 기반 에이전트 작업 연결</title>
-      <link>https://huggingface.co/papers/2606.29445</link>
-      <description>새로운 벤치마크는 비디오 콘텐츠를 이해하고 GUI 작업을 수행하는 다중 모드 대형 언어 모델의 능력을 평가하는 한편, 새로운 키프레임 추출 방법은 비디오 질문 응답 및 v…</description>
-      <pubDate>Tue, 30 Jun 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.29445">Hugging Face Papers</source>
-      <guid isPermaLink="false">f2583df121af257be0a4f31c0e8dcc90</guid>
     </item>
   </channel>
 </rss>
