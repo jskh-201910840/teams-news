@@ -5,9 +5,90 @@
     <link>https://sukoji.github.io/teams-news/feed/news.xml</link>
     <description>📰 News — GeekNews, AI Times, ETNews, NAVER D2, ZDNet Korea</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 02 Jul 2026 09:10:05 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 13:59:39 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>앤트로픽, '페이블 5' 규제 해제...강화된 '안전 분류기' 적용</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212337</link>
+      <description>앤트로픽이 미국 정부의 수출 통제로 일시 중단했던 AI 모델 \'클로드 페이블 5(Claude Fable 5)\' 서비스를 재개했다. 앤트로픽은 30일(현지시간) 미국의 수출 규제가 해제됐다고 발표했으며, 이에 따라 7월1일부터 페이블 5를 전 세계 사용자에게 다시 제공하기 시작했다.</description>
+      <pubDate>Thu, 02 Jul 2026 12:57:42 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212337">AI Times</source>
+      <guid isPermaLink="false">672708b14fbe8be29c110b70ffea022f</guid>
+    </item>
+    <item>
+      <title>우크라戰, 끝없는 인명 소모전…“러·우 사상자 200만명 넘어”</title>
+      <link>https://www.etnews.com/20260702000244</link>
+      <description>우크라이나 전쟁이 4년째 이어지는 가운데, 러시아와 우크라이나 양측에서 사상한 군인이 200만 명을 넘어섰다는 새로운 분석 결과가 공개됐다. 1일(현지시간) 뉴욕타임스(NYT)는 미국 전략국제문제연구소(CSIS)가 같은 날 발표한 보고서를 인용해 러시아의 사상자가 약 140만 명에 이르며, 이 가운데 이중 사망자는 45만 명 수준으로 추정된다고 전했다.</description>
+      <pubDate>Thu, 02 Jul 2026 13:24:20 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260702000244">전자신문 IT</source>
+      <guid isPermaLink="false">395269be0a3f41cc5fdff860f82fcc00</guid>
+    </item>
+    <item>
+      <title>몽고DB, 애플리케이션 AI 검색 강화…규제 산업 공략</title>
+      <link>https://zdnet.co.kr/view/?no=20260702121640</link>
+      <description>[지디넷코리아]몽고DB가 기업 인공지능(AI) 애플리케이션 검색 정확도와 컴플라이언스 문제를 동시에 해결하기 위해 데이터 플랫폼 기능을 확대했다.몽고DB는 닷로컬 벵갈루루 행사에서 '보이지 콘텍스트 4'를 비롯한 '하이브리드 서치' '네이티브 리랭킹' 등 신규 기능을 공개했다고 2일 밝혔다.</description>
+      <pubDate>Thu, 02 Jul 2026 12:16:40 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260702121640">ZDNet Korea</source>
+      <guid isPermaLink="false">5ec6dc8fd570d22f2721084e57ea9a9c</guid>
+    </item>
+    <item>
+      <title>장석복 IBS 원장, “새로운 발견·개념 창출해야...젊은 연구단, 연구분야 확장 나설 것”</title>
+      <link>https://www.etnews.com/20260702000134</link>
+      <description>“현재 우리 과학기술을 중국에 견주는 것은 어불성설입니다. 이대로는 과학기술 변방에 머무를 수밖에 없습니다. 새로운 발견, 개념을 추구해 이 난국을 이겨내야 합니다.” 1일 대전 모처에서 대덕특구기자단과 가진 기자간담회.</description>
+      <pubDate>Thu, 02 Jul 2026 12:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260702000134">전자신문 IT</source>
+      <guid isPermaLink="false">6b3cbf1fbef2f7a9a183539e78f6839b</guid>
+    </item>
+    <item>
+      <title>李 대통령 “충청 성장 잠재력 무궁무진…기업 투자 적극 지원할 것”</title>
+      <link>https://www.etnews.com/20260702000173</link>
+      <description>이재명 대통령은 2일 “충청에는 무궁무진한 성장 잠재력이 있다”며 “기업의 전략적 투자와 정부의 확고한 의지가 더해진다면 충청은 대한민국 첨단산업의 중심을 넘어 AI 시대를 선도하는 세계적 혁신 거점으로 우뚝 설 것”이라고 밝혔다.</description>
+      <pubDate>Thu, 02 Jul 2026 11:04:51 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260702000173">전자신문 IT</source>
+      <guid isPermaLink="false">c9504c1413622a957d12893d3cbf5895</guid>
+    </item>
+    <item>
+      <title>배경훈 부총리 “모두의 AI로 'AI 강국' 실현”…토큰·수익 환원 제안</title>
+      <link>https://www.etnews.com/20260702000148</link>
+      <description>“모든 국민이 각자 인공지능(AI) 에이전트를 보유하는 시대가 올 것입니다.</description>
+      <pubDate>Thu, 02 Jul 2026 10:25:09 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260702000148">전자신문 IT</source>
+      <guid isPermaLink="false">7823ecd4c1f9638701912783f33cee3d</guid>
+    </item>
+    <item>
+      <title>기아, 연식변경 'The 2027 K5' 출시…상품성 강화</title>
+      <link>https://www.etnews.com/20260702000114</link>
+      <description>기아가 브랜드 대표 중형 세단 K5 연식변경 모델 'The 2027 K5'를 출시, 판매에 돌입했다. The 2027 K5는 고객 선호 사양을 트림별로 대거 기본 적용, 상품 경쟁력을 높였다. 기아는 디지털 라이프 스타일을 반영해 전 트림에 신규 사양인 100W C타입 USB 단자와 케이블을 기본화했다.</description>
+      <pubDate>Thu, 02 Jul 2026 10:07:49 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260702000114">전자신문 IT</source>
+      <guid isPermaLink="false">b2c177159f15ed06039096ccbe1339d8</guid>
+    </item>
+    <item>
+      <title>폴스타, 플래그십 전기 SUV '폴스타 3' 국내 출시…7790만원부터</title>
+      <link>https://www.etnews.com/20260702000103</link>
+      <description>스웨덴 프리미엄 전기차 브랜드 폴스타(Polestar)가 2일 플래그십 전기 SUV '폴스타 3'를 국내 시장에 공식 출시, 판매에 돌입했다. 폴스타코리아는 흥행 중인 폴스타 4에 이어, 상위급 모델 폴스타 3를 글로벌 시장 중 가장 합리적인 가격대에 선보여 국내 고급 전기차 시장을 공략한다.</description>
+      <pubDate>Thu, 02 Jul 2026 09:59:52 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260702000103">전자신문 IT</source>
+      <guid isPermaLink="false">c3d83bbfeb4148107913e64f2a6e192e</guid>
+    </item>
+    <item>
+      <title>Godot, AI 작성 코드 기여를 더 이상 받지 않기로 함</title>
+      <link>https://news.hada.io/topic?id=31031</link>
+      <description>오픈소스 게임 엔진 Godot 는 AI 생성 Pull Request가 리뷰 부담을 키우자, AI 작성 코드와 AI 에이전트 제출 을 기여 정책에서 금지하기로 함 유지보수자들은 AI 생성 PR 검토가 이미 지루한 리뷰 작업을 더 소모적으로 만들고, 새 기여자를 미래 유지보수자...</description>
+      <pubDate>Thu, 02 Jul 2026 10:13:42 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=31031">GeekNews</source>
+      <guid isPermaLink="false">abd3145de3de32b82ebd23d15b077b99</guid>
+    </item>
     <item>
       <title>메타, 남는 AI 연산자원 외부에 판다…클라우드 사업 진출 검토</title>
       <link>https://www.etnews.com/20260702000019</link>
@@ -376,87 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260630000433">전자신문 IT</source>
       <guid isPermaLink="false">ded5eff5c3888f325e22957e97399ad6</guid>
-    </item>
-    <item>
-      <title>상무부, Claude Fable 5와 Mythos 5 수출 통제 해제</title>
-      <link>https://news.hada.io/topic?id=30998</link>
-      <description>상무부의 수출 통제 해제 통지로 Anthropic은 Claude Fable 5와 Mythos 5 접근을 다시 열 준비에 들어감 모델 접근 복구는 내일 시작될 예정이며, 구체적인 전체 일정은 아직 공개되지 않음 Anthropic은 사용자들의 기다림과 재배포 작업</description>
-      <pubDate>Wed, 01 Jul 2026 13:34:48 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30998">GeekNews</source>
-      <guid isPermaLink="false">f3d44753a04d02c67909d123061f05e5</guid>
-    </item>
-    <item>
-      <title>업스테이지, AI 포털 '다음' 시동…검색 자동 요약 도입</title>
-      <link>https://www.etnews.com/20260701000070</link>
-      <description>업스테이지 컴퍼니 포털 '다음'이 검색 결과를 자동 요약해주는 인공지능(AI) 요약 서비스를 시작했다. AI 포털로 진화를 본격화한다. 다음은 업스테이지 자체 거대언어모델(LLM) '솔라' 기반 'AI 요약' 베타 서비스를 선보였다.</description>
-      <pubDate>Wed, 01 Jul 2026 09:01:03 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260701000070">전자신문 IT</source>
-      <guid isPermaLink="false">1d8cb629f1f76574b4abcaa96d7e4db2</guid>
-    </item>
-    <item>
-      <title>개보위, 국제무대서 영국 등에 AI대응 정책 '훈수'</title>
-      <link>https://zdnet.co.kr/view/?no=20260630215442</link>
-      <description>[지디넷코리아]우리나라는 세계 최대규모 개인정보 감독기구 협의체 글로벌 프라이버시 총회(GPA) 산하의 인공지능 작업반(AIWG) 공동의장이다.개인정보보호위원회(개인정보위)는 30일 오후 8시 AIWG와 국제집행 작업반(IEWG) 회원국을 대상으로 ‘AI 프라이버시 정책’ 온라인 화상회의(webinar)를 개최했다.</description>
-      <pubDate>Wed, 01 Jul 2026 07:30:01 +0900</pubDate>
-      <category>news</category>
-      <source url="https://zdnet.co.kr/view/?no=20260630215442">ZDNet Korea</source>
-      <guid isPermaLink="false">6622e28540f1ac0242f465e503a27054</guid>
-    </item>
-    <item>
-      <title>오픈AI 수석경제학자 “AI가 인간 일자리 대체 않을것”</title>
-      <link>https://www.etnews.com/20260701000059</link>
-      <description>오픈AI 소속 수석 경제학자가 인공지능(AI)의 부상이 인간의 일자리를 없애지 않을 것이라는 전망을 내놨다. 로니 차터지 오픈AI 수석경제학자는 포르투갈 신트라에서 열린 유럽중앙은행(ECB) 연례 워크숍에서 “어떤 업무가 AI에 노출됐다고 해서 AI가 그 업무를 대체하는 것은 아니다”라는 의견을 피력했다고 블룸버그 통신이 30일(현지시간) 보도했다.</description>
-      <pubDate>Wed, 01 Jul 2026 07:29:46 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260701000059">전자신문 IT</source>
-      <guid isPermaLink="false">8eadb0cbaadda8e0ed511a0dba9399dd</guid>
-    </item>
-    <item>
-      <title>AI도 수출통제 받는 시대...사이버보안 시장 5년 새 2배 커진다</title>
-      <link>https://www.etnews.com/20260701000058</link>
-      <description>최신 인공지능(AI) 서비스가 보안 결함을 이유로 수출통제 대상에 오르면서 사이버보안 중요성이 커지고 있다. 한국경제인협회(한경협)는 1일 김기형 아주대 교수에게 의뢰한 '사이버보안 패러다임 전환과 산업 활성화 방안' 보고서를 통해 사이버보안을 국가 경쟁력과 산업 성장을 동시에 이끄는 핵심 분야로 육성해야 한다고 밝혔다.</description>
-      <pubDate>Wed, 01 Jul 2026 06:55:07 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260701000058">전자신문 IT</source>
-      <guid isPermaLink="false">f2fd4935c51eb6bc6bac175b133b0feb</guid>
-    </item>
-    <item>
-      <title>나노 바나나 2 라이트</title>
-      <link>https://news.hada.io/topic?id=30983</link>
-      <description>Google DeepMind의 Gemini Image 계열에 추가된 Nano Banana 2 Lite 는 이미지 생성·편집을 더 빠르고 저렴하게 돌리려는 모델로, 반복이 많은 시각 작업의 비용 부담을 낮추는 데 초점을 둠 핵심 축은 낮은 지연시간 과 대규모 비용 효율이며, 무거운 프로덕션 모델...</description>
-      <pubDate>Wed, 01 Jul 2026 08:21:41 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30983">GeekNews</source>
-      <guid isPermaLink="false">82fb6e3c7c36f109157701b29184ebfc</guid>
-    </item>
-    <item>
-      <title>[6월30일] 90개의 프로토타입을 만들어낸 AI...이제 인간의 경쟁력은 '선택'</title>
-      <link>https://www.aitimes.com/news/articleView.html?idxno=212264</link>
-      <description>AI가 코드를 작성하는 시대를 넘어, 최근에는 AI가 만든 코드를 AI가 검토하고 수정하는 \'AI 루프\'까지 등장하고 있습니다. 인간은 직접 구현보다 전체 과정을 감독하는 역할로 이동하고 있습니다.그리고 실제로 AI 루프를 가동하면 어떤 현상이 일어나는지에 대한 이야기가 등장했습니다.</description>
-      <pubDate>Wed, 01 Jul 2026 07:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.aitimes.com/news/articleView.html?idxno=212264">AI Times</source>
-      <guid isPermaLink="false">cea5fe2ac01dabc2bccedeb5dc97539e</guid>
-    </item>
-    <item>
-      <title>Tidal의 AI 정책</title>
-      <link>https://news.hada.io/topic?id=30978</link>
-      <description>Tidal에선 오늘부터 AI 생성 음악은 수익화 불가 , 로열티는 사람이 직접 제작·작곡·연주한 원곡에 우선 배분 이 정책은 AI 음악 생성 도구의 확산에 대응해 AI 생성 음악 을 다루는 플랫폼 기준을 도입, 아티스트와 그 창작물 보호 및 청취자 정보 제공이 목적 ...</description>
-      <pubDate>Wed, 01 Jul 2026 05:34:21 +0900</pubDate>
-      <category>news</category>
-      <source url="https://news.hada.io/topic?id=30978">GeekNews</source>
-      <guid isPermaLink="false">f4cd3e7ecb39dfa855bf51d19a4877af</guid>
-    </item>
-    <item>
-      <title>잠수복 입은 '사이보그 바퀴벌레' 개발…“화성에 보낼 수도”</title>
-      <link>https://www.etnews.com/20260630000384</link>
-      <description>싱가포르 연구진이 물속에서도 최대 3시간 동안 숨을 쉬며 임무를 수행할 수 있는 '사이보그 바퀴벌레'를 개발했다. 홍수 등 수해 재난 지역의 인명 구조는 물론, 향후 화성 탐사 등 우주 영역까지 활용 범위가 확대될 수 있을 것으로 기대된다.</description>
-      <pubDate>Tue, 30 Jun 2026 22:30:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260630000384">전자신문 IT</source>
-      <guid isPermaLink="false">123a1d8861b006367869661cac519d67</guid>
     </item>
   </channel>
 </rss>

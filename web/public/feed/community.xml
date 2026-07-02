@@ -5,9 +5,18 @@
     <link>https://sukoji.github.io/teams-news/feed/community.xml</link>
     <description>💬 Community — PyTorch Korea discussions</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 02 Jul 2026 09:10:05 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 13:59:39 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Feedback Distillation: LLM 피드백 증류로 Lean 정리 증명 학습하기 (feat. Meta FAIR)</title>
+      <link>https://discuss.pytorch.kr/t/feedback-distillation-llm-lean-feat-meta-fair/10484</link>
+      <description>Feedback Distillation 소개 처음 어려운 수학 문제를 풀 때를 떠올려 봅시다. 정답만 통째로 외우기보다는, 선생님이 "이 부분에서 절댓값을 경우로 나눠봐", "여기서는 분모를 없애는 게 낫다" 같은 짧은 조언을 줄 때 우리는 훨씬 빠르게 성장합니다. 이 논문은 바로 이 직관을 LLM 사후학습(post-training)에 옮긴 연구입니다.</description>
+      <pubDate>Thu, 02 Jul 2026 12:30:16 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/feedback-distillation-llm-lean-feat-meta-fair/10484">PyTorch Korea</source>
+      <guid isPermaLink="false">1475803cf934801537137abdceb51a27</guid>
+    </item>
     <item>
       <title>DevSpace: ChatGPT를 내 컴퓨터의 로컬 코드에 연결하는 자체 호스팅 MCP 서버</title>
       <link>https://discuss.pytorch.kr/t/devspace-chatgpt-mcp/10994</link>
@@ -448,15 +457,6 @@
       <category>community</category>
       <source url="https://discuss.pytorch.kr/t/cabinet-ai-ai-first/10753">PyTorch Korea</source>
       <guid isPermaLink="false">8e00b7dd7ab977cc87cfc63b675bf086</guid>
-    </item>
-    <item>
-      <title>1Code: Claude Code와 Codex를 한 앱에서 실행하는 오픈소스 코딩 에이전트 클라이언트</title>
-      <link>https://discuss.pytorch.kr/t/1code-claude-code-codex/10811</link>
-      <description>1Code 소개 코딩 에이전트를 본격적으로 쓰기 시작하면 도구마다 실행 환경이 갈리는 문제에 부딪힙니다. Claude Code는 터미널에서, Codex는 또 다른 터미널이나 IDE에서 돌리고, 각 세션이 같은 작업 디렉토리를 건드리다 보면 변경 사항이 뒤섞이거나 main 브랜치를 실수로 오염시키기 쉽습니다.</description>
-      <pubDate>Wed, 24 Jun 2026 16:30:23 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/1code-claude-code-codex/10811">PyTorch Korea</source>
-      <guid isPermaLink="false">59a757e6bbd4c3a3249a708806695381</guid>
     </item>
   </channel>
 </rss>
