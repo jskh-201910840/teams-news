@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
-  "date": "2026-07-01",
-  "generated_at": "2026-07-01T09:03:11.699528+09:00",
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T09:04:11.098789+09:00",
   "title": "📄📰 오늘의 AI 논문 & 테크 뉴스",
-  "item_count": 6,
+  "item_count": 7,
   "sections": [
     {
       "id": "papers",
       "title": "📄 Papers",
       "items": [
         {
-          "id": "c0bcbfb8e38eab77a77d229fdcb75248",
+          "id": "0dabf810fe6e9351d6bd44f7c3cb314b",
           "index": 1,
-          "title": "Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent",
-          "title_ko": "매개변수가 아닌 지평선 확장: 35B 에이전트로 수조 매개변수 성능 도달",
-          "summary": "Agents-A1, a 35B Mixture-of-Experts Agentic Model, achieves trillion-parameter-level performance through long-horizon trajectory scaling and heterogeneous agent ability scaling via a three-stage training approach involv…",
-          "summary_ko": "35B 전문가 혼합 에이전트 모델인 Agents-A1은 3단계 교육 접근 방식을 통해 장거리 궤적 확장 및 이종 에이전트 능력 확장을 통해 1000조 매개변수 수준의 성능을 달성합니다.",
-          "url": "https://huggingface.co/papers/2606.30616",
+          "title": "Dockerless: Environment-Free Program Verifier for Coding Agents",
+          "title_ko": "Dockerless: 코딩 에이전트를 위한 환경이 필요 없는 프로그램 검증자",
+          "summary": "A Dockerless environment-free agentic patch verifier improves code patch evaluation accuracy and enables effective post-training without execution-based verification costs.",
+          "summary_ko": "Dockerless 환경이 필요 없는 에이전트 패치 검증기는 코드 패치 평가 정확도를 향상시키고 실행 기반 검증 비용 없이 효과적인 사후 교육을 가능하게 합니다.",
+          "url": "https://huggingface.co/papers/2606.28436",
           "source": "Hugging Face Papers",
           "section": "📄 Papers",
           "section_id": "papers",
-          "published_at": "2026-06-30T09:00:00+09:00",
-          "popularity": 212,
-          "upvotes": 67,
-          "score": 26.08,
-          "importance_score": 16.08,
+          "published_at": "2026-07-01T09:00:00+09:00",
+          "popularity": 182,
+          "upvotes": 86,
+          "score": 25.63,
+          "importance_score": 15.63,
           "matched_keywords": [
             "ai",
             "agent",
@@ -32,32 +32,32 @@
           ],
           "engagement": {
             "label": "Upvotes",
-            "value": 67
+            "value": 86
           }
         },
         {
-          "id": "b3eec78989dbfc67bf68aa290efa7d00",
+          "id": "24eb1f332d966231fb0953d4df9fa206",
           "index": 2,
-          "title": "Agentic Abstention: Do Agents Know When to Stop Instead of Act?",
-          "title_ko": "대리인적 기권: 대리인은 조치를 취하는 대신 언제 중지해야 하는지 알고 있습니까?",
-          "summary": "Agentic abstention involves determining when an AI agent should cease interaction under uncertainty, requiring sequential decision-making across multiple environments and task types.",
-          "summary_ko": "에이전트 기권에는 AI 에이전트가 불확실성 하에서 상호 작용을 중단해야 하는 시기를 결정하는 것이 포함되며, 여러 환경과 작업 유형에 걸쳐 순차적인 의사 결정이 필요합니다.",
-          "url": "https://huggingface.co/papers/2606.28733",
+          "title": "BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding",
+          "title_ko": "BlockPilot: 확산 기반 추측 디코딩을 위한 인스턴스 적응형 정책 학습",
+          "summary": "Speculative decoding with adaptive block size selection improves inference efficiency by predicting optimal block sizes from prefilling representations, achieving significant speedup with minimal overhead.",
+          "summary_ko": "적응형 블록 크기 선택을 통한 추론적 디코딩은 미리 채워진 표현에서 최적의 블록 크기를 예측하여 추론 효율성을 향상시키고 최소한의 오버헤드로 상당한 속도 향상을 달성합니다.",
+          "url": "https://huggingface.co/papers/2606.31315",
           "source": "Hugging Face Papers",
           "section": "📄 Papers",
           "section_id": "papers",
-          "published_at": "2026-06-30T09:00:00+09:00",
-          "popularity": 280,
-          "upvotes": 120,
-          "score": 24.92,
-          "importance_score": 16.92,
+          "published_at": "2026-07-01T09:00:00+09:00",
+          "popularity": 195,
+          "upvotes": 67,
+          "score": 23.83,
+          "importance_score": 15.83,
           "matched_keywords": [
-            "ai",
-            "agent"
+            "diffusion",
+            "inference"
           ],
           "engagement": {
             "label": "Upvotes",
-            "value": 120
+            "value": 67
           }
         }
       ]
@@ -67,47 +67,105 @@
       "title": "📰 News",
       "items": [
         {
-          "id": "cea5fe2ac01dabc2bccedeb5dc97539e",
+          "id": "bcee9d04d1fbbf41d952c8875f5f46ca",
           "index": 3,
-          "title": "[6월30일] 프로토타입 90개 만든 AI...이제 인간 경쟁력은 '선택'",
+          "title": "메타, 남는 AI 연산자원 외부에 판다…클라우드 사업 진출 검토",
           "title_ko": null,
-          "summary": "AI가 코드를 작성하는 시대를 넘어, 최근에는 AI가 만든 코드를 AI가 검토하고 수정하는 \\'AI 루프\\'까지 등장하고 있습니다. 인간은 직접 구현보다 전체 과정을 감독하는 역할로 이동하고 있습니다.그리고 실제로 AI 루프를 가동하면 어떤 현상이 일어나는지에 대한 이야기가 등장했습니다.",
+          "summary": "메타 플랫폼스가 자체 데이터센터의 남는 인공지능(AI) 연산 자원을 외부에 판매하는 클라우드 사업을 검토하고 있다. 블룸버그통신은 1일(현지시간) 복수의 소식통을 인용해 메타가 사내 프로젝트인 '메타 컴퓨트(Meta Compute)'를 통해 클라우드 사업 모델을 구상하고 있다고 보도했다.",
           "summary_ko": null,
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=212264",
-          "source": "AI Times",
+          "url": "https://www.etnews.com/20260702000019",
+          "source": "전자신문 IT",
           "section": "📰 News",
           "section_id": "news",
-          "published_at": "2026-07-01T07:00:00+09:00",
-          "popularity": 100,
+          "published_at": "2026-07-02T07:04:43+09:00",
+          "popularity": 97,
           "upvotes": 0,
-          "score": 19.57,
-          "importance_score": 19.14,
+          "score": 22.29,
+          "importance_score": 18.87,
           "matched_keywords": [
-            "ai"
+            "ai",
+            "모델"
           ],
           "engagement": null
         },
         {
-          "id": "656380f79e5f57c1a27e36432d336b10",
+          "id": "7d31aefc3fcec403191aaa7b3483b901",
           "index": 4,
-          "title": "AI 에이전트 회사 차리기: 설립부터 어디서든 동기화까지",
+          "title": "팔란티어 CEO “오픈AI·앤트로픽 토큰 모델, 완전히 잘못됐다”",
           "title_ko": null,
-          "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 AI 에이전트로 나만의 회사를 차리고, 어디서 접속하든 같은 구성원이 같은 목표로 일하게 만든 이야기입니다. 발표 대상 AI 에이전트 활용에 관심있는 분들 목차 PROLOGUE — Claude Code, 매일 쓰는데 왜 매번 처음인가요?",
+          "summary": "미국 데이터 분석 기업 팔란티어 테크놀로지스의 알렉스 카프 최고경영자(CEO)가 오픈AI와 앤트로픽 등 폐쇄형 인공지능(AI) 기업의 토큰 기반 사업 모델을 비판했다.",
           "summary_ko": null,
-          "url": "https://d2.naver.com/helloworld/3897377",
-          "source": "NAVER D2",
+          "url": "https://www.etnews.com/20260702000018",
+          "source": "전자신문 IT",
           "section": "📰 News",
           "section_id": "news",
-          "published_at": "2026-06-30T20:00:48+09:00",
-          "popularity": 100,
+          "published_at": "2026-07-02T07:00:25+09:00",
+          "popularity": 96,
           "upvotes": 0,
-          "score": 20.28,
-          "importance_score": 14.57,
+          "score": 22.17,
+          "importance_score": 18.74,
           "matched_keywords": [
             "ai",
-            "claude"
+            "모델"
           ],
           "engagement": null
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "🔥 Trending",
+      "items": [
+        {
+          "id": "027a013c237425e5ea141fa5ce3cc447",
+          "index": 5,
+          "title": "jaimasih05-commits/swarm-foraging-qlearn — Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
+          "title_ko": "jaimasih05-commits/swarm-foraging-qlearn — Q-Learning Swarm Foraging 2026: 동적 그리드 환경의 다중 에이전트 RL",
+          "summary": "Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
+          "summary_ko": "Q-Learning Swarm Foraging 2026: 동적 그리드 환경의 다중 에이전트 RL",
+          "url": "https://github.com/jaimasih05-commits/swarm-foraging-qlearn",
+          "source": "GitHub Trending",
+          "section": "🔥 Trending",
+          "section_id": "trending",
+          "published_at": "2026-07-02T07:17:48+09:00",
+          "popularity": 151,
+          "upvotes": 151,
+          "score": 33.21,
+          "importance_score": 26.84,
+          "matched_keywords": [
+            "ai",
+            "agent",
+            "rag"
+          ],
+          "engagement": {
+            "label": "Stars",
+            "value": 151
+          }
+        },
+        {
+          "id": "6a730ce3c46feeb37be69cbf725a0d10",
+          "index": 6,
+          "title": "thenicolas1894/awesome-claude-fable-5-prompt-vault — Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+          "title_ko": "thenicolas1894/awesome-claude-fable-5-prompt-vault — Ultimate Claude Fable 5 가이드 2026: 사용 사례, 통합 및 벤치마크",
+          "summary": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+          "summary_ko": "Ultimate Claude Fable 5 가이드 2026: 사용 사례, 통합 및 벤치마크",
+          "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault",
+          "source": "GitHub Trending",
+          "section": "🔥 Trending",
+          "section_id": "trending",
+          "published_at": "2026-07-02T08:59:17+09:00",
+          "popularity": 154,
+          "upvotes": 154,
+          "score": 30.64,
+          "importance_score": 27.62,
+          "matched_keywords": [
+            "claude",
+            "benchmark"
+          ],
+          "engagement": {
+            "label": "Stars",
+            "value": 154
+          }
         }
       ]
     },
@@ -116,47 +174,26 @@
       "title": "💬 Community",
       "items": [
         {
-          "id": "c233aa12700119e25b9c00bbc4612177",
-          "index": 5,
-          "title": "Anthropic, Opus급 성능에 근접한 가장 에이전틱한 Sonnet 모델 Claude Sonnet 5 출시",
+          "id": "22866f2cc6c4a8757134e44915a7ffaa",
+          "index": 7,
+          "title": "agentsview: 모든 AI 코딩 에이전트의 세션을 로컬에서 검색하고 분석하는 도구",
           "title_ko": null,
-          "summary": "Claude Sonnet 5 소개 Anthropic 이 2026년 6월 30일, Sonnet 계열의 최신 모델인 Claude Sonnet 5 를 공개했습니다. Anthropic은 이 모델을 \"지금까지 가장 에이전틱(agentic)한 Sonnet\"으로 소개합니다. 계획을 세우고, 브라우저와 터미널 같은 도구를 사용하며, 사람의 개입 없이 자율적으로 작업을 끝까지 수행하는 능력이 핵심입니다.",
+          "summary": "agentsview 소개 요즘은 한 명의 개발자가 Claude Code, Codex, Cursor, Gemini CLI 등 여러 코딩 에이전트를 번갈아 씁니다. 그런데 각 에이전트는 세션 기록을 제각기 다른 디렉토리에 흩어 놓기 때문에, \"지난주에 어떤 대화에서 이 코드를 고쳤더라\", \"이번 달 토큰 비용이 얼마였지\" 같은 질문에 답하기가 어렵습니다.",
           "summary_ko": null,
-          "url": "https://discuss.pytorch.kr/t/anthropic-opus-sonnet-claude-sonnet-5/11015",
+          "url": "https://discuss.pytorch.kr/t/agentsview-ai/10992",
           "source": "PyTorch Korea",
           "section": "💬 Community",
           "section_id": "community",
-          "published_at": "2026-07-01T07:30:47+09:00",
-          "popularity": 99,
+          "published_at": "2026-07-01T15:30:02+09:00",
+          "popularity": 96,
           "upvotes": 0,
-          "score": 25.58,
-          "importance_score": 19.26,
-          "matched_keywords": [
-            "agent",
-            "claude",
-            "모델"
-          ],
-          "engagement": null
-        },
-        {
-          "id": "3bd51ddd0f7c2e6a1f4b022752388915",
-          "index": 6,
-          "title": "Anthropic, Slack에서 @Claude를 팀원처럼 호출하는 Claude Tag 기능 및 멀티플레이어 에이전트 협업 가이드 공개",
-          "title_ko": null,
-          "summary": "Claude Tag 소개 지금까지 우리가 AI와 일하는 방식은 대부분 싱글 플레이어(Single Player) 경험이었습니다. 한 사람이 하나의 채팅 창을 열어, 한 명의 어시스턴트와 일대일로 대화하며 작업을 끝내는 구조입니다.",
-          "summary_ko": null,
-          "url": "https://discuss.pytorch.kr/t/anthropic-slack-claude-claude-tag/11009",
-          "source": "PyTorch Korea",
-          "section": "💬 Community",
-          "section_id": "community",
-          "published_at": "2026-07-01T08:31:00+09:00",
-          "popularity": 100,
-          "upvotes": 0,
-          "score": 22.89,
-          "importance_score": 19.78,
+          "score": 24.94,
+          "importance_score": 12.28,
           "matched_keywords": [
             "ai",
-            "claude"
+            "agent",
+            "claude",
+            "gemini"
           ],
           "engagement": null
         }
@@ -165,21 +202,21 @@
   ],
   "items": [
     {
-      "id": "c0bcbfb8e38eab77a77d229fdcb75248",
+      "id": "0dabf810fe6e9351d6bd44f7c3cb314b",
       "index": 1,
-      "title": "Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent",
-      "title_ko": "매개변수가 아닌 지평선 확장: 35B 에이전트로 수조 매개변수 성능 도달",
-      "summary": "Agents-A1, a 35B Mixture-of-Experts Agentic Model, achieves trillion-parameter-level performance through long-horizon trajectory scaling and heterogeneous agent ability scaling via a three-stage training approach involv…",
-      "summary_ko": "35B 전문가 혼합 에이전트 모델인 Agents-A1은 3단계 교육 접근 방식을 통해 장거리 궤적 확장 및 이종 에이전트 능력 확장을 통해 1000조 매개변수 수준의 성능을 달성합니다.",
-      "url": "https://huggingface.co/papers/2606.30616",
+      "title": "Dockerless: Environment-Free Program Verifier for Coding Agents",
+      "title_ko": "Dockerless: 코딩 에이전트를 위한 환경이 필요 없는 프로그램 검증자",
+      "summary": "A Dockerless environment-free agentic patch verifier improves code patch evaluation accuracy and enables effective post-training without execution-based verification costs.",
+      "summary_ko": "Dockerless 환경이 필요 없는 에이전트 패치 검증기는 코드 패치 평가 정확도를 향상시키고 실행 기반 검증 비용 없이 효과적인 사후 교육을 가능하게 합니다.",
+      "url": "https://huggingface.co/papers/2606.28436",
       "source": "Hugging Face Papers",
       "section": "📄 Papers",
       "section_id": "papers",
-      "published_at": "2026-06-30T09:00:00+09:00",
-      "popularity": 212,
-      "upvotes": 67,
-      "score": 26.08,
-      "importance_score": 16.08,
+      "published_at": "2026-07-01T09:00:00+09:00",
+      "popularity": 182,
+      "upvotes": 86,
+      "score": 25.63,
+      "importance_score": 15.63,
       "matched_keywords": [
         "ai",
         "agent",
@@ -187,119 +224,150 @@
       ],
       "engagement": {
         "label": "Upvotes",
+        "value": 86
+      }
+    },
+    {
+      "id": "24eb1f332d966231fb0953d4df9fa206",
+      "index": 2,
+      "title": "BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding",
+      "title_ko": "BlockPilot: 확산 기반 추측 디코딩을 위한 인스턴스 적응형 정책 학습",
+      "summary": "Speculative decoding with adaptive block size selection improves inference efficiency by predicting optimal block sizes from prefilling representations, achieving significant speedup with minimal overhead.",
+      "summary_ko": "적응형 블록 크기 선택을 통한 추론적 디코딩은 미리 채워진 표현에서 최적의 블록 크기를 예측하여 추론 효율성을 향상시키고 최소한의 오버헤드로 상당한 속도 향상을 달성합니다.",
+      "url": "https://huggingface.co/papers/2606.31315",
+      "source": "Hugging Face Papers",
+      "section": "📄 Papers",
+      "section_id": "papers",
+      "published_at": "2026-07-01T09:00:00+09:00",
+      "popularity": 195,
+      "upvotes": 67,
+      "score": 23.83,
+      "importance_score": 15.83,
+      "matched_keywords": [
+        "diffusion",
+        "inference"
+      ],
+      "engagement": {
+        "label": "Upvotes",
         "value": 67
       }
     },
     {
-      "id": "b3eec78989dbfc67bf68aa290efa7d00",
-      "index": 2,
-      "title": "Agentic Abstention: Do Agents Know When to Stop Instead of Act?",
-      "title_ko": "대리인적 기권: 대리인은 조치를 취하는 대신 언제 중지해야 하는지 알고 있습니까?",
-      "summary": "Agentic abstention involves determining when an AI agent should cease interaction under uncertainty, requiring sequential decision-making across multiple environments and task types.",
-      "summary_ko": "에이전트 기권에는 AI 에이전트가 불확실성 하에서 상호 작용을 중단해야 하는 시기를 결정하는 것이 포함되며, 여러 환경과 작업 유형에 걸쳐 순차적인 의사 결정이 필요합니다.",
-      "url": "https://huggingface.co/papers/2606.28733",
-      "source": "Hugging Face Papers",
-      "section": "📄 Papers",
-      "section_id": "papers",
-      "published_at": "2026-06-30T09:00:00+09:00",
-      "popularity": 280,
-      "upvotes": 120,
-      "score": 24.92,
-      "importance_score": 16.92,
-      "matched_keywords": [
-        "ai",
-        "agent"
-      ],
-      "engagement": {
-        "label": "Upvotes",
-        "value": 120
-      }
-    },
-    {
-      "id": "cea5fe2ac01dabc2bccedeb5dc97539e",
+      "id": "bcee9d04d1fbbf41d952c8875f5f46ca",
       "index": 3,
-      "title": "[6월30일] 프로토타입 90개 만든 AI...이제 인간 경쟁력은 '선택'",
+      "title": "메타, 남는 AI 연산자원 외부에 판다…클라우드 사업 진출 검토",
       "title_ko": null,
-      "summary": "AI가 코드를 작성하는 시대를 넘어, 최근에는 AI가 만든 코드를 AI가 검토하고 수정하는 \\'AI 루프\\'까지 등장하고 있습니다. 인간은 직접 구현보다 전체 과정을 감독하는 역할로 이동하고 있습니다.그리고 실제로 AI 루프를 가동하면 어떤 현상이 일어나는지에 대한 이야기가 등장했습니다.",
+      "summary": "메타 플랫폼스가 자체 데이터센터의 남는 인공지능(AI) 연산 자원을 외부에 판매하는 클라우드 사업을 검토하고 있다. 블룸버그통신은 1일(현지시간) 복수의 소식통을 인용해 메타가 사내 프로젝트인 '메타 컴퓨트(Meta Compute)'를 통해 클라우드 사업 모델을 구상하고 있다고 보도했다.",
       "summary_ko": null,
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=212264",
-      "source": "AI Times",
+      "url": "https://www.etnews.com/20260702000019",
+      "source": "전자신문 IT",
       "section": "📰 News",
       "section_id": "news",
-      "published_at": "2026-07-01T07:00:00+09:00",
-      "popularity": 100,
+      "published_at": "2026-07-02T07:04:43+09:00",
+      "popularity": 97,
       "upvotes": 0,
-      "score": 19.57,
-      "importance_score": 19.14,
-      "matched_keywords": [
-        "ai"
-      ],
-      "engagement": null
-    },
-    {
-      "id": "656380f79e5f57c1a27e36432d336b10",
-      "index": 4,
-      "title": "AI 에이전트 회사 차리기: 설립부터 어디서든 동기화까지",
-      "title_ko": null,
-      "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 AI 에이전트로 나만의 회사를 차리고, 어디서 접속하든 같은 구성원이 같은 목표로 일하게 만든 이야기입니다. 발표 대상 AI 에이전트 활용에 관심있는 분들 목차 PROLOGUE — Claude Code, 매일 쓰는데 왜 매번 처음인가요?",
-      "summary_ko": null,
-      "url": "https://d2.naver.com/helloworld/3897377",
-      "source": "NAVER D2",
-      "section": "📰 News",
-      "section_id": "news",
-      "published_at": "2026-06-30T20:00:48+09:00",
-      "popularity": 100,
-      "upvotes": 0,
-      "score": 20.28,
-      "importance_score": 14.57,
+      "score": 22.29,
+      "importance_score": 18.87,
       "matched_keywords": [
         "ai",
-        "claude"
-      ],
-      "engagement": null
-    },
-    {
-      "id": "c233aa12700119e25b9c00bbc4612177",
-      "index": 5,
-      "title": "Anthropic, Opus급 성능에 근접한 가장 에이전틱한 Sonnet 모델 Claude Sonnet 5 출시",
-      "title_ko": null,
-      "summary": "Claude Sonnet 5 소개 Anthropic 이 2026년 6월 30일, Sonnet 계열의 최신 모델인 Claude Sonnet 5 를 공개했습니다. Anthropic은 이 모델을 \"지금까지 가장 에이전틱(agentic)한 Sonnet\"으로 소개합니다. 계획을 세우고, 브라우저와 터미널 같은 도구를 사용하며, 사람의 개입 없이 자율적으로 작업을 끝까지 수행하는 능력이 핵심입니다.",
-      "summary_ko": null,
-      "url": "https://discuss.pytorch.kr/t/anthropic-opus-sonnet-claude-sonnet-5/11015",
-      "source": "PyTorch Korea",
-      "section": "💬 Community",
-      "section_id": "community",
-      "published_at": "2026-07-01T07:30:47+09:00",
-      "popularity": 99,
-      "upvotes": 0,
-      "score": 25.58,
-      "importance_score": 19.26,
-      "matched_keywords": [
-        "agent",
-        "claude",
         "모델"
       ],
       "engagement": null
     },
     {
-      "id": "3bd51ddd0f7c2e6a1f4b022752388915",
-      "index": 6,
-      "title": "Anthropic, Slack에서 @Claude를 팀원처럼 호출하는 Claude Tag 기능 및 멀티플레이어 에이전트 협업 가이드 공개",
+      "id": "7d31aefc3fcec403191aaa7b3483b901",
+      "index": 4,
+      "title": "팔란티어 CEO “오픈AI·앤트로픽 토큰 모델, 완전히 잘못됐다”",
       "title_ko": null,
-      "summary": "Claude Tag 소개 지금까지 우리가 AI와 일하는 방식은 대부분 싱글 플레이어(Single Player) 경험이었습니다. 한 사람이 하나의 채팅 창을 열어, 한 명의 어시스턴트와 일대일로 대화하며 작업을 끝내는 구조입니다.",
+      "summary": "미국 데이터 분석 기업 팔란티어 테크놀로지스의 알렉스 카프 최고경영자(CEO)가 오픈AI와 앤트로픽 등 폐쇄형 인공지능(AI) 기업의 토큰 기반 사업 모델을 비판했다.",
       "summary_ko": null,
-      "url": "https://discuss.pytorch.kr/t/anthropic-slack-claude-claude-tag/11009",
+      "url": "https://www.etnews.com/20260702000018",
+      "source": "전자신문 IT",
+      "section": "📰 News",
+      "section_id": "news",
+      "published_at": "2026-07-02T07:00:25+09:00",
+      "popularity": 96,
+      "upvotes": 0,
+      "score": 22.17,
+      "importance_score": 18.74,
+      "matched_keywords": [
+        "ai",
+        "모델"
+      ],
+      "engagement": null
+    },
+    {
+      "id": "027a013c237425e5ea141fa5ce3cc447",
+      "index": 5,
+      "title": "jaimasih05-commits/swarm-foraging-qlearn — Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
+      "title_ko": "jaimasih05-commits/swarm-foraging-qlearn — Q-Learning Swarm Foraging 2026: 동적 그리드 환경의 다중 에이전트 RL",
+      "summary": "Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
+      "summary_ko": "Q-Learning Swarm Foraging 2026: 동적 그리드 환경의 다중 에이전트 RL",
+      "url": "https://github.com/jaimasih05-commits/swarm-foraging-qlearn",
+      "source": "GitHub Trending",
+      "section": "🔥 Trending",
+      "section_id": "trending",
+      "published_at": "2026-07-02T07:17:48+09:00",
+      "popularity": 151,
+      "upvotes": 151,
+      "score": 33.21,
+      "importance_score": 26.84,
+      "matched_keywords": [
+        "ai",
+        "agent",
+        "rag"
+      ],
+      "engagement": {
+        "label": "Stars",
+        "value": 151
+      }
+    },
+    {
+      "id": "6a730ce3c46feeb37be69cbf725a0d10",
+      "index": 6,
+      "title": "thenicolas1894/awesome-claude-fable-5-prompt-vault — Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+      "title_ko": "thenicolas1894/awesome-claude-fable-5-prompt-vault — Ultimate Claude Fable 5 가이드 2026: 사용 사례, 통합 및 벤치마크",
+      "summary": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+      "summary_ko": "Ultimate Claude Fable 5 가이드 2026: 사용 사례, 통합 및 벤치마크",
+      "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault",
+      "source": "GitHub Trending",
+      "section": "🔥 Trending",
+      "section_id": "trending",
+      "published_at": "2026-07-02T08:59:17+09:00",
+      "popularity": 154,
+      "upvotes": 154,
+      "score": 30.64,
+      "importance_score": 27.62,
+      "matched_keywords": [
+        "claude",
+        "benchmark"
+      ],
+      "engagement": {
+        "label": "Stars",
+        "value": 154
+      }
+    },
+    {
+      "id": "22866f2cc6c4a8757134e44915a7ffaa",
+      "index": 7,
+      "title": "agentsview: 모든 AI 코딩 에이전트의 세션을 로컬에서 검색하고 분석하는 도구",
+      "title_ko": null,
+      "summary": "agentsview 소개 요즘은 한 명의 개발자가 Claude Code, Codex, Cursor, Gemini CLI 등 여러 코딩 에이전트를 번갈아 씁니다. 그런데 각 에이전트는 세션 기록을 제각기 다른 디렉토리에 흩어 놓기 때문에, \"지난주에 어떤 대화에서 이 코드를 고쳤더라\", \"이번 달 토큰 비용이 얼마였지\" 같은 질문에 답하기가 어렵습니다.",
+      "summary_ko": null,
+      "url": "https://discuss.pytorch.kr/t/agentsview-ai/10992",
       "source": "PyTorch Korea",
       "section": "💬 Community",
       "section_id": "community",
-      "published_at": "2026-07-01T08:31:00+09:00",
-      "popularity": 100,
+      "published_at": "2026-07-01T15:30:02+09:00",
+      "popularity": 96,
       "upvotes": 0,
-      "score": 22.89,
-      "importance_score": 19.78,
+      "score": 24.94,
+      "importance_score": 12.28,
       "matched_keywords": [
         "ai",
-        "claude"
+        "agent",
+        "claude",
+        "gemini"
       ],
       "engagement": null
     }
