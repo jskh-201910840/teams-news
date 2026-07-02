@@ -5,9 +5,63 @@
     <link>https://sukoji.github.io/teams-news/feed</link>
     <description>Latest 50 keyword-matched items from the growing archive.</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 02 Jul 2026 09:04:11 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 09:10:05 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>DevSpace: ChatGPT를 내 컴퓨터의 로컬 코드에 연결하는 자체 호스팅 MCP 서버</title>
+      <link>https://discuss.pytorch.kr/t/devspace-chatgpt-mcp/10994</link>
+      <description>DevSpace 소개 ChatGPT에게 코드를 다루게 하려면 보통 파일을 복사해 붙여넣거나 별도 서비스에 업로드해야 합니다. DevSpace는 이 과정을 뒤집어, ChatGPT가 내 컴퓨터의 실제 프로젝트를 직접 읽고 수정하고 실행하도록 안전하게 연결하는 자체 호스팅(self-hosted) MCP 서버입니다.</description>
+      <pubDate>Thu, 02 Jul 2026 08:30:56 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/devspace-chatgpt-mcp/10994">PyTorch Korea</source>
+      <guid isPermaLink="false">81958c01943999632b459df74d403b0e</guid>
+    </item>
+    <item>
+      <title>메타, 남는 AI 연산자원 외부에 판다…클라우드 사업 진출 검토</title>
+      <link>https://www.etnews.com/20260702000019</link>
+      <description>메타 플랫폼스가 자체 데이터센터의 남는 인공지능(AI) 연산 자원을 외부에 판매하는 클라우드 사업을 검토하고 있다. 블룸버그통신은 1일(현지시간) 복수의 소식통을 인용해 메타가 사내 프로젝트인 '메타 컴퓨트(Meta Compute)'를 통해 클라우드 사업 모델을 구상하고 있다고 보도했다.</description>
+      <pubDate>Thu, 02 Jul 2026 07:04:43 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260702000019">전자신문 IT</source>
+      <guid isPermaLink="false">bcee9d04d1fbbf41d952c8875f5f46ca</guid>
+    </item>
+    <item>
+      <title>팔란티어 CEO “오픈AI·앤트로픽 토큰 모델, 완전히 잘못됐다”</title>
+      <link>https://www.etnews.com/20260702000018</link>
+      <description>미국 데이터 분석 기업 팔란티어 테크놀로지스의 알렉스 카프 최고경영자(CEO)가 오픈AI와 앤트로픽 등 폐쇄형 인공지능(AI) 기업의 토큰 기반 사업 모델을 비판했다.</description>
+      <pubDate>Thu, 02 Jul 2026 07:00:25 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.etnews.com/20260702000018">전자신문 IT</source>
+      <guid isPermaLink="false">7d31aefc3fcec403191aaa7b3483b901</guid>
+    </item>
+    <item>
+      <title>구글 제미나이 '나노 바나나' 개인화 이미지 생성, 미국서 무료 개방</title>
+      <link>https://zdnet.co.kr/view/?no=20260702073802</link>
+      <description>[지디넷코리아]구글이 6월 30일(현지시간) 자사 이미지 생성 모델 '나노 바나나(Nano Banana)' 기반의 개인화 이미지 생성 기능을 미국 내 자격 요건을 충족한 제미나이 앱 사용자에게 무료로 개방했다. 그동안 유료 등급에서만 쓸 수 있던 기능을 일반 사용자로 확대한 것이다.개인화 이미지 생성은 사용자의 사진이나 취향을 반영해 맞춤형 이미지를 만들어 주는 고급 창작 도구다.</description>
+      <pubDate>Thu, 02 Jul 2026 07:38:02 +0900</pubDate>
+      <category>news</category>
+      <source url="https://zdnet.co.kr/view/?no=20260702073802">ZDNet Korea</source>
+      <guid isPermaLink="false">62582cab5c58a5bfc8e833bb1486bb71</guid>
+    </item>
+    <item>
+      <title>[7월1일] "AI 시대 최대 리스크는 기술이 아닌 불평등"…다시 거론된 '엥겔스의 정체'</title>
+      <link>https://www.aitimes.com/news/articleView.html?idxno=212308</link>
+      <description>AI 시대의 최대 걸림돌은 컴퓨팅 성능이나 전력 부족이 아니라, AI가 만들어낼 불평등에 대한 사회적·정치적 반발이라는 분석이 나왔습니다.</description>
+      <pubDate>Thu, 02 Jul 2026 07:00:00 +0900</pubDate>
+      <category>news</category>
+      <source url="https://www.aitimes.com/news/articleView.html?idxno=212308">AI Times</source>
+      <guid isPermaLink="false">6fe28de6b54651e2f9c4c2ae354eb0b2</guid>
+    </item>
+    <item>
+      <title>Anthropic, 3주 만에 Claude Fable 5 전 세계 재배포, 美 수출통제 해제</title>
+      <link>https://news.hada.io/topic?id=31021</link>
+      <description>7월 1일(현지 시간) Anthropic이 미 정부 수출통제로 접근이 전면 중단됐던 Claude Fable 5를 전 세계에 재배포했다. 6월 30일 상무부가 통제를 해제하면서 출시 3일 만에 내려갔던 최상위 모델이 약 3주 만에 복귀했다. 타임라인: 6/9 Fable 5·Mythos 5 출시 → 6/12 수출통</description>
+      <pubDate>Thu, 02 Jul 2026 08:36:54 +0900</pubDate>
+      <category>news</category>
+      <source url="https://news.hada.io/topic?id=31021">GeekNews</source>
+      <guid isPermaLink="false">9112e8fb31b6ca1e7a96de7d66fd327c</guid>
+    </item>
     <item>
       <title>OpenAI, 사설 MCP 서버를 공개하지 않고 연결하는 Secure MCP Tunnel 공개</title>
       <link>https://discuss.pytorch.kr/t/openai-mcp-secure-mcp-tunnel/11016</link>
@@ -403,60 +457,6 @@
       <category>news</category>
       <source url="https://www.etnews.com/20260701000429">전자신문 IT</source>
       <guid isPermaLink="false">67c4838ddaef8f4de3253f48bf295c8b</guid>
-    </item>
-    <item>
-      <title>지역 AX 1조4131억원 투자…정부, 피지컬 AI '세계 1위 도약' 시동</title>
-      <link>https://www.etnews.com/20260701000425</link>
-      <description>정부가 민간과 협력해 안전·국방·돌봄·산업 등 국가 기반과 생활·업무 전반에 피지컬 인공지능(AI) 기술을 이식한다. 2030년까지 5년간 1조4131억원을 투입해 지역 AX(AI 전환) 지원을 통한 전국 균형 발전에 일조한다. 과학기술정보통신부는 1일 이같은 '피지컬 AI 핵심 경쟁력 확보 전략' 방향성을 발표했다.</description>
-      <pubDate>Wed, 01 Jul 2026 16:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260701000425">전자신문 IT</source>
-      <guid isPermaLink="false">f6716f3c9684c7217d0b7dd817caf221</guid>
-    </item>
-    <item>
-      <title>플랫폼 패싱하는 '에이전틱 커머스' 시대, 유통업계 생존 문법이 달라진다</title>
-      <link>https://www.etnews.com/20260701000423</link>
-      <description>인공지능(AI)이 상품 추천을 넘어 구매까지 유도하는 '에이전틱 커머스'가 확산하며 유통·플랫폼 업계에 '플랫폼 패싱' 극복이 화두가 됐다. AI가 포털·쇼핑몰을 대신하는 것에 맞서 네이버·카카오 등 플랫폼 업계는 자체 생태계 강화, 유통업계는 AI 네이티브 전략을 각각 추진한다. 플랫폼 진영은 주도권 지키기에 들어갔다.</description>
-      <pubDate>Wed, 01 Jul 2026 16:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260701000423">전자신문 IT</source>
-      <guid isPermaLink="false">03138df8e8ff65829401d297030a2e20</guid>
-    </item>
-    <item>
-      <title>'2026 ICT 넥스트 어워즈' 개최…AI·디지털 혁신 9개사에 부총리 표창</title>
-      <link>https://www.etnews.com/20260701000418</link>
-      <description>과학기술정보통신부와 한국방송통신전파진흥원(KCA)이 1일 서울 용산 로카우스에서 '2026 ICT 넥스트 어워즈'를 열고 정보통신기술(ICT) 기금사업 우수기업 50곳을 선정했다. 이날 행사는 ICT 주요 분야에서 탁월한 성과를 거둔 유망기업을 격려하고, 성공 사례를 산업계 전반에 공유하기 위한 취지로 마련됐다.</description>
-      <pubDate>Wed, 01 Jul 2026 16:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260701000418">전자신문 IT</source>
-      <guid isPermaLink="false">b45ea85595a2f4db36e7233c32182ccb</guid>
-    </item>
-    <item>
-      <title>MuSViT: 악보 표현을 위한 기초 비전 모델</title>
-      <link>https://huggingface.co/papers/2606.31811</link>
-      <description>MuSViT는 수백만 개의 악보 페이지에 대해 사전 훈련된 비전 변환기 기반 기반 모델로, 선형 프로빙과 기호 감지 작업 모두에서 악보 인식 및 기호 감지 작업에서 탁월한 성능을 보여줍니다.</description>
-      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
-      <category>papers</category>
-      <source url="https://huggingface.co/papers/2606.31811">Hugging Face Papers</source>
-      <guid isPermaLink="false">666b0958ebc00155651ebcdae1fc2487</guid>
-    </item>
-    <item>
-      <title>IT서비스 5사, 보안 투자 UP…AI 시대 보안 위협 대비한다</title>
-      <link>https://www.etnews.com/20260701000414</link>
-      <description>생성형 인공지능(AI) 확산으로 정보 유출과 지능형 해킹 위험이 커지면서 주요 정보기술(IT)서비스 기업이 보안 투자를 늘리고 있다. 주요 기업들의 정보보호 투자액은 3년 새 25% 늘어 전체 IT 투자 증가율(17.9%)을 웃돌았다. AI 보안 위협 등에 대비하기 위해 향후 보안 투자를 지속한다는 방침이다.</description>
-      <pubDate>Wed, 01 Jul 2026 16:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260701000414">전자신문 IT</source>
-      <guid isPermaLink="false">346d2e09d463bae5f1791136f55a6074</guid>
-    </item>
-    <item>
-      <title>복지부, 엔비디아 'B200' 기반 공공의료 AI 생태계 조성</title>
-      <link>https://www.etnews.com/20260701000364</link>
-      <description>보건복지부가 차세대 인공지능(AI) 인프라를 바탕으로 공공의료 AI 생태계 조성을 추진한다. 단순 하드웨어 확보를 넘어 자원 분배를 위한 핵심 소프트웨어 플랫폼을 공모하고 공공병원 AI 솔루션 활용에 대한 대가 지급체계를 마련해 민간 의료 AI 시장 활성화 마중물로 삼겠다는 구상이다.</description>
-      <pubDate>Wed, 01 Jul 2026 16:00:00 +0900</pubDate>
-      <category>news</category>
-      <source url="https://www.etnews.com/20260701000364">전자신문 IT</source>
-      <guid isPermaLink="false">da8495eb0ccb77321fe85f2de173c576</guid>
     </item>
   </channel>
 </rss>

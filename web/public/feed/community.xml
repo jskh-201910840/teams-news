@@ -5,9 +5,18 @@
     <link>https://sukoji.github.io/teams-news/feed/community.xml</link>
     <description>💬 Community — PyTorch Korea discussions</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 02 Jul 2026 09:04:11 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 09:10:05 +0900</lastBuildDate>
     <generator>teams-news/1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>DevSpace: ChatGPT를 내 컴퓨터의 로컬 코드에 연결하는 자체 호스팅 MCP 서버</title>
+      <link>https://discuss.pytorch.kr/t/devspace-chatgpt-mcp/10994</link>
+      <description>DevSpace 소개 ChatGPT에게 코드를 다루게 하려면 보통 파일을 복사해 붙여넣거나 별도 서비스에 업로드해야 합니다. DevSpace는 이 과정을 뒤집어, ChatGPT가 내 컴퓨터의 실제 프로젝트를 직접 읽고 수정하고 실행하도록 안전하게 연결하는 자체 호스팅(self-hosted) MCP 서버입니다.</description>
+      <pubDate>Thu, 02 Jul 2026 08:30:56 +0900</pubDate>
+      <category>community</category>
+      <source url="https://discuss.pytorch.kr/t/devspace-chatgpt-mcp/10994">PyTorch Korea</source>
+      <guid isPermaLink="false">81958c01943999632b459df74d403b0e</guid>
+    </item>
     <item>
       <title>OpenAI, 사설 MCP 서버를 공개하지 않고 연결하는 Secure MCP Tunnel 공개</title>
       <link>https://discuss.pytorch.kr/t/openai-mcp-secure-mcp-tunnel/11016</link>
@@ -448,15 +457,6 @@
       <category>community</category>
       <source url="https://discuss.pytorch.kr/t/1code-claude-code-codex/10811">PyTorch Korea</source>
       <guid isPermaLink="false">59a757e6bbd4c3a3249a708806695381</guid>
-    </item>
-    <item>
-      <title>Awesome Harness Engineering: AI 에이전트를 안정적으로 만드는 하네스 엔지니어링 자료 모음</title>
-      <link>https://discuss.pytorch.kr/t/awesome-harness-engineering-ai/10556</link>
-      <description>Awesome Harness Engineering 소개 Awesome Harness Engineering는 하네스 엔지니어링(harness engineering)에 관한 글, 플레이북, 벤치마크, 명세, 오픈소스 프로젝트를 한데 모은 큐레이션 목록입니다.</description>
-      <pubDate>Wed, 24 Jun 2026 14:30:48 +0900</pubDate>
-      <category>community</category>
-      <source url="https://discuss.pytorch.kr/t/awesome-harness-engineering-ai/10556">PyTorch Korea</source>
-      <guid isPermaLink="false">9def413cd16eeeb295f464713df1cb8a</guid>
     </item>
   </channel>
 </rss>
